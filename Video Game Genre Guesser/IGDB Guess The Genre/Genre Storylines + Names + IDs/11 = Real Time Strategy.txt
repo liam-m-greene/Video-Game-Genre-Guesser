@@ -1,0 +1,106 @@
+[
+  {
+    "id": 60360,
+    "genres": [
+      11
+    ],
+    "name": "Bad Eggs Online 2",
+    "storyline": "Bad Eggs Online 2 is a multiplayer game where you are put to the test against your opponent. This is a strategy game therefore you will have to carefully think through your tactics to beat your opponent. There are many different crazy weapons you can use, some more powerful than others. The most powerful weapons are in little quantities, so you’ll have to plan your use of them perfectly. Your aim is very important in this game, as it can make the difference between a win and a loss. You are playing against REAL people and are able to use the in-game chat to communicate. Enjoy bad eggs online 2 unblocked."
+  },
+  {
+    "id": 26738,
+    "genres": [
+      11
+    ],
+    "name": "Medieval Europe",
+    "storyline": "In this game you will enjoy a unique adventure and experience life in the European Dark Ages were conflict was rife, and the Pope and Church were very powerful and highly influential.\r\n\r\nAre you are ready to immerse yourself in this alluring world and choose your calling? You have the option to either become an enterprising merchant or a courageous commander or a far-sighted governor or better still you are the architect of your destiny.\r\n\r\nTravel to Europe in search of glory on the battlefields or devise dangerous plots in the diplomatic world in court; transport your precious merchandise to new and flourishing markets and increment your wealth; troops of mercenaries are ready to serve those who they can benefit most from; if you manage to accumulate enough possessions, become the owner of a significant and extensive estate, and serve thy Master, you might eventually be rewarded with an noble title.\r\n\r\nWho knows... One fine day you might also be remembered as The Magnificent One..."
+  },
+  {
+    "id": 130272,
+    "genres": [
+      11
+    ],
+    "name": "Red Sun Raiders",
+    "storyline": "Earth is long gone. The last humans inhabit the vast colony ship Tarian. Drawing power from the sun, Tarian stays in the middle of the sun\u0027s goldilocks zone. As planets enter the goldilocks zone, teams of clone workers are sent to exploit the planets minerals and grow food. \n \nNo one knows how long Tarian has been in space. Recorded history only extends a little over 300 years. Previous recorded history was destroyed when the Sun entered a galaxy wide magnetic storm lasting several years. Even the most highly shielded data repositories eventually succumbed to the pernicious magnetic radiation. All digital storage devices were wiped. Only Tarians navigation and control systems, positioned millions of kilometers inside the solid rock metorite shield, escaped the radiation. \n \nNow known as \"the Great Data Loss\", this event destroyed all knowledge of Tarians construction and operation. The autonomous AI control systems take care of all environmental control and navigation. Essentially the ship has been on autopilot since before anyone can remember. Nobody knows who built it or how to control it. \n \nThe Great Data Loss also destroyed the collected human records of art, culture, history and science. Apart from the patchy written records compiled in the wake of the Great Data Loss, only the sculptures remain."
+  },
+  {
+    "id": 21620,
+    "genres": [
+      11
+    ],
+    "name": "Tablemen",
+    "storyline": "The game is won by capturing your opponents fort. To do this you need units and to get units you need resources. To gain these valuable resources you need to capture and hold so called resourcepoints that are located throughout the battlefield. To capture a resourcepoint simply walk your units into it, eradicate all traces of the enemy and then it\u0027s yours. Usually there will be three to five resourcepoints on a map. When you have captured a resourcepoint it will start to produce resources for you. These resources are then spent on making more troops so that you can capture more resourcepoints or harder contest those you allready got. When you feel you have a sufficient army you march for the enemys base and win the game."
+  },
+  {
+    "id": 93354,
+    "genres": [
+      11
+    ],
+    "name": "Submarine Titans",
+    "storyline": "Submarine Titans is a Real-Time Strategy game developed by Ellipse Studios and published by Strategy First for the PC on August 9, 2000. It is the 22nd century, and a comet has struck Earth and poisoned the surface world, driving humanity beneath the waves."
+  },
+  {
+    "id": 36812,
+    "genres": [
+      11
+    ],
+    "name": "Card game 28",
+    "storyline": "http://45.34.14.226/PlaysoftApp/WebFormLoginPage.aspx"
+  },
+  {
+    "id": 14198,
+    "genres": [
+      11
+    ],
+    "name": "L.E.D. Wars",
+    "storyline": "In the 21st century, genetic research has made dramatic advances. The scientific community has mastered GPGCA (General Purpose Genetic Coding Algorithm). A catastrophic gene-reactor accident at the Agamemnon research facility altered the course of mankind\u0027s destiny. The accident released a gene sequence altering peptide, forcing the population to take a life-sustaining supplement called L.E.D. (Life Evolution Drug). Scarce resources for cultivating and refining L.E.D. pills from the rare L.E.D. plant brought in the L.E.D.Wars.\n\nCorporations and their private armed forces now roam the earth in search of L.E.D. Your goal is to conquer and control the entire world supply of L.E.D."
+  },
+  {
+    "id": 79984,
+    "genres": [
+      11
+    ],
+    "name": "Myth III: The Wolf Age",
+    "storyline": "Set one thousand years before the events of Myth: The Fallen Lords, Myth III: The Wolf Age tells the story of the warrior Connacht before he became known as The Balor (the main antagonist of Myth: The Fallen Lords). It recounts his ascension to war hero and emperor and his campaign against the supernatural warlord The Leveler."
+  },
+  {
+    "id": 36934,
+    "genres": [
+      11
+    ],
+    "name": "Omen: Flesh Metal \u0026 Magic",
+    "storyline": "The realm of Ula, a battlefield for 6 great Kingdoms, once was home to the Ulans. As their kingdoms grew, many leaders took to greed and corruption  to fulfill their thirst for power. War broke out, factions separated and became isolated as they slayed one another, creating more efficient means at eliminating the enemy. Out of the war came great users of magic and alchemy. Machines were created to house and harness this magic and as the war darkened, a solitary warlock sought to end the war. Creating the first Omen Gates, monsters spewed forth from the darkest corners of existence. The Sakura, demonic creatures of darkness, slayed hundreds of thousand. The war over, but an extermination began. Soon the Sakura overthrew their magical overlords, as the last kingdoms fell the few remaining leaders united. Congregating alchemists, mechanics, and magicians alike they forged new magical war machines. Magical walls and living forests to defeat the Sakura. Though considered a victory the Sakura were never removed. With the war never won, the Ulan united kingdom soon split.  \n \n\tThe Ulan kingdom remained in control of Beasts of war and powerful warlocks. The naturalists sought to defend, creating more living vegetation to defend them. The alchemists rummaged through the wreckage of the war piecing together contraptions capable of wielding magic. Those who sought purity and righteousness secluded themselves training pious Knights with powerful healing and protection magic. There were those who found that many of the departed were still with us, they tore into the Veil in search of truth but found only woe. These mages who delved into the Astral Plane became corrupt and vengeful as the spirits were around them. Eventually striking out at others with spectral warriors and reapers."
+  },
+  {
+    "id": 129816,
+    "genres": [
+      11
+    ],
+    "name": "Catty Battle",
+    "storyline": "Are you ready for a fun cat battle? \n \nA cat battle game where you can play together with your friends. \n \nHow To Play? \n \nGame starts with rolling the dice and player turns is decided by this dice roll. \n \nPlayer turns can be followed over the countdown counter. \n \nAll players should choose their move until the end of the count down. \n \nAll players can choose the square that in the specified area around them. \n \nAt the end of the count down all cats will jump to square that they have chosen. \n \nIf the square which your cat juped to occupied by another cat, your cat will move to the square which available around the other cat. \n \nAfter every move first cat who makes the move gets to make last move next turn. \n1. Move order: red, Black, Blue, Yellow \n2. Move order: Black, Blue, Yellow, Red \n3. Move order Blue, Yellow, Red, Black \n4. Move order Yellow, Red, Black, Blue. \n \nAfter the moves have ended whichever square cat had landed, whatever feature is available in that square takes effect according to their jumping order. \n \nAll cats start with hundred percent health. \n \nWhen all the moves ended all squares moves one square upward and count down starts over again. \n \nAll cats should choose where to jump until the end off count down; game continues like this until there is only one cat left. \n \nLast cat who is live gets to be the winner. \n \nYou can reach the descriptions of the features belonging to squares from the left hand side icons. \n \nFeatures in Areas \n \nHealth \nIncreases your health \nIt varies among: 10, 15, 20, 25, 30, 35, 40, 45 \n \nMine \nInflict damage itself. \nIt varies among : 10, 15, 20 \n \nNuke \nExplodes and it is effective all over. \nIt varies among : 40, 45, 50, 55, 60, 65, 70 \n \nShield \nProtects the cat from all the attacts. \nIt can varies among 1 or 2 turns \n \nAir Strike \nA bomber jet bombs random squares from left to right. It will not damage invisible cats. \nDamage it inflicts varies among : 30, 35, 40, 45, 50, 55, 60 \n \nFreeze \nMakes your cat randomly freeze one visible opponent so that opponets can not move one turn. If there is not any visible opponent it freezes itself. \n \nDrop Weight \nDrops weight on a random opponent \nIf there is not any visible opponent it drop weight itself. \nDamage it inflicts varies among: 10, 15, 20, 25, 30 \n \nInvisibility \nIt makes itself invisible. \nProtects against air strike, weight drop and freeze. \nIt can varies among 1, 2 or 3 turns \n \nBomb \nIt detonates bomb in 3 squared fields. \nDamage it inflicts varies among: 20, 25, 30 \n \nTrampoline \nThe jumping area doubles the selection area. \nIt can varies among 2, 3 or 4 turns \n \nLaser \nIt makes a horizontal and vertical laser shot. \nDamage it inflicts varies among : 20, 25, 30, 35, 40 \n \nTeleportation \nIt teleports itself to a random field."
+  },
+  {
+    "id": 24701,
+    "genres": [
+      11
+    ],
+    "name": "KKnD",
+    "storyline": "In the year 2079 conflicts arose between the major nations of Earth. A nuclear war resulted of this and the surface of the planet was destroyed. Some humans managed to burrow under the Earth\u0027s crust before the nukes obliterated the upper world, taking with them what they could salvage. They turned their attention to constructing machines to resurface. Those who survived the blasts yet lived above ground mutated, and dominated the Earth until the survivors broke through the Earth\u0027s surface and an armed conflict between the two groups erupted."
+  },
+  {
+    "id": 20785,
+    "genres": [
+      11
+    ],
+    "name": "Warhammer: Mark of Chaos - Battle March",
+    "storyline": "Two new races join the eternal fight between the forces of good and evil. One are the Dark Elves which are ruled by the Witch King. They come from far beyond the Great Ocean and left their home Naggaroth to pillage and raid among the other races. But the real goal of the Druchii is to return to the island of Ulthuan - birthplace of all the elves and current home of the High Elves. The second new race are the Orcs \u0026 Goblins who created a loose alliance under their stupid and violent leaders to aimlessly raid the other races. In their war-campaign, called the \"Waagh!-Offensive\", they have now entered the heart of the land and the old races need to defend themselves against these relentless hordes that only know one thing: War!"
+  },
+  {
+    "id": 24966,
+    "genres": [
+      11
+    ],
+    "name": "Don\u0027t Go Bang!",
+    "storyline": "In \"Don\u0027t Go Bang!\" for PC, every decision matters. The terrorist cell, Fraction, is unforgiving, and it\u0027s reflected in the game with permadeath and autosaves to make going back on decisions impossible. You\u0027ll have to make difficult choices every day as the Commander of the UOD - but remember your ultimate goal is to protect civilians and to prevent panic and terror.\n\nYou can\u0027t do it alone. Using your limited funds, you must continually recruit and manage your team of professional bomb disposal experts, teach them to grow their skills, and to monitor channels and the map for suspicious activity.\n\n\nHire Screen\nYour team can get injured, get mentally stressed or ill, they can act erratically with other team members, they can lose their skills over time, and most importantly they can save the city. But it\u0027s up to you to manage which one can happen at any given time. Your team must gather Intel which can prevent terror attacks on and around the city, and allow you to send yourself or your team out on missions to diffuse bombs or arrest suspicious individuals in order to eradicate  the terrorist cell, Fraction, from the city.\n\nWho Are Fraction?\n \n\nFraction is a terrorist cell whose base of operation is somewhere within the city you reside over. They are made up of teams of hackers, bomb makers, and general anarchists whom have all come to the conclusion that in order to resolve issues of inequality and overpopulation, a vast majority of the population must be eradicated in order for humanity to continue at a diminished rate.\n\nThey see no other alternative, and while they originally set out to disrupt the accumulation of wealth for the richest 1%, they have slowly changed their doctrine to encumber more extremist measures, killing indiscriminately in order to incite fear and ultimately reduce the population down to a fraction of what it once was.\n\nFinding Fraction and Their Threats:\n\nAs your team gather Intel, you\u0027ll be able to pinpoint locations of interest, such as where Fractions Members meet, where they assemble bombs, and most immediately pressing, where they have planted a bomb.\n\nA Single District of the Map\nThe map consists of many districts, each with their own attributes, landmarks, municipals buildings, functions, and classes. This determines whether or not they are likely to be under immediate threat by Fraction, as the terrorist cell adopts a different tactic every other week to disrupt your operations, and eliminate human life.\n\nFor instance, as Fraction was founded upon disrupting the lives of the socially elite, they may initially still target richer districts at first. However, their tactics have grown so indiscriminate over time, that no where is safe.\n\nStory Building:\n\nIn \"Don\u0027t Go Bang!\" concerned citizens and members of UOD will email you regularly about the state of the city, and the state of your management skills. This is the primary way you directly build relationships in the game, with each email having multiple responses to cater to your own style of management, and your own intentions for how your relationship develops with that person. There is no \"Just Good\" or \"Just Bad\" answer. We want to embrace the grey area of dealing with a complex and frightening scenario.\n\nEmail System\nAs you build relationships, the content of each email differs as every person remembers who you are and what you\u0027ve said. Choose to be unkind because you don\u0027t have the time, and it might come back to bite you later. Equally, be too soft and people might find it acceptable to walk all over you. Remember, YOU are in charge.\n\nUltimately, you are responsible for the protection of the city. As such, if you continue to fail on a regular basis, you will be petitioned to be replaced by the citizens of the city, as they work themselves into a panic and a frenzy. They will make life continually more difficult for you. If they succeed in having you removed from office, the game, and the city, is lost.\n\nDo not fail them. Do not fail your loved ones. Do not let Fraction win.\n\n\n\nCurrent Features: (In The Mobile Game)\n\nProcedural Bomb Generation\nWire Cutting Puzzle Variations (Cut All Yellow Wires, Cut Third Wires etc.)\nMultiple Tiers Per Bomb (Multiple Levels/Sections to each bomb.)\nPlanned Features: (For The PC Game)\n\nMassively improved visuals - We\u0027ll be able to hire an artist better than ourselves to give the games art a complete overhaul to capture the intensity of the situation, whilst still capturing the games dark humour moments too.\nPanic - The purpose of the game is to respond to terrorist threats, suspected/potential/otherwise. Failure to do so will result in increased panic in the city, and as this grows the citizens can petition to have your funds lowered, or to have you removed completely, resulting in Game Over.\nComplex Bomb Disposal - With the limitation of a single tap used in mobile games being lifted, we can make the bomb disposal process much more complex and interesting. This includes requiring certain tools to perform certain actions.\nRules/Instructions - The rules of bomb disposal will change depending on how quickly Fraction is improving their bomb making skills. It\u0027s upto your team to gather Intel to give you the new list of instructions as quickly as possible. E.g. You may be told to always cut the first red wire, and then one day that rules changes...\nFull Map - A huge interactive Map with different districts that have different functions for the city. As events/festivals/celebrations come up, the population density of an area may change, and you\u0027ll have to work harder to protect these areas.\nManage and Build your team - Hire people you trust and build them up to be the best they can be at bomb disposal. You cannot afford to use them sparingly, but be careful as once they\u0027re dead, they stay dead.\nConnection to the Citizens - You receive regular emails and communications from concerned or supportive citizens in the city regarding the recent events. You can make dialogue decisions on how well you should inform the public or build relationships with people. Be careful though, as you fail missions, those you care about can perish.\nShop - You are able to customise your office space that you work in, as well as buy new equipment for yourself and your crew.\nResearch - As Fraction grows, and their bomb making prowess increases, it’s your job to stay one step ahead, so you’d have to recruit avid researchers to provide you with the latest tools and equipment to deal with the threats.\nScanner/Send Investigation Team – As briefly mentioned, the map displays information about the city currently, but in order to find bombs there has to be a process to do so. You can do this by scanning for suspicious signals, or physically sending an investigation team (at your expense) to reconnoitre the area and report back if there are threats or potential threats.\n\n\nBreakdown of Funds for Don\u0027t Go Bang!\nPart of our commitment to being open and honest regarding everything about this endeavour means going over exactly where your pledges will be going towards. On our part, we\u0027ve designed the game for a long time, and came up with exactly what it is and could be back when it was a mobile game, and what it is now! \nAs such, you might be wondering while Design gets less of a cut than Art and Programming, but the truth is we did a lot of the Design work off our own funds, but it still needs Playtesting which comes under Design, and also various tweaks - a lot of the time a Programmer makes it work, but a Designer makes it feel right. Equally, while the Writing Budget is low, it\u0027s because this also comes under Design at times, so it\u0027s actually difficult to pinpoint.\n\n\n We\u0027ll be humbled immensely if we reach our goal of £20,000, but if the unimaginable were to happen and we go beyond that, we\u0027ve carefully selected a number of stretch goals to help make \"Don\u0027t Go Bang!\" an even better experience.\n\n\nStretch Goals for Don\u0027t Go Bang!\nEither way, we\u0027ll strive to make \"Don\u0027t Go Bang!\" an amazing experience, with incredible gameplay and an engaging, unforgettable story."
+  }
+]

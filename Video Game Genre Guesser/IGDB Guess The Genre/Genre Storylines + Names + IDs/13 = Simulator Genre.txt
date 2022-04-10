@@ -1,0 +1,482 @@
+
+  {
+    "id": 22907,
+    "genres": [
+      13
+    ],
+    "name": "Chocobo\u0027s Crystal Tower",
+    "storyline": "An evil wizard called Evilzard had summoned the Meteor of the Apocalypse, but a brave hero shattered the Meteor and save the world. The Meteor shards fell across the land, spawning an intricate network of towers and dungeons. Monsters crawled out of the towers, spreading fear. Many adventurers tried to destroy the monsters and the towers, but a black curse left by Evilzard before his death prevented them. \n \nOne day, a chocobo emerged from one of the towers, heavily wounded. It had ventured inside and vanquished the monsters within, because the tower was silent. This chocobo, Boco, was hailed as a national hero of Enisque, and since then, the kingdom of Enisque started a chocobo breeding program, sending chocobos into the tower one after another. The program was a success, and novice royal chocobo breeders have since come in droves to breed and train the chocobos to continue their quest to destroy the towers."
+  },
+  {
+    "id": 116894,
+    "genres": [
+      13
+    ],
+    "name": "Merge Chicken",
+    "storyline": "Merge, Evolve, Run! \nCollect all the Super Chickens, merge to collect, discover and evolve to maximize your idle profit! \n \nRun, Chicken, Run! Charge the eco power jet and double your earnings. \n \nThe time is NOW. Collect crazy chickens on the BEST idle game. \n \n- Unlock and upgrade CRAZY chickens. \n- DISCOVER chickens ever seen. \n- Play more to unlock insane POWER-UPs to increase your EARNINGS \n- Become QUINTILLIONAIRE! \n \nWill you unlock all the ULTIMATE crazy chickens tycoon ever seen before? \n \nHave fun! \n \nIt’s time to build, discover and grow your own Idle Super Chicken Empire!"
+  },
+  {
+    "id": 23505,
+    "genres": [
+      13
+    ],
+    "name": "4EVOLVE: Deep Stars",
+    "storyline": "The universe will never be the same. Global conflict in 2944 years caused the destruction of most planets. Particularly, those which naturally rich in oxygen. Its deficiency has forced all races to redefining its status quo. Artificial oxygen and sources of its production became the most expensive resource in the galaxy. Only a few could afford this way of survival. Many breeds became endangered. They started new alliances and new conflicts in the struggle for resources. Can you survive?"
+  },
+  {
+    "id": 21483,
+    "genres": [
+      13
+    ],
+    "name": "Brain Voyage",
+    "storyline": "There are five variants for each of the 16 puzzles. These include clones of Memory or Minesweeper as well as a poker/solitaire hybrid in which the player\u0027s dealt cards and then he must try to place them in a grid to make the best hands. Depending on his score the player then gets rewarded a bronze, silver or gold medal and some coins which can then be spend for access to new cities (and therefore new puzzles) or purchasing new difficulty levels for any already unlocked puzzle."
+  },
+  {
+    "id": 119238,
+    "genres": [
+      13
+    ],
+    "name": "Titan\u0027s Tower",
+    "storyline": "You’ve recently joined the Teen Titans, but you don’t know anyone! Talk to the ladies of the team, make friends, and maybe you can earn their trust! If jerking off in the friend zone isn’t your fetish, use your psychic powers to control them sexually!"
+  },
+  {
+    "id": 92306,
+    "genres": [
+      13
+    ],
+    "name": "Pokémon Breeder Mini",
+    "storyline": "After setting the time and choosing a name, Professor Birch tells the player that he found rare eggs. However, he is too busy to take care of them, so he gives the player a choice between a Torchic, a Treecko, or a Mudkip to hatch and raise. The player\u0027s first task is to place the egg into a basket and stroke it until it hatches. \n \nThe player interacts with the Pokémon using the D-pad to move a cursor around the interface. The player can pet, play with, and drag their Pokémon with this cursor. They can also interact with background objects such as a light switch and a drawer. \n \nUnlike standard virtual pet video games, the player\u0027s goal in Pokémon Breeder mini is not to keep the Pokémon alive but rather to train it in three out of four different skill categories. The game allows the player to train their Pokémon by playing with it using various toys, feeding it Pokéblocks, and playing with it outside in various challenges."
+  },
+  {
+    "id": 1495,
+    "genres": [
+      13
+    ],
+    "name": "SimCity DS 2",
+    "storyline": "SimCity DS2 put special emphasise on themed cities, allowing for players to explore various historical themes in the construction of their city. This was intended to add a new dynamic to the popular SimCity franchise."
+  },
+  {
+    "id": 67166,
+    "genres": [
+      13
+    ],
+    "name": "3D SexVilla 2: Ever-Lust",
+    "storyline": "real-time breathtaking 3D hardcore virtual sex! More than Flash or passive video clips, 3D SexVilla 2 is a real-time adult only interactive 3D sex simulation role playing game. It\u0027s like actually being there and being part of the action! \n3D SexVilla is a stimulating virtual sex simulation, with tons of content, sexy models, hot locations, outrageous poses, cool outfits, and sex toys."
+  },
+  {
+    "id": 54549,
+    "genres": [
+      13
+    ],
+    "name": "Sonic X",
+    "storyline": "The game involves Sonic the Hedgehog and Christopher Thorndyke attempting to rescue their friends (Tails, Amy and Knuckles) from Dr. Eggman. The game has three levels (Station Square, Angel Island and Eggman\u0027s base), as well as three minigames."
+  },
+  {
+    "id": 45165,
+    "genres": [
+      13
+    ],
+    "name": "Barbie: Magic Hair Styler",
+    "storyline": "Players could cut and style Barbie, Kira, Christie, or Teresa\u0027s hair, as well as regrow hair with a specific lengthening tool. They could also apply makeup including eyeshadow, lipstick, blush or \"fake\" tattoos. Application of makeup is limited to appropriate areas for makeup and using offbeat colors can trigger a \"that looks weird\" response from the game. \n \nPlayers could also add jewelry and thematic accessories. At the end of the styling session players can be \"treated to a video of your model at her special event -- wearing the look you\u0027ve created for her.\" Accessories meant to go with a certain career are limited to nurse, fireman, gym coach, or construction worker."
+  },
+  {
+    "id": 85537,
+    "genres": [
+      13
+    ],
+    "name": "Intergalactic Galactic Dinosaur Banana",
+    "storyline": "In space, no one can hear you peel a banana."
+  },
+  {
+    "id": 116015,
+    "genres": [
+      13
+    ],
+    "name": "Farming Simulator 19: Anderson Group",
+    "storyline": "The DLC contains: \n- Anderson Group A700 – Mixer \n- Anderson Group A950 – Mixer \n- Anderson Group BioBaler WB-55 – Wood Baler \n- Anderson Group Bumper – BioBaler WB-55 attachment \n- Anderson Group HYBRID X XTRACTOR – Bale Wrapper (round and square bales) \n- Anderson Group IFX720 XTRACTOR – Bale Wrapper (round bales) \n- Anderson Group M160 – Log Loader \n- Anderson Group PRO-CHOP150 – Bale Processor (round bales/square bales) \n- Anderson Group RB580 – Bale Wrapper (round bales) \n- Anderson Group RBM2000 –Bale Mover (round bales) \n- Anderson Group RBMPRO 2000 – Silage Wrap Bale Mover (round bales) \n- Anderson Group STACKPRO7200 – Bale Stacker (square bales) \n- Anderson Group TSR3450 – Bale Mover (square bales)"
+  },
+  {
+    "id": 81214,
+    "genres": [
+      13
+    ],
+    "name": "Microshaft Winblows 98",
+    "storyline": "Microshaft Winblows 98 is a 1998 interactive comedy video game for Windows and the Classic Mac OS. It parodies the then-popular Windows 95 operating system, as well as Microsoft co-founder Bill Gates. Released by Palladium Interactive during the United States v. Microsoft Corp. case and at a time when Microsoft, Windows, and Gates were easy targets for jokes, the game offers a satirical take on this ripe subject matter."
+  },
+  {
+    "id": 67398,
+    "genres": [
+      13
+    ],
+    "name": "Party Designer",
+    "storyline": "Meet Mimi, a young girl with a natural talent for organizing great parties. Mimi wants to throw a series of parties for her friends and this time she\u0027ll need your help, as there is much to prepare. Choose the right decorations for every party and keep the guests happy by preparing their favorite snacks and drinks. See if you\u0027ve got what it takes to be a master Party Designer!"
+  },
+  {
+    "id": 110337,
+    "genres": [
+      13
+    ],
+    "name": "Little Friends: Dogs \u0026 Cats",
+    "storyline": "Choose from a variety of puppies and kittens to play with, feed, pet and dress up in an adorable simulation that’s fun for all ages. Get to know their personalities and feed them their favorite food! Play with them using their favorite new toy, or take your puppy out for walks and compete in the flying disc tournament. Dress them up in over 600 stylish accessories to make them look their best. Care for your new furry friend to develop a long-lasting friendship."
+  },
+  {
+    "id": 76616,
+    "genres": [
+      13
+    ],
+    "name": "Autobahn Police Simulator 2",
+    "storyline": "Your adventure begins right in the police station where colleagues are present, too. Over the course of the game you can further develop the station and gain access to new opportunities and missions this way. \n \nTake on varied, randomly selected missions, e.g. car chases at high speeds, careful escorts or accident securing and traffic checks. By successfully completing these operations you move up in rank."
+  },
+  {
+    "id": 28054,
+    "genres": [
+      13
+    ],
+    "name": "Creepy Clown Revenge",
+    "storyline": "Creepy clown is on the way to trample the 3D city and creating rampage by its strong attack in creepy clown games. This is the real nightmare for the citizens on this Halloween. In clown killing games you have to escape from this clown apocalypse! Now you can get in on the scary action from the safety of your own home. In killer clown games, frightened the city by smashing and destruction, also with your horrifying scream. Clown games scary were never been so thrill and terrorizing! In creepy clown games play as an enraged killer clown arisen from the depth of the earth. Become the scariest clown and fight against cops, civilians, create chaos, frightened children and become monster clown. Ultimate clown has arrived in the big city for realistic destruction and rampage in CREEPY CLOWN REVENGE!  \n  \nIn this killer creepy clown simulator and clown games scary you as a big clown chase and kill the people and creating chaos by trampling the whole fantasy city. In gameplay of clown killing games smash and attack heavy vehicles, houses, buildings, even playgrounds, for ultimate destruction to earn scores in 15 levels. By earning maximum scores you can unlock the different killer clown costumes. You have to be aware of loaded police men or not to track by the armed guardsmen they have shoot at sight orders in creepy clown games with the twist of killer clown game simulator. So are you ready to attack with your creepy clown?   \n  \nFEATURES OF CREEPY CLOWN REVENGE:  \n  \n•15 thrill \u0026 action packed Killer missions with CLOWN games.   \n• Realistic 3D fantasy city destruction and killing.  \n• Scary clown games animations with urban city environment.   \n• Multiple clown textures and scary costumes available.   \n• Vibrant gameplay and awesome 3D graphics in killer clown game.   \n  \n  \n  \nMas 3D Studio is expert for delivering top notch simulation games. Don’t hesitate to reach us out for ratings, feedback or suggestions."
+  },
+  {
+    "id": 115226,
+    "genres": [
+      13
+    ],
+    "name": "Bakery Simulator",
+    "storyline": "The fun begins with choosing a place to rent for your bakery. Then we have to take care of the most important equipment of our business, such as the oven and fermentation chamber, shelves or tools. There is nothing else left for us to do but to proceed with the execution of orders, which are gradually beginning to arrive to us from nearby shops and restaurants. This requires you to choose the ingredients yourself, beat and form the dough and finally put it in the properly heated oven for a certain amount of time; in addition, our shoulders are responsible for manually loading the goods into the truck and delivering it to our customers on time."
+  },
+  {
+    "id": 37289,
+    "genres": [
+      13
+    ],
+    "name": "Beyond Pearl Harbor: Pacific Warriors",
+    "storyline": "In the days following the surprise attack on Pearl Harbor, the US Navy mobilized it\u0027s entire fleet to deliver a definitive response to Japan\u0027s treacherous and brutal bombing. They met the enemy in a new battleground - the expanses of the South Pacific. Join these heroes as a US fighter pilot and exact revenge for your slain comrades. Defeat Japanese Zeros in fast-paced dogfights, destroy gun embankments on the Mariana Islands, and down fully-loaded lumbering bombers bent on reaching US shores. Five white knuckled missions await - start as a P-40 fighter pilot and graduate to command the most advanced flying arsenal of the day. The balance of power in the Pacific rests in your hands. Will you control the skies Beyond Pearl Harbor?"
+  },
+  {
+    "id": 23080,
+    "genres": [
+      13
+    ],
+    "name": "Ship Simulator 2008",
+    "storyline": "Ship Simulator 2008 is a realistic simulation game that puts players at the helm of some of the most varied and detailed ships to be found at sea. Players will need to perform a multitude of tasks, all set within a realistic 3D environment, taking control of a wide array of ship types - from massive cargo ships and ferries, to speedboats, yachts, water taxis and even the mighty Titanic. \n \nDynamic ocean waves, with realistic ship motions \nLong distance travels , open ocean voyages between ports \nExtensive day, night, and weather systems \nSixteen ships, each with walkthrough functionality and interactive bridge controls \nThirty new complex and challenging missions \nFree roam mode, Mission editor and Multiplayer functionality"
+  },
+  {
+    "id": 128065,
+    "genres": [
+      13
+    ],
+    "name": "Model Railway Easily",
+    "storyline": "You can build highly detailed and functional model railway layouts in this game. \nYou can start with different empty terrain types and populate them with beautiful 3D models of engines, wagons, buildings, plants etc. \n \nCreating the track layout is very easy with the self explaining menus, which offer always only the possible actions during the use. The length of the track is practically unlimited. You can add as many switches as you want, only your fantasy limits the complexity. \n \nPut engines and wagons on the built track and just push them with your finger, and they start to move. They will travel the prepared track and stop automatically at the placed stations. If a train reaches and end of the track, it will stop, and move backward after a few seconds. \n \nAdd different houses, buildings, plants, roads to increase the reality of your layout, and enjoy the beautiful details of all 3D models."
+  },
+  {
+    "id": 2588,
+    "genres": [
+      13
+    ],
+    "name": "Wing Commander III: Heart of the Tiger",
+    "storyline": "The protagonist of the previous two games is officially assigned a name, Colonel Christopher Blair. Thrakhath nar Kiranka, Crown Prince of the hostile Kilrathi Empire, presides over the execution by disintegration of a group of Terran Confederation prisoners of war. One, however, is left alive: Blair\u0027s lover Colonel Jeannette \"Angel\" Devereaux, due to her status among the Kilrathi as a respected warrior. On the planet Vespus, Blair and Brigadier General James \"Paladin\" Taggart inspect the downed wreckage of the TCS Concordia. The carrier is a total loss.\n\nIt is the year 2669, and the Terran-Kilrathi War has been going for over thirty years, with no signs of stopping. Blair, by orders of Admiral Geoffrey Tolwyn, is transferred as Wing Commander to the TCS Victory, a Ranger-class carrier twice as old as Blair. Her captain, William Eisen, has been with her for many years, and is proud of his ship. There are a few old faces—Colonel Ralgha nar \"Hobbes\" Hhallas, and Major Todd \"Maniac\" Marshall—but all the other pilots and staff are people Blair has never met. Among those on board, Blair meets Lieutenant Robin \"Flint\" Peters and Chief Fighter Technician Rachel Coriolis.\n\nCast:\nMark Hamill as Col. Christopher \"Maverick\" Blair\nMalcolm McDowell as Admiral Tolwyn\nJohn Rhys-Davies as Thrakhath nar Kiranka (voice) and James \"Paladin\" Taggart\nJason Bernard as Capt. William Eisen\nTom Wilson as Maj. Todd \"Maniac\" Marshall\nGinger Lynn Allen as Rachel Coriolis"
+  },
+  {
+    "id": 83585,
+    "genres": [
+      13
+    ],
+    "name": "Car Parking Game 3D - Real City Driving School",
+    "storyline": "Car Parking Game is a 3D car parking simulator game in which your ultimate goal is to unlock all cars and complete all levels."
+  },
+  {
+    "id": 27259,
+    "genres": [
+      13
+    ],
+    "name": "Mystic Messenger",
+    "storyline": "In Mystic Messenger, the player takes the role of a female character whose name can be changed and has no default one. The female main character, who is often referred to as MC, heroine, or simply protagonist, downloaded a mysterious app that leads her into living in a closed, secured apartment owned by someone named Rika, who is also the founder of a charity organization known as the RFA (Rika\u0027s Fundraising Association). There, she meets 6 new people (the remaining members of the RFA) and is tasked to organize the third party that the RFA members have been longing for, by inviting guests. The protagonist is able to choose one out of 5 available love interests, each with their own route and backgrounds, as well as digging out the truth behind the RFA."
+  },
+  {
+    "id": 101414,
+    "genres": [
+      13
+    ],
+    "name": "Rooftop Freerunning- Leap! Leap!! Leap!!!",
+    "storyline": "Leap Leap Leap! is a fast paced endless running game where you leap from rooftop to rooftop in a computer simulated world. It is optimized for retina display with great visuals. It gives you a surreal feel with its Parallax Effect."
+  },
+  {
+    "id": 116538,
+    "genres": [
+      13
+    ],
+    "name": "Art of Horology",
+    "storyline": "The Art of Horology Project is a nonprofit curriculum created by Steven Richardson. His own professional journey naturally lead him into the role of educator and mentor, teaching crucial skills and principles of business management and operations. Funding this project will help to acquire more resources and tools to administer the curriculum, enabling students to design and make a watch in its entirety by hand."
+  },
+  {
+    "id": 24436,
+    "genres": [
+      13
+    ],
+    "name": "Computer Repair Simulator",
+    "storyline": "In Computer Repair simulator you play as a computer technician that owns a computer repair shop operating from his garage . He has to face numerous challenges! Is he going to succeed?"
+  },
+  {
+    "id": 10825,
+    "genres": [
+      13
+    ],
+    "name": "Ship Simulator Extremes: Cargo Vessel",
+    "storyline": "Take the helm of the vast general cargo freighter with the catchy name “Winner” as you embark on different missions hauling cargo between some of the biggest ports in the world. Cargo vessels are the mammoths of the seas, carrying millions of dollars in goods across the oceans. Maneuvering with a fortune in your cargo hold is a knowledge that comes with pressure. Skill and a cool nerve are required if you are to captain a vessel of this magnitude safely in and out of the harbor and across the ocean."
+  },
+  {
+    "id": 23002,
+    "genres": [
+      13
+    ],
+    "name": "Ship Simulator 2006",
+    "storyline": "Ship Simulator 2006 is the classic ship simulation game, in which you can steer various ships in different environments. Both the graphical quality of the ships and their dynamic behavior are completely realistic, making the game not only fun to play, but teaching you something about ships and ship handling as well. \n \nNavigational instruments \nCreate and play your own custom missions \nTest your skills in the built-in missions"
+  },
+  {
+    "id": 28199,
+    "genres": [
+      13
+    ],
+    "name": "Nature Walk Simulator",
+    "storyline": "Walking Simulator to sit back relax and enjoy the ambiance of the music and trails."
+  },
+  {
+    "id": 11303,
+    "genres": [
+      13
+    ],
+    "name": "Space Travel",
+    "storyline": "Space Travel is a spaceflight simulation video game, presented in a two-dimensional top-down view, with monochrome graphics consisting of white lines on a black background. In it, the player controls a spaceship as it flies through a representation of the solar system. The game has no specific objectives, other than to attempt to land on the various planets and moons of the system. The planets and most of the moons in the solar system are represented to scale both in size and distance from each other, though the orbits are simplified to be circles. To land on a body, the player\u0027s ship must cross the line representing the surface while moving at a low enough speed. The player is able to control the ship to go forwards and backwards and turn. The ship moves at a constant level of acceleration relative to the scale of the screen, which the player can control; scaling the screen up high enough allows the player to travel across the solar system in seconds, though they risk overshooting their target and becoming unable to find the solar system again, and scaling down allows the player to be moving slowly enough to land. The ship is always in the center of the screen, facing the top; turning the ship right or left therefore rotates the solar system around the ship instead. Each planet or moon has a mass, and therefore a gravitational pull, though they do not affect one another and only the single strongest pull affects the player\u0027s ship. This sometimes results in odd behavior; for example, the gravitational effect of Mars is much stronger than that of its moon Phobos. This means that a player attempting to land on Phobos needs to allow the ship to fall below the moon\u0027s surface until it is close enough to Phobos\u0027s center that Phobos\u0027s pull becomes the dominant force, at which point the ship snaps back to be landed on the surface. The name of the planet or moon with the current strongest pull is displayed on the screen. Players are able to edit the program to change the conditions; popular variations by the original players were increasing the gravity level and thus the difficulty, or an adjustment to the coordinate display system so that, rather than the ship staying in the center of the screen and the planets moving relative to it, the current dominant planet would always be at the bottom of the screen, with the ship moving relative to it."
+  },
+  {
+    "id": 64876,
+    "genres": [
+      13
+    ],
+    "name": "Let\u0027s Create! Pottery",
+    "storyline": "Become a true artist and create \"one of a kind\" pottery items and share them with your friends! Throw the clay on the wheel, release all your artistic talents and take benefit of dozens of materials available in order to create your own design! Even when you glaze and fire your very first pot you will feel accomplished and relaxed as pottery is the best way to relieve your everyday stress and find your inner peace. An amazing, therapeutic and uplifting experience you can enjoy with your family and friends!"
+  },
+  {
+    "id": 111439,
+    "genres": [
+      13
+    ],
+    "name": "Night Terrors: Bloody Mary",
+    "storyline": "\"She was unwanted at birth. The daughter of a brutal King who appointed himself atop a religion and slashed his way through six queens in search of a male heir. \n \nThrough the betrayals and murders, Mary Tudor would rise above all others vying for the crown to become England’s first Queen regnant. She answered to no man; she ruled alone. \n \nBut the scars of her empty childhood endured and tyranny of her reign matched her father’s. As did her obsessions. \n \nHer desperation for a male heir would give her two phantom pregnancies but no child. And her quest for a purified religion of England would lead to hundreds dead by her command. \nIt was this bloodshed that would earn her the moniker that would last forever. \n \nThey called her… \n \nBloody Mary.\""
+  },
+  {
+    "id": 39245,
+    "genres": [
+      13
+    ],
+    "name": "Star Wars: Tiny Death Star",
+    "storyline": "Amidst a civil war in a galaxy far, far away, the Emperor is building a Death Star level by level, and he needs your help. Intergalactic war is expensive, and space stations are, too. Do you have any idea how much it costs to build one the size of a moon? \n \nLive life on the dark side, and join Emperor Palpatine and Darth Vader on a mission to attract Galactic bitizens, run intergalactic businesses, and build an all-new Death Star! With that hard-earned money, fund the Empire’s evil schemes to defeat the Rebels and conquer the galaxy once and for all!"
+  },
+  {
+    "id": 19566,
+    "genres": [
+      13
+    ],
+    "name": "Hardwar: The Future Is Greedy",
+    "storyline": "Titan. An icy Moon in our solar system and full of forgotten mines, dug into the craters. They were big once, but corporations have abandoned them with workers and settlers, who are fighting for survival. Welcome to the gloomy city of Misplaced Optimism...\n\nClans have formed since then, and the political and military situation has evolved. These organisations plunder and slowly deplete the scarce resources that sustain them, permanently faced with the slightest opportunity to tilt the balance in their favour.\n\nBut the clans of today are no longer the major corporations of the past. Their lack of confidence has resulted in very specific ways, power remains under the control of a few rare elect. Centuries of inbreeding, frantic cloning, of genocide, sterilisation and other sordid genetic manipulations resulted in a race that looks far from the human species. After two centuries of isolation, the inhabitants of Titan have plunged into genetic and moral corruption. Nothing motivates them any more, but they have a common desire: leave this cold and hostile rock.\n\nThose who know how to fly still have a chance to escape by trading or by engaging in the fierce struggle for power, a result of the social tension constantly increasing. Information, thoughts, hunches and rumours are propagated in the city by Hardwarp FM, always on the lookout for fresh news. For many, this is the only way to keep from going crazy... but for others, it is an opportunity to earn even more..."
+  },
+  {
+    "id": 18913,
+    "genres": [
+      13
+    ],
+    "name": "Pancake Surprise!",
+    "storyline": "Pancake Surprise is a story that is set in Azaliea in the kingdom of Azaliea. The game surrounds Mira a lowly maid who works within the castle quarters of Azaliea Castle. Mira who has worked hard throughout her career as a maid in the castle has most recently been promoted to work under the Prince as his personal assistant. The Prince who governs Azaliea is known to his people as The Pancake Prince. The Prince has lost everything and everyone dear to him and is going through severe stages of depression. The Prince try\u0027s not to show it, but Mira can sense something is wrong and attempts to help the Prince in his time of need. Can Mira unlock the key to the Prince\u0027s heart? Or will she fail miserably and lose everything."
+  },
+  {
+    "id": 25143,
+    "genres": [
+      13
+    ],
+    "name": "Barbie and Her Sisters: Puppy Rescue",
+    "storyline": "Players will join Barbie and her sisters Skipper, Stacie and Chelsea, as they solve clues to find and rescue lost puppies in need. Each sister will bring her own unique set of skills and activities to the game. Players can groom puppies at Chelsea’s Pup Care, or teach them new games at the Pup Camp with Stacie, resulting in a game filled with opportunities where girls can rescue, nurture, groom and ultimately have fun with the playful puppies!"
+  },
+  {
+    "id": 31336,
+    "genres": [
+      13
+    ],
+    "name": "Spa Mania 2",
+    "storyline": "Jade`s line of spas have always been known for being the most relaxing, organic, and eco-friendly! Recently, however, her customers have started to complain, so Jade must travel across the country and check in on every one of her spas. Upgrade each spa to become more and more Green, and make sure each one of your customers is totally relaxed in this frantic Time Management game. Can you survive the Spa Mania?"
+  },
+  {
+    "id": 71851,
+    "genres": [
+      13
+    ],
+    "name": "Car Tycoon",
+    "storyline": "Car Tycoon is a manager game in which you are the owner of a car company that produces and sells cars. You start in the 1950\u0027s in a small town somewhere in the USA. You build a factory, a car shop and a repair facility (most of your money is gone by then) and start to produce cars. By selling them, you\u0027ll get money to invent new parts which will then power your new car models. There are up to 3 computer players which want to become rich, too."
+  },
+  {
+    "id": 8280,
+    "genres": [
+      13
+    ],
+    "name": "Colony Wars",
+    "storyline": "The Earth is fully stripped of natural resources by the fifth millennium. As a result, the Earth Empire sends out expeditionary sleeper ships to distant planets found to have abundant natural resources and harvest them. The discovery of hyperspace technology accelerates the Empire\u0027s interstellar expansion. As the colonies become more prosperous, the inhabitants bceome discontent as most of their mined resources are used to benefit Earth. A peaceful insurrection in the 47th century only results in the Earth Empire\u0027s leader, the Tzar, personally leading the destruction of a rebellious planet. Stunned by the carnage, the other colonies band together as the League of Free Worlds, with a man known as the Father leading the fight. \n \nThe Empire\u0027s Colonial Navy sends a fleet to attack League forces in the Gallonigher system, but the League executes hit-and-run strikes as they fall back to the main capital planet, Bennay. When the Navy overextends its forces for the assault on Bennay, the League lures them into a trap inside a nearby asteroid belt, where the Navy strike fleet is destroyed. \n \nThe game picks up several months after what is now known as the Battle of Bennay, when the player character signs up for combat duty with the League as it fully mobilizes for war. If the player succeeds in Gallonigher, the League will proceed to the Draco system. If the player is defeated in Gallonigher, the League will survive, but will retreat to resupply bases in the Diomedes system before launching an attack on Alpha Centauri. It is also possible to be sent to Alpha Centauri by performing poorly during the Draco campaign."
+  },
+  {
+    "id": 11230,
+    "genres": [
+      13
+    ],
+    "name": "StarLancer",
+    "storyline": "It is the year 2160. Mankind has colonized the solar system and two political entities have emerged: the Alliance consisting of American, Australian, French, Spanish, Italian, Japanese, British and German forces, and The Coalition of Russian, Chinese and Middle-Eastern interests. The game begins with a surprise attack on Fort Kennedy, where a peace treaty turns into a bloodbath: all of the inner four planets are overrun, including Terra herself, and the Italian and French fleets are utterly lost. The Alliance fleet regroups at Triton, Neptune\u0027s moon, and attempts to regain lost territory. The player takes the role of a rookie pilot in the international 45th Volunteers squadron, under the command of Captain Robert Foster and Wing Commander Maria Enriquez, aboard the re-commissioned British carrier ANS Reliant.\n\nAs with Wing Commander: Prophecy, the pilot\u0027s flying ability is the only meter by which success and failure is measured, though Starlancer does not feature as many branching mission paths. As in Wing Commander I the pilot may be promoted throughout the course of the campaign; unlike WCI, their rank determines which fighters and missiles they may choose to employ during each mission. The game provides a \"virtual carrier\" through which to navigate, including nearby crewmembers whose reaction to you depends on your current rank and standing. However, the true gem of the game lies in its textual and video news broadcasts, which keep the player informed as to the status of the rest of the war, which seems to be progressing just over the horizon. Players frequently find themselves flying alongside squadrons and pilots they have heard about on the news just recently, providing a dose of \u0027celebrity exposure\u0027 and also increasing the sensation that they are just one part of a much larger war effort.\n\nStarlancer\u0027s story is continued in Chris Roberts\u0027 Freelancer project, though the two belong to different subgenres (the first is purely focused on action, the latter also features trading and the player can freely move through the game\u0027s universe when they are not on a mission.)"
+  },
+  {
+    "id": 9565,
+    "genres": [
+      13
+    ],
+    "name": "Lion",
+    "storyline": "Lion does not posses a specific storyline or questing system, as it plays like an open world sandbox."
+  },
+  {
+    "id": 79687,
+    "genres": [
+      13
+    ],
+    "name": "Warhawk",
+    "storyline": "The plot of the game centers around a megalomaniac named Kreel who has become a global threat and is threatening various nations with his seemingly unstoppable armies. Players take the role of two pilots named \u0027Hatch\u0027 and \u0027Walker\u0027, who are part of an international force devoted to fighting Kreel and his varied minions. As the campaign progresses, the source of Kreel\u0027s power is revealed to be Red Mercury, which provides his forces with their nigh-invulnerability. The game has various endings depending on what actions the player takes."
+  },
+  {
+    "id": 109636,
+    "genres": [
+      13
+    ],
+    "name": "Video Strip Poker HD",
+    "storyline": "Strip poker with sexy girls in HD. Classic five card draw poker with girls who undress their clothes when you win. High definition interactive video you can play in fullscreen or in a window with game save feature. No real gambling, just for fun."
+  },
+  {
+    "id": 96021,
+    "genres": [
+      13
+    ],
+    "name": "Art Strip Poker",
+    "storyline": "Interactive HD video card game for PC with body painted female models. The game has an easy, intuitive player interface and stars 6 beautifully dressed girls wearing several layers of masterly artistic and highly realistic body art painted clothes."
+  },
+  {
+    "id": 119379,
+    "genres": [
+      13
+    ],
+    "name": "American Truck Simulator: Forest Machinery",
+    "storyline": "Their unique jobs demands specialised trailers and accessories. These exclusive cargoes can be found within \"woodworking\" state territories like Oregon and Washington, but are also a part of the in-game economy across the USA. We did not forget to add something stylish for your cabin interior too!"
+  },
+  {
+    "id": 109462,
+    "genres": [
+      13
+    ],
+    "name": "Animal Crossing: New Horizons",
+    "storyline": "If the hustle and bustle of modern life’s got you down, Tom Nook has a new business venture up his sleeve that he knows you’ll adore: the Nook Inc. Deserted Island Getaway Package! Sure, you’ve crossed paths with colorful characters near and far. Had a grand time as one of the city folk. May’ve even turned over a new leaf and dedicated yourself to public service! But deep down, isn’t there a part of you that longs for…freedom? Then perhaps a long walk on the beach of a deserted island, where a rich wealth of untouched nature awaits, is just what the doctor ordered!"
+  },
+  {
+    "id": 22644,
+    "genres": [
+      13
+    ],
+    "name": "X-Plane",
+    "storyline": "NA"
+  },
+  {
+    "id": 27022,
+    "genres": [
+      13
+    ],
+    "name": "Mosquito Popper",
+    "storyline": "The main objective of our game is to prove the feasibility of using the concept of GWAP for the segmentation and labeling of massive amounts of 3D human body scan data. Accurate segmentation and labeling of 3D human body scan data is of paramount importance in many areas of research. The purpose of this game is to re-channel the efforts and the hours spent by game players to the collection of segmentation and labeling through gameplay, making the process more fun and utilizing these hours spent for entertainment in a purposeful manner."
+  },
+  {
+    "id": 924,
+    "genres": [
+      13
+    ],
+    "name": "Wing Commander",
+    "storyline": "The player takes the role of a nameless pilot aboard the TCS Tiger\u0027s Claw, a Bengal-class Strike Carrier. The player gets to name the pilot and choose his call sign. The pilot (known in-production to Origin personnel as \"Bluehair\", after his most notable feature) quickly rises through the ranks of the flight wing and (presuming the player performs ideally in the cockpit) eventually leads a strike on the Kilrathi High Command starbase in the Venice system. On the other hand, if the player does not perform optimally, missions become increasingly defensive in nature, and eventually the Claw is forced to retreat."
+  },
+  {
+    "id": 123963,
+    "genres": [
+      13
+    ],
+    "name": "Split or Steal",
+    "storyline": "Split or Steal is a light re-imagining of the Game Theory concept of The Prisoner\u0027s Dilemma. \n \nTwo players will be selected from a pool of online users, and are presented with a potential reward. The players are given a maximum of 2 minutes to speak with eachother – at which point, they can then choose to either share, or attempt to steal the reward. \n \nEarn an honest fortune, or steal your way to success - then spend your winnings on building a Headquarters to amplify your earnings in an idle/incremental-style fashion, running heists against those who wronged you, or just buying one of over 140 different cosmetics to show off in-game with. And, if you don\u0027t manage to alienate people by stealing from the entire planet, take advantage of the shared wealth and bonuses offered by joining an Organization!"
+  },
+  {
+    "id": 5505,
+    "genres": [
+      13
+    ],
+    "name": "Transport Tycoon",
+    "storyline": "The original Transport Tycoon was released on PC in 1994. Developed by Chris Sawyer, and coded in X86 Assembly language, it was among the first in the relatively new \u0027tycoon\u0027 genre of games - simulations of business empires that the player founded, grew and took full control of.\nTransport Tycoon saw the player running their transport empire from 1930 to 2030, with rail, road, sea and air transport available to help the player\u0027s expansion of their business. New technologies are introduced to the player at historically accurate times, and players could see first-hand how advancements changed the way their businesses were run.\nTransport Tycoon Deluxe was released in 1995, and featured new varieties of landscape and weather, new scenarios, more vehicles and allowed the player to run their company all the way from the year 1950 up to the year 2050.\nChris then moved on to the Rollercoaster Tycoon series of games, released between 1999 and 2006.\n2013 marks the return of the classic Transport Tycoon franchise, and this new release surely marks the beginning of a new era!"
+  },
+  {
+    "id": 24942,
+    "genres": [
+      13
+    ],
+    "name": "First Strike",
+    "storyline": "Why does humanity still maintain so many nuclear bombs to destroy mothership earth more than 10\u0027000 times? We have to solve this - Welcome to First Strike"
+  },
+  {
+    "id": 84754,
+    "genres": [
+      13
+    ],
+    "name": "Animal Hospital",
+    "storyline": "Rodents, birds, cats, dogs, horses become a real veterinarian and take care of your favorite animals! Dr. Robert\u0027s clinic is going through tough times and needs your talents to grow and expand. Exams, diagnoses and treatments, heal your patients and unlock new care centers to accommodate all patients with hair and feathers."
+  },
+  {
+    "id": 69497,
+    "genres": [
+      13
+    ],
+    "name": "A-Train Express",
+    "storyline": "During gameplay, you assume the role of a manager of a transportation company. The objective is to build and maintain networks of urban transportation and expanding the metropolis. Therefore, the player puts up stops, constructs railways, builds roads, and more. The game offers two new game modes – Map Construction Mode and Driving Mode. The first one consists in creating a map for a new metropolis, and in the second, the player drive cars, small boats, and – naturally – trains. There are over 200 models of them, including the bullet train Shinkansen. A-Train Express features tutorial videos for those less experienced."
+  },
+  {
+    "id": 40723,
+    "genres": [
+      13
+    ],
+    "name": "A Game of Concentration",
+    "storyline": "The game is played using a matrix of numbered panels, either 4 x 4 (for 16 panels) or 5 x 6 (for 30 panels). Using the keypad, players enter the number of the panels they wish to reveal. If the images behind the two panels match, the panels are removed and the player scores 1 or 2 points, depending on what difficulty the switch is set to, along with an extra turn. \n \nThe game has a total of eight variations, four each for each matrix size and four have wild cards. Each matrix can be played by either a single player or by two players taking turns; in single-player games, the player attempts to clear the matrix with as few incorrect matches as possible. Also, players can enable wild cards that will match any image on the board."
+  },
+  {
+    "id": 101863,
+    "genres": [
+      13
+    ],
+    "name": "RockerBox Tycoon",
+    "storyline": "Ever wondered what it would be like to mine gold in the hills of Yukon or brave the treacherous waters of Alaska in your rickety dredge? \nGrow your gold mining empire from scratch in this immersive and deceptively intricate incremental game. Fine tune your operations to maximise productivity and become the most successful gold miner in the known world!! Perhaps even the known universe!"
+  },
+  {
+    "id": 121758,
+    "genres": [
+      13
+    ],
+    "name": "Comanche",
+    "storyline": "After the Iran-US RQ170 incident, in which a UAV (unmanned aerial vehicle) was hacked and captured through cyberwarfare, the US army secretly revived the development of the RAH-66 helicopter program for special operations. The goal was to develop a highly maneuverable, highly advanced stealth war machine for impervious and mountainous terrain, that can deploy unhackable low-range drones to operate in high-risk environments. The program was a full success, and the Comanche special units seemed unstoppable in their missions. \n \nBut then the blueprints leaked through a whistleblower website, and so every group and power, who could afford it, built and modified the Comanche for their own purposes. A new era of helicopter warfare had begun."
+  },
+  {
+    "id": 124000,
+    "genres": [
+      13
+    ],
+    "name": "Table Manners",
+    "storyline": "Nice job, it\u0027s official - you\u0027re a catch: you’ve bagged yourself a date. A night of romance is yours to enjoy, if you play your cards right. \n \nYou don\u0027t get a second chance to make a first impression. You’ve booked the fanciest restaurant in town, put on your cleanest underwear, and your date looks totally unreal. But getting to the table is the easy part. Even the most perfect of evenings can quickly fall apart as you fight against Table Manner’s glorious physics. Before you know it, you’ll be putting out your third table fire with a half-finished glass of pinot grigio."
+  },
+  {
+    "id": 12596,
+    "genres": [
+      13
+    ],
+    "name": "Job Simulator: The 2050 Archives",
+    "storyline": "The year is 2050. \n \nRobots cook, clean, service, and rule organize the world with precision and speed. Human occupations are now memories of the past; long gone are the blue collar jobs that ran the old world. Humans raised in our perfect automated society must not forget their useless ancient ancestors and history. \n \nThis is why Job Bot was born. Job Bot created Job Simulator to teach humans what it is \u0027to job\u0027. All praise to Job Bot, for he is the keeper of human history."
+  }
+]

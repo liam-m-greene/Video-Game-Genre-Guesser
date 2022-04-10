@@ -1,0 +1,898 @@
+[
+  {
+    "id": 71214,
+    "genres": [
+      8
+    ],
+    "name": "First Samurai",
+    "storyline": "The Demon King descends from his mountain domain to you, the First Samurai and your master. Defenceless against the Demon\u0027s magic, you succumb to his powers, leaving the your Master to fight the Demon King alone. Your master falls in combat, dying. But, with his last breath, he summons the Wizard Mage. The Demon King fearing defeat, escapes to the future. Tormented, the young samurai seeks the teachings of the Wizard Mage in the ways of magic. Boiled with revenge and armed with a magical sword, the young samurai follows the Demon King into the future and the unknown..."
+  },
+  {
+    "id": 55238,
+    "genres": [
+      8
+    ],
+    "name": "JumpGuy",
+    "storyline": "In 2016 the britney and wittney twins invented the LazerMech-9000 was made for evil reasons after being made he bombed some jumpcitys no jump people were hurt so JumpGuy had to face the evil!"
+  },
+  {
+    "id": 106849,
+    "genres": [
+      8
+    ],
+    "name": "Tied Together",
+    "storyline": "You know the saying: a chain is as strong as the weakest link? Let’s find out who is trolling your team into the many spikes and lava streams. Exposed? Just kick him along with you!"
+  },
+  {
+    "id": 65765,
+    "genres": [
+      8
+    ],
+    "name": "Koumajou Densetsu: Scarlet Symphony",
+    "storyline": "Gensokyo is covered in a scarlet mist... Again. Reimu Hakurei sets out to the Scarlet Devil Mansion, since that was where the previous scarlet mist incident happened previously, to fix this problem. Along the way, she meets Marisa Kirisame, who joins Reimu, and Cirno, who attacks Reimu for making fun of her. Eventually, Cirno ends up joining Reimu\u0027s party due to unforeseen circumstances. \n \nOnce Reimu and her get to the Scarlet Devil\u0027s place, they find a great castle. Hong Meiling guards the gate to the castle. Reimu defeats her with relative ease. Reimu enters the castle, and runs into Sakuya Izayoi. Reimu asks where Remilia Scarlet is, and Sakuya says she is resting in her chambers. Sakuya then proceeds to \"take out the trash.\" Sakuya is defeated, but she warns that they are only reaching towards their death. As Reimu and the party move on, they meet Alice Margatroid, who is said to be there to play. Marisa doesn\u0027t believe this, as everyone knows Alice has no friends. They fight, and Alice loses. The three proceed to the arena part of the castle, and meet Suika Ibuki, who is there because she wanted to go somewhere other than the Hakurei Shrine for once. The party defeats Suika, and Suika says after this incident is solved, they should throw a party back at the shrine. \n \nIn the library, they meet Patchouli Knowledge, and defeat her. Reimu then proceeds up to the clock tower, where the moon begins to turn a scarlet color. On the top of the tower, they are intercepted by Sakuya once more. Sakuya is defeated again, but the heroines wonder what Remilia\u0027s plan is. Apparently, Sakuya does not know what Remilia is doing, and was only instructed to build the castle. Patchouli states that the last time Remilia was seen, she was looking through an ancient book. Reimu sees the potential dangers in this, and proceeds to the chamber. There, they are greeted by Remilia Scarlet. She says she was waiting for Reimu to show up. Remilia has built the castle, spread the scarlet mist, and lured Reimu and her party for her plan... \n \nTo excavate buried treasure. Remilia read in a book about a treasure that lies underneath a red castle, so she instructed her servants to build a red castle. She spread the scarlet mist because the treasure must be excavated during daytime, as she cannot work during daytime normally. She lured Reimu to the castle so they can help excavate the treasure. Before she follows up her plan, Reimu interrupts. She says the treasure is only a legend based on the \"Red Mountain Castle\" on Mt. Akagi, and the treasure doesn\u0027t exist. It\u0027s only a legend from the outside world. With the incident now solved, Reimu proceeds to leave. Just then, Remilia changes her plan, saying she lured them to the castle so they can fight under the scarlet moon. Reimu and Remilia battle. Remilia is defeated, but she orders Meiling, Patchouli, and Sakuya to attack them. After they are defeated once again, and Remilia once again fights Reimu. After much struggle, Reimu and her party is victorious. With the incident solved, they all have a party back in the Hakurei Shrine. \n \nA few days passed, and Reimu heads to the castle once again to ask why the castle hasn\u0027t been taken down. Along the way, she is attacked by Rumia. Reimu proceeds to the castle and asks questions, but Meiling refuse to answer. Sakuya says now isn\u0027t the time, as they are running across a problem. When she meets Patchouli, she states that it isn\u0027t Remilia\u0027s fault, but \"her.\" Reimu enters the basement of the castle, and she meets Flandre Scarlet, who is angry that once again she is ignored and everyone had a party without her. Flandre attacks Reimu out of spite. After a hard battle, Flandre is defeated, but the fighting has calmed her down."
+  },
+  {
+    "id": 76719,
+    "genres": [
+      8
+    ],
+    "name": "Splot",
+    "storyline": "You play as Splot, a one-eyed blue alien who has crash landed onto a strange planet along with his adversaries, the Hungry Blobs. Native Baby Birds are in danger of being eaten by the Blobs, and Splot sets out to rescue them."
+  },
+  {
+    "id": 78641,
+    "genres": [
+      8
+    ],
+    "name": "Chip \u0027N Dale Rescue Rangers: The Adventure in Nimnul\u0027s Castle",
+    "storyline": "The Rescue Rangers having to rescue their partner Monterey Jack, who is caught in a mousetrap in Professor Norton Nimnul\u0027s castle. To accomplish this, the chipmunks must infiltrate the mad scientist\u0027s abode while avoiding his mechanical guard dogs to collect parts so their friend Gadget can build a flying machine to reach him."
+  },
+  {
+    "id": 93967,
+    "genres": [
+      8
+    ],
+    "name": "Bob et Bobette: Les Dompteurs du Temps",
+    "storyline": "The criminal Crimson just escape from prison. Lambique disappear mysteriously after this terrible news. \nBob and Bobette investigate and reach the Professor\u0027s lab to find Lambique hat in the time machine. \nThey accept to travel the time to find Lambique."
+  },
+  {
+    "id": 51527,
+    "genres": [
+      8
+    ],
+    "name": "Ever Lasting Joy",
+    "storyline": "Ever Lasting Joy is a platformer game about a 12 year old girl named Heather who lives in a absolutely cute and adorable world that was created for her and her loved ones to live in. \n \nThe game focuses on difficult gameplay and a cute and deceptive design."
+  },
+  {
+    "id": 74977,
+    "genres": [
+      8
+    ],
+    "name": "ABC Hunt",
+    "storyline": "Learn the alphabet in a fun way! Collect all letters in the correct order. Suitable for children 3-7 years old!"
+  },
+  {
+    "id": 8118,
+    "genres": [
+      8
+    ],
+    "name": "Disney\u0027s Aladdin",
+    "storyline": "The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan\u0027s dungeon to the final confrontation in Grand Vizier Jafar\u0027s palace. The Sultan\u0027s guards and also animals of the desert want to hinder Aladdin in his way"
+  },
+  {
+    "id": 108702,
+    "genres": [
+      8
+    ],
+    "name": "Helm Knight 2",
+    "storyline": "Once again the crystals are in danger. This time it is the evil Black Knights and their horde of monsters. Help Helm Knight fight his way through the forces of evil and secure the crystals.Run, jump and avoid obstacles. Use portals to gain access to otherwise unreachable parts of the terrain. Fight enemies like snails, slimes, snakes, skeletons, flame shooting plants, ice monsters and the very formidable forces of the Black Knights, across 30 levels spanning 3 different locales - the Plains, the Desert, and the Snowy Mountains. Collect coins and purchase health and potion upgrades."
+  },
+  {
+    "id": 54592,
+    "genres": [
+      8
+    ],
+    "name": "Dreamland",
+    "storyline": "When a young girl is in a coma she has to explore here dreams to find a way out!"
+  },
+  {
+    "id": 6417,
+    "genres": [
+      8
+    ],
+    "name": "Garfield and His Nine Lives",
+    "storyline": "After eating another huge meal, Garfield is ready for a long nap with a full belly. As he falls asleep, he starts having some very strange dreams as a result of overeating right before his nap. Each dream is crazier than the last. The player\u0027s objective is to help Garfield through this nightmare adventure by guiding him safely through each of his nine lives."
+  },
+  {
+    "id": 129145,
+    "genres": [
+      8
+    ],
+    "name": "Sonic Color Contrast",
+    "storyline": "Sonic has been on some strange adventures, but none more strange than this one as one day Sonic returns to south island hoping to take a break from Dr. Eggman\u0027s shenanigans. \n \nUnfortunately today isn\u0027t his lucky day as Dr. Eggman has built a color extraction machine and using it drains all the color from south island even Sonic\u0027s blue quills aren\u0027t safe! \n \nHowever to avoid overloading the machine, Dr. Eggman has offloaded some of the color energy to monitors, once sonic catches wind of this, he sets out to restore color to all the Zones of South Island by busting them open or collecting the 7 emeralds."
+  },
+  {
+    "id": 25988,
+    "genres": [
+      8
+    ],
+    "name": "The Goonies",
+    "storyline": "The Goonies are a group of kids or youths. Everything starts with an unscrupulous property shark who wants to purchase the kids\u0027 housing complex and the parents lack the money that is needed to prevent the pending sequestration. \n \nIn the house of their leader Mikey the group makes an unusual discovery. They find a treasure map which is supposed to lead to the hideout of \"One-eyed Willie\", a pirate. \n \nMikey can convince his friends to go for a treasure hunt. This starts in an abandoned restaurant. The evil Fratellis have settled in there. So after all Goonies, except for Chunk who is supposed to call the police, have entered a system of catacombs through a manhole in the restaurant, the adventure really begins. So the kids do not only have to beware of mean traps and bats, but also of Mama Fratelli."
+  },
+  {
+    "id": 11145,
+    "genres": [
+      8
+    ],
+    "name": "Battle Kid: Fortress of Peril",
+    "storyline": "Mysterious shadowy figures speak of a \"supermech\" being built. A week later, Dr. Tina Byers, a scientist at Disch Corp, receives an alarming transmission from a long-abandoned place known as Fortress Il\u0027Akab (nicknamed the Fortress of Peril). A race of wizards once lived there and filled the place with traps and dangerous creatures. An unknown group has assumed command there and is developing a supermech weapon. Dr. Byers calls in Timmy to infiltrate the fortress and put a stop to the group\u0027s plans. Armed with a prototype battle suit and magic gloves, Timmy flies off in his ship and heads into the action."
+  },
+  {
+    "id": 7761,
+    "genres": [
+      8
+    ],
+    "name": "Attack of the Killer Tomatoes",
+    "storyline": "Chad Finletter goes on a journey to stop the evil Dr. Putrid T. Gangreen from unleashing his Doomsday Tomato. Chad must fight through hordes of mutant tomatoes alone, as all others are too afraid to help him."
+  },
+  {
+    "id": 108155,
+    "genres": [
+      8
+    ],
+    "name": "Umihara Kawase Fresh!",
+    "storyline": "Kawase is a wandering chef in the magical world of Michelana. This time she ended up in a remote town called “Kingness,” where she starts working for a hamburger restaurant called “Tadaima Tavern.” \n \nFor the time being, Umihara Kawase seems set on helping out Tadaima Tavern. Why? Because Kingness is the spitting image of a town that always appears in her dreams… \n \nThere are mysterious things for sure. But since talking about them might make people look at her funny, it seems like she will keep them to herself. \n \nWorld: The Surface \n \nThe area where Tadaima Tavern is located. All sorts of people live here. If you head to the sky, there are gates protected by guards."
+  },
+  {
+    "id": 48617,
+    "genres": [
+      8
+    ],
+    "name": "The Adventures of Dr. Franken",
+    "storyline": "The game features Franky, a Frankenstein\u0027s monster on a mission to collect the scattered body parts of his girlfriend."
+  },
+  {
+    "id": 50016,
+    "genres": [
+      8
+    ],
+    "name": "Walt Disney\u0027s Alice in Wonderland",
+    "storyline": "Take Alice on the adventure of her life in this side-scrolling action game based on the classic Disney animated movie. In this single-player adventure, you\u0027ll guide Alice through over 20 levels in a crazy world that defies imagination. In a gameplay twist right out of the movie, Alice will have to shrink herself or grow to accomplish some level goals. You\u0027ll run into many familiar faces from the vintage tale as well, including the one responsible for getting Alice into this whole mess, the White Rabbit. Brightly-colored graphics move the story along in expected Disney quality. With new things to do in each level and a secret around every corner, ALICE IN WONDERLAND will keep you in new adventures for a long time. When it\u0027s time to stop playing, you can count on the game\u0027s built-in battery backup to save your progress until next time."
+  },
+  {
+    "id": 49186,
+    "genres": [
+      8
+    ],
+    "name": "Disney\u0027s Kim Possible 3: Team Possible",
+    "storyline": "Kim returns to battle fiendish villains once again, but this time she\u0027s got help in the form of her klutzy partner, Ron Stoppable. Together the pair work as a team to take on Monkey Fist, Senior Senior Sr. and Jr., and of course, the ever-incompetent Dr. Drakken, as they try to work out who stole Kim\u0027s grandmother\u0027s photo album."
+  },
+  {
+    "id": 3308,
+    "genres": [
+      8
+    ],
+    "name": "Barbie",
+    "storyline": "Barbie takes place in a dream, where the title character travels through three different worlds to gather accessories prior to attending a ball, where she will meet Ken. Various boosts, such as dream-ups and glamor items will help Barbie on her way, as she avoids obstacles and prevents her \"Zs\" from dropping so that she can stay in the dream."
+  },
+  {
+    "id": 19612,
+    "genres": [
+      8
+    ],
+    "name": "Yo! Noid",
+    "storyline": "In Yo! Noid, Wild Slime-like creatures led by Mr. Green were running amuck around New York City as they cause havoc. The Mayor of the city decided to call the Noid to stop his evil duplicate who is causing all the trouble on the city to save everyone, and get his massive pizza reward."
+  },
+  {
+    "id": 42489,
+    "genres": [
+      8
+    ],
+    "name": "Mickey to Donald Magical Adventure 3",
+    "storyline": "While hiding in the attic from their uncle Donald Duck, Donald\u0027s triplet nephews Huey, Dewey and Louie, discover an old book. The book, which turns out to be magical, transports the triplets to Storybook land. In Storybook land Huey, Dewey and Louie are captured by King Pete, who plans to take over the real world. Mickey and Donald are told what happened by the fairy of Storybook land and therefore decides to enter the book in order to find the duckling brothers and stop the evil Pete once more."
+  },
+  {
+    "id": 18573,
+    "genres": [
+      8
+    ],
+    "name": "Super Seymour Saves The Plant",
+    "storyline": "This was the first of Seymour\u0027s pure arcade-style games. It was described as Seymour\u0027s first starring role in a film, and was a platform game, heavily based on the well-known game Bomb Jack."
+  },
+  {
+    "id": 3619,
+    "genres": [
+      8
+    ],
+    "name": "Toy Story 2: Buzz Lightyear to the Rescue",
+    "storyline": "The game\u0027s plot follows that of the film pretty closely and like the film begins with the kidnapping of Woody by evil collector Al McWhiggin outside of Andy\u0027s house. The game then follows Buzz Lightyear and his companions as they set out to rescue the captured cowboy as the traverse the nearby neighborhood, Al\u0027s Toy Barn, Al\u0027s penthouse and finally the airport terminal and tarmac at the film\u0027s end."
+  },
+  {
+    "id": 81487,
+    "genres": [
+      8
+    ],
+    "name": "Disney\u0027s Darkwing Duck",
+    "storyline": "The city of St. Canard is plagued by an unseen crime wave. The intelligence agency S.H.U.S.H. suspects that the shady organization F.O.W.L. and their valued operative Steelbeak are its causes. The caped superhero Darkwing has made quite some enemies in the criminal circles thanks to his past heroic deeds, and now the entire city has to pay for that. Naturally, the valiant duck is determined to travel through the dangerous streets of St. Canard, defeat his foes, and foil Steelbeak\u0027s plans."
+  },
+  {
+    "id": 104976,
+    "genres": [
+      8
+    ],
+    "name": "Asterix and Obelix XXL 3",
+    "storyline": "The year is 50 B.C. Gaul is entirely occupied by the Romans. Well, not entirely... One small village of indomitable Gauls still holds out against the invaders. And life is not easy for the Roman legionaries who garrison the fortified camps of Totorum, Aquarium, Laudanum and Compendium. \n \nPeace reigns in the small Armorican village, where the villagers go about their daily business. Our two heroes, Asterix and Obelix, hunt wild boar, the blacksmith and the fishmonger quarrel, and the village chief strolls around the village square atop his shield. \n \nOne day, the village druid, Getafix, receives a strange letter. It is from Avina Gandir, the high priestess of Thule! She warns the druid of a grave threat to his people and asks him to take a mysterious Menhir out of its hiding place... \n \nSet off on an exciting adventure and immerse yourself in the world of Asterix! Alone or in co-op, explore the lands of the Roman empire and unravel the mystery of the Crystal Menhir and its incredible powers!"
+  },
+  {
+    "id": 57622,
+    "genres": [
+      8
+    ],
+    "name": "Disney\u0027s Bonkers: Wax Up!",
+    "storyline": "Madame Who-Said has been coating famous Toons in wax to make statues for her Wax Museum, and the next victim will be Bonkers! Now he needs to stop her, free his pal Lucky and find the Toon Toaster to un-wax the Toons."
+  },
+  {
+    "id": 49275,
+    "genres": [
+      8
+    ],
+    "name": "Disney\u0027s Kim Possible: Revenge of Monkey Fist",
+    "storyline": "Kim Possible\u0027s buddy Ron Stoppable has been kidnapped by the evil ninja master, Monkey Fist! Help Kim battle her way through familiar foes such as Dr. Drakken, Shego, and of course, Monkey Fist, as you travel across the globe and search far and wide for Ron."
+  },
+  {
+    "id": 2443,
+    "genres": [
+      8
+    ],
+    "name": "Commander Keen in Goodbye, Galaxy!: Secret of the Oracle",
+    "storyline": "You are eight-year-old Billy Blaze, boy genius to your neighborhood. Commander Keen to the rest of the universe. It\u0027s time to grab your trusty pogo stick and neural stunner, climb into the cockpit of your homemade Megarocket and blast off for the Shadowlands. To prevent the obliteration of life as we know it, you\u0027ll have to battle your way past deadly hazards and devious creatures, or end up as space toast."
+  },
+  {
+    "id": 1963,
+    "genres": [
+      8
+    ],
+    "name": "Rayman",
+    "storyline": "The evil Mr. Dark steals the Great Protoon and defeats Betilla the Fairy. The Electoons are scattered around the world and Rayman must find them and defeat Mr. Dark. The Magician helps out Rayman during the journey by offering special minigames. Tings are collected for extra lives and new powers are earned, such as using Fists and The Helicopter."
+  },
+  {
+    "id": 8076,
+    "genres": [
+      8
+    ],
+    "name": "Speedy Gonzales in Los Gatos Banditos",
+    "storyline": "In a small Mexican village, all the mice were enjoying a fiesta until Los Gatos Bandidos, a group of cats, came and kidnapped them all. Only Slowpoke escaped and sent for his cousin, the fastest mouse in Mexico... Speedy Gonzales! Following the trail of the Bandidos, Speedy will enter each level and try to rescue as many mice as possible while chasing after cheese and avoiding natural hazards. Ariba! Ariba!"
+  },
+  {
+    "id": 22012,
+    "genres": [
+      8
+    ],
+    "name": "Rayman Advance",
+    "storyline": "When a villain known only as Mr. Dark appears, trouble brews in Rayman\u0027s world. Mr. Dark captures the Toons - source of light and Rayman\u0027s friends. With no more light, evil creatures begin to roam, making the world unsafe for everyone. Its up to you, as Rayman, to free your friends and put an end to Mr. Dark\u0027s dastardly schemes!"
+  },
+  {
+    "id": 74426,
+    "genres": [
+      8
+    ],
+    "name": "The Emperor\u0027s New Groove",
+    "storyline": "The game loosely follows the plot of the film, from which it also includes a number of video clips. Emperor Kuzco has been transformed into a llama by his evil advisor Yzma, who has subsequently taken over his throne. Kuzco befriends the peasant Pacha, and together they seek to confront Yzma and obtain an elixir that will return Kuzco to his human form."
+  },
+  {
+    "id": 7662,
+    "genres": [
+      8
+    ],
+    "name": "Daze Before Christmas",
+    "storyline": "Christmas is a time where people get together and give others presents and spend all day eating food. But there\u0027s only one problem this year. You see, while Santa was sleeping in his bed, the cold and evil snowman spooked all the elves away, and the Timekeeper has stolen Santa\u0027s plans from his house. There won\u0027t be any Christmas if Santa doesn\u0027t stop them."
+  },
+  {
+    "id": 131411,
+    "genres": [
+      8
+    ],
+    "name": "Core",
+    "storyline": "Core is an endless universe of games and worlds designed by a global community of creators. It\u0027s a radically accessible game construction kit, content exchange, and game-playing platform- all in one."
+  },
+  {
+    "id": 9052,
+    "genres": [
+      8
+    ],
+    "name": "Athena",
+    "storyline": "The princess Athena of the heavenly kingdom of Victory was bored of the monotonous life of the palace and goes to seek adventure, opening the door that is not supposed to be opened. She falls from the skies (losing her dress in the process) and enters the Fantasy World, controlled by Dante. Athena must defeat a number of beast-like warriors and dangers in order to eventually defeat Dante, free Fantasy World, and return to her own kingdom."
+  },
+  {
+    "id": 85033,
+    "genres": [
+      8
+    ],
+    "name": "Chubbins",
+    "storyline": "Bounce Your Way to Victory! \n \nGet ready for an adventure that delivers all the fun and intensity of classic platforming alongside all the smoothness and accessibility of modern gaming! \n \nGuide our plump bunny hero, Chubbins, safely through 40 memorable levels across 5 increasingly challenging worlds! The controls are super simple--just move left and right. Stay on your toes though! Chubbins never stops bouncing, keeping every situation dynamic and making for interesting gameplay scenarios. \n \nAfter conquering each world\u0027s unique boss battle, go back to perfect your route and reflexes and set new records in both Soft and Hard Modes, and master each level individually in Time Attack!"
+  },
+  {
+    "id": 106810,
+    "genres": [
+      8
+    ],
+    "name": "Release Me",
+    "storyline": "Control our round hero (a simple football really) and try to release the locked power cube(which is just a green colored cube) in a variety of stage settings and under a limited time."
+  },
+  {
+    "id": 2923,
+    "genres": [
+      8
+    ],
+    "name": "Donkey Kong Country: Tropical Freeze",
+    "storyline": "Help Donkey Kong and his friends save their home and banana hoard from marauding Vikings in the Donkey Kong Country™: Tropical Freeze game from Retro Studios. All the challenging ground-pounding, barrel-blasting, side-scrolling mine cart action from the Donkey Kong Country series is back along with a bushel of new game play elements and features."
+  },
+  {
+    "id": 115107,
+    "genres": [
+      8
+    ],
+    "name": "Miko\u0027s Adventures",
+    "storyline": "One day Miko was walking in the forest enjoying his free time when suddenly he found something that changed his life …"
+  },
+  {
+    "id": 109482,
+    "genres": [
+      8
+    ],
+    "name": "Intergalactic Gus",
+    "storyline": "Bounce around as a goofy guy from space who just wants to explore"
+  },
+  {
+    "id": 106273,
+    "genres": [
+      8
+    ],
+    "name": "Bamse",
+    "storyline": "The story goes, that Skalman has invented a time machine and together with Bamse and Lille Skutt they travel 75 million years back in time to the age of the dinosaurs. But the mischievous Vargen sneaks along and kidnaps Skalman to his \"doomed castle\". Bamse must now free his friend so they can get back to their own time again."
+  },
+  {
+    "id": 80970,
+    "genres": [
+      8
+    ],
+    "name": "Grandam Overdrive",
+    "storyline": "Happyland is a small village in Nowhere where people live together happily. The kids of the village go to Grandam’s house every day to learn things and play. But one night, the village is invaded by the wolves and all the kids are kidnapped. Hereby, Grandam gets really angry and goes to her hidden laboratory in order to save the kids with the tools she had invented herself.."
+  },
+  {
+    "id": 27903,
+    "genres": [
+      8
+    ],
+    "name": "Space runner",
+    "storyline": "Control ball running on a platform through infinite space"
+  },
+  {
+    "id": 28447,
+    "genres": [
+      8
+    ],
+    "name": "DARCADE",
+    "storyline": "Story: \n \nDARCADE is a project that has been in development since August 2016, it has been a solo project. It\u0027s a 3D-Platformer that has elements of horror. The story follows Frank Carter, a disgruntled married man who discovers a new arcade in his neighborhood that appears to have just popped up. Frank is then pulled into a dark world where one wrong step can lead to being trapped in there forever. The story unfolds in dark ways, revealing the twisted nature of DARCADE. However, with help from the human like A.I. in the game, he just might be able to find a way out of this hell. \n \nGameplay: \n \nThe game features a run, gun, and jump style, meant to take you back to the PS2 era of platform gaming with a fresh new look provided with the help of Unreal Engine 4. The challenges in each original level will have a different way of applying the mechanics provided. For the time being, gamepad is supported in-game, but not in the UI/menus, something which is intended to be fixed for the final release. The gameplay forces players to be careful about every step they take, as death traps are everywhere in the world of DARCADE. There are traps ranging from evil monsters to endless pits and beyond. Each level requires a different character be saved from a cage. These characters will provide you with different abilities which will help you navigate your way through DARCADE. A quest tab is available throughout the game to help you keep track of what to do next. Within the game, there are 8 unique missions that take place in 8 different worlds, so a new experience is guaranteed for each level. The Kickstarter button in the main menu will be changed for an options menu in the full release. \n \nDemo: \n \nThe demo included is the first level of the game, which is really meant to just introduce the world and some of the different mechanics that you\u0027ll be using throughout the game. \n \nDEMO LINK: \n \nhttps://mega.nz/#!l6xyQTIQ!1rO_fZsxskPVB4_44l8VUEPd7x0PgdH3iPhizR0qWEg \n \nPlease note that the demo version is a 64-Bit build. A 32-Bit version may be made available upon enough requests. \n \nMore about the game: \n \nThe game features 8 levels that are increasingly complex and challenging, culminating in a dramatic final level. The game uses Unreal Engine 4, which produces a fantastic final product and an overall smooth experience. The levels are all made to completion with 3D-Models, soundtracks, and challenges that can be found in beautiful environments that vary widely between level to level. The landscape and mechanics are constantly changing in D-ARCADE in an effort to be as eye-pleasing as possible.  \n \nhttps://www.kickstarter.com/projects/1118218286/darcade-pc-game-demo-available?ref\u003dnav_search"
+  },
+  {
+    "id": 25800,
+    "genres": [
+      8
+    ],
+    "name": "Daffy Duck: Fowl Play",
+    "storyline": "Daffy wants to become rich so he joins Bugs Bunny on a treasure hunt. The player controls Daffy and navigates him through 6 levels in total. He can use dynamite to take out enemies and obstacles. At the end of each level, Bugs must be faced in order to progress to the next one. A password system is used to save progress. A minigame is played after clearing a level."
+  },
+  {
+    "id": 18380,
+    "genres": [
+      8
+    ],
+    "name": "Pac-In-Time",
+    "storyline": "Everybody knows what/who Pac-Man is from his heyday in the \u002780s, but this time, we\u0027re getting a whole new adventure of our little eater. Guess his stomach is full, \u0027cause there\u0027s nothing much to eat here, only collecting points. This is much like some Indiana Jones adventure, only your little hero\u0027s Pac-Man instead of Harrison Ford. \n \nPac-in-time is the US release of Fury of the Furries. It\u0027s exactly the same game. Only the characters were changed: the not-so-known European Tinies (from the Skweek/Super Skweek/Tiny Skweeks/Brainies/Tinies games) were replaced by the widely known Pac-Man."
+  },
+  {
+    "id": 125154,
+    "genres": [
+      8
+    ],
+    "name": "Sonic Time Twisted",
+    "storyline": "Taking place in an alternate timeline, Sonic Time Twisted follows after the destruction of the Death Egg and the death of Dr. Robotnik. Metal Sonic returns from the Little Planet with a plan to resurrect his creator using ancient alien technology and takes charge of the Badniks to keep Sonic and co. at bay. Can Sonic, Tails and Knuckles collect the Chaos Emeralds and Time Stones to stop Metal Sonic before its too late?"
+  },
+  {
+    "id": 28459,
+    "genres": [
+      8
+    ],
+    "name": "The Greatest Hero",
+    "storyline": "Try to convince the master sword to came and fight by your side. Its the only way to save your kingdom. The darkness its too strong that\u0027s why you need a strongest ally. Became the greatest hero ever.     \n     \nFind the way to completed every challenge. Don\u0027t let the master sword challenges get you down. Don\u0027t give up and be the great hero of you kingdom. Be smart, be fast, be the most skillful person on the kingdom. Show to the master sword that you are the perfect one to fight by his side. The master sword don\u0027t let put out easy but remember you are the greatest hero. You are not only fighting for you. you are fighting for all your kingdom."
+  },
+  {
+    "id": 28959,
+    "genres": [
+      8
+    ],
+    "name": "Go Up Goat",
+    "storyline": "There is a goat that can\u0027t stop running. Nobody knows why. But for sure the goat needs help. If it collects all coins a gate will appear and the goat will enter the next level. Is there an end?"
+  },
+  {
+    "id": 100430,
+    "genres": [
+      8
+    ],
+    "name": "Funulous Caveman",
+    "storyline": "Explore an amusing caveman platformer with 100 thrilling levels and 7 different worlds full of adventures and dinosaurs where you overcome unique challenges to reach your dream island 🌴 ❕ \n \nEnjoy running 🐾 , jumping, diving ⚓ , swinging on vines, eating watermelons 🍉 and collecting coins 💰 ❕ \n \nBypass dangerous dinosaurs, alligators, savage fishes 🐡 , spikes and mysterious enemies 🗿 ❕ \n \nBounce on mammoths 🐘 , fountains 🐳 , trampoline-plants 🍀 and get thrown in the air by ballistic coconut trees 🌴 ❕ \n \nHave fun being a cool caveman having a wonderful adventure, riding dinosaurs, climbing giraffes and smashing fruits 🍍 ❕"
+  },
+  {
+    "id": 12203,
+    "genres": [
+      8
+    ],
+    "name": "Rick Dangerous 2",
+    "storyline": "At the end of Rick Dangerous 1, we learn that an alien invasion is imminent. As Rick Dangerous 2 starts, UFOs land in London. The image shift in the character of Rick Dangerous is evident from the start: The coat is nowhere to be found and the Indiana Jones-style hat from the previous episode is almost symbolically blown off by a laser beam coming from one of the spaceships in the introduction sequence. One UFO lands in Hyde Park, and Rick goes there to settle the score with the aliens."
+  },
+  {
+    "id": 49569,
+    "genres": [
+      8
+    ],
+    "name": "Futari wa Precure: Arienai! Yume no Kuni wa Daimeikyuu",
+    "storyline": "Elder from the Garden of Light has called Misumi Nagisa and Yukishiro Honoka over to tell them the Evil King has stolen the Power of Dreams from the Garden of Dreams. Since this is the source of people\u0027s dreams, it\u0027s essential to take it back to where it belongs right away. While the Power was being transported, an accident broke it into many pieces. The girls are tasked with getting these fragments, which take the shape of hearts, back from five different worlds."
+  },
+  {
+    "id": 27287,
+    "genres": [
+      8
+    ],
+    "name": "Xenoscape",
+    "storyline": "An alien has decided to escape a space station lab, a lab with a lot of hazards the alien needs to overcome."
+  },
+  {
+    "id": 36740,
+    "genres": [
+      8
+    ],
+    "name": "Musya",
+    "storyline": "Musya follows a pikeman (described as a spearman in the Japanese version and a pikeman in the English version) named Imoto (Jinrai (神雷) in the Japanese version), who must descend to the abyss to save Shizuka, a maiden. After Imoto survives a battle in which all other combatants perish, he travels to Tengumura Village, where he collapses. The mayor, Akagi (who is not named in the Japanese version), greets Imoto and tells him that Shizuka (しずか) needs to be rescued. Imoto heads into Tengumura Cavern (known in the Japanese version as Kihōshōnyūdō (鬼宝鍾乳洞))."
+  },
+  {
+    "id": 6433,
+    "genres": [
+      8
+    ],
+    "name": "Heart of Darkness",
+    "storyline": "The game follows Andy, a child who hates his abusive teacher, loves his dog Whiskey, and has nyctophobia (fear of darkness). One day, Andy and Whiskey head for the park. A solar eclipse occurs while they\u0027re there. During the eclipse, Whiskey is taken away by an unseen creature. Andy then rushes to his treehouse, where he keeps his inventions, and jumps inside a spaceship to find Whiskey. He takes off and finds himself in the Darklands, which is a portion of the Heart of Darkness. Inhabited by creatures of the night and ruled over by an evil sorcerer that\u0027s known as the Master of Darkness, the Darklands are extremely dangerous. Andy must find it in himself in order to rescue Whiskey and find a way home. \n \nAndy collides his spaceship into a winged shadow creature and crashes in a canyon on the outskirts of the Darklands. Here, his gun is eaten by a giant monster. Andy manages to escape into the swamps, only to run into more danger while unarmed. Meanwhile, the Master of Darkness is abusing his servant when a winged shadow arrives with a sack that has Whiskey in it. Angered by the mistake (the shadow was supposed to capture Andy), the Master of Darkness kills the shadow and takes his anger out on his servant by throwing him at a spiked wall. However, the monster that swallowed Andy\u0027s gun appears, accidentally saving the servant, and explains Andy being in the Darklands. The Master of Darkness then orders his minions to search the Darklands for him. \n \nDeep in the swamp, Andy saves a winged creature that\u0027s named Amigo that starts to carry him to his home island, but is dazed by a fireball that was thrown from a winged shadow and drops Andy into a lake. At the bottom of the lake, Andy comes across a magic rock that grants him the power to manipulate plants and destroy enemies. After resurfacing, Andy is rescued once again by Amigo, who takes Andy back to his home and introduces him to his people. Andy wins their approval by creating an apple tree for them. The Amigos then agree to hide Andy in their village, but the shadows attack and destroy the village when night falls. However, Andy manages to slip away. After reuniting with the Amigos, Andy witnesses an Amigo fall to the evil ground, and becomes a winged shadow within contact. Andy convinces the Amigos to obtain the magic rock\u0027s power and wage war on the Master of Darkness. \n \nWith their newfound powers the Amigos help Andy slip into the Master of Darkness\u0027s lair. While in there, Andy is captured and thrown into a cell with Whiskey, but manages to escape and free Whiskey. Meanwhile, the Master of Darkness\u0027s minions have found the magic rock and bring it to the Master, who destroys it, thus draining Andy and the Amigos\u0027 powers. Unarmed once again, Andy can only run from the shadows. While fleeing, he accidentally falls into a hole and lands on top of the giant monster, who promptly swallows Andy whole. However, he is able to escape by obtaining his gun from the monster\u0027s stomach and blasting him in half from within. He then encounters the servant and forces him to help defeat the Master of Darkness and find Whiskey. The servant tells Andy that the only way to defeat the Master of Darkness is to drop the completed magic rock into the dark portal. Andy then searches for the fragments of the rock in order to reform it. He manages to obtain all but one piece, which is laying on the bridge near the portal. While Andy is fighting his way to the bridge, the servant betrays Andy by kicking Whiskey into the portal. \n \nAfter fighting countless shadows and dodging several fire blasts that are thrown by the Master of Darkness, Andy makes it to the bridge and obtains the final piece. The Amigos then tie up the servant and lower the rock onto the bridge, crushing the servant in the process. Ignoring the Master of Darkness\u0027s claim that everyone will be killed if he does so, Andy connects the final piece of rock, which then falls into the portal, which begins destroying the castle and the platform that the Master of Darkness floats on. He then falls into the portal, but manages to take Andy with him. \n \nThey find themselves in the main area of the Heart of Darkness, where they battle. Andy wins the fight and then hears the sound of a door opening, only to see red eyes approaching. He prepares to strike, but lights come on from Andy\u0027s mother, revealing that the eyes are Whiskey, and they are in Andy\u0027s tree house...the whole thing was in Andy\u0027s imagination. Andy\u0027s mother calls them to dinner. After being kissed goodnight by his mother, Andy taunts Whiskey\u0027s fear of the dark a bit and then turns the nightlight off, revealing that he has conquered his fear of the dark thanks to his make-believe journey. The scene then shows the Amigos finding the wreckage of Andy\u0027s ship, with the servant also there tied up, being harassed, revealing that Andy\u0027s adventure was not imaginary."
+  },
+  {
+    "id": 70241,
+    "genres": [
+      8
+    ],
+    "name": "The Adventures of MicroMan",
+    "storyline": "MicroMan is the victim of a top-secret experiment that went terribly wrong. \n \nWearing a special weapons suit, Bob Jones voluntarily stepped into the Molecular Miniaturizer created by Dr. Schnapps. The doctor turned on the power and the miniaturization process began. \n \nAfter a few moments of blinding white light, Bob Jones was reduced to the size of a few microns. \n \nThe experiment seemed to be a success but the Molecular Miniaturizer suddenly started smoking and a few seconds later, exploded, killing all those in the lab, including Dr. Schnapps. \n \nBob Jones, now known as MicroMan, was never found after the explosion. \n \nHowever, since the Molecular Miniaturizer and its creator had both been destroyed, it didn\u0027t really matter – there was no hope to return MicroMan (formerly Bob Jones) to his original size. \n \nMicroMan now finds himself in a strange and hostile world where he is one of the smallest inhabitants. Now, his mission is personal: to explore and stay alive."
+  },
+  {
+    "id": 121238,
+    "genres": [
+      8
+    ],
+    "name": "Bowlbo",
+    "storyline": "One day a goofy boy named Bowlbo and his dog Bing Bing snuck out of his Mother\u0027s house and went outside to play, but they wondered in to the woods where they came across a scary evil and also very ugly Witch, whom stole the mutt away. Now Bowlbo must try and save his beloved pet."
+  },
+  {
+    "id": 3762,
+    "genres": [
+      8
+    ],
+    "name": "Ape Escape",
+    "storyline": "The doctors trustfull test apes have escaped and it\u0027s up to you to get out there and retrieve all of them."
+  },
+  {
+    "id": 36789,
+    "genres": [
+      8
+    ],
+    "name": "Valis: The Fantasm Soldier",
+    "storyline": "Yuko Asou is a schoolgirl in late 1980s Japan who is fated to protect three different realms – our own Earth, the land of spirits, and Vecanti, the Dream World – by wielding a mystical sword known as Valis. Demon lord Rogles extinguishes a light in Vecanti which functions as a source of power for those who live there, and in a desperate plea for salvation, its queen Valia reaches out for a brave soul who can help them in their time of despair. Yuko on Earth is the one who answers the call, being summoned by magical forces into Vecanti to liberate them from the evil of Rogles."
+  },
+  {
+    "id": 46517,
+    "genres": [
+      8
+    ],
+    "name": "V-Frogger",
+    "storyline": "The arcade game Frogger involved players guiding their frogs across a busy, several lane street, then maneuvering through a water area in the second area of the game, jumping on logs and the backs of turtles and crocodiles in order to reach and fill up the five frog home bays at the top of the screen. Various obstacles and enemies would kill the players\u0027 frogs upon contact, as well as if they were to run out of time before making it to a frog bay, hit a top wall, drown in water, or pass too far to the left or right edges of the screen. \n \nV-Frogger is a clone of the arcade original with some graphical changes and enhancements."
+  },
+  {
+    "id": 22744,
+    "genres": [
+      8
+    ],
+    "name": "Dynamite Headdy",
+    "storyline": "Headdy, the central protagonist of the game, arrives in North Town to find that the evil puppet King Dark Demon is in the midst of attacking the puppet town to select which of the peaceful toys should live and which should be converted into his evil minions. Headdy is captured and rejected by Dark Demon\u0027s forces, and is dropped into the dust cargo to be thrown into the incinerator. However, Headdy escapes the clutches of Dark Demon\u0027s minions and sets off to defeat the evil king. \n \nHowever, trouble is afoot. Not only is the puppet world filled with Dark Demon\u0027s minions, but to reach the evil overlord\u0027s castle, Headdy must defeat Dark Demon\u0027s Keymasters who serve as the king\u0027s elite guard. To make matters worse, Headdy is followed by Trouble Bruin, a puppet jealous of Headdy\u0027s success. Trouble Bruin wants to be the star instead of Headdy, and will stop at nothing to get rid of him."
+  },
+  {
+    "id": 36738,
+    "genres": [
+      8
+    ],
+    "name": "Ex-Mutants",
+    "storyline": "Ex-Mutants was a comic book series created by writer David Lawrence and artist Ron Lim along with editor David Campiti in 1986. It was later published in a revamped version by Malibu Comics. A videogame for the Sega Genesis based on the Malibu version was released. \nIn the Malibu version of Ex-Mutants, there were three males (Dillon, Ackroyd and Bud) and three females (Shannon, Piper and Tanya). These six were mutants who were gathered by Professor Kildare, a robotic-looking cyborg and turned into humans. Ackroyd and Shannon were the playable characters in the Sega Genesis game."
+  },
+  {
+    "id": 4489,
+    "genres": [
+      8
+    ],
+    "name": "Batman: Return of the Joker",
+    "storyline": "The story begins with the escape of the Joker from an insane asylum. As always, Joker attempts to corrupt Gotham City and put it into chaos. Batman, after defeating a number of different henchmen, must bring Joker to justice."
+  },
+  {
+    "id": 83850,
+    "genres": [
+      8
+    ],
+    "name": "Lost Ronin",
+    "storyline": "Lost Ronin captures the struggle and journey of a Young Samurai; a musical platformer. \n \nLost Ronin is designed to give you an intense and memorable experience. The game has 18 Handcrafted levels grouped into six worlds. \n \nEach world brings new gameplay mechanics and elements with unique sounds to enhance fun! Lost Ronin has built with depth in the mechanics. \n \nYou can choose to finish a level fast or take your time to master it!"
+  },
+  {
+    "id": 1067,
+    "genres": [
+      8
+    ],
+    "name": "Super Mario Bros. 2",
+    "storyline": "Mario has a dream of a staircase leading to a door to another world. A voice identifies the world as the dreamland of Subcon, and asks for Mario\u0027s help in defeating the villainous frog known as Wart, a tyrant who has cursed Subcon and its people. Mario suddenly awakes and decides to tell Luigi, Toad and Princess Peach, who all report experiencing the same dream. The group decides to go on a picnic, but upon arriving, they discover a cave with a long staircase. Through a door at the top, the group are transported to Subcon, revealing their dreams to have been real. After defeating Wart, the people of Subcon are freed and the group celebrates, but Mario suddenly awakes in his bed, unsure if the events that took place were real or just a dream."
+  },
+  {
+    "id": 7792,
+    "genres": [
+      8
+    ],
+    "name": "The Blues Brothers",
+    "storyline": "The object of the game is to evade police in order to make it to a blues concert. Player(s) can take control of either Jake or Elwood Blues. Each level is a variation on the jumping theme, with the characters finding a necessary attribute (e.g. a guitar) somewhere in the level. The sixth and final level ends on-stage."
+  },
+  {
+    "id": 7794,
+    "genres": [
+      8
+    ],
+    "name": "Bonk\u0027s Adventure",
+    "storyline": "Bonk, the title character, is a caveboy who battles various prehistoric creatures by \"bonking\" them with his large and invincible forehead. Bonk must rescue the Princess Za, who has been kidnapped by King Drool, the main villain of the game."
+  },
+  {
+    "id": 1967,
+    "genres": [
+      8
+    ],
+    "name": "Rayman: Hoodlums\u0027 Revenge",
+    "storyline": "After Rayman defeated the Hoodlums\u0027 leader, Andre, the Hoodlums decide do get revenge (hence the title), so they kidnap Rayman\u0027s best friend Globox. Rayman rescues Globox part-way through the game, and as the two of them find out more about the Hoodlums trying to clone Reflux, they decide to stop them for good this time."
+  },
+  {
+    "id": 27035,
+    "genres": [
+      8
+    ],
+    "name": "Candleman",
+    "storyline": "Despite the fact that it can only burn for 10 seconds, a little candle decides to walk into the darkness, on a journey to seek the light."
+  },
+  {
+    "id": 7749,
+    "genres": [
+      8
+    ],
+    "name": "Alfred Chicken",
+    "storyline": "Eggs have been disappearing in the wild and wacky town of Pecklesville. As the player watches in horror, giant eggs with eyes are snatched by an unseen kidnapper. Enter Alfred Chicken, who seeks to rescue the eggs while travelling through a series of bizarre levels full of balloons, telephones, cheese and other strange elements."
+  },
+  {
+    "id": 18536,
+    "genres": [
+      8
+    ],
+    "name": "Time Lord",
+    "storyline": "In the year 2999, Earth is under siege by aliens from the planet Drakkon. Using time travel technology, they have sent armies to four periods in human history, with the intention of altering history to make humankind easier to conquer in the present. The player assumes control of the \"Time Lord\", who has until January 1, 3000 AD to vanquish the enemy in the past, or else he will self-destruct along with the time machine."
+  },
+  {
+    "id": 18550,
+    "genres": [
+      8
+    ],
+    "name": "Mayhem in Monsterland",
+    "storyline": "An apprentice magician dinosaur living in Monsterland, Theo Saurus, made a mistake while practising a spell one day. He turned the lands Jellyland, Pipeland, Spottyland, Cherryland, and Rockland into sad places, void of color or life. Theo began living underground in a hidden cave to avoid the wrath of the other monsters until discovered one day by the hero of the story, Mayhem. Mayhem promised to bring Theo the necessary magic dust to transform Monsterland to its previous happy state."
+  },
+  {
+    "id": 10235,
+    "genres": [
+      8
+    ],
+    "name": "Chuckie Egg",
+    "storyline": "As Hen-House Harry, the player must collect the twelve eggs positioned in each level, before a countdown timer reaches zero. In addition there are piles of seed which may be collected to increase points and stop the countdown timer for a while, but will otherwise be eaten by hens that patrol the level, causing them to pause. If the player touches a hen or falls through a gap in the bottom of the level, he loses a life. Each level is made of solid platforms, ladders and occasionally lift platforms that constantly move upwards but upon leaving the top of the screen will reappear at the bottom. Hitting the top of the screen while on one of these lifts, however, will also cause the player to lose a life. \n \nEight levels are defined and are played initially under the watch of a giant caged duck. Upon completion of all eight the levels are played again without hens, but Harry is now pursued by the freed duck who is not affected by the positioning of platforms. A second completion of all eight levels yields a third play through with both hens and the duck. A fourth pass introduces additional hens. Finally, a fifth pass has the duck and additional hens moving at a greater speed. If the player completes all forty levels then they advance to \u0027level 41\u0027 which is in fact exactly the same as level 33. \n \nThe player starts with five lives, and an extra life is awarded every 10,000 points. The game features a turn-based multiplayer mode."
+  },
+  {
+    "id": 94445,
+    "genres": [
+      8
+    ],
+    "name": "Rascal",
+    "storyline": "Professor Casper Clockwise is in his lab making the final adjustments to his time travelling device, when suddenly someone creeps behind him. Meanwhile, his son Callum \"Rascal\" Clockwise is walking through a secret route under the house to get to his father\u0027s lab when suddenly the lights go out and an alarm sounds. Rascal rushes down to see the problem, but to his horror two aliens in spacecraft appear and chase him down the corridor. \n \nRascal finally makes it to his father\u0027s lab by going through the safe door entrance. He is shocked to find Chronon, the evil master of time, torturing his dad for unknown reasons, and holding him at gunpoint with another of his dad\u0027s inventions called the \"Bubble Gun\", but Chronon accidentally activates the controls for the time machine and he and the Professor are sucked into the time portal. The Bubble Gun manages to be released from the portal and lands at the feet of Rascal, who picks it up, vowing to save his dad. \n \nRascal chases the two through time, from the medieval Castle Hackalott, to the Aztec Temple at Chichimeca, to the lost city of Atlantis, to the Jolly Raider pirate ship and Dodgy City in the old West, travelling to each location\u0027s past and present forms and collecting the pieces of a Time Clock from both before fighting Chronon in each area\u0027s future. Afterwards Rascal travels to the Corridors of Time, Chronon\u0027s lair within the space-time continuum where, after defeating its guardians brought from each of the other time periods, he successfully defeats Chronon and rescues his dad. After escaping using another time portal, Rascal and his dad safely return home, leaving the portal to shatter and trap Chronon in interdimensional time forever."
+  },
+  {
+    "id": 129542,
+    "genres": [
+      8
+    ],
+    "name": "GRAND DAD",
+    "storyline": "Bootleg aliens are trying to take over the world, but one of them, Grand Dad, took issue with his fellow bootlegs\u0027 motives and seceded from the team. Now, he must fight against the very bootlegs he once served and stop their invasion before the world falls to their copyright-infringing terror!"
+  },
+  {
+    "id": 11726,
+    "genres": [
+      8
+    ],
+    "name": "Dark Ages",
+    "storyline": "The player controls the prince and heir to the land’s greatest kingdom (referred to as the Great Kingdom). When the prince was a child, Garth, a power hungry wizard of immense power and greed, killed his father and took the throne. Rather than kill the prince he sent him to be raised by peasants, but even Garth’s evil magic could not foresee his mistake, since the very peasant he delivered him to was once the Kingdom’s greatest hero, and as the prince grew he was taught the ways of a master fighter. One of the things he learned well was how to use magic as a weapon.\n\nIn the years after Garth’s conquest, the kingdom had fallen into ruin and despair, with no hope of returning to the times of happiness and prosperity. Garth ruled with an iron fist and terrorized the population with undead creatures.\n\nThe player\u0027s quest is to find Garth and rescue the Kingdom from the Dark Ages it’s trapped in. The difficult journey takes the player through badlands, castles, dungeons, caves, forests and finally to the Great Kingdom itself, with Garth’s army of undead creatures attacking at every turn.\n\nThe final episode ends with a confrontation between the prince and Garth. After killing Garth, the prince\u0027s destiny is fulfilled, having freed the kingdom from the Dark Ages of fear and tyranny. The prince assumes his rightful place as the peaceful King and Leader of the Kingdom. The Great Kingdom is once again free to prosper and grow without fear."
+  },
+  {
+    "id": 11125,
+    "genres": [
+      8
+    ],
+    "name": "Nosferatu",
+    "storyline": "The game follows the story of a young man named Kyle who has his girlfriend Erin sequestered with the vampire Nosferatu; he has the objective of obtaining their blood. Kyle then goes up to the castle where Nosferatu lurks with intent to rescue Erin, but getting there, he discovers that the huge place is full of traps and violent creatures.\nThe game starts with Kyle being trapped in the dungeon of the castle, the player must escape from there and walk through the castle until they reach the tower where Erin and Nosferatu are."
+  },
+  {
+    "id": 131844,
+    "genres": [
+      8
+    ],
+    "name": "Jumping jet",
+    "storyline": "the player is a mechanical engineer that while experimenting accidentally opened a portal to a alternate universe like earth but different so they pick up there jet just in case if they need it and enter the portal but what the player didn\u0027t know is when the player enters the portal there would be no way back"
+  },
+  {
+    "id": 27989,
+    "genres": [
+      8
+    ],
+    "name": "Mystic Defender",
+    "storyline": "Mystic Defender takes place in an alternate Japan fantasy setting in which the anarchistic sorcerer Zareth kidnaps a young woman named Alexandra. Zareth plans to use Alexandra as a sacrifice for the resurrecting of an ancient and evil god known as Zao. Not long after the kidnapping, Zareth\u0027s plan becomes apparent as Azuchi castle - the dwelling of Zao - rises from the waters. \n \nJoe Yamato, an experienced sorcerer, is called into action to save Alexandra and stop Zareth\u0027s plan to resurrect Zao by battling his way through the dark and bizarre disciples and demons of Zao."
+  },
+  {
+    "id": 36745,
+    "genres": [
+      8
+    ],
+    "name": "Kao the Kangaroo",
+    "storyline": "Kao is a young kangaroo living with his family in the jungle when they are one day captured by a ruthless hunter and his goons. It\u0027s up to Kao to drive the invaders from his home and save his family."
+  },
+  {
+    "id": 129595,
+    "genres": [
+      8
+    ],
+    "name": "A Nightmare on Elm Street",
+    "storyline": "The game takes place in the neighborhood of Elm Street and is played from a side-scrolling perspective. The game\u0027s environment is inhabited by hostile characters (such as zombies, cats, dogs, skeletons, bats and minotaurs) that will attack the player character. Being attacked a certain number of times will cause the player to lose a life. Because the game takes place around midnight, certain areas are initially locked off from the player and require a key to be collected for later access. Within the individual buildings, the player must collect the bones scattered throughout the level before being able to leave. When all the bones are collected, a boss battle with Freddy will commence. Defeating Freddy will both allow the player to exit the area and earn the player a key that allows access to a new area."
+  },
+  {
+    "id": 3074,
+    "genres": [
+      8
+    ],
+    "name": "The Great Giana Sisters",
+    "storyline": "Giana is suffering from a nightmare she has to travel through 32 levels filled with monsters. You are looking for your sister Maria who, after you defeated the final boss, wakes you up from your terrible dream."
+  },
+  {
+    "id": 19556,
+    "genres": [
+      8
+    ],
+    "name": "Sonic the Hedgehog: Triple Trouble",
+    "storyline": "While the evil genius Dr. Robotnik is testing the ultmate destructive weapon, one of his assistants makes a mistake causing his lab to explode and scattering five Chaos Emeralds across the planet Mobius."
+  },
+  {
+    "id": 78953,
+    "genres": [
+      8
+    ],
+    "name": "Yogho Yogho spel",
+    "storyline": "The player takes the role of a boy who likes the Dutch yoghurt drink Yogho Yogho. In every level the protagonist has to find one or more objects and bring them to someone or something. Bonus levels full of fruits can be played in between to help the player reach a higher score. Lives come in the form of dreams and hit points can be replenished by drinking a glass of Yogho. Locked doors can be unlocked with keys found around the map."
+  },
+  {
+    "id": 74425,
+    "genres": [
+      8
+    ],
+    "name": "The Emperor\u0027s New Groove",
+    "storyline": "The game loosely follows the plot of the film, from which it also includes a number of video clips. Emperor Kuzco has been transformed into a llama by his evil advisor Yzma, who has subsequently taken over his throne. Kuzco befriends the peasant Pacha, and together they seek to confront Yzma and obtain an elixir that will return Kuzco to his human form."
+  },
+  {
+    "id": 16035,
+    "genres": [
+      8
+    ],
+    "name": "Kid Chameleon",
+    "storyline": "The player, as Kid Chameleon, progresses through a series of levels, containing an array of deadly enemies and obstacles. Most levels contain a flag, which is the primary goal of each level, from which the player progresses to the next level. However, a number of teleporters throughout the game can warp the player not only to different places in the same level, but also to different levels, and sometimes to an entirely different path through the game. At the end of the game, Kid fights and defeats the final boss, Heady Metal. Kid Chameleon contains 103 levels, of which only about half are on the \"main path\" (traversing levels only by flags), and also counts 32 smaller unnamed levels, simply called \"Elsewhere\". Despite the game\u0027s considerable length, there was no password system or other method of saving the game (although re-releases in compilations and Virtual Console include their own save features). There are several bonuses that can be earned at the end of certain levels (in which the flag is touched), including beating a time limit, not getting hit and not collecting any prizes. \n \nAs Kid Chameleon moves through the game\u0027s levels, he gains access to masks that transform him into different characters. Each character has different special abilities and varying amounts of hit points. Collecting a mask that the player is already wearing will restore its health. The sheer amount of variety in gameplay due to the various characters is part of what gave Kid Chameleon such an addictive style; few levels repeated the same structure and they usually had specific strategies and characters to be beaten. In addition to the offensive abilities of each form, the Kid could also defeat enemies by jumping on them, although he may take damage from some enemies by doing so. Each form can also make use of Diamond Powers which require diamonds collected in the game to use, accessed by pressing A + Start. Players lose a life if Kid Chameleon loses all his hit points in human form, is crushed, falls into bottomless pits or lava or touches the drill wall which appears in certain levels, or if time runs out. Extra lives and continues can be found in the game, with additional lives awarded for every 50,000 points."
+  },
+  {
+    "id": 83576,
+    "genres": [
+      8
+    ],
+    "name": "REDDEN",
+    "storyline": "REDDEN is an action arcade game for iOS and Android. It is played in slow motion of the original speed of 0.1 times. The main characters of REDDEN are tools which are given to people indefinitely to fight and hunt in many other games. \n \nArrow, Kunai, Bullet… The way that each tool secretly helps the clumsy heroes is the concept of this game. The tools shot or thrown by heroes have to ride on the wind, break windows, remove obstacles and destroy their targets. \n \nREDDEN tells the tales of forgotten tools using their own voices. \nBecome an arrow, kunai, and bullet from across the centuries \nand turn common items into heroes of legend!"
+  },
+  {
+    "id": 129168,
+    "genres": [
+      8
+    ],
+    "name": "Metal Sonic Rebooted",
+    "storyline": "Dr.Robotnik has built an advanced army of badniks to search for the Chaos Emeralds, and it\u0027s up to Metal Sonic to find the emeralds before them by destroying everything in his way to show Robotnik he shouldn\u0027t be replaced."
+  },
+  {
+    "id": 4097,
+    "genres": [
+      8
+    ],
+    "name": "Tomba!",
+    "storyline": "Tomba! is set on a group of islands in the middle of an ocean which do not appear on any map. Formed with great provinces in the north and smaller islands in the south, the region is home to peaceful people who lived in tranquility for many years. The island was once a beautiful place, home to birds and plantations.\n\nThe protagonist is an energetic pink-haired youngster named Tomba (Tombi in Europe). One day, seven evil pigs appeared, and using their magical powers, they mutated the surroundings into a bizarre landscape. The underlings of The Evil Pigs, called the Koma Pigs, stole Tomba\u0027s grandfather\u0027s bracelet and a substantial amount of gold through a strange lust for it.\n\nTomba\u0027s quest is to fetch his bracelet, which requires trapping the Evil Pigs along the way. Trapping them involves finding the Evil Pig Bags, which are keys to entering each realm of each Evil Pig. He must also complete missions for other people to get items and the Evil Pig Bags. Some side-missions are purely for fun and irrelevant to the main storyline."
+  },
+  {
+    "id": 86236,
+    "genres": [
+      8
+    ],
+    "name": "Twin Robots: Ultimate Edition",
+    "storyline": "Watt and Volt are two twin robots, who have been forgotten by time and abandoned in an old robot factory. Marked as defective by mistake, if they wish to prove themselves as deserving a place in today’s world, they must pass a series of grueling tests. \n \nWatt and Volt will have their work cut out for them, but the good news is you might not have to go it alone as although both robots can be controlled at any moment due to swapping between them, co-op is fully supported, so as long as you have a friend to control the other robot, the only thing you’ll need to focus on, is what your own robot is doing."
+  },
+  {
+    "id": 43322,
+    "genres": [
+      8
+    ],
+    "name": "Sonic the Hedgehog Chaos",
+    "storyline": "The storyline to Sonic Chaos, like most Sonic stories, revolves around Dr. Robotnik and his quest for world domination via the mythical Chaos Emeralds. The Emeralds are the source of vitality for all living things, but they could be turned into nuclear bombs and laser weapons in the hands of the rotten Dr. Robotnik."
+  },
+  {
+    "id": 129540,
+    "genres": [
+      8
+    ],
+    "name": "Endless Forms Most Beautiful",
+    "storyline": "Play as Moebius or Pucky, rescue thousands of lost imps and return them to their natural habitat in unusual but not so distant places."
+  },
+  {
+    "id": 9036,
+    "genres": [
+      8
+    ],
+    "name": "Astyanax",
+    "storyline": "In the Arcade version, the plot is fairly typical-a battle is being waged between demons and people, and the people are not able to stand up to the demons. One day, a brave young man named Roche receives divine revelation from God and is granted a mythical Fire Axe. Roche embarks on a journey to the Castle of Algerine to defeat the evil demon overlord Argos and restore peace and happiness to the world. \n\nThe plot of the NES version is entirely different from the Arcade version. Astyanax is a 16-year old boy who attends Greenview High School. He has been having a recurring dream in which a young woman is calling his name. One day while on his way to class, Astyanax is transported to another dimension. He meets the fairy Cutie, who explains that he has been summoned to rescue the ruler of the kingdom Remilia, Princess Rosebud-who has been captured by the evil wizard Blackhorn. Armed with the legendary Fire Axe, Astyanax sets out on a journey to Blackhorn\u0027s lair to rescue Rosebud."
+  },
+  {
+    "id": 129402,
+    "genres": [
+      8
+    ],
+    "name": "Larax \u0026 Zaco",
+    "storyline": "An unconventional platform game. Besides collecting of bonuses, you must destroy \nbuildings and platforms in the playin by smartly placing bombs. You can use small, \nharmless bombs or mor ones (four types are available) and enjoy yourself watching huge constructions explode in thousands of small pieces. Double screen with two simultaneous players, Italian and English language available."
+  },
+  {
+    "id": 7704,
+    "genres": [
+      8
+    ],
+    "name": "ActRaiser 2",
+    "storyline": "From the wikia:\n\"Tanzra was cast down into the underworld following his defeat in ActRaiser by the Master. Tanzra\u0027s demonic followers captured the body of their slain leader and, over thousands of years, eventually resurrected him. Now, with Tanzra and his thirteen demonic leaders threatening the world, the Master must join battle against the forces of darkness once again, with all new powers and abilities.\""
+  },
+  {
+    "id": 129401,
+    "genres": [
+      8
+    ],
+    "name": "Clif Danger",
+    "storyline": "In Clif Danger players control the titular protagonist who flies through the galaxy with his spaceship when he receives a call for help by the amazon queen Swihip. Her planet Pleasure 6 got invaded from the rather hostile Glox so it is up to him to save her population."
+  },
+  {
+    "id": 28729,
+    "genres": [
+      8
+    ],
+    "name": "Doodle Jump",
+    "storyline": "In Doodle Jump, the aim is to guide a four-legged animal called \"The Doodler\" up a never-ending series of platforms without falling."
+  },
+  {
+    "id": 7961,
+    "genres": [
+      8
+    ],
+    "name": "Dr. Jekyll and Mr. Hyde",
+    "storyline": "Dr. Jekyll is on his way to his wedding with the lovely Miss Millicent. As he walks to the church with his cane in hand, several townspeople, animals, and other obstacles accost him, causing him to become angry. If his anger reaches a certain level, he transforms into Mr. Hyde and is taken to a nightmarish world of monsters. As Mr. Hyde kills these monsters, his anger abates and eventually he transforms back into Dr. Jekyll. \n \nThere are two endings to the game. The normal ending occurs when Dr. Jekyll reaches the church at the end of the sixth level. Dr. Jekyll weds Miss Millicent and \u0027END\u0027 is displayed with the wedding march playing in the background. The alternative ending occurs when Mr. Hyde reaches the church. In this case, a boss named Letule appears. After defeating the boss, Mr. Hyde transforms back into Dr. Jekyll. A more detailed scene of the wedding is shown with Dr. Jekyll kissing Miss Millicent. The screen fades with \u0027END\u0027 displayed, and lightning strikes a few moments later. A silhouette of what appears to be Mr. Hyde with a cross inserted into his back appears."
+  },
+  {
+    "id": 1087,
+    "genres": [
+      8
+    ],
+    "name": "Donkey Kong Jr.",
+    "storyline": "After the events of Donkey Kong, Mario has captured Donkey Kong as revenge for kidnapping his lady friend and Donkey Kong Jr. has to save him. However, every time Donkey Kong Jr. gets close to freeing his father, Mario just pushes him further away."
+  },
+  {
+    "id": 67027,
+    "genres": [
+      8
+    ],
+    "name": "BS Super Mario USA",
+    "storyline": "After the events of Super Mario Bros. 2, Mario and friends believe Subcon is all a dream and move on. However, Wart returns and overthrows the King of Subcon in the heroes\u0027 absence. Mario and his friends must once again face the forces of Wart, including the Birdo trio, Mouser, Tryclyde, Fryguy and Clawgrip."
+  },
+  {
+    "id": 13516,
+    "genres": [
+      8
+    ],
+    "name": "Copter 271",
+    "storyline": "An army of Martians is attacking Earth and humanity is threatened with complete extinction. The player has been summoned by the army general and is given the task to fight the enemy in the latest helicopter, Copter 271."
+  },
+  {
+    "id": 1079,
+    "genres": [
+      8
+    ],
+    "name": "Super Mario 3D Land",
+    "storyline": "Princess Peach is kidnapped by Bowser and Mario needs to save her."
+  },
+  {
+    "id": 2621,
+    "genres": [
+      8
+    ],
+    "name": "Cool Spot",
+    "storyline": "In each level the player must rescue other cool spots, who look exactly alike, from cages at the end of that level, which is not necessarily the point at the far right of the level map. In order to do so, the player is required to collect a certain number of \"spots\" that would change (usually increase) as the game progressed. \"Spots\" were placed across the level in large quantities, and were the game\u0027s substitute for items such as the coins in Super Mario Bros"
+  },
+  {
+    "id": 115859,
+    "genres": [
+      8
+    ],
+    "name": "Newer Super Mario Bros. Wii",
+    "storyline": "Mario and his friends decide to take a vacation to Yoshi\u0027s Island, but it doesn\u0027t take long before the princess goes missing! Looks like Bowser is at it again!"
+  },
+  {
+    "id": 1966,
+    "genres": [
+      8
+    ],
+    "name": "Rayman 3: Hoodlum Havoc",
+    "storyline": "The game starts off with Andre, a black lum, flying around and turning red lums into black lums, and therefore creating his army of hoodlums. He then chases Murfy until they stumble upon Rayman and his friend Globox, peacefully resting under a tree. Attempting to hide Rayman up in the tree, Globox grabs the limbless hero\u0027s hands, and they naturally come right off. Globox then runs away, and Rayman goes and retrieves his hands. \nNo Caption Provided \n \nAndre then proceeds to the heart of the world, and Rayman goes to stop him. He manages to head him off, but the lum flies straight into Globox\u0027s mouth and gets stuck in his stomach! The duo sets out for a doctor\u0027s office, where the expert can supposedly get Andre out. Unfortunately, the doctor\u0027s musical treatment fails to get the villain out, and he then refers them to another doctor. The second doctor refers them to yet another doctor, and finally the three doctors team up and get Andre out. \n \nOf course, they were unable to catch Andre before he flew away, and so he sets out to take over the world and destroy Rayman. Of course, Rayman sets out to stop him once and for all."
+  },
+  {
+    "id": 25663,
+    "genres": [
+      8
+    ],
+    "name": "Adventuring Gentleman",
+    "storyline": "Game about an honest chap who\u0027s offered various attractions by other gentle-men\u0027s club members.  Alas the casual strolls are spoiled because the venues are overrun by a bunch of ruffians. Troll tramps, clockwork hooligans, robber-flies, and more lowly scum attempt to upset your agreeable mood. Luckily you are not some odd buffoon and you\u0027ve got your wits about you. Did I say wits? I meant your trusty chargeable gentleman\u0027s edition clockwork musket! Which means you just charge it up and blast the aggravating buggers away. Near the end of an adventure you may encounter a more unyielding individuals with no less despicable characters. They may consume more of your time and patience, but be persistent and get rid of them so you can return to the club for a sip of plum brandy."
+  },
+  {
+    "id": 1073,
+    "genres": [
+      8
+    ],
+    "name": "Super Mario World 2: Yoshi\u0027s Island",
+    "storyline": "A stork carrying the infant Mario Brothers is attacked by Kamek the Magikoopa, who steals Baby Luigi and knocks Baby Mario out of the sky. Baby Mario lands on Yoshi\u0027s Island on the back of Yoshi himself. With the help of his seven other Yoshi friends, Yoshi must traverse the island to safely reunite Baby Mario with his brother and get the babies to their parents."
+  },
+  {
+    "id": 22301,
+    "genres": [
+      8
+    ],
+    "name": "Super Mario 64 DS",
+    "storyline": "Answering an invitation, Mario, Luigi and Wario set out for a royal party with Princess Peach. When they arrive at the castle, though, they find it strangely empty. Meanwhile, Yoshi awakes from a rooftop nap to find the castle eerily silent, with Mario, Luigi and Wario nowhere to be seen. Yoshi soon discovers that Bowser has pilfered the castle\u0027s Power Stars and imprisoned the Toads in the castle\u0027s immense collection of paintings. It\u0027s up to the dynamic dino to figure out what happened to Mario, Luigi and Wario and save the day."
+  },
+  {
+    "id": 6283,
+    "genres": [
+      8
+    ],
+    "name": "Sonic Advance",
+    "storyline": "The game follows Sonic and his friends as they travel through various zones in order to stop Dr. Eggman from taking over South Island. The game features four playable characters; Sonic, Tails, Knuckles and Amy. Each character has the same moveset as they did in Sonic the Hedgehog 3 and Sonic \u0026 Knuckles, with the addition of a melee attack. Each character has a special ability, such as Sonic\u0027s splice shield, Tails\u0027 flight and Knuckles\u0027 gliding and climbing abilities. In her playable 2D debut, Amy cannot perform the Spin Dash or get into ball form when jumping like the others, and must rely on her Piko Piko Hammer to defend herself, making her unique amongst the characters. Grind rails first introduced in Sonic Adventure 2 also make their first 2D appearance. Sonic and Tails can also be used at the same time during the story by inputting a cheat code at the character selection screen. When playing as both characters, the gameplay is similar to that of Sonic the Hedgehog 2: The player can only control Sonic and a CPU-controlled Tails follows him."
+  }
+]

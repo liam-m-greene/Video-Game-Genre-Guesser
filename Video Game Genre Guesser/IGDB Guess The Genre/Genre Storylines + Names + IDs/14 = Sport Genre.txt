@@ -1,0 +1,418 @@
+[
+  {
+    "id": 37285,
+    "genres": [
+      14
+    ],
+    "name": "NBA Live 95",
+    "storyline": "The console versions of the game feature 1993-94 rosters, and limited roster management functions. Only players in the starting lineup can be traded, and the lineup cannot be altered. Additionally, there is no Create-a-Player function or a Free Agent pool. The PC release featureds updated rosters accurate as of the 1994-95 season\u0027s trade deadline and the rookie class of 1994."
+  },
+  {
+    "id": 78286,
+    "genres": [
+      14
+    ],
+    "name": "Disney\u0027s Extremely Goofy Skateboarding",
+    "storyline": "In the first game type, the character needs to collect a number of items. There are 3 goals per level and when two have been completed, a key appears, granting access to a next part. Goofy and Max provide tips in the beginning. The second game type, Tech, has a time restriction. The player needs to score a set amount of points to proceed. The best routes are marked with an orange arrow and tricks can be combined into combos. The third mode, Super Skate, allows free play on the unlocked tracks and the fourth mode is used to practise tricks. After selecting a specific trick, the button combinations appear on the screen and after a demo players need to repeat it. The final game mode, Fun, is a large half pipe in an arena. It is only available when all locations have been unlocked."
+  },
+  {
+    "id": 13881,
+    "genres": [
+      14
+    ],
+    "name": "Horace Goes Skiing",
+    "storyline": "This title is not a true sequel, as it does not follow on from an original story and is only similar in that it features the same character."
+  },
+  {
+    "id": 7580,
+    "genres": [
+      14
+    ],
+    "name": "Baseball",
+    "storyline": "The game follows the basic rules of baseball, with no particular additions. The object is to score the most runs. There are six different teams available in the different versions of the game. For the Famicon players, the teams represent members of the Japanese Central League, and the NES version includes members of Major League Baseball. There are, however, no significant differences between the different teams aside from uniform colour."
+  },
+  {
+    "id": 26387,
+    "genres": [
+      14
+    ],
+    "name": "FantasyGolf",
+    "storyline": "Play 1/2 player mode or new 2 player mode where both players tee off.\r\nYou need PAR to open next course"
+  },
+  {
+    "id": 127832,
+    "genres": [
+      14
+    ],
+    "name": "Final Fantasy VII: Snowboarding",
+    "storyline": "The main character is Cloud Strife, and the objective is to snowboard down tracks, dodging moogles, doing tricks off ramps, and collecting balloons. The \"Chocobo Theme\" song is played throughout the game."
+  },
+  {
+    "id": 89215,
+    "genres": [
+      14
+    ],
+    "name": "Flip Trickster",
+    "storyline": "Feel the adrenaline as you are flipping in the air after jumping down some crazy heights \n \nDo insane jumps and flips down obstacles and land in the goal area in this parkour and freerunning inspired simulation game. \n \nUsing simple game mechanics you can squat, jump and flip with only one finger. \n \nFeatures: \n+ Realistic physics \n+ Simple mechanics \n+ Parkour inspired gameplay \n+ 3D graphics \n+ Pleasing environments"
+  },
+  {
+    "id": 120795,
+    "genres": [
+      14
+    ],
+    "name": "Smoots Summer Games",
+    "storyline": "Get the Gold Medal! Get ready for Summer Games!! Play athletics events from your sofa. Prepare yourself for the next season. Smoot Summer Games is a sports arcade game for 1-4 players where you can play 18 athletics events. Play with your favorite Smoot character in practice, Special Challenge and Championship game modes. Smoots Summer Games is the perfect game to play with your friends and family."
+  },
+  {
+    "id": 14532,
+    "genres": [
+      14
+    ],
+    "name": "Pool:Shark",
+    "storyline": "Actua Pool is a pool simulation game with dozens of game modes, including eight-ball, nine-ball, three-ball, ten-ball, killer rules, cutthroat rules, bank rules, speed pool, one-pocket, various foreign styles and traditional snooker rules. There are dozens of venues, unique individual opponents and even different-shaped and unique tables are also available to unlock.\n\nIn one player mode, called \"Hustle Mode\", the character must hustle your way through smoke filled bars, casinos, pool halls and nightclubs and aim to black ball up to 18 challengers of ever-increasing skill across a range of challenging tables. There is an interactive tutorial if the player wishes, and the player can learn hundreds of trick shots from the tutorial. Each individual NPC opponent has its own unique appearance, voice, mannerisms, playing style and difficulty, and winning tournaments unlocks new NPCs to play against and venues to play in. The last opponent is the Devil himself, who you will play in Hell on his very own pool table and play for your very soul.\n\nThere are also the traditional two-player modes, as well as three-player, four-player, and so on. Any number of players can join in, and tournaments for up to 16 players are also available in which the NPC\u0027s can also be included. Player characters are completely customizable, and stats (such as accurracy and shots potted) tally up an individual player\u0027s ability."
+  },
+  {
+    "id": 36899,
+    "genres": [
+      14
+    ],
+    "name": "Kunio-kun no Dodgeball da yo Zen\u0027in Shūgō!",
+    "storyline": "You play dodge ball."
+  },
+  {
+    "id": 75593,
+    "genres": [
+      14
+    ],
+    "name": "DODGEBALL RISING",
+    "storyline": "The game is set in the birthplace of dodgeball, the Land of the Rising Sun, \nwhich is based on the era of samurai and ninja in Japanese history. \n \nScience has created machines and automatons, \nand samurai and ninja are commonplace— \n \nThough the age of war had ended, battles to the death with katanas remained a daily occurrence. \nA lord at the time saw the severity of this and decided to intervene. \nHe declared that all fights would be settled via dodgeball. \n \nDuels were widely replaced with dodgeball, \nbut it was eventually taken up by civilians as entertainment, \nand owning your own ball even became a status symbol. \n \nAs an enormous dodgeball enthusiast, the lord decided to hold a public competition. Seekers of strength, those after the prize or the money, hopefuls who wanted to marry the princess as their reward, and many other dodgeballers joined in. \n \nJust who would manage to grasp victory? \nThis is the island nation known as the Land of the Rising Sun. \nIt‘s the birthplace of dodgeball, \nand where the strongest warriors gather."
+  },
+  {
+    "id": 103180,
+    "genres": [
+      14
+    ],
+    "name": "Pool Elite",
+    "storyline": "Make Every Shot Count! \nIt’s More Than Just Pure Pool! \nBecome the Champion! \nRack up the Rewards!"
+  },
+  {
+    "id": 9107,
+    "genres": [
+      14
+    ],
+    "name": "Aussie Rules Footy",
+    "storyline": "Aussie Rules Footy is, as the name suggests, a game that allows the player to play Australian rules football. The teams in the game are based off of the 1991 AFL season, in addition to the fictional teams Darwin, Canberra, and Hobart. Season play was not available-players were limited to playing individual games at a time."
+  },
+  {
+    "id": 120804,
+    "genres": [
+      14
+    ],
+    "name": "Big Shot Swish",
+    "storyline": "Swish is a hot basketball arcade game that anybody can enjoy! Shoot hoops and compete head-to-head to crush opponents and become the next basketball star! \n \nMobile esports for everyone. Show off your basketball shooting Skillz and play for real cash with Swish Real Money Gaming. \n \nChallenge people around the world to a shoot-out with Skillz, a competition platform complete with leaderboards, trophies, cash or virtual currency prizes, and an amazing loyalty program that rewards you just for playing! Skillz: eSports for Everyone \n \nFeatures \n• Skillz Multiplayer platform - Play for cash prizes against other players \n• Realistic, Intuitive Basketball Shootout! \n• Rewardable Leaderboards and Frequent Player System! \n• Unlock Trophies and get CASH Rewards! \n• Authentic Gameplay."
+  },
+  {
+    "id": 44417,
+    "genres": [
+      14
+    ],
+    "name": "Derby Jockey",
+    "storyline": "Derby Jockey - Kishu Or heno Michi is an equestrian race simulation game released on Super NES. In this very complete game where management holds a large part, you will be able to acquire different types of horses. You will also have to train them, before embarking on the quest for the first on the biggest racetracks around the world."
+  },
+  {
+    "id": 8995,
+    "genres": [
+      14
+    ],
+    "name": "NBA Jam",
+    "storyline": "NBA Jam, which featured 2-on-2 basketball, is one of the first real playable basketball arcade games, and is also one of the first sports games to feature NBA-licensed teams and players, and their real digitized likenesses.\nA key feature of NBA Jam is the exaggerated nature of the play - players jump many times their own height, making slam dunks that defy both human capabilities and the laws of physics. There are no fouls, free throws, or violations except goaltending and 24-second violations. This means the player is able to freely shove or elbow his opponent out of the way. Additionally, if a player makes three baskets in a row, he becomes \"on fire\" and has unlimited turbo and increased shooting precision. The \"on fire\" mode continues until the other team scores, or until the player who is \"on fire\" scores 4 additional consecutive baskets while \"on fire.\"\nThe game is filled with easter eggs, special features and players activated by initials or button/joystick combinations. For example, pressing A five times and right five times on any Genesis controller would activate \"Super Clean Floors\". This feature would cause characters to fall if they ran too fast or changed direction too quickly. And players can enter special codes to unlock hidden players, ranging from US President Bill Clinton to Hugo the Charlotte Hornets mascot. On the arcade machine, there is also a hidden \u0027tank\u0027 game that allows the player to run around a 3D wireframe field. In order to access this mode, however, the player must be able to toggle the on/off switch located behind the machine. While the game was powering back on, the player holds Up and all buttons on player 1 and Down and all buttons on player 2."
+  },
+  {
+    "id": 8673,
+    "genres": [
+      14
+    ],
+    "name": "TV Sports Baseball",
+    "storyline": "Bo Jackson Baseball/TV Sports Baseball features a number of different modes, including exhibition, playoff, and CPU quick mode. The game uses city names, but the team names are fictional due to licencing issues. The players are also fictional, although some of the names are parodies of real-life players."
+  },
+  {
+    "id": 20323,
+    "genres": [
+      14
+    ],
+    "name": "Neo Turf Masters",
+    "storyline": "NEO TURF MASTERS is an arcade classic that touched an entire generation. \n \nCompeting as one of six international golfers on different courses worldwide, players choose their club, analyze the wind direction, and find the best path to finishing each hole in as few shots as possible."
+  },
+  {
+    "id": 18965,
+    "genres": [
+      14
+    ],
+    "name": "Kulm Skiflug WM 2016",
+    "storyline": "Kulm Skiflug WM 2016 is the official game for the FIS Ski Flying World Championship 2016 in Bad Mitterndorf, Austria."
+  },
+  {
+    "id": 4515,
+    "genres": [
+      14
+    ],
+    "name": "Arch Rivals: The Arcade Game",
+    "storyline": "Players are able to select between a vareity of fictional teams and players. Games follow the standard basketball rules, with the exception of the accepted level of violence. The objective is to outscore the opponent. There are only two players on each team on the court, rather than the standard 5 men/team that is standard in basketballl."
+  },
+  {
+    "id": 9104,
+    "genres": [
+      14
+    ],
+    "name": "Athletic World",
+    "storyline": "Athletic World simulated five different Olympic-style challenges: Hurdles, Hop-A-Log, Animal Trail, Rafting, and Dark Tunnel. The game was marketed as \"an athletic training camp - in your own home! Fitness is just a hop, skip, and a jump away with ATHLETIC WORLD - the video game that\u0027s controlled by the movements of YOUR body! Test your athletic ability on Bandai\u0027s five challenging events as you move up the difficulty scale from Training to Beginner to Expert! Staying in shape never felt so good - or was quite so much fun!\""
+  },
+  {
+    "id": 18664,
+    "genres": [
+      14
+    ],
+    "name": "World Cup Italia \u002790",
+    "storyline": "This is the second World Cup official licensed franchise game based on the 1990 FIFA World Cup featuring the official logo and the mascot, the first having been the ill-fated and little-known World Cup Carnival for the 1986 FIFA World Cup. The game gives official groups, teams and the fidelity schedule of the championship. Gameplay occurs at a birds eye view.\nIt was ported by U.S. Gold for DOS, Amiga, Atari ST, Commodore 64 and ZX Spectrum. The Spectrum version of the game went to number 2 in the UK sales charts, behind Manchester United. After the World Cup, the game was released as World Championship Soccer and later renamed to Sega Soccer on the Mega 6 compilation cartridge on the Mega Drive removing the Virgin Mastertronic credits. In Brazil was released with the name Super Futebol II.\nWorld Cup Italia 90 sees the player given the choice of participating as any of the teams that featured in the tournament itself, and no qualifying tournaments to reach the World Cup are available on this game."
+  },
+  {
+    "id": 102861,
+    "genres": [
+      14
+    ],
+    "name": "Champion Eleven",
+    "storyline": "Tired of managing dots running around on a field? All-Star Soccer takes your football management experience to the next level, bringing you the 3D gaming experience you’ve been looking for all this time! With more than 1000 real FIFPro licensed soccer players, you can completely immerse yourself in the world of football club management. Win matches and use your experience to train your players to be the best they can be. Take on other real managers from around the globe in league matches, and see your tactics play out in 3D. Counter your opponents tactics in real-time to take home the win! Reign as champion over your opponents, build up your team’s value in training and development, and back them with great facilities in your club area."
+  },
+  {
+    "id": 9897,
+    "genres": [
+      14
+    ],
+    "name": "Baseball Simulator 1.000",
+    "storyline": "The player can choose between four separate leagues, each with specific traits in the teams contained. For example, one of the leagues contains \"ultra\" teams, which have players that hold special powers, and one of the leagues enables the player to create their own teams and league. Special events and plays are able to be used by the player, such as Ultra Hits and Ultra pitches. With this as the context, there is an exhibition mode and a regular season mode allowing the player to play a season with a chosen team."
+  },
+  {
+    "id": 18625,
+    "genres": [
+      14
+    ],
+    "name": "World Cup Striker",
+    "storyline": "Elite Soccer is a Sports game, developed by Rage Software and published by Coconuts Japan, which was released in Japan in 1994."
+  },
+  {
+    "id": 18532,
+    "genres": [
+      14
+    ],
+    "name": "Ice Hockey",
+    "storyline": "The play and mechanics of Ice Hockey are mostly similar to that of ice hockey in real life. The objective for both team is to hit a black puck with a hockey stick that each player carries into the opponent\u0027s goal. Teams are made up of five players including the goaltender, as opposed to six in real life. Players wear ice skates, which are used to skate across the icy arena. Each game is made up of three periods, with the victory going to the team who has the most points at the end of the game. At the beginning, two opposing players from each team face off in the middle of the rink. There are three kinds of players - the first is fast, weak, and feeble, but is good at the face-off; the second is average in all qualities, and the third is slow and poor at the face-off, but very powerful, both in body checking and shooting strength. The arena is similarly designed to a real-world ice hockey arena. The arena is coated in ice, with a goal on either side of the arena. There are a variety of marked areas, including the goal line that the puck must cross to score, the attacking / defending zone which is situated closely to each goal, the face-off spot, the neutral spot, and others. Each side of the arena has exactly the same design. If two opposing players fight for the puck for a certain amount of time, other players join into the fight, resulting in the player from the losing team in the fight to be put in the penalty box for a period of time."
+  },
+  {
+    "id": 53013,
+    "genres": [
+      14
+    ],
+    "name": "Wakeboarding HD",
+    "storyline": "Grab your board and hold on tight! Wakeboarding HD drops players into a high-speed, water-filled, arcade experience to maneuver through tracks, perform high-flying tricks, collect bonuses and avoid dangers from exploding mines to bloodthirsty sharks. Show your skills and wreak havoc as the bright and colorful tropical paradise resort transforms into an action-packed extreme playground. Perform assigned tasks while zooming through obstacles at top speed in order to keep your action chains going. Jump the ramps, ride the rails, crash through boats, docks and tourists and collect stars and power-ups while feeling the power of the wake!"
+  },
+  {
+    "id": 12222,
+    "genres": [
+      14
+    ],
+    "name": "Shufflepuck Cafe",
+    "storyline": "There is a general storyline behind the Amiga version of the game in which the player is an inter-galactic salesman whose spaceship has broken down. He needs to find a telephone to call the breakdown service and get the spaceship fixed. Shufflepuck Café is the nearest place for miles, so he goes in to use their telephone. The main eight Shufflepuck players are standing in his way and will not let him get to the phone until he has beaten them all. Once all are defeated, the player gets in his spaceship and flies off into the distance."
+  },
+  {
+    "id": 12893,
+    "genres": [
+      14
+    ],
+    "name": "World Soccer",
+    "storyline": "Dribble, passes, corner kicks, etc. Retrieve the opponent\u0027s ball by tackling. Get past his strong defense with an overhead shot. Take advantage of a split—second unguarded goal and head the ball into the net. Also features Penalty Kicks to decide a tie game."
+  },
+  {
+    "id": 4525,
+    "genres": [
+      14
+    ],
+    "name": "Andre Agassi Tennis",
+    "storyline": "The player can play in either career mode, exhibition mode, or practice mode where the player can learn to hit and receive tennis balls in a proper manner in order to assure victory on the tennis court. \n \nDuring the career mode, the player travels to tennis courts around the world and compete in tournaments where victory allows to play to win money. After mastering all the tournaments, the player actually plays against Mr. Andre Agassi in a final grudge match in order to determine who is the best tennis player in the world. All the other players are generic except for him."
+  },
+  {
+    "id": 85203,
+    "genres": [
+      14
+    ],
+    "name": "ISS 98",
+    "storyline": "In essence, the game is quite the same as its Super NES predecessor, International Superstar Soccer Deluxe, vastly upgraded for the Nintendo 64, with 3D animation, fluid and fast-paced gameplay. While it kept largely the same team roster (with the teams now sporting near-authentic kits), South Africa debuted in this game as a selectable side, replacing Morocco. However, the Japanese version of ISS 64 has teams that are not present in the overseas versions, such as Bolivia, Yugoslavia, Canada and Saudi Arabia. \n \nThere are six game modes, including a fun multiplayer 1-4 player (except for everyone\u0027s icons being the same color) exhibition mode and training. International Cup has the player competing against a range of teams from around the world in a round robin tournament; World League is a series of 70 matches against every one of other teams in the game. \n \nThe player can also contest a penalty shoot-out competition with up to 4 players, or attempt to complete certain scenario games (where each game is set up with a specific goal, for example scoring a goal within a given time limit, or stopping the opposing team from scoring, etc.)."
+  },
+  {
+    "id": 4660,
+    "genres": [
+      14
+    ],
+    "name": "Active Life: Extreme Challenge",
+    "storyline": "Kick the family into high gear with \u0027extreme\u0027 themed sport features such as base jumping, street luge, and rock climbing. Whether you want to swoosh down the hills of San Francisco in a street luge, scale the cliffs of the Grand Canyon, or kite-surf in the crystal blue waters of the Pacific, this game will get your heart pumping!"
+  },
+  {
+    "id": 27016,
+    "genres": [
+      14
+    ],
+    "name": "Merry Snowballs",
+    "storyline": "Merry Snowballs is an action packed VR snowball game where you get to relive your childhood snowball fights - this time with the cool gadgets you once wish you had! Survive waves of nasty kids as long as possible and compete against others on the global highscore."
+  },
+  {
+    "id": 8814,
+    "genres": [
+      14
+    ],
+    "name": "QWOP",
+    "storyline": "QWOP is the local sporting hero of a prosperous country in the scandinavian alps. Unfortunately, it is too cold there for an outdoor track, and QWOP has come to the championships without completing his training!\nYou can help QWOP achieve his sporting dreams! You just need to show him how to run.\nControl QWOP\u0027s legs and arms by moving your thumbs around in the diamonds on the screen. Move your thumbs in clockwise circles to make him run. Make QWOP lean forward and back by tilting your device.\nAnd whatever you do, don\u0027t let QWOP\u0027s body touch the ground!"
+  },
+  {
+    "id": 18640,
+    "genres": [
+      14
+    ],
+    "name": "Top Ranking Tennis",
+    "storyline": "Top Rank Tennis is a Sports game, developed by Pax Softonica and published by Nintendo, which was released in 1993."
+  },
+  {
+    "id": 94388,
+    "genres": [
+      14
+    ],
+    "name": "Pro Rugby Manager",
+    "storyline": "Pro Rugby Manager is a rugby team management game on PC. Choose one of the 120 official club and manage it during the train and the cups. As the manager, you will be in charge for financies, recruting, trainning, contracts and more ..."
+  },
+  {
+    "id": 9903,
+    "genres": [
+      14
+    ],
+    "name": "Baseball Stars",
+    "storyline": "Baseball Stars, due to the introduction of a battery backup, allowed players to create a team and season which could be stored, so that statistics were retained between playing sessions. Players were able to create players and teams, even going so far as naming these elements. As well, the game introduced managerial controls, such as the ability to earn money, gain prestige, and upgrade players on the roster. David Littman, a producer on EA\u0027s NHL series of games, has said that the popular GM mode in the NHL games was inspired by Baseball Stars, so the influence it has has continued. \nGameplay involved taking part in a season, or simply a one-off versus mode. The rules of the game stayed true to baseball, and the realism was seen as being far beyond anything that had come prior to its release."
+  },
+  {
+    "id": 6910,
+    "genres": [
+      14
+    ],
+    "name": "Beijing 2008",
+    "storyline": "The game delivers a far more entertaining and immersive Olympic experience with superior graphics capturing the fine emotional detail of each event where a fraction of a second means the difference between winning and losing. With brand new gameplay mechanics challenging your time, speed, and coordination, you will strive to break records alone or with up to seven friends online as you lead your team to victory in 38 authentic Olympic events."
+  },
+  {
+    "id": 8909,
+    "genres": [
+      14
+    ],
+    "name": "All-Pro Basketball",
+    "storyline": "Five teams face off in a fictional professional basketball league. Four modes of gameplay are available: single player match; co-op, where two players control the same team; versus, where two players compete against each-other controlling different teams; and watch, where the player is given the opportunity to watch a computer-controlled match."
+  },
+  {
+    "id": 9876,
+    "genres": [
+      14
+    ],
+    "name": "Cyber Stadium Series: Base Wars",
+    "storyline": "Baseball team owners have become frustrated with the continually increasing sallaries of baseball players, and have decided to use cyborg robots instead. There are 14 teams in the league, 12 of which represent specific cities. Robots often pitch battles between each-other during the game, in order to achieve victory, beyond the basic rules of baseball."
+  },
+  {
+    "id": 9942,
+    "genres": [
+      14
+    ],
+    "name": "Baseball Stars 2",
+    "storyline": "The Baseball Stars series set the early benchmark for quality baseball sports games, and introduced a number of features that have become standard in more current sports games, such as managerial control and player creation. Baseball Stars 2 built on this by introducing new batting stances, enhanced pitch control, the ability to alter field formations for enhanced coaching strategies, and a number of other features. Players can create leagues of up to 125 games, with 6 teams. Statistics are tracked over the length of the season, and players can be upgraded over time."
+  },
+  {
+    "id": 18681,
+    "genres": [
+      14
+    ],
+    "name": "ISS Pro Evolution Soccer 2",
+    "storyline": "The game received highly positive reviews from critics, scoring 95/100 on Metacritic. Gibbons of BBC News gave the game 94% citing that \"ISS Pro Evolution 2 is the finest football game the world has ever seen.\" The game received 92% by Absolute-PlayStation. In the final issue of the Official UK PlayStation Magazine, the game was chosen as the best PlayStation game of all time."
+  },
+  {
+    "id": 18666,
+    "genres": [
+      14
+    ],
+    "name": "Anna Kournikova\u0027s Smash Court Tennis",
+    "storyline": "Anna Kournikova\u0027s Smash Court Tennis is a simple tennis game which can be played with up to four players. The game features various modes such as a training mode, Street Tennis, which is played on street courts, and Smash Tennis, in which players fight against each other using explosive tennis balls. Along with various tennis characters, players can unlock characters from various Namco games, including Richard Miller from Time Crisis, Heihachi Mishima, Yoshimitsu and Eddy Gordo from Tekken 3, Pac-Man and Reiko Nagase from Ridge Racer Type 4."
+  },
+  {
+    "id": 2733,
+    "genres": [
+      14
+    ],
+    "name": "10-Yard Fight",
+    "storyline": "You start off playing at a high school level and advance toward the pros, moving up each time you make a touchdown. There are five levels of play including: High School Level, College Level, Professional Level, Playoff Level and Super Bowl Level."
+  },
+  {
+    "id": 26012,
+    "genres": [
+      14
+    ],
+    "name": "Dave Mirra Freestyle BMX",
+    "storyline": "N/A"
+  },
+  {
+    "id": 114798,
+    "genres": [
+      14
+    ],
+    "name": "RESORT BOSS: GOLF",
+    "storyline": "Utilise expansive landscaping tools; mould terrain, plant trees and populate your resort with sprawling green hills, lakeside cliffs, bunkers and water hazards to create fun and challenging holes. \n \nBuild the restaurants, shops and hotels demanding golfers expect from the world’s best resorts."
+  },
+  {
+    "id": 115292,
+    "genres": [
+      14
+    ],
+    "name": "Flash Pool Game (8 Ball \u0026 9 Ball)",
+    "storyline": "Play the best Online 8 Ball \u0026 9 Ball Pool Game FREE, on PC, iOS \u0026 Android. (CLICK Image above to Play) \nFlash Pool is an 8 Ball \u0026 9 Ball game everyone, from serious \u0026 fast paced players to casual players \u0026 observers. Realistic physics \u0026 fast gameplay. Play, Practice, Watch or just chat with other pool gamers from around the world. \n \nWith unique shooting control choices, the shot process matches \u0027real life\u0027 more intuitively by allowing impressive, real life, cue ball control and shot pace."
+  },
+  {
+    "id": 9285,
+    "genres": [
+      14
+    ],
+    "name": "Bandai Golf: Challenge Pebble Beach",
+    "storyline": "The game attempts to simulate real-world physics, including dealing with harsh winds and the pacific ocean\u0027s close proximity to the course. The rules of the game are the traditional rules of golf, so an attempt was made for accuracy."
+  },
+  {
+    "id": 7433,
+    "genres": [
+      14
+    ],
+    "name": "FIFA World",
+    "storyline": "FIFA World Ultimate Team\nBuild your own unique club that plays your style of football and hit the pitch to compete in online and offline modes. Play the 24/7 transfer market and strategically outwit other gamers in buying, selling and trading the world’s greatest superstars to create your Ultimate Team.\n\nAccessible Controls\nPlay your way! Casual or core? Try the intuitive mouse based controls that are simple to use, but a challenge to master; or pick up and play with traditional gamepad or classic keyboard controls. The choice is yours!\n\nLeague Mode\nLead your favorite real-world club to victory in Online Seasons and experience the drama of promotions and relegation as you battle against other community players to climb the league tables and reach the top flight.\n\nEAS FC Social Hub\nCapture and share spectacular goals and beautiful moments you create on the pitch and instantly post them to the in-game social feed. Keep up with your friends’ in-game activity and debate and discuss the latest results and highlights with the community.\n\nMatch Invites\nChallenge your friends to an Ultimate Team showdown and see who has what it takes to rule the pitch.\n\nTournaments\nEnter your Ultimate Team into single player tournaments and challenge football clubs from around the world! Win, and you\u0027ll unlock new tournaments and rewards to boost your Ultimate Team.\n\nComplete Authenticity\n31 officially licensed leagues, more than 600 clubs and 16,000 players.\n\nAccomplishments\nEarn rewards to help your squad on their football journey by completing challenges revolving around gameplay, the transfer market, squad management, prestige and more. Dynamic accomplishments also surface on a regular basis to bring forth new challenges revolving around the latest and greatest moments from the real world of football."
+  },
+  {
+    "id": 7764,
+    "genres": [
+      14
+    ],
+    "name": "Bases Loaded",
+    "storyline": "Bases Loaded introduced a unique depiction of the batter-pitcher matchup, emanating the typical views seen on television coverage of baseball. This allowed the player a more realistic feel, and made Bases Loaded into one of the most popular baseball games for early NES. \nThe league was made of fictitious teams, as it was difficult to achieve a license from the MBA, and included 12 American cities with unique players on each team. One unique feature that the game included was that each team had one batter who would charge the mound when provoked by the pitcher."
+  },
+  {
+    "id": 10122,
+    "genres": [
+      14
+    ],
+    "name": "Bases Loaded II: Second Season",
+    "storyline": "Bases Loaded II continued the provision of a season mode, called the \"Pennant Race\" mode, which allowed players to keep track of statistics and scores over the length of a season. The fictitious teams remained from the original game, with the addition of a number of new players. A new addition to the game was the concept of biorhythm, which encouraged players to keep track of the biorhythm of each player on their team, in order to achieve optimal performance during the season. As well, the starting lineup and batting order was user controlled, and the view of the batter was changed from the first game."
+  },
+  {
+    "id": 10124,
+    "genres": [
+      14
+    ],
+    "name": "Bases Loaded 3",
+    "storyline": "Bases Loaded 3, in the same way as the two previous installments in the series, comprised a number of fictional teams and players, with no real players. The game\u0027s primary objective was to play a \"perfect game\", rather than winning the pennant-which had been the focus of the previous games in the series."
+  }
+]

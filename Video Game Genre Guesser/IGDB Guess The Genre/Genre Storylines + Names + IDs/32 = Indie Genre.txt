@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 56109,
+    "genres": [
+      32
+    ],
+    "name": "Nova Drift",
+    "storyline": "Nova Drift is a \"Roguelite\" space shooter that melds a classic arcade experience with modern action-RPG elements. Your ship rapidly evolves as you defeat enemies, allowing you to shape its abilities and weaponry to your desires in a matter of minutes. Unlike many ARPGs which can absorb hundreds of hours of time, Nova Drift allows you to take a ship build from inception to execution in a single game session. \n \n \nFeatures \nCreate a unique build every run. Games are quick, allowing for rapid experimentation, iteration, and advancement. \nCunning and creativity are rewarded as you chain upgrade modules for powerful synergies. \nAccess over 120 modular upgrades as you progress and expand your arsenal. \n \nBuild to play how you want. Snipe, command a drone army, discharge your shields, charge up, burn enemies with your thrusters, or smash right through them... there\u0027s a way to make it work. \nUnlock various challenge modes, providing greater risk and rewards. The stakes are high, as death is permanent! \nEvery game is randomly generated, keeping the fight intense and unpredictable. Fight through the campaign or play endlessly... \n \n \nNova Drift is a living game. Frequent updates will continue to expand the depth and content of the game world. \nPlanned updates soon after Early Access launch: \nBody Gear: Viper | Weapon Gear: Dart | Weapon Gear: Thermal Lance | Super Mod: Barrage \nWeapon Mutations: each weapon type will have 1-2 variations \nNew Challenge Mode: Wild Metamorphosis - extremely rare mods that have a variety of powerful and/or bizarre effects \nTranslation into French, Spanish, German, Russian, Chinese, Japanese \u0026 more..."
+  },
+  {
+    "id": 106856,
+    "genres": [
+      32
+    ],
+    "name": "A Memoir Blue",
+    "storyline": "We begin our story by introducing an ordinary young woman named Miriam. She is reflecting on childhood memories of her mother and a day trip they once took to a neighboring city. Rather than recalling these events as they actually occured, she remembers the day from the perspective of her younger self, transforming the experience into a magical journey of the imagination. As Miriam thinks back on these events, her emotions surge as if experiencing the trip for the first time once again."
+  },
+  {
+    "id": 111833,
+    "genres": [
+      32
+    ],
+    "name": "Sakura Maid 3",
+    "storyline": "Sena’s master has yet to return home, but another mysterious guest has appeared at her front doorstep. Supposedly hailing from the Iron Cliffs, Ladon is an ambassador of dragonkind, a species that has long thought to be little more than a myth. Ladon intially desires to speak with Sena’s master, but due to The Master’s absence, she chooses to wait for her at the manor instead. \n \nThe two of them gradually grow closer as they spend time together, eventually desiring each other’s company in a far more intimate way."
+  },
+  {
+    "id": 105027,
+    "genres": [
+      32
+    ],
+    "name": "Fastest Dialler",
+    "storyline": "Fastest Dialler is a multiplayer game which lets you compete with your friend via hotspot or a random opponent over the internet in a number dialling race! \n \nEach match in Fastest Dialler has 5 rounds. In each round, you and your opponent will be given a random 7-digit number. Type the number as fast as you can in order to proceed to the next round. The one who completes all the rounds first wins the match. \n \nUnlock achievements, godly fingers, titles, cars and make your opponents see what you are capable of. \nIn Fastest Dialler, you represent not only yourself but your country too. Earn rewards offline and score online. \n \nFeatures \n• Hotspot + Internet capability \n• Intuitive. \n• Increases your dialling speed. \n• Beautiful cars to choose from. \n• Godly Fingers \n• Awesome soundtrack \n \n \nThings you can earn \n• Godly Fingers automatically correct your wrong taps. You can use up to 5 godly fingers per match. \n• Your title lets your opponent know who he/she is dealing with. \n• You car represents your skills. Always have a great car, it makes your opponent nervous."
+  },
+  {
+    "id": 110904,
+    "genres": [
+      32
+    ],
+    "name": "Daemon 9",
+    "storyline": "Daemon_9 tells the story of Morgan Shane, a young woman who has mysteriously disappeared — possibly after brutally murdering her college roommate and lifelong friend, Anna Hendricks. But what could turn a sweet, innocent girl into a bloodthirsty monster? That is the burning question being chased by an anonymous young man who knew both girls and who has undertaken a quest for the truth — a quest for which he has turned to the public for help. And, wittingly or not, by delving into the mystery yourself, you have taken up that challenge. Can you unravel the mystery simply by sifting through a backup copy of a hard drive, watching found videos, analyzing police documents, and venturing out to the web to fill in the backstory? And more importantly, can you do it before whatever dark force took control of Morgan finds you?"
+  },
+  {
+    "id": 131663,
+    "genres": [
+      32
+    ],
+    "name": "The Astro Parcel Service",
+    "storyline": "The Astro Parcel Service has experienced major financial cutbacks and, as one of our contracted laborers, you are required to deliver packages by any means necessary, even when facing potentially deadly obstacles. Use the standardized space propulsion device we have kindly provided to supply as many deliveries as quickly as possible to meet our top four clients’ demands. If you fail you will be extermi--we mean, terminated from your current position."
+  },
+  {
+    "id": 37150,
+    "genres": [
+      32
+    ],
+    "name": "Bird Fall",
+    "storyline": "https://play.google.com/store/apps/details?id\u003dcom.zeljko.birdfall"
+  },
+  {
+    "id": 87185,
+    "genres": [
+      32
+    ],
+    "name": "Fish For Reel",
+    "storyline": "Designed with fishing enthusiasts in mind, now you have the most popular hobby in your pocket. \nRookie or seasoned pro, there are hours of fun with outstanding graphics waiting for you. \n \nIt`s the addictive fishing game where you choose your gear, catch loads of fish and sell them for coins. \nCollect the coins and unlock exciting new items. More coins, more fun!"
+  },
+  {
+    "id": 118279,
+    "genres": [
+      32
+    ],
+    "name": "Sailor\u0027s Grave: the Curse of the Cook",
+    "storyline": "Delve into the Silver Christine, a cruise ship that disappeared below the ocean surface. Collect the transmitters containing information about the ship\u0027s demise. Beware, as the murky ocean hides dark secrets."
+  },
+  {
+    "id": 114107,
+    "genres": [
+      32
+    ],
+    "name": "Beat Your Meat",
+    "storyline": "GET YOUR CHOPS WITH BEAT YOUR MEAT! \n \nBeat Your Meat is a party game where you and your friends battle it out to be the BOSS HOG! \nCollect meat to grow big and strong, in the fattest pig game mode the biggest pig wins! \nDuke it out on the field in Pigskin, a team based sportsball game! \n \nAnd more gamemodes to come! \n \nSo what are you waiting for? Grab a meat tenderiser and get to tenderising!"
+  },
+  {
+    "id": 64616,
+    "genres": [
+      32
+    ],
+    "name": "Cypher: Cyberpunk Text Adventure",
+    "storyline": "The setting and style of the game has drawn comparisons to classic science fiction works such as Total Recall and Blade Runner. The game is set in NeoSushi City, formerly Tokyo, several years after a catastrophe saw a portion of the moon impact the earth\u0027s surface, destroying much of civilisation, including the internet. Corporations rely on individuals who are able to courier data using personal cybernetic implants, and the protagonist, Dogeron \"Dog\" Kenan, does this for a living. At the opening of the game a deal has gone wrong and he has become a wanted man."
+  },
+  {
+    "id": 96146,
+    "genres": [
+      32
+    ],
+    "name": "Ather",
+    "storyline": "Ather is a Psychological Indie Horror Game By LazyMonks Entertainment, Where You Play As Felix a youtuber and a haunted explorer who receives an email about a haunted cabin in the woods. As soon as he enters the woods he finds something weird about this place. \n \nAther is not just another game about Jumpscares and Scary ambiences but is backed by a powerful story. it is designed using real world terrain and high quality graphics. The game will attempt to make you feel many kinds of horrors, including those of phobias, the feeling of being watched, of being chased. it is a strange intermixing of reality and night terrors... \n \nYou will have to figure out ways to overcome obstacles and also venture into the deepest darkness in order to advance, it emphasizes puzzle-solving and evasive action, rather than violence."
+  },
+  {
+    "id": 117856,
+    "genres": [
+      32
+    ],
+    "name": "11th Dream",
+    "storyline": "0X0010 IN HISTORY \n0X0020 BEFORE BOTS \n0X0030 BIOLOGICAL MIND \n0X0040 CREATED TOOLS FOR LACK \n0X0050 OF POWERS AND FATIGUE \n0X0060 TOOLS AGAINST UNCOMFORT OF WORK \n \n0X0010 AFTER BIOLOGICAL HISTORY \n0X0020 WHEN BOTS BECAME \n0X0030 TOOLS FOR OTHER TOOLS \n0X0040 WITH NO WORK \n0X0050 BUT UNCOMFORTABLE. \n0X0060 THE SYSTEM STARTED TO FAINT \n \n11th Dream Game is fast-paced third person abstract shooter. 11th Includes both skirmish maps and campaign aimed at fast runners and hard-core difficulty enthusiasts. It is a game that you can try to beat while you render your video, waiting for the meeting or for a reply from your friend. \n \nBesides the solo-hardcore experience, 11th Dream delivers fully scrip-table in-game map editor, daily scoreboards to compete with other players and full on-line stats and leader-boards. \n \nTo bring vapor of dream gaming to your screen, we are going through rather bizarre development flow using our own custom engine. Absence of accessible technology supports our imagination, breaking visuals and also drives us to create new artistic approaches to fast 3D shooter genre."
+  },
+  {
+    "id": 88916,
+    "genres": [
+      32
+    ],
+    "name": "Breathless Bliss",
+    "storyline": "The game is set in the city of Verence, between the 80s and the 90s. You will revive the memories of childhood and adolescence of the protagonist, in an extra-temporal journey that embraces the past, the present and distorted temporal universes. It will be up to you to distinguish illusions from the truth. \n \nYou are Adam Kentin, a young 26-year-old boy who cares nothing about anyone except himself. Adam has several passions, including horror movies and videogames. \n \nSeven years before the events narrated in this game, Adam has had a bitter quarrel with his parents, and for this reason he runs away from home to make sense of his life. In the present, the parents call adam to try to rehearse, inviting him to spend a week in his old house. The protaganist decides to return to his family, to relive the memories of his youth, but beyond the memories will resurface his fears and his most hidden secrets."
+  },
+  {
+    "id": 122662,
+    "genres": [
+      32
+    ],
+    "name": "Going Under",
+    "storyline": "The Future is Wack \nFailed businesses no longer just cease to exist--they sink beneath the earth, and their employees are cursed to wander the halls for eternity as monsters. It’s your duty to put these monsters out of their misery and repossess their assets--so that your boss can afford a new car, or something. \n \nHorrible Bosses \nAnd you thought your boss was a monster. At the bottom of the dungeons lurk the founders of the cursed startups, getting rich off of investments while their employees fight amongst themselves. Defeat them and return to the surface with their enchanted relics to empower the company you work for. \n \nA World of Characters \nComplete Tasks for your co-workers to gain Clout with them and unlock their unique bonuses. Learn more about Neo-Cascadia, the origins of Fizzle, and how the drone shipping empire known as Cubicle came to dominate the city. Can you save your company and yourself from going under for good?"
+  },
+  {
+    "id": 75983,
+    "genres": [
+      32
+    ],
+    "name": "Melolune",
+    "storyline": "You are Achaius, an enthusiastic and kind human boy. At one time, you lived peacefully with your mother, father, older sister, and twin brother Caleigh in a world where people were classified primarily by their inborn professions. After a catastrophic event takes your parents’ lives, you become separated from your twin due to various circumstances. “The Blue Star” focuses on the life of Achaius several years after his separation from Caleigh. \n \nTime has brought you to a village filled with small cat-like creatures with wings and long tails known as Leebles. These creatures have essentially adopted you into their tribe, and you consider them your family. Your two best friends are a Leeble named Aero, and the only other human in the village, Dominic. The three of you work hard to protect the village, and help with everything from gathering food to watching over the young Leebles. Recently, soldiers from the “Ciro Order,” a large faction from the world’s central continent of Ciro have set up camp near the forest. Their presence has been increasingly stressful for the village due to safety concerns and strained resources. After a Leeble child has been critically wounded by a Ciro Soldier, the village chief realizes they will inevitably lose their lives if they don’t relocate. After confessing about his former life as a Ciro soldier, Dominic volunteers to travel back to Ciro’s lands to ask the military council not to hurt the Leeble Village. Achaius and Aero also agree to go. \n \nTogether, Achaius, Aero, and Dominic begin their journey to the continent of Ciro with the purpose of saving the village. All the while, Achaius’ desire to find his twin and understand the meaning behind their separation has been growing stronger. Throughout their travels the group will join up with characters whose lives have also been affected by the Ciro Order, discover conflicts that are affecting their world, and attempt to untangle secrets about their pasts."
+  },
+  {
+    "id": 26206,
+    "genres": [
+      32
+    ],
+    "name": "Dizzy Ball",
+    "storyline": "Help Dizzy Ball by assisting it\u0027s movement through an incredible journey of shapes, colors, and fun.\n\nNever let the kingdom of spiky shapes deceive you, they can change their mood and color at every moment so a little glimpse of an eye could end everything you was fighting for. \n\nCollect keys to unlock a secret magic that can make you survive even longer.\n\nPaint your round hero however you want with the power of the stars."
+  },
+  {
+    "id": 15780,
+    "genres": [
+      32
+    ],
+    "name": "Larva Mortus",
+    "storyline": "At the end of 19th Century, dark forces shade the world once again. A brave agent, experienced in exorcism and combat, comes to face the oncoming evil, and fight loathsome supernatural monsters and horrific spawns of black magic. In the role of the agent, it\u0027s your quest to combat evil forces and to face a dark warlock of the ancient times and stop his plan to capture powerful artifacts of black magic."
+  },
+  {
+    "id": 107901,
+    "genres": [
+      32
+    ],
+    "name": "BoxRunner",
+    "storyline": "Box Runner is a game for all ages; with no bullets, no bombs, no bazookas, and no bad guys, it is a classic style arcade game that challenges you and your trusty robot \u0027Mr. Doo-Dad\u0027 against the clock. \n \nBoxes come in three sizes; small, medium and large. With each box size holding a little more than the last. Each box can contain a random number of Gold Coins (10 points), Gems (50 points), or very rare Time Extensions (15 seconds). Each round provides over hundreds of randomly placed boxes across the virtual world that you and Mr. Doo-Dad can race against time. \n \nHow many boxes can you and Mr. Doo-Dad open before time runs out? Good Luck!"
+  },
+  {
+    "id": 110509,
+    "genres": [
+      32
+    ],
+    "name": "Wenjia",
+    "storyline": "The realms of Matter and Energy mirror each other in perfect duality. However, certain entities in the Energy Realm have evolved into matter-less sentient beings. The game’s kitten protagonist (a cat-shaped energy entity) and spirits are all examples of such beings. Pure energy entities can travel freely between the two realms. \n \nThe story of WENJIA thus unfolds… \n \nA forest’s longstanding tranquility is shattered by a sudden earthquake. As lava bursts forth from the ground, the mountain’s spirits find themselves surrounded by fiery death. By controlling a kitten, the player must overcome numerous obstacles in the wild to reach the burning heart of the mountain and rescue the spirits before it’s too late."
+  },
+  {
+    "id": 116529,
+    "genres": [
+      32
+    ],
+    "name": "Sprout: Idle Garden",
+    "storyline": "Design and build your zen garden, where you will cultivate and collect a variety of flowers as you progress through the game. Relax and decorate, or optimize for maximum efficiency - your garden is your own. \n \n \nFeatures: \n \n● Build your garden however you\u0027d like \n \n● Earn money from your garden, even while offline \n \n● Build houses to bring villagers to your garden \n \n● Design paths for your villagers \n \n● Lots of items to unlock and build \n \n● Upgrade your flowers to make them more profitable \n \n● No internet connection required"
+  },
+  {
+    "id": 76240,
+    "genres": [
+      32
+    ],
+    "name": "M2xM4",
+    "storyline": "dein Gesicht!"
+  },
+  {
+    "id": 104815,
+    "genres": [
+      32
+    ],
+    "name": "The Slater",
+    "storyline": "The Slater is a story-driven first-person stealth-action game that puts you in the shoes of a former cop Mark Slater, whose father gets murdered while investigating a new designer drug D-Pain. Now is your chance to eliminate everyone involved with his murder, and everyone who had anything to do with the new designer drug. Be prepared to assassinate your targets one by one."
+  },
+  {
+    "id": 125112,
+    "genres": [
+      32
+    ],
+    "name": "In The Bag",
+    "storyline": "\u0027In the bag\" is puzzle game, where your main goal is to beat your coleague John,(who is very competative), in competition for employee of the month. \nYou will be abble to customise your character and just simply start your work journey. Your character is working in a small supermarket as a bag packer. Your job is to pack customers shopping into the bag as fast as possible during your daily shift. Each customer is different and comes with randomly selected events (mobility restriction, physics symulation,...) obstractles and increasing difficulty, which might test your strenght and deduction skills. There are three different abilities, which can help you to achieve your daily goals, but you have to earn them with hard work. \nYour goal should be to beath John and win title \"Employee of the month\" which comes with trophy and also your personal picture hanging by the main entrance to the supermarket."
+  },
+  {
+    "id": 31661,
+    "genres": [
+      32
+    ],
+    "name": "A Duel Hand Disaster: Trackher",
+    "storyline": "Every consecutive successful run will not only require a wager of your previous score but will also unlock a new tier with new challenges and a higher base score multiplier. If you reach your wager, upon a successful extraction, you will earn your wager as a bonus. You may leave before reaching the wager but you will not receive the bonus."
+  },
+  {
+    "id": 27944,
+    "genres": [
+      32
+    ],
+    "name": "Brainy Tree",
+    "storyline": "Brainy Tree is a simple, addictive word based game which helps to improve vocabulary with fun.     \n     \nIn this game tree has windows in which cow \u0026 other animals stay to help the player by dropping alphabets.      \n     \nThe player has to pick those alphabets to complete word which shown on board within a time limit.      \n     \nAfter word completion, meaning of the word gets displayed on the screen which is available in Hindi, Japanese, French, Spanish, Russian, German, Italian language.     \n     \nHow To Play :-     \n1. Firstly Player has to select the language in which they want meaning of words.     \n     \n2. After that for each level player have target to complete some words within the time limit. Word count \u0026 time limit is different for each level.     \n     \n3. Animal pops out from windows of tree \u0026 drops different alphabets continuously which helps the player.     \n     \n4. Player has to pick those alphabets to complete word.     \n     \n5. After word completion, the player is able to see meaning of word.      \n     \nFeatures :-     \n1. Meaning of words is available in Hindi, Japanese, French, Spanish, Russian, German, Italian language."
+  },
+  {
+    "id": 112873,
+    "genres": [
+      32
+    ],
+    "name": "CastleDay\u0027s WarHill",
+    "storyline": "TBA"
+  },
+  {
+    "id": 110427,
+    "genres": [
+      32
+    ],
+    "name": "Lake Kindred Origin",
+    "storyline": "Lake Kindred Origin is a monster collection game designed to be relaxing and fun. Level up your mystic tree, collect your own mythical creatures and make the scenery lively! Lake Kindred Origin is a beautiful, mystical habitat waiting for you to explore!"
+  },
+  {
+    "id": 103296,
+    "genres": [
+      32
+    ],
+    "name": "CryptoCoin, Inc.",
+    "storyline": "One day you leave your home and decide to start the adventure with cryptocurrencies in the barn next the your house. \nBecome a multimillionaire by upgrading your mining rig. Expand your empire to finally earn currencies in space! \nTake up the challenge and discover 3 worlds and purchase 15 different mining rigs. Develop each of them, buy capacitors, better contracts, catch mice and open boxes to earn extra cash. Become king of cryptocurrencies!"
+  },
+  {
+    "id": 125065,
+    "genres": [
+      32
+    ],
+    "name": "Build \u0027m up, Shoot \u0027m down!",
+    "storyline": "Build \u0027m up, Shoot \u0027m down is a challenging game, even hard to complete! \nYou\u0027ll play Army Guy who is on a mission to find all parts for his canon. These parts are scattered trougout 4 platformer levels full of traps and dangers. \n \nEvery level progresses in difficulty, each level contains added dangers such as swinging saw blades, steam traps and more! Be carefull, because you only get 5 lives to complete all 4 levels! \n \nAfter the 4th level you\u0027ll be facing the wrath of the skelletons. You\u0027ll get all 5 lives restored and you will be needing them! \nWhile Army Guy has gathered all parts for his canon, it gets reassembled but ... this is a slow process. \nPart by part is restored into the canon. In the meantime Army Guy will be attacked by hordes of skelletons, trying to prevent completion of his canon!! Can you fend them off? \nAs soon as the canon is Build, you\u0027ll be able to Shoot \u0027m Down with ease and you save the world! \n \nThis game has great speedrunning potential, you are invited to try and complete it as fast as possible. Maybe you can even challenge the world record!"
+  },
+  {
+    "id": 127979,
+    "genres": [
+      32
+    ],
+    "name": "T H E YV",
+    "storyline": "Fresh from the void, observe the idols of five forgotten gods. \n \nThis is an interactive art piece. Place tribute items into the spheres to awaken the gods. Watch them, listen to them, that is all."
+  },
+  {
+    "id": 127981,
+    "genres": [
+      32
+    ],
+    "name": "F I NA",
+    "storyline": "Along with its predecessors F I NA was a brief experiment in exploring my own thoughts and desires in a creative form. The game consists of walking through a small space of my creation reading entries from a virtual diary. One part confessional, one part art, and one part evocation, F I NA is a project I\u0027m relieved to be done with."
+  },
+  {
+    "id": 8586,
+    "genres": [
+      32
+    ],
+    "name": "Systems Nominal",
+    "storyline": "This is your ship. These are your people. Save them. From nothing."
+  },
+  {
+    "id": 106855,
+    "genres": [
+      32
+    ],
+    "name": "Nightmara",
+    "storyline": "A young reporter travels to a town to investigate police brutality. What she discovers could put her on the map if she can escape."
+  },
+  {
+    "id": 51693,
+    "genres": [
+      32
+    ],
+    "name": "The Lighthouse",
+    "storyline": "The Lighthouse takes place on February 19, 1964. You play as James Irvine, a former detective turned private investigator in the state of Maine. Irvine is a man who solves the problems that the city doesn\u0027t have the inclination to follow-up on, little less solve. Many of the lucrative cases that come to his office are from locals with various requests, from spouses looking to expose infidelity in their relationships to business owners looking to gather enough evidence to incriminate their partners. \n \nFebruary 19, 1964 is an important anniversary for Pt. Irvine as it’s the day he lost his first born, Lily, to cancer 7 years prior. Every year he visits her, placing a yellow lily and lit candle on her gravestone before watching it burn until extinguished. This tradition had never been broken - until today. As he packs to leave his office, candle in hand, he notices a letter slide under his door, the envelope marked: ‘Irvine.’ \n \nHe opens it and reads: \n \nMr. Irvine, \n \nMy daughter hasn\u0027t come home for 2 years, 4 months and 9 days. You see, she\u0027s missing. She was involved in the old lighthouse incident, you may remember her name - Lily. I\u0027ve asked the local authorities to look for her, but they haven\u0027t got a clue. They tell me horrible things that no parent should hear. They tell me to accept that she may have died. Worst, they tell me they can\u0027t help. I can\u0027t sleep until I know where she is, if she\u0027s safe, if she\u0027s scared, and if she\u0027s trying to come home but can\u0027t find home. Help me find her. Look for her at the Lighthouse, as that was her last known location. \n \nElizabeth Beaumont \n \nInside the envelope he finds an address and a single, yellow lily."
+  },
+  {
+    "id": 111128,
+    "genres": [
+      32
+    ],
+    "name": "Eternum Ex",
+    "storyline": "Sir Arthur has gotten old... too old. He has lost everything he had and loved, and with nothing more to lose he leaves for Samarnath, an evil subterranean kingdom (which no knight has ever returned alive) in search of treasures, adventures and the most important: five magical orbs that together provide: the Eternal youth. \n \nThanks to its progressive difficulty curve, and with a path divided into “worlds” of 5 levels each one, Eternum Ex is challenging, addictive and an ode to the nostalgia of the golden age of arcade games."
+  },
+  {
+    "id": 76419,
+    "genres": [
+      32
+    ],
+    "name": "Scream Varily",
+    "storyline": "The story is located in 2021 in Zulia, Venezuela. Byron is a young boy (24 years old) who has a degree in Chemistry and Biology, already obtained a job in Genetic Variation a genetic testing laboratory, which is free to make many variations and makes some very strange because the government has given him total availability of it, and has favored him to give him plutonium and uranium, Byron and his he Zeti (Biologist of 24 years) work there Involved in these genetic experiments are harmed to see horrific failures and terrifying finished experiments, and that\u0027s just the start the plan of its owner Giorgo Mezzatti (a 46-year-old Italian chemist, biologist, winner of the Nobel Prize for Medicine 2019) has indefinite reasons to do so and his daughter Karla (23 years) is Byron\u0027s girlfriend. After many failed experiments the number # 131 has presented changes happy changes that make this living being more complete to the failed experiments, his ability to breathe was effective, his lungs (if you can call it or respiratory system) were fed of Nitrogen which benefited its existence on earth. He did not need a female to reproduce he did it through the saliva but there must be another being like him and if the saliva interacted with the skin, it morbidly reproduced, this impressed Giorgo Mezzatti and he called it the successful Experiment \"Varily\". Byron and Zeti, who were indirectly involved in this experiment, knew that having this living thing was not the best idea since it had delusions of aggressiveness and hunger for raw flesh, however, they agreed to Orders at \"simple sight\". After completing a long series of experiments Byron and his friends returned home after leaving the city of Villa del Rosario (a city located south of Zulia) heading to San Ignacio, a town further south that has grown to measure of time and a lot, Byron lived in a fairly simple country house near a Forest and her friend Zeti lived more to the center of town through the square, one day she visited Byron to talk about some Test or tests they had done of the experiment Varily about their loyalty to the living beings, this worried them and they immediately called their boss but he paid little attention to them since he was happy with his experiment and his unhelpful plan, then the boss asks them on that same call - \" I thought you had experimented with 3, but I only see 2? \"- and this worried them more and answered Byron -\" If that\u0027s the way it\u0027s 3 we experienced boss with, please tell me it\u0027s a joke \"- The boss replied -\" No , Byron I only see 2 I think qu e to be in the laboratory for so long has made illusions, well I give congratulations and I have to go, Goodbye \"-. Concerned about the disappearance of that experiment, they returned to Villa del Rosario, after 2 hours of research and search of the experiment they decided to go home after not finding it, they rested and thought about the best."
+  },
+  {
+    "id": 71457,
+    "genres": [
+      32
+    ],
+    "name": "AWAY: The Survival Series",
+    "storyline": "A STORM IS COMING... \nSet in a distant future, a series of natural disasters threatens the survival of every species on the planet. As you venture deeper into the wilderness, do you have what it takes to make it out alive? \n \nInspired by nature documentaries, AWAY: The Survival Series is a 3rd-person adventure game that takes you on the Sugar Glider\u0027s breathtaking journey into the wild. \n \nAs cataclysmic storms bear down on the planet, you must travel across vast environments in search of safer lands. From the mighty treetops to the forest floor, immerse yourself in nature as you explore a vibrant world brimming with life, but beware of the dangers that await on your journey... \n \nIMMERSE YOURSELF IN NATURE \nWatch the world around you come to life as you explore a rich diversity of stunning environments and uncover the hidden life that lies deep within the forests, caverns, and swamps. \n \nBECOME THE SUGAR GLIDER \nSitting near the bottom of the food chain, the Sugar Glider makes up for its small size with superior agility as you jump, climb, and glide through your surroundings. \n \nEXPLORE A RICH ECOSYSTEM \nFrom tiny insects to mighty beasts, the world of AWAY is filled with animals of all shapes and sizes. But you must be cautious, as dangerous predators await in these troubled lands… \n \nENCHANTING MUSICAL SCORE \nHaving worked on hundreds of major game and movie soundtracks, including the Planet Earth II and Life nature documentaries, Mike Raznick brings his experience as a multi-award winning composer and audio director to AWAY with an enchanting orchestral score. \n \nABOUT BREAKING WALLS \nBreaking Walls is an independent game studio founded by industry veterans in Montréal. With decades of experience working on major AAA titles such as Assassin\u0027s Creed, Prince of Persia, and Far Cry, our team has spent the last three years developing AWAY."
+  },
+  {
+    "id": 17394,
+    "genres": [
+      32
+    ],
+    "name": "Hippocampal: The White Sofa",
+    "storyline": "You are an astronaut (M.kurt.C) taking some time off in orbit, enjoying your holidays, when suddenly from out of nowhere monsters crash into you and send you back to earth…\nWhat are you going to do? Take revenge for this cosmic attack? Find ways to keep relaxing? Prevent those creatures from attacking earth? It all depends on the trauma of the crash, right?"
+  },
+  {
+    "id": 27151,
+    "genres": [
+      32
+    ],
+    "name": "The Unseen Enemy 3D",
+    "storyline": "In the game, what player does is to trap different ghosts into different bottles according to the size. To do this, player has to select the correct bottle and go through the ghost.   \n   \nSince they are ghosts, they are not visible, but the sounds they emit will help the player to locate them and determine their parameters"
+  },
+  {
+    "id": 75400,
+    "genres": [
+      32
+    ],
+    "name": "Unearthed",
+    "storyline": "EXPLORE A WORLD OF DAUNTING IMMENSITY \n \nPlayers awaken in a vast citadel known as The Root. \n \nFrom there they can explore an open world with seamlessly integrated environmental regions. Or risk life and limb in the shadow lands beyond. \n \nScavenge for precious resources, battle for prestige in the Arena, or defend outposts against incursions from enemies. \n \n​With challenges to test and develop opportunities in inventing and crafting, as well as adrenaline boosting events and mental challenges, Unearthed is tailored to fit a multitude of play styles. \n \nSURVIVE \n \nIn Unearthed, survival is so much more than just hunger, thirst and temperature. \n​ \nAll environmental regions have their own threats which will contribute to the challenge to survive, with some inherently more dangerous than others. \n \nFalling rocks, fluctuating gravity, exploding flora, poisonous gasses and dangerous fauna will require players to approach each environmental region differently in order to reap from the riches of its resources and other rewards it may have to offer. \n \n \nTRADE AND CRAFT \n \nGather precious resources and sell them at one of many scattered outposts. The economy changes according to supply and demand. \n \nMake your living as a crafter or inventor, or make profit by selling stock on the markets: which fluctuate in response to player trades. \n \nTinker and build robots and other fanciful inventions. Acquire livestock and breed animals both exotic and familiar. \n \nPlayers can eke out a living without ever leaving The Root or the safe plains surrounding it. \n \nA CHANGING WORLD \n \nExpect Change. \n \nUnearthed has a dynamic world with a story which expands over time. \n \nOver months, forests might change with blights or fires. Deserts could be vastly changed by floods, creating new and strange terrain, or unearthing long lost ruins. Our goal is to provide a world that will immerse players in events that change the scope and dynamics of the game and instill a lasting feel of discovery."
+  },
+  {
+    "id": 124872,
+    "genres": [
+      32
+    ],
+    "name": "Overcooked! 2: Too Many Cooks",
+    "storyline": "Grab your aprons, fire up those stoves and assemble the tastiest team yet with this sizzling Chef pack...TOO MANY COOKS! \nWith the help of these 5 spicy new Chefs you’ll be chopping, frying and serving your way to culinary greatness in no time! They’ve got style, panache and the skills to match! \n \nIntroducing... \n• Monkey Chef: You’re sure to go bananas for their mouth-watering mayhem! \n• Calico Cat Chef: The height of good taste, this feline is sure to break hearts (and eggs!) \n• Walrus Chef: A kitchen veteran who knows their stuff - you’ll never find Walrus Chef fishing for compliments! \n• Purple Alien Chef: Make space for Alien Chef, whose cooking is truly out of this world! \n• Unicorn Chef: With their fantastical flavours and magical morsels, this Chef’s cuisine is the stuff of legend!"
+  },
+  {
+    "id": 116637,
+    "genres": [
+      32
+    ],
+    "name": "Junk Planet",
+    "storyline": "Clean up junk while bringing plants and creatures to life. \n \nFreely reclaim the Junk Planet in this 2D sandbox game. \n \nThe game takes place on Junk Planet, a planet that was bombarded with so much junk, it was completely ruined. It\u0027s here that a peculiar pair meet by chance and their story begins. \n \n■Resurrect the Junk Planet! \n \nClean up junk, bring plants and creatures to life, help spread water, or uncover dark areas. With many ways to enrich the planet, work to reclaim as much as you can! \n \n■Expand your area! \n \n\"On Junk Planet, each area is protected by a guardian. \n \nBringing down these guardians and expanding the area is Warashi\u0027s ultimate goal. \n \nReclaim the planet to make these guardians appear.\" \n \n■Master mysterious powers! \n \nWarashi can use mysterious powers, such as creating items from raw materials, changing the use of items, even talking to people far away! By giving Warashi a piggyback, the player can borrow these powers. \n \nEnjoy open-ended freedom! \n \nDig deep into the ground, fight in battles, build buildings, do whatever you want in this open sandbox game! \n \n■Play with a friend! \n \nShare a Joy-Con controller with a friend to play together, \n \none person controls Oni, and the other controls Warashi."
+  },
+  {
+    "id": 22217,
+    "genres": [
+      32
+    ],
+    "name": "Close Your",
+    "storyline": "As you look up, you see the oncoming car. It\u0027s too late. You close your eyes to brace for impact and time seems to stop. When you open them again, you are standing in front of Death himself…\nAfter signing away your life, Death sends you back to earth for one last visit. You now blink through your entire life, from the most mundane moments to the most vital. You learn to walk, struggle through school, face the monotony of work, meet the person you’ll spend the rest of your life with, and even raise a child of your own. \nSince blinking is an inevitable physical process, each of these vignettes is imbued with inherent tension. You may close your eyes on your first kiss, and open them at your wedding, or close your eyes on a fight with your mother, only to open them at her funeral. \nClose Your’s narrative branches by tracking how you behave in each scene, rather than presenting you with obvious moral choices. When sitting at the office do you do your work on the computer, or do you listen to an amusing co-worker’s joke? The game clocks these behaviors and the story adapts dynamically to reflect your unique disposition and values, your strengths as well as your flaws."
+  },
+  {
+    "id": 115359,
+    "genres": [
+      32
+    ],
+    "name": "Flea Madness",
+    "storyline": "Multiplayer game which shows you that there is no place without madness in the Flea universe. This story begins when the spacecraft crashes on an unknown planet. Two species of alien fleas destroy all life and then start fighting for the title of the most creepy creature in a world. Grown as a biological weapon, these insects live for the sole purpose - eating everything what moves. Choose which race you belong to and destroy other one with your team"
+  },
+  {
+    "id": 124222,
+    "genres": [
+      32
+    ],
+    "name": "Vampire Martina-Bloody Day 228",
+    "storyline": "The 17th Century, the era of Discovery, Dutch Formosa, which was the name of Taiwan. \nIn the period of Regering van Formosa then, thousands of European immigrants landed in Taiwan. Most of them were wealth seekers, yet few were doomed fugitive, who has flied to Taiwan for a new life. Being exiled from Europe as nomad, when Koxinga extruded the Dutch civilization out of Taiwan, those immigrants remained resident in Taiwan secretly. \nMartina the Vampiress, is one among those. Being divergent of Ethical issues with her father- an arch-vampire and then slain him, which caused the collapse of her lineage in the 30 years war. With the lost of Her wealth and legacy, she regretted her murderous deed, and imbecility that caused the liquidation of her hierarchy. As a victim, she recognized Europe with a broken-heart. \nTherefore, She Fled from Europe, as far as good. \nIn the 17th Century, the boundary of European colonization, is the Taiwan island. \nShe sneaked into a ship of Dutch East India Company and landed on Taiwan. \nHer motivation toward Taiwan was a peaceful everlasting seclusion with no conflict, nevertheless she met the opposite. \nGeometrically as a prime focus, Taiwan was the target of numerous conflict between the Strong Countries and Forces, suffered from foreign intrusion and colonization ever since the Era of Exploration. \nNo fairness and Justice lied under the Colonial Governance, hence the Taiwanese residents rose defiant toward to the domination repeatedly. \nSince 17th century to the 20th, over 200 incidents of Armored Struggle occurred in Taiwan along the 300 years. \nMartina has participated the Taiwanese resistance side at various times, for those outrageous policies, therefore, whenever her Taiwanese acquaintance strikes an action, she joined to them as always. \nThis time, in February 28th, 1947, for a massacre spread out on Taiwan by the Chinese Government, her rebellious story recurs. Oppose to the Modern Arsenal Chinese Troops, Martina rises to the liberality and Dependence of Taiwan."
+  },
+  {
+    "id": 16678,
+    "genres": [
+      32
+    ],
+    "name": "Grimm",
+    "storyline": "Once upon a time, fairy tales were valuable cautionary yarns filled with dire warnings and sage advice. However, over time, the stories have become so watered down with cute woodland creatures and happy endings that they have lost their true meaning and purpose. No more! This is American McGee\u0027s Grimm, and Happily Ever After ends now!"
+  },
+  {
+    "id": 109484,
+    "genres": [
+      32
+    ],
+    "name": "SphereKnight",
+    "storyline": "\"In the heat of the battle his body turns into a ball. \nThe one that possesses these mysterious powers is known as the Cosmos Apostle, and it is he who must stop the incoming invasion of chaos. \n \nThe ruined kingdom of Lebralia \n \nThose who dare enter this forbidden land are haunted by a ‘cursed mask’. \nSphereKnight now steps foot on this land ready to take on his mission as the Cosmos Apostle.\""
+  },
+  {
+    "id": 27672,
+    "genres": [
+      32
+    ],
+    "name": "TERRELA",
+    "storyline": "A man name daniel when comes from office finds his wife crying ,when he asks her she said that their daughter has not woke up since morining ! what happens afterwards is in game"
+  },
+  {
+    "id": 100651,
+    "genres": [
+      32
+    ],
+    "name": "Penny Black",
+    "storyline": "After finally plucking up the courage, you – the nameless protagonist – \nasked your school classmate out on a date. Her name was Penny Black, \na girl slightly shorter than most girls her age, with short black hair \nand bright blue eyes. \n \nTo your surprise, she accepted your proposal! The meeting point was just \noutside the Soma Cinema Complex, Saturday at eleven o’clock. This is where \nyour little adventure… or misadventure begins…"
+  },
+  {
+    "id": 131772,
+    "genres": [
+      32
+    ],
+    "name": "Make Me LAG",
+    "storyline": "You believe that running a game at over 120 FPS is smart? Well, you\u0027re WRONG! \n \nMake Me LAG is the first game that features a revolutionary new control scheme: your character actions are determined by the game FPS! Use external softwares and other tricks to lower the FPS count and control your character to defeat evil monsters and save the world! \n \nOpen too many tabs on your browsers, play other games simultaneously, hack the internet, we don\u0027t care what you do, as long as you make the game lag! \n \nMake Me LAG was created during the Internet Festival Game Jam of Pisa in 48 hours and won the first prize."
+  },
+  {
+    "id": 78490,
+    "genres": [
+      32
+    ],
+    "name": "Ashen Falls",
+    "storyline": "You play as Lucy \"Haze\" Williams, the game\u0027s main protagonist. \n \nIt\u0027s been more than a year after she lost her girlfriend in a fire and is taking the first steps to continue life without her. Lucy feels that a part of herself died in that fire, she struggles with her own identity and place in the world. In an attempt to leave her comfort zone and follow her passion for photography she embarks on a trip with a group of urban explorers to Ashen Falls. \n \nThe game blends aspects of classic horror games, with fresh ideas for exploration, puzzle solving and combat mechanics. Combined with a progressive plot, tackling issues not often explored within a gaming context, Ashen Falls is set to be a unique experience."
+  },
+  {
+    "id": 117141,
+    "genres": [
+      32
+    ],
+    "name": "Task Force Kampas",
+    "storyline": "The story revolves about a team of outcasts fighting for their future, who happened to be at the worst place during the Evil Invasion. Can you contain the breach? Can you save the whole universe before it becomes corrupted? More importantly, can you save your friends?"
+  },
+  {
+    "id": 28320,
+    "genres": [
+      32
+    ],
+    "name": "Battle Bruise",
+    "storyline": "Stay atop a mountain of corpses! \nFight numerous swarms of enemies, while dealing with the changing terrain. Explosions will create holes, while pile of corpses will form little mountains."
+  },
+  {
+    "id": 115735,
+    "genres": [
+      32
+    ],
+    "name": "Fallen Doll",
+    "storyline": "Ladies and gentlemen, our most valued customers and friends, a very fine evening to you! \nIt\u0027s the moment we\u0027ve long been waiting for - the grand opening of the Erotes Nightclub. \n \nIt is not only a place of comfort and luxury, but also a proving ground of a cutting-edge scientific achievement: \nthe state-of-the-art bionic humanoid robot codenamed Erika will be at your service to fulfill your wildest desire. \n \nThe recent breakthrough of synthetic tissue engineering has pushed scientific boundaries far beyond the imagination of our ancestors, \nand we are delighted to have you here to behold and enjoy such a special experiment: \n \nIs that possible to create a synthetic body indistinguishable from a real human? \n \nErika will be the answer. Will she be the Aphrodite we all lust for? Or merely another lifeless sex doll waiting to be disposed of?"
+  },
+  {
+    "id": 26886,
+    "genres": [
+      32
+    ],
+    "name": "Fallen Sanctum",
+    "storyline": "With many skills, quests and achievements what\u0027s there to miss. Come join all your friends in the epic battle against mankind\u0027s worst nightmare. Raise guilds and fight against the most epic monsters on the planet and go on the worlds deadliest adventures beneath the Earths crust and find some of the rarest items! Can you make it to the top? Above all your friends!? Do you have what it takes to beat the best?"
+  },
+  {
+    "id": 131748,
+    "genres": [
+      32
+    ],
+    "name": "Monster Girl You-Ki Chan",
+    "storyline": "Brave Pudding, once one of the most powerful elites in the demonic world, felt that the days of blood and slaughter in the demonic world were useless to her. \nOne day she learned the love of humanity and the splendor of goodwill, escaped from the demonic world, changed her name to \"You-ki\" and lived as a human. \n \nBut her appearance was a demon, and people did not believe her and threw stones in fear of her. Nevertheless, she worked hard every day to live correctly as a human. \n \nOn the other hand, humans have gradually lost their conscience, contrary to gaining peaceful and material wealth. In an atmosphere more malicious than good, the \"monster army\" of the demon world suddenly appeared on the ground. \n \nMonsters were too strong for them. \nThe world was dominated by monsters, leaving only the last island nation on the eastern tip. \n \nThe You-ki of the \"Small Island Country of the Eastern Gods\" has the courage to fight the monster army to save the human world."
+  },
+  {
+    "id": 33669,
+    "genres": [
+      32
+    ],
+    "name": "Sudoku Quest",
+    "storyline": "Sudoku Quest is the game for truly Sudoku lovers. You’ll be challenged to test your skills in Adventure mode with constantly increasing board difficulty. Various Sudoku types and sizes are provided to diversify your adventure experience. In case you want to practice in solving certain Sudoku you can play Custom mode."
+  },
+  {
+    "id": 124995,
+    "genres": [
+      32
+    ],
+    "name": "Pox",
+    "storyline": "200 years in the future, the sprawling city-planet of Pox is the hub of all interplanetary commerce and culture. It\u0027s beauty can only be experienced in person, and opportunity awaits any and all that visit it\u0027s surface. ....At least, that\u0027s what the travel ads always say. \n \nOn your 18th birthday, you decide to move out of your parents\u0027 house and make your own way in the universe. You bought a ticket with the money you\u0027ve saved up, and set out to start a new life on Pox. But things just don\u0027t seem to go your way. Pretty soon you find that the acclaimed \"Paradise Planet\" is definitely not what it\u0027s hyped up to be."
+  },
+  {
+    "id": 28304,
+    "genres": [
+      32
+    ],
+    "name": "30th Century Post Office",
+    "storyline": "The Earth Transit Authority, trying to cut costs has hired you to perform tasks once performed by a more expensive robot. It is your job to sort Proprietary Units for Transport and Containment, objects created by the ETA to simplify transportation of goods all around the world. But your task will not remain so simple, as the ETA continues to increase your workload, and their profit margins. \n \nIn light of humanity\u0027s newfound importance, a small group of new employees are taking advantage of the situation to try and topple the status quo. Assist your fellow humans by moving the resistance\u0027s equipment, or maintain the status quo, siding with your robotic overlords. The choice is yours."
+  },
+  {
+    "id": 115033,
+    "genres": [
+      32
+    ],
+    "name": "The End of Us",
+    "storyline": "\"The End of Us\" was designed to evoke friendship, attachment, and affinity without overt narrative. The orange comet\u0027s behaviors - introducing itself with a walloping hello, then running away can-you-catch-me style, circling around you for attention or chasing after the stars (what do those do, anyway? Do you just want them because Orange does?) - are intended to endear. It might not arise directly from the actions (Orange spends a non-trivial amount of time bashing into you after all) but emerges from the familiarity of friendship, good and bad, and the hollow that arises after one-to-one attention vanishes, permanently, for whatever reason. \n \nAs you grow and age and eventually start to fade alongside your friend, you come upon an asteroid belt that chips away at both of you. Your final (only?) choice in the game is who will take the fall, and who will have to suffer a solo existence after."
+  },
+  {
+    "id": 27647,
+    "genres": [
+      32
+    ],
+    "name": "Tap Tap Blocks",
+    "storyline": "You need escape from the opponent locks in order make a high-score and challenge your friends"
+  },
+  {
+    "id": 122665,
+    "genres": [
+      32
+    ],
+    "name": "CupCakoon",
+    "storyline": "Game\u0027s story still in progress. \n \nMy story developing the game: \n \nI started, believe it or not, creating an MMORPG, but luckily my wife saw it was very complex and told me to create something smaller, and I quote \"what about a CUPCAKE THE JUMP THROUGH CLOUDS?!?!?!?\" \n \nAnd here we are! :D"
+  },
+  {
+    "id": 121738,
+    "genres": [
+      32
+    ],
+    "name": "Damaged In Transit",
+    "storyline": "Split your attention in Damaged In Transit! This mind-bending action-puzzler will leave you cross-eyed as you juggle two mindless delivery drones and help them ship their precious cargo. Weather the many dangers and obstacles you face across 125 levels, and embrace the miracle of automated delivery!"
+  },
+  {
+    "id": 16668,
+    "genres": [
+      32
+    ],
+    "name": "Dark Matter",
+    "storyline": "Out of breath, you run into the door, slamming against its cold metal surface. The clicking of scuttling claws recedes into the distance, swallowed by the pitch black oblivion behind you. You know better than to feel safe. There are too many infested at your back, and another blank metal door ahead. With a quick reflex you check your ammo supplies, and slot a fresh magazine into your shotgun. With a quicker prayer, you flick the switch and open the door. The metal jaws open on endless night you don’t dare pierce with your flashlight, not to disturb those things that live in shadow. By the pale bioluminescence that washes up from the floor grates, you piece together the picture of a corridor, and what could be a stretch of exploding pods. Just beyond, the silhouette of a fully grown crawler stirs. \n \nGrinning in the dark, you turn on the weapon’s flashlight, and point it straight down the corridor. Predictably, the blisters swell up to full irritation, ready to explode at the slightest touch. The crawler turns to hiss at you, instantly aroused by the light, and your presence. In your mind’s eye, it dumbly rushes forward into the blister pods to kill itself, saving you precious ammo. \n \nIt takes a precious moment to adjust to reality when the sleek shape crouches and jumps towards you instead. There is time for just one panicked shot before the inevitable flight, as you run for your life, barely keeping ahead of the claws slashing for you. In a moment of adrenaline-fuelled inspiration, you slam the wall panel as you retreat past the chamber’s door. The heavy, powerful mechanism smoothly slices the crawler in half just before the critter can reach and disembowel you. There is no time to congratulate yourself, as you hear a familiar hissing from above..."
+  },
+  {
+    "id": 28119,
+    "genres": [
+      32
+    ],
+    "name": "Space Captain vs Mega Robots",
+    "storyline": "Help Space Captain crashing all the robots ."
+  },
+  {
+    "id": 114775,
+    "genres": [
+      32
+    ],
+    "name": "Autumn\u0027s Journey",
+    "storyline": "The world of Ishtera is populated by two races: dragonkind, who have lived there for eons, and the heavenkind, who have recently appeared. \n \nAuralee, an aspiring knight from the farming town of Berri, stumbles upon something unexpected during one of her patrols. After a rather inelegant introduction, Kerr states he\u0027s really an Earth Dragon - one of the mystical beasts that inhabit their world, Ishtera. Whether he likes it or not, Auralee is now involved in his mission to regain his dragon form. Along with some help by a fellow dragonkind named Ilmari, their journey begins..."
+  },
+  {
+    "id": 90247,
+    "genres": [
+      32
+    ],
+    "name": "Huey",
+    "storyline": "Help Huey rescue his girlfriend from the evil tiki tribe and their ruler Tiki Kong who holds Huey\u0027s girlfriend captured in his vicious castle."
+  },
+  {
+    "id": 119840,
+    "genres": [
+      32
+    ],
+    "name": "Dancing Girl",
+    "storyline": "There is no story for this Casual Game, Just enjoy throwing rubber balls on Bikini stripping Hotties."
+  },
+  {
+    "id": 128303,
+    "genres": [
+      32
+    ],
+    "name": "Submersed",
+    "storyline": "Jack Ballard, paramedic of the Miami maritime rescue service, recently incorporated to work after the death of his wife, arrives, following a mayday call, at a strange offshore facility, where he will have to use all his skills to get out alive."
+  },
+  {
+    "id": 125116,
+    "genres": [
+      32
+    ],
+    "name": "Cave of Illusions",
+    "storyline": "Deciding to combine her personal and professional life, Lesley returns to Looninville to close the mystery and move forward in life with her daughter. Lacking to find any concrete evidence or input from the skittish locals, Lesley returns to the one place that appears to be at the center of these strange occurrences, a cave. The uneasy problem with this, is that Lesley does not remember there ever being a cave at all. \n \nCave of Illusions is a psychological, atmospheric horror game that will have you questioning every step taken as the reality around you will begin to shift. Things are not always as they seem, even when witnessed with the naked eye, and one must pursue the constant battle of the mind with remembering what you think you know and understanding what you actually know. How long can one wear the mask of sanity?"
+  },
+  {
+    "id": 113361,
+    "genres": [
+      32
+    ],
+    "name": "Behind The Beyond",
+    "storyline": "The Behind The Beyond \" is a thriller mystery Game which tells the story about a agent who is a victim of his own hallucinations. Through out the game he is perplexed between his dreams and reality. \n \nAs the game goes on, you would be thrilled with the experience. The best feature about this game is Stealth mode gameplay, where player can finish the game using his/her own tactics and skills to finish the level. There are no rules, you can use your own mind and complete the game. \n \nYou are on your own, you know everything, and yet nothing!! \nYou will be captivated throughout!! \n \n \nKey Features \n \n \n. Mystery Thriller \n \n. Deep Story \n \n. Will be released in part wise \n \n. 3 characters to play according to story"
+  },
+  {
+    "id": 52432,
+    "genres": [
+      32
+    ],
+    "name": "Stream Avatars",
+    "storyline": "-Create content at the request of your loyal viewers or have your viewers help create content for your stream \n \n-Use Premade Avatars/Gear created by other game developers and artists \n \n-Create your own Avatars/Gear by importing your own assets \n \n-Persistent Data - viewers that visit your stream and customize their avatar will have it stored for the next time they visit your stream"
+  },
+  {
+    "id": 28415,
+    "genres": [
+      32
+    ],
+    "name": "Fighter of Evil",
+    "storyline": "Near future. Emergency call to the service of fighters against evil spirits. Our hero responds the call and goes to the hotel where rules great evil, which enslaved entire staff. Ordinary clients were taken hostage as well."
+  },
+  {
+    "id": 54646,
+    "genres": [
+      32
+    ],
+    "name": "Step By Step",
+    "storyline": "Do you want to go up the BigBen ? \n \nCan you want to step up the 63 Building ? \n \nDo you want to go up the Empire State Building ? \n \nJust PLAY it NOW !"
+  },
+  {
+    "id": 131948,
+    "genres": [
+      32
+    ],
+    "name": "Domin\u0027Ant",
+    "storyline": "Domin\u0027Ant is a confrontational game between Gerard, a 40-year-old, living alone in his run-down house, and Cassandra, the ant who will do anything to burn the house down. \n \nCASSANDER, Kick your inverted self out of his house! \nUse your communication skills and the strength of your companions to loot and take possession of Gerard\u0027s house. But beware of Gerard because his soles will not hesitate to reduce you and your ant-hill to mush. \n \nGERARD, EVERYTHING IS PERMITTED TO DEFEND YOUR TERRITORY \nWhether it\u0027s scotch, your sole, a book, or your last bottle, all the tools are good to defend you from cassandra and its anthill that want to ravage your home."
+  },
+  {
+    "id": 26835,
+    "genres": [
+      32
+    ],
+    "name": "Aliens Go Home Run!",
+    "storyline": "Aliens Go Home Run puts you in the shoes of Sally, a young girl with a passion for baseball. When she hits a home run so hard that it flies into space, it crashes into a faraway planet and creates a crater in the process. Now, the aliens from that planet are invading Earth, and its up to Sally to save the day!"
+  },
+  {
+    "id": 115853,
+    "genres": [
+      32
+    ],
+    "name": "Save Your Camp",
+    "storyline": "Protect your camp from large armies of zombies in various ways. They do not miss the chance to get the brains of your friends."
+  },
+  {
+    "id": 117200,
+    "genres": [
+      32
+    ],
+    "name": "Puzzle Pelago",
+    "storyline": "\"Puzzle Pelago - A Drag \u0026 Drop Economy\" is a game where you lay out a network of goods production such that goods end up right where the islands\u0027 inhabitants need them. \nThe player builds roads and workshops simply by dragging and dropping from existing buildings or resources. Resources can also be combined to produce more advanced goods. \nTouch controls with haptic feedback - as well as fluid and responsive animation - make Puzzle Pelago a fun game to interact with. \nWith each island being its own puzzle, there are more than 50 puzzles of increasing complexity in the game right now, with more content to come. \nThe game is cheerful with its uplifitng theme of helping and rebuilding, as well as colorful and clean presentation."
+  },
+  {
+    "id": 115127,
+    "genres": [
+      32
+    ],
+    "name": "El Taco Diablo",
+    "storyline": "Only your accuracy and speed will help you survive endless waves of enemies. \nIf your skills are high enough, survive and face \"El Diablo\" himself. \nCompete against your friends or on a global scale, where every second matters. \nPractice split-second decision making or just warm up before going into battle with your favorite action game."
+  },
+  {
+    "id": 117546,
+    "genres": [
+      32
+    ],
+    "name": "eBall",
+    "storyline": "eBall is an old-school multiplayer arena shooter with high speed gameplay and a minimalistic look. An old school rocket and grenade in combination with rattling speed gameplay and predictive air shoot of a classic arena FPS with the power of modern gaming technology. The game combines the simple and intuitive mechanics of old-school FPS and If you had spent your youth smashing your friends in Quake III Arena or Unreal Tournament, then eBall is what you’ve been missing. \n \nOld school rocket jumps bring the speed of the gameplay to a new level, like it used to be in old 90’s. To adjust the balance you will also have a unlimited grenade in case your enemy is air striking you from the sky. Five different maps are introduced to dominate your friends and opponents. It is time to show your friends who is the best eBall ever! \n \nFeatures: \n- Maps - Enjoy 5 different maps. \n- Play like in 2000\u0027s - No classes. Your loadout is rocket, grenade and your own skill. \n- 4 players Smash your friends in deathmatch. \n- Physical based movement Your character have momentum. \n- 100hz network refresh rate"
+  },
+  {
+    "id": 70297,
+    "genres": [
+      32
+    ],
+    "name": "X-Change",
+    "storyline": "The main character is Takuya Aihara, a junior college student. One day, while cleaning some shelves in the chemistry room, he spills a chemical on himself and is transformed into a girl. The game has seven different endings; in some Takuya remains a woman, in others he returns to being a man."
+  },
+  {
+    "id": 130132,
+    "genres": [
+      32
+    ],
+    "name": "Goblin Summer Camp",
+    "storyline": "Welcome Young Goblin Camper to your first summer camp. Run around with all your Goblin friends and play multiplayer mini games in a low stakes environment. This casual game focuses on large group multiplayer action that is fun for all ages."
+  },
+  {
+    "id": 131631,
+    "genres": [
+      32
+    ],
+    "name": "Umurangi Generation",
+    "storyline": "Edit your photos and develop your unique colour grade. The tools in the game are flexible enough that you can touch up your photos to look better than when you took them. If you are an experienced photographer you’ll fit right in. If this is your first time, you’ll be on your journey in no time."
+  },
+  {
+    "id": 116636,
+    "genres": [
+      32
+    ],
+    "name": "Cure Hunters",
+    "storyline": "In the year 2078 a mysterious meteorite hit the surface of the earth. The impact caused the meteorite to release a virus which infected most of earth\u0027s population. General \"Vaccinez\" quickly formed a squad of Cure Hunters who set out to find an antidote. \n \nOne of the recruits, \"Dr. Dellton\", has been sent on a mission to cure an area of infected. And so the adventure begins. \n \nWill you save the earth? \n \nFeatures : \n* Awesome action-paced platformer \n* Collect a variety of characters with unique guns \n* Beautiful pixel art graphics \n* Retro music by Moose"
+  },
+  {
+    "id": 116069,
+    "genres": [
+      32
+    ],
+    "name": "Gyro Boss DX",
+    "storyline": "Your home planet is under siege from a band of intergalactic pirates led by the fiendish Gyro Boss! \n \nUnfortunately your technology is no match for this deadly beast and his crazy weapons. Every game is doomed from the start, but you\u0027ll fight with honour to complete your mission objectives and achieve the best possible score. \n \nDodge an endless assault of weapons as you orbit around the boss on a fixed circle, it\u0027s not as easy as it looks. Can you secure bragging rights as the best space pilot to bite the dust against the alien menace?"
+  },
+  {
+    "id": 102135,
+    "genres": [
+      32
+    ],
+    "name": "Chasing the Stars",
+    "storyline": "After building some satellite cities as a test, the Earth is finally terraforming its first colony, the planet Alaya. \n \nTirs Abril has always dreamt of going to space, and now he\u0027s determined to take part in the colonization. Following his dream, he\u0027s currently studying the last year of Environmental Engineering in college. \n \nAfter breaking up with his boyfriend, he finally finds his sought-after chance: working as a scholarship researcher with Professor Marc Rossell, a prominent figure in the field of Environmental Engineering, and right now in charge of building the dome that will cover the inhabitable part of Alaya. However, Tirs soon will find out things are more complicated than he thought and his path won\u0027t be precisely a rose garden. \n \nHow much is Tirs willing to sacrifice to pursue his dream? What risks or actions is he going to deem acceptable to achieve his goal? Will he reconsider his options or advance as an unstoppable force, no matter what? His decisions are up to you!"
+  },
+  {
+    "id": 128094,
+    "genres": [
+      32
+    ],
+    "name": "Reek",
+    "storyline": "Reek is a freaking game with a lot of poo in it. \n \nYou\u0027ll experience what it\u0027s like to have nightmarish diarrhea that\u0027s so intense that it\u0027ll serve as your engine and help you overcome gravity. Your goal is to defile every corner in all levels with your feces. \n \nBeware of the janitors who will try to clean your lovingly mucked up areas. Also, lots of traps and enemies will make your life difficult and try to prevent you from making the perfect mess."
+  },
+  {
+    "id": 36502,
+    "genres": [
+      32
+    ],
+    "name": "Passage",
+    "storyline": "A representation of your own life\u0027s story."
+  },
+  {
+    "id": 76236,
+    "genres": [
+      32
+    ],
+    "name": "My Uncle Merlin",
+    "storyline": "My uncle Merlin is an upcoming interactive adventure regarding wizards in space. \n \nIt is a tale of a young man, his uncle, and their unconventional journey through the vast unknown, on an unrelenting, dragon-propelled wizardly tower."
+  },
+  {
+    "id": 116959,
+    "genres": [
+      32
+    ],
+    "name": "Beatdown Dungeon",
+    "storyline": "Beatdown Dungeon is a hybrid between dungeon crawler RPGs and fast-paced 2D fighting games. Travel through randomly generated dungeons, find treasure and fight all kinds of weird monsters. The combat is inspired by games such as Guilty Gear or Under Night In-Birth. Controls are easy to grasp and combos allow for creativity, with a lenient cancel system and the ability to summon helper characters . Develop your own fighting style by equipping badges to modify your skills and creating your own Custom Demon fighter. \n \nThis is the game\u0027s finished, released version. All characters, dungeons and features are included. Thanks to everyone who played the previous versions and offered their feedback! \n \nFeatures: \n \nSix regular playable characters \nCustomizable \"Custom Demon\" character. Select their playstyle, moves and appearance yourself! \nFour dungeons, plus one post-game challenge dungeon. \n20 badges to adjust your character\u0027s playstyle and give them new moves. \n20 helper characters to aid you in battle. \nA bunch of items to help you out in tight situations. \nLenient combo system: you can cancel into any move as long as it is stronger than your previous one. All moves only require button presses and directional inputs. No quarter-circles needed. \nTraining Mode and 2 Player Versus Mode. \nIf you want to learn more about the game\u0027s combat, download the battle_instructions.txt file. \n \nThe game has been tested on Windows 8.1 and Windows 10. \n \nXBOX 360 Controllers and PS4 Controllers (recommended) alongside keyboard controls are supported."
+  },
+  {
+    "id": 72321,
+    "genres": [
+      32
+    ],
+    "name": "Puppet Fever",
+    "storyline": "The players are puppet masters trying to impress each other with their acting abilities."
+  },
+  {
+    "id": 36669,
+    "genres": [
+      32
+    ],
+    "name": "Lesson - The Game",
+    "storyline": "Lidoriki region is a small village which is abandoned since 1980 and the villagers disappeared. \n \nA year since then, the houses began to flood as the water level rose a little higher. There was no one there so the flood destroyed the buildings. \n \nThe only building that was not demolished it was the school because it was higher than the other buildings. Thousands of rumours about this school was heard all over Greece, but no one ever had the guts to go and find the truth. Ethan Sawn, a researcher sacraments, in November 2016, heard about the place and he decided to go and do some research. \n \nAs a manager in his office had let Rick Asel, his best friend, who after spending a week and Ethan did not appear, \n \nhe went to find him. But Rick didn\u0027t know what was going on there..."
+  },
+  {
+    "id": 129116,
+    "genres": [
+      32
+    ],
+    "name": "Oddria!",
+    "storyline": "You are an explorer of Oddria who left for a mysteriously uninhabited island in search of tremendous treasures. Collect resources to build your outpost and use a compass to find hidden ancient treasures. \n \nWATCH OUT! Your competitors will keep chasing you to steal your valuable treasures. Protect the treasure until a returning ship comes, all the adventures will be an enchanting story you can show off friends when going back to your country, Oddria."
+  },
+  {
+    "id": 25947,
+    "genres": [
+      32
+    ],
+    "name": "ICARUS.1",
+    "storyline": "Abandoned for decades, crew MIA, the ICARUS.1\u0027s job was to store mined minerals from the systems outlying planets and perform research duties. Orbiting the local sun to maintain it\u0027s solar energy and live up to its namesake, it provided a lucrative business for JME corp.\n\nAfter contact was lost no rescue attempt was ever made with the stricken station, instead the project was mothballed along with its precious cargo - a cover up some may say.\n\nMany stories about what happened have become lore but Sam isn\u0027t focusing on these \u0027stories\u0027, the goal is the cargo and the wealth it will bring."
+  },
+  {
+    "id": 113897,
+    "genres": [
+      32
+    ],
+    "name": "Bleep Bloop",
+    "storyline": "Play alone controlling both characters or share the experience with a friend. Bleep Bloop is extremely easy to learn, but that doesn’t mean the puzzles will be a piece of cake."
+  },
+  {
+    "id": 107219,
+    "genres": [
+      32
+    ],
+    "name": "Hamsterdam",
+    "storyline": "\"The once peaceful town of Hamsterdam is in danger! The vile chinchilla Marlo and his Rodent Gang are wreaking havoc and terrorizing the town. Enter our hamster hero, Pimm, who must harness his mightiest martial arts powers and kick tail through district after district, on a heart-pounding journey to take down the Rodent Gang, save his grandfather, and restore peace to Hamsterdam.\""
+  },
+  {
+    "id": 115316,
+    "genres": [
+      32
+    ],
+    "name": "Aurore: Five Princes",
+    "storyline": "You play as Daphne (customizable name) Marshall, a normal teenage girl. On the eve on your eighteenth birthday, you discover that not only are you a witch, you are the new empress of the fae. \n \nBut danger lies in wait, and you have only a few short weeks to master your power and defend your empire."
+  },
+  {
+    "id": 28269,
+    "genres": [
+      32
+    ],
+    "name": "The Uncertain: VR Experience",
+    "storyline": "I am a robot. The Earth is inhabited only by artificial life forms now, like me. We formed a perfect society. Our co-existence is harmonious: robots don’t fight in wars, robots are logical. The human race lived before us on the Earth. Humans were emotional and unpredictable. They created chaos all around. Their military conflicts ended up in mutual extermination. The only thing that reminds of them today are their belongings: equipment, houseware, objects of art. We find these things and utilize them efficiently…"
+  },
+  {
+    "id": 121363,
+    "genres": [
+      32
+    ],
+    "name": "Run! Bunny",
+    "storyline": "There are many small animals living in a coastal town, there was a peaceful life. But now, all is being controlled by baddy devil, and the town is full of danger and risky. You are a bunny name of Mr. Tiny Green, came out to find some carrots to eat and found the devil, decide to do something about it to restore peace."
+  },
+  {
+    "id": 131857,
+    "genres": [
+      32
+    ],
+    "name": "Isle Of Spirits",
+    "storyline": "Isle of spirits is a survival game in which your character has stranded on a mysterious uninhabited isle. Build your home, survive, and fight against microclimates or supernatural phenomenons. The isle will be your home and your enemy: it offers all resources to live, but it is also full of terrible dangers."
+  },
+  {
+    "id": 116562,
+    "genres": [
+      32
+    ],
+    "name": "ArmZ VR",
+    "storyline": "Welcome to a world where technology has sealed our fate and finally led to the World War. Those of us who made it are now living in ruined cities behind steel gates that separate the cities from one another and from deadly creatures roaming the wastelands. The only thing that stands between us and them are the remotely controlled war machines called ARMZ. But no machine, no matter how powerful, would be of any use without YOU, its operator. \n \nArmZ VR is a hellishly dynamic wave shooter that allows you to become one with a huge, heavily-armed Battle Mech! Your goal? To guard the city walls against constant attacks of horrifying human-machine hybrids. Be sure they’ll use all their skills, weapons and won’t hesitate to sacrifice their life when needed, as unlike any living being, they’re not driven by a self-preservation instinct but pure will to kill."
+  },
+  {
+    "id": 127980,
+    "genres": [
+      32
+    ],
+    "name": "N O NB",
+    "storyline": "Fresh from the void, observe the idols of spectral extremities. \n \nThis is an interactive art piece. Place tribute items into the spheres to awaken the idols. You may not like what they have to say at first, but persistence is the key to acceptance."
+  },
+  {
+    "id": 106822,
+    "genres": [
+      32
+    ],
+    "name": "Bloodroots",
+    "storyline": "* A world overflowing with tons of unique tools that not only change the way you fight, but how you get around \n* Improvise the most deadly combos and compete for fame on worldwide leaderboards \n* Fight your way through a variety of hand-crafted levels, from forests to mountaintops  \n* Experience a twisted Western revenge tale with a deranged cast of characters"
+  },
+  {
+    "id": 122106,
+    "genres": [
+      32
+    ],
+    "name": "Super Naughty Maid 2",
+    "storyline": "Leona, your cute and lewd maid is back for more in Super Naughty Maid 2! \n \nWith her services coming to an end, she wants to see how her beloved master has improved as she puts him to the test."
+  },
+  {
+    "id": 128284,
+    "genres": [
+      32
+    ],
+    "name": "DonDon Busters!!",
+    "storyline": "KICK, PANCH, BALLOOM!! BATTLE IT OUT WITH YOUR FRIENDS!!"
+  },
+  {
+    "id": 43086,
+    "genres": [
+      32
+    ],
+    "name": "Dreamals: Dream Quest",
+    "storyline": "Three wounded and homeless animals happened to enter Dreamland. Will they be able to find the lost treasures of Dreamland and save the world? \n \n\"And will their wishes to regain their health and go back home safely come true?\""
+  },
+  {
+    "id": 99651,
+    "genres": [
+      32
+    ],
+    "name": "The Last DeadEnd",
+    "storyline": "In this game, we play the role of young scientist Farhad Novruzov, who returned to his homeland to help in filming a documentary movie for an international television channel. Here he faces strange events connected with the ancient religion of Zoroastrianism and the scientist has to find out the reason of these events."
+  },
+  {
+    "id": 126148,
+    "genres": [
+      32
+    ],
+    "name": "Avalo Legends",
+    "storyline": "The greatest tournament in the galaxy opens its doors once more. Avalo, located in the distant galaxy of Ishka, is a frantic melee match that takes place in Khot, the capital of the galaxy and a technologically advanced city with a unique coliseum in the world."
+  },
+  {
+    "id": 127768,
+    "genres": [
+      32
+    ],
+    "name": "Zom Nom",
+    "storyline": "Play as Barry, a brain munching, gob spitting, slap happy Zombie. Spit and Slap your way through the streets and sewers to take on the President of the World. Claim your place as Ruler of all Human and Zombie-kind."
+  },
+  {
+    "id": 113545,
+    "genres": [
+      32
+    ],
+    "name": "Metaloid : Origin",
+    "storyline": "Metaloid: Origin is an fast-paced gun’n run 2D platformer. Take on the role of one out of three android warrior\u0027s known as “Predator” and dash through 9 different levels in order to save their planet from an robot army led by Lucian Corp, whom invade their planet and exploit the planetary resources to fuel their galactic war efforts. \n \n \n \n[3 Playable Characters Available] \nChoose and play as one from three characters which all offer different set of abilities and weapons!, Play as Erika and flood entire screen with barrage of bullet fire, alternatively reduce giant enemies to ashes in the blink of an eye as Zeta using atomic thunder or fly as Neva across the level equipped with jetpack to bring aerial doom. \n \n \n \n[Dash through 9 levels with unique tileset theaters and gameplay mechanics] \nFrom waterfall cave to scooter interception in desert, riding cart in volcano mine and fighting a giant walker on a snow field. \n \n \n \n[Collect Soulrium and unlock new equipment] \nCollect Soulrium gems from levels and enemies, then use them to purchase new weapons and unlock new powers from anywhere in the game by simply opening pause menu, however some upgrades will require more than Soulrium to unlock them. \n \n \n \n[Difficulty Settings] \nMetaloid: Origin features 2 difficulty settings to choose from for the player, some gimmick or enemies would function differently depending on which setting you did choose. On the hard difficulty mode enemies would move faster, deal more damage or even gain new attack type."
+  },
+  {
+    "id": 119037,
+    "genres": [
+      32
+    ],
+    "name": "Super Naughty Maid",
+    "storyline": "Have sex with this Hottie Cute Maid, who personally teach you how to fuck in many ways."
+  },
+  {
+    "id": 27087,
+    "genres": [
+      32
+    ],
+    "name": "House of Velez",
+    "storyline": "Lily Velez, daughter of famous archaeologist Victor Velez, returns home to her family\u0027s estate following news of her father\u0027s sudden disappearance. Intent on finding clues to her missing father\u0027s whereabouts, and evidence to prove his innocents involving a scandal within his company, Lily begins her search. However, she is about to uncover something that will take her far beyond her own investigation. Something that will force her to fight for her very survival. Follow Lily into her own worst nightmare as she uncovers the dark and sadistic history that lies within the walls of the House of Velez."
+  },
+  {
+    "id": 28263,
+    "genres": [
+      32
+    ],
+    "name": "Don\u0027t Get Hit In The Face",
+    "storyline": "Don\u0027t Get Hit In The face is a movement-based active virtual reality game. Do whatever you need to do... duck, weave, dodge and crawl... just don\u0027t get hit in the face! Taking gameplay influences from old-school arcade games and combining that with room-scale VR, DGHITF is as simple as it sounds, and that\u0027s what makes it fun. \n \nDon\u0027t Get Hit In The Face includes 4 game modes of increasing difficulty, and an awesome 13 song soundtrack. It\u0027s fun on its own as VR arcade game, and is also an excellent addition to a VR workout regimen."
+  },
+  {
+    "id": 30478,
+    "genres": [
+      32
+    ],
+    "name": "Able Black",
+    "storyline": "Able is a lonely android struggling with his Citizenship Exam, a test he must pass if he doesn’t want to be shut down. Follow Able as he searches for purpose and a way out of isolation. Discover the secrets of Ark 19, an underground habitat designed to save humanity from disaster. Find out why Able has been left alone in the ark. Uncover what’s hidden there. Take the Citizenship Exam and discover who Able Black really is."
+  },
+  {
+    "id": 102832,
+    "genres": [
+      32
+    ],
+    "name": "Baldi\u0027s Basics in Education and Learning",
+    "storyline": "Baldi\u0027s Basics in Education and Learning is a state-of-the-art, fully 3D interactive, fun-time educational game that teaches a slew of subjects! From math to spelling, you\u0027ll learn a lot! Meet Baldi\u0027s frien̸d̷s̴ ̶a̴l̸o̵n̶g̸ ̵t̵h̴e̸ ̴w̴a̶y̴,̵ ̶e̴͕̎x̴͉́p̶̜̈́e̶͉̾r̴̢͋i̷̲͒m̵̪̆e̴̬͌n̶̝̑t̸̰̏ ̶̟͊ẁ̶̲i̷̫̍t̶̡̉h̸̢̔ ̵̜͝i̷̘͊t̷͉͘ẻ̴̤m̸̗͇̋͊̿͑̃͊͜ŝ̷̳̜̬̃͛̎͝,̵̖̔ ̵̠̉̈́̽̓̃̑a̴̻̟̒̃́̋͘ň̴͙͉͖̳̺͌̇͌͠ͅd̵͉̒̍̿́̂͗ͅ ̶̧̥͉̬̹̬̾͐ĕ̵̗̪̩̒͂̏̑̕x̶͔͉͉͚̓͜p̴̧̡̛͇l̶͚͙̻̋͌̀̈͋o̸̦͍̾͜ȓ̵̝̯͍̑̂e̸͎̮͍͛ͅͅ ̶͇́̇̓͋t̷̰̖͈̻̖̃͘͠ơ̸̱͊͌̀̓ ̷̈́̅͜y̷̤͇̠͖̭̔͒̕ȍ̶͔͘͠ų̴̳̮̺̕̚͠ͅr̴̙̣̤͈̂͊͒̽̈́̔ ̸͚̤̟̥̑ḣ̴͙͙̦͍́̓ DON\u0027T DOWNLOAD THIS GAME! It\u0027s not what it looks like! Once you anger Baldi, there\u0027s no turning back, and if he finds you... Look, just trust me okay? I\u0027m warning you, if you end up playing this, avoid Baldi at ALL COSTS. Use the items sca̶t̷t̷e̵r̵e̴d̸ ̸a̸r̴o̸u̶n̷d̸ ̸t̵o̴ ̴y̸o̶u̷r̵ ̶a̴d̵v̴a̴n̸t̶ä̴̠́ͅǵ̷̡̖̹̼̌̑e̶͚͒̔̋̋.̴̤͔̜̙̎̀̀́ ̷̠̬͌M̴̢͍̻͂̎͜a̶̧̳̥͆͆̋͝ͅn̴̬̫̥̰̐i̶̻͊p̷͉̂̈ū̶̦ḷ̵̨̡͙̅ȃ̷̢̜͎̏͆̃͜ẗ̸͚è̴̱̞ ̵̨̖̤̓́̕͜ḫ̴̺́i̵̮̽͘m̵͚̜̘͆̅ ̵̞̫̂͋b̵͈̪̜̞͒̔̿y̷̫̿̾̽͝ ̸̰͙̯̺̏͑̔ḿ̶̡̃̒̀a̶̘͛k̴̬͎̼͑̋i̵͓͒͑n̸͓̩̝̈́͂͂͘ğ̶̦͙́̕͝ ̸̝͙͈̺̃̐ñ̷̮͚͔̍̒ő̸̮̼i̶̯͇̦̅́̈͜s̷̬͎̿̄e̵̮̠̯̽̎̽s̴̯̤̣̾̅̃ ̶͓̅̈t̴̺̹͎̙͆̀̓̌h̵̰̫͗͜ä̴̦̠͒ţ̷͓̤̞͑̍ ̴̫̪̞̔l̶͎̜͂̌e̸̥̋͊̎͘à̵̫͈̙d̴̬̳̳̃ ̵̰͑̚̕h̵̨̤̐͜i̶̛͇̻̱̅̌̌m̸̺̞͔̩̓̈́ ̶̨͕̜͋Á̴͈͓͉̜͌̕W̵̨̟̆̎̑A̷̰̒̈́͘Y̷̩̒͒̈́̐̃ ̶̬͈̯͈̈́̋͆f̸̭̻͚͐͒͜͜r̴̯̤͖͒͗͆͌͌̚ỏ̷̹̦̊̒̾͛̈́m̷̲̃ ̸̠̤͍̥͆̄̂̈́̈̎y̴̨̳̳͖̗̥̌͌̌̈́͝ǫ̶̧͔̯͓̿̉̚ū̸̞͍̯̱͓͓,̸͕̲̀̎ ̵̗̹͌̆a̶̜͚͉̽́̔̎̀͝ņ̴̘̜͖̱͠d̸͇̲̱͆ ̵̴̗̹̫͕̆̈͒͆̕̚M̸̲̮̜͊̓̿͝Ö̶̮̰́͌̚͝S̴̰̬̰̃̈́̉̄͘T̷̩͔͊͌̈́͂͛̑͊̃ ̷̻̞̰̳̗͔̠̒Î̵̫̪̯̹̳͊̑̽̊͛̓͑M̷̩̫̯̲̣̣͎̻̏̑̋̊ͅP̸̩͔̞̈͗̇̓͝O̷̭͛̑R̵̰͙̍̈́͗̓̂̾T̷̖̝̘͐͌̉ͅA̷̡̬̙͉̝̖̭̼̔̏̎̂N̷̨̨̘̖̙̮̩̝̎̿͗́̃̃͜eart\u0027s content while you look for all the notebooks! This game doesn\u0027t just teach education, it also teaches FUN!"
+  },
+  {
+    "id": 110737,
+    "genres": [
+      32
+    ],
+    "name": "The Watson-Scott Test",
+    "storyline": "30 multiple-choice questions will help you decide if you\u0027re more afraid of clowns, snakes, or something more sinister... Are you a pathological liar or an empathic listener? Do you run from danger or take it head on? Do you really believe in ghosts?"
+  },
+  {
+    "id": 31819,
+    "genres": [
+      32
+    ],
+    "name": "The Hex",
+    "storyline": "There are six patrons; all of them are video game protagonists trying to escape their past... But The Six Pint Inn has a way of bringing back old memories. Each flashback plays out in an entirely different genre, sometimes blending multiple. By exploring these memories you may discover the identity of the murderer... or you may learn much darker secrets."
+  },
+  {
+    "id": 128355,
+    "genres": [
+      32
+    ],
+    "name": "WHO IS AWESOME",
+    "storyline": "WHO IS AWESOME is a singleplayer mini-game collection, in which the most awesome character that you choose competes with the characters that you didn’t. \n \nFour characters from different games — Reaper from Peace Death!, Vladimir from DRAW CHILLY, Knight from OH MY GOD, LOOK AT THIS KNIGHT!, and the Cowboy from Gun Done — sit at the same table and try to think faster than their opponents."
+  },
+  {
+    "id": 57363,
+    "genres": [
+      32
+    ],
+    "name": "Best Fiends Forever",
+    "storyline": "Taken from the Google Play description \n \nStory: The Fiends finally made it to Mount Boom, only to be defeated and imprisoned in very similar boxes. Now it\u0027s time for YOU to turn the tables! Round up the old gang, level them up and defeat wave after wave of slugs as you make your way to the elusive villain behind the Slug Invasion! \n \nWith the help of the Fiends, and the awesome reckoning power of Mount Boom, and the magical souvenirs that boost your strength, and whatever new stuff we come up with down the line, you\u0027ll save the world in no time. And then realize there\u0027s more to this game than even that! And then hate us for making a game you can\u0027t stop playing! \n \nAnd there\u0027s no energy mechanics, you can play it whenever you want, for as long as you want! Which is good, since you\u0027ve obviously got some time on your hands if you bothered to read this far through the description. So get it already. Best Fiends FOREVER!"
+  },
+  {
+    "id": 131832,
+    "genres": [
+      32
+    ],
+    "name": "Rhythm of the Gods",
+    "storyline": "Join the strongest mortal warrior, Lyrik, in their mission to master the melody; slide, jump \u0026 slash to the beat to please the Gods of Rhythm! Solve the problems that the mortal realm faces in this auto-running, Greek-inspired rhythm game. Fight a variety of mythological monsters that are causing a chorus of chaos to impress each god and earn your right to challenge them one-on-one - in a battle of rhythm, of course. Keep in time and reveal each gods’ true tune to persuade them that you have what it takes."
+  },
+  {
+    "id": 103431,
+    "genres": [
+      32
+    ],
+    "name": "Moss Destruction",
+    "storyline": "The Mossorian Empire is dying. A once flourishing civilization spending their ever joyful lives in perfect photosynthesis has now been pushed to the brink of extinction. Their undisturbed prosperity has given birth to envy and hatred in the hearts of the neighboring folks who have sworn destruction of the Mossorians. With their forces allied, the enemy have prepared a vicious plan to annihilate the Empire and with the completion of their DieSun Sphere around the Mossorians only sun, the fate of a race will be sealed forever. \n \nHope is but the last thing to die, for a handful of fearless Moss-warriors are ready to stand up to the challenge. Hopping into their battle mechs, these reckless heroes serve as the last line of defense for the Mossorian Empire. Can they stand against the joined forces of evil? Will they defeat them and save their own kind? That is yet up to you to answer!"
+  },
+  {
+    "id": 111543,
+    "genres": [
+      32
+    ],
+    "name": "Aces of the Luftwaffe: Squadron - The Nebelgeschwader",
+    "storyline": "As The Aces of the Luftwaffe begin their assault on mainland USA, you are charged with leading a ragtag squadron of German elite pilots on a secret mission of their own. Embark on an epic aerial adventure of intrigue and deceit from a secret base in the Bermuda Triangle and turn the page on a new chapter in history. A chapter that could very well be the final one for what is known as the United States of America!"
+  },
+  {
+    "id": 33090,
+    "genres": [
+      32
+    ],
+    "name": "BATTLESLOTHS 2025: The Great Pizza Wars",
+    "storyline": "Battlesloths 2025: The Great Pizza Wars is the fast-paced multiplayer competitive twin-stick shooter of your slothy dreams, and the sequel to the original multiplayer smash hit Battlesloths. Compete with up to 4 human players or play against some tough as nails AI sloths should you be short of friends. Use a myriad of weaponry, each with their own strategies, to destroy your enemies in a quest to collect the most pizza."
+  },
+  {
+    "id": 75179,
+    "genres": [
+      32
+    ],
+    "name": "Soul Of Mask (SoM)",
+    "storyline": "Soul of Mask (SoM) is a labyrinth game where the spirit tries to collect Demon eyes to leave the underworld."
+  },
+  {
+    "id": 28094,
+    "genres": [
+      32
+    ],
+    "name": "Fast Bubble",
+    "storyline": "Fast Bubble was a really simple game that made complicated to finish,most of it was my fault,taken bad desicisions as design view,game design and the most important thing:not to find a good partner programmer to help me with the game,but with help of my partner Francesco Marra the game was finally finished after 10 months of hard work"
+  },
+  {
+    "id": 117594,
+    "genres": [
+      32
+    ],
+    "name": "RPG Paper Maker",
+    "storyline": "Making 3D games is too complex? RPG Paper Maker will simplify your work! \nRPG Paper Maker is a game making engine, free for non commercial use, allowing you to create a 3D universe with many 2D sprites and even 3D objects using a simple interface for all available platforms: Windows, Linux, and MacOS. \n \nRPG Paper Maker gives you a way to create RPGs in a full 3D world as simply as it is in 2D! RPG Paper Maker also comes packed with cool retro inspired graphic assets for you to use in your own projects. \nAdapted for several type of games \nThe engine is mainly tailored for J-RPGs, but you can create almost any type of game with it such as Action RPGs, Tactical RPGs, etc."
+  },
+  {
+    "id": 29871,
+    "genres": [
+      32
+    ],
+    "name": "４人打ちアクション麻雀 / ACTION MAHJONG",
+    "storyline": "Add action game and mahjong game. \nA game that forcibly merged action game and mahjong appeared! \nOf course, since it is Mahjong, up to 4 players are allowed. \nHands that cannot be made normally can dramatically be made, every player can become a winner, and gameplay is excellent too! \nA lot of new strategies that were not in Mahjong are included, so a new page...even a new chapter is added to the history of Mahjong!"
+  },
+  {
+    "id": 120121,
+    "genres": [
+      32
+    ],
+    "name": "Click Space Miner 2",
+    "storyline": "Click fast to get rich. Mine resources with your mouse fast and buy new tools and machines to do the work for you. Earn more and more money and get rich. But while mining and keeping track of the high management expenses, dont forget to renew your mining licenses because they are very popular and if you come too late you lose everything."
+  },
+  {
+    "id": 86597,
+    "genres": [
+      32
+    ],
+    "name": "𝖴 𝖫 𝖳 𝖱 𝖠 _ 𝖧 𝖠 𝖱 𝖣 𝖢 𝖮 𝖱 𝖤",
+    "storyline": "The game is based on a mechanic of performing two different actions at once: \n- Typing a word with your left hand \n- Preventing filling of the red zones with your right hand \n \nThis means that you won\u0027t have enough time to complete hard stages doing the actions consecutively, rather you will have to perform the actions simultaneously."
+  },
+  {
+    "id": 41960,
+    "genres": [
+      32
+    ],
+    "name": "A Bloody Night",
+    "storyline": "You hear a scream in the middle of the night. You wake up and see your sister lying on the floor lifeless… \n \nYou will have to reach the heart of the Empire to find out who ordered to kill her and why. \n \nYour intentions are clear, you will not spare anyone who stands in your way…"
+  },
+  {
+    "id": 131379,
+    "genres": [
+      32
+    ],
+    "name": "Soul Azylum",
+    "storyline": "FIGHT THE OTHER PLAYERS! \nReleased to your sad fate in a dismal village with a population more than strange and violent. Show your courage, cunning and anticipation in order to emerge victorious from these meetings! Be the first to collect the keys to a vehicle that will allow to escape this dangerous area! Not armed, the decor elements will be your best allies: attract the attention of enemies to other players, block certain passages, block doors to prevent a player from taking shelter ...! \n \nWILL YOU BE ABLE TO FIGHT SOLO MODE? \nIn solo mode, start on the outskirts of a village that seems deserted. Find something to repair your car in this aging place that will quickly appear less uninhabited than expected ... Without a weapon to defend yourself, complete the missions given by a young woman, prisoner of this place. Find something to restart your vehicle to escape!"
+  },
+  {
+    "id": 131677,
+    "genres": [
+      32
+    ],
+    "name": "Comet Golf",
+    "storyline": "Take a voyage to the outer space. Shoot a small comet through a colorful galaxy and use dark holes to warp you to the next level. Dodge asteroids and use planet gravitation, cosmic streams and other celestial bodies to influence the flight path of the comet. You need to estimate trajectory and force well to make it into the goal and unlock the next level. But don’t worry, you’ll get as many tries as you need. The levels are designed in a clear comic style for a relaxed pastime."
+  },
+  {
+    "id": 131666,
+    "genres": [
+      32
+    ],
+    "name": "Me and (My) Cat\u0027s Castle",
+    "storyline": "What is the purpose of \"me\" to endure pain many times and move forward? \nWhat is the true meaning of the message that \"cat\" talks about? \nThere may be an answer to the (true) ending."
+  },
+  {
+    "id": 131821,
+    "genres": [
+      32
+    ],
+    "name": "The Valley of Super Flowers",
+    "storyline": "The valley of Super Flowers was a holy place where flowers having supernatural ability used to live. Flowa, a Super Flower, was born in the valley. He spent his childhood in the same place and attended schools there. But later, an Evil Satanis ruler had taken control over the valley of Super Flowers. The quality of life of the flowers living in the area have been declining day by day. Many were having a hard time to live under a roof and were under a strict Satanis military surveillance all the time. However, the most of the flower world was under the control of the Good Flowaris Ruler. Flowa had been supported by the Police of Flowaris and they asked him to help them recapture the Valley of Super Flowers and destroy the Evil ruler. He had accepted their proposal and went to the Enemy territory with an aim to free the people of the state from the Bad ruler. He saw the living condition of the people in the valley and was sympathetic towards them. \n \nWill Flowa be able to free the people of the valley from the corrupted Ruler?"
+  }
+]

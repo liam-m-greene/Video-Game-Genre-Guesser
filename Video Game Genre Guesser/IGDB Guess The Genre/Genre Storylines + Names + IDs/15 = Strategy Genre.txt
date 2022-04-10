@@ -1,0 +1,474 @@
+[
+  {
+    "id": 76622,
+    "genres": [
+      15
+    ],
+    "name": "Challengers of Khalea",
+    "storyline": "Challengers of Khalea is the tale of a band of misfits - near strangers, brought together by chance to manage a team of Arena fighters and fight their way to the Khalean Cup in the storybook-esque realm of Khalea. You are the team’s manager, a young Perkerian, thrust into the world of Arena Fighting by the drunken mischief of your reckless best friend, Jade. Together, you and your staff travel the realm of Khalea on the challenger’s circuit, getting to know them and their stories as you lead your team to the Championship! As you explore the realm, you will encounter fantastic locations, intriguing characters, and exciting events in the Terry Pratchett-esque world of Khalea."
+  },
+  {
+    "id": 48160,
+    "genres": [
+      15
+    ],
+    "name": "Godzilla 2: War of the Monsters",
+    "storyline": "Japan is being ravaged by bizarre and powerful giant monsters. A reptilian creature called Baragon is creating earthquakes in an oil refinery, a high-speed pterosaur named Rodan is leaving sonic booms in his wake, a hideous blob of slime called Hedorah is feeding off of the city\u0027s toxic waste and growing larger every second, a giant caterpillar named Mothra is laying eggs in different parts of town, a giant octopus is destroying fishing ships in the harbor and devouring their crews, a terrible three-headed hydra named King Ghidorah is bringing fire to the skies, and Godzilla is plowing through everything around him. To make matters worse, a fleet of alien saucers has begun an invasion. Only the J.S.D.F. can stop them."
+  },
+  {
+    "id": 87681,
+    "genres": [
+      15
+    ],
+    "name": "Secret Kingdom Defenders",
+    "storyline": "\"A young monk is making a fateful journey westward, but he can\u0027t do it alone! Along the way, he\u0027ll encounter deadly monsters, friendly pigs, flying dragon knights, and greatest of all, a mischievous Monkey King determined to test the monk\u0027s strength of will...\""
+  },
+  {
+    "id": 26718,
+    "genres": [
+      15
+    ],
+    "name": "Sol Source Online",
+    "storyline": "Sol Source Online has always been a dream of mine to accomplish ever since my early days of browser based gaming.  Growing up on AOL and The earlier versions of DSL I didn\u0027t have the connection I really needed to play some of the more advanced games that had come out so I found myself coming home from school every day to listen to the dial tone boot up the internet and would get on my favorite site to immerse myself in worlds that I never knew existed.  I studied PHP/MySQL/CSS/HTML/Javascript for a majority of my younger years and worked on my little gem here as a starting project which I eventually (15 years later) completed.  Welcome to my imagination and I hope you enjoy it.\r\n\r"
+  },
+  {
+    "id": 1767,
+    "genres": [
+      15
+    ],
+    "name": "Mega Man Battle Chip Challenge",
+    "storyline": "From the wikia:\n\"A new netbattling tournament has opened for the world, called the Battle Chip GP. Yai Ayanokoji is sponsoring the event while the others enter it. Even Eugene Chaud enters the tournament, but only for official business. It turns out that there is some type of new organization behind the scenes of the tournament who will delete the winning NetNavi and take its data for themselves. Will Lan Hikari and friends be able to stop whoever is behind these threats?\""
+  },
+  {
+    "id": 96811,
+    "genres": [
+      15
+    ],
+    "name": "Duck Warfare",
+    "storyline": "The GÜSCO (pronounced goose-co) corporation is trying to take your park! Join forces with over 20 ducks and fight for your home in the quackiest game ever! \n \nFEATURES: \n• 24 ducks to unlock and fight with, each with unique attacks and animations \n• 5 Areas with 40 different unique enemies"
+  },
+  {
+    "id": 120157,
+    "genres": [
+      15
+    ],
+    "name": "Battlefleet Gothic: Armada 2 - Chaos Campaign Expansion",
+    "storyline": "Cadia has fallen, but this is just the start of your Black Crusade. At the head of a fleet of Word Bearers, the most fervent servants of the Ruinous Powers, Malos Vrykan begins his campaign of chaos and destruction across the Aegis Occularis. His path is yours, how will you bring the galaxy to its knees?"
+  },
+  {
+    "id": 38153,
+    "genres": [
+      15
+    ],
+    "name": "Chibi Maruko-chan: Harikiri 365-nichi no Maki",
+    "storyline": "The goal is to move along a board of 28-31 spaces that represent a month, finding helpful items and either gaining or losing money depending on what is found after each roll. The first player to pass the finish line gets a 100 yen bonus, but players that keep rolling low numbers might find themselves with more money in the long run if they\u0027re particularly fortunate. Games can be set from 1 month up to an entire 12 months, with the eventual winner decided by the total amount of money earned."
+  },
+  {
+    "id": 25290,
+    "genres": [
+      15
+    ],
+    "name": "American History Lux",
+    "storyline": "Start with the colonization of North America and the rise of the United States. Follow with the World Wars and US overseas campaigns. Every war comes as a realistic map outlining the important cities and geography of the time. Background information and links to full Wikipedia histories complete your interactive learning experience."
+  },
+  {
+    "id": 106323,
+    "genres": [
+      15
+    ],
+    "name": "Exodus: Proxima Centauri",
+    "storyline": "\"And so the Exodus began… after a war that lasted only 83 days, Earth has been reduced to a nuclear wasteland. Nine factions fled the planet in search of a new home among the stars. Only six survived the journey before encountering the Centaurians, an advanced alien race, who guided the remains of humanity to safety in the Proxima Centauri star system. \n \nNow each faction vies for control, exploiting resources and Centaurian technologies, and battling each other to become the leader of the next chapter for the human race.\""
+  },
+  {
+    "id": 113954,
+    "genres": [
+      15
+    ],
+    "name": "The Elder Scrolls: Legends - Fall of the Dark Brotherhood",
+    "storyline": "The Story follows the Forgotten Hero being recruited by the merchant Uther Nere to be his secret agent and infiltrate the ranks of the Dark Brotherhood. Uther states that his daughter killed his wife to join in the ranks of the Dark Brotherhood and asks his agent to find, and kill her."
+  },
+  {
+    "id": 10275,
+    "genres": [
+      15
+    ],
+    "name": "Elven Legacy: Ranger",
+    "storyline": "The Order of Marcus, long dormant in its isolation, is expanding. The renowned ranger Cornelius, armed with his spear and trained in the arts of subterfuge, has been tasked with preparing the world of Illis for the coming of the order."
+  },
+  {
+    "id": 49699,
+    "genres": [
+      15
+    ],
+    "name": "Atelier Marie, Elie \u0026 Anis: Message on the Gentle Breeze",
+    "storyline": "The two alchemists Marlone (most commonly refered to as \"Marie\") and Elfir \"Elie\" Traum run a workshop together on the Artisan\u0027s Way in the city of Salburg. It\u0027s not a big business, but their reputation is steadily going up. One day, their past teacher Ingrid requests them to write books for the new library that is being built. The library will be finished in 5 years, so they are requested to write at least one book every year during that time. \n \nDuring the years, Marie and Elie are introduced to Anis Ryftchen, a young alchemist studying to become a teacher. While Anis initially seems cheerful, it\u0027s soon revealed that she is overworking herself. Anis is struggling to keep up with both her work at the academy and her vision to write books for her school back in the Southern Country. Marie and Elie offers to help her, but this is ultimately up to the player to choose."
+  },
+  {
+    "id": 28257,
+    "genres": [
+      15
+    ],
+    "name": "Army General",
+    "storyline": "Army General is a turnbased strategy game that depicts the desert warfare in Northern Afrika and parts of the Mediterranean sea during World War II. \nFight back the Italian invasion of Egypt in 1940 with the Desert Rats or advance to Suez with the Afrikakorps in 1941/42. Adjust your units to the challenges of each map by exchanging officers, equipment and subordinate units. Create your own maps and campaings for yourself or to share it with other players."
+  },
+  {
+    "id": 10172,
+    "genres": [
+      15
+    ],
+    "name": "Deadlock II: Shrine Wars",
+    "storyline": "Ancient and mysterious Shrines have revealed the location of an extinct alien home world. Discovered in the aftermath of the Gallius IV war, these Shrines unlock the most powerful technology in the Universe. Now, seven interstellar empires race across the galaxy to conquer this one planet and gain the secret power of the ancient civilization."
+  },
+  {
+    "id": 38316,
+    "genres": [
+      15
+    ],
+    "name": "Angelique Voice Fantasy",
+    "storyline": "Angelique is a young girl from earth, chosen by the Queen to be a prospective candidate to rule Elysion, but only one person is keeping her from her goal, her rival and scoolmate, Rosalia. Angelique must prove her worth by winning over all the officers of the court and showing the people of Elysion how kind she is in this 1996 romantic strategy rpg from Koei."
+  },
+  {
+    "id": 28268,
+    "genres": [
+      15
+    ],
+    "name": "Building the Great Wall of China 2",
+    "storyline": "The nomads are attacking once again, and it is up to Kong Boatu to stop them. Accept the challenge to build The Great Wall of China in 4 unique locations and 40 exciting levels. The journey will take you from the golden plains and snowy mountain cliffs to the sun baked desert and other mysterious places. Build unique buildings, mines and structures. All buildings can be upgraded to reach your goals even faster! Use bonuses to help you! Find more than 15 unique collectibles and learn about their role in Chinese history! Gather food and stone, together with the new resource – coal! Use them wisely to survive the nomad attacks. Finish the epic story of emperor Kong Boatu and write your name in history by building the greatest structure known to mankind – The Great Wall of China!"
+  },
+  {
+    "id": 7530,
+    "genres": [
+      15
+    ],
+    "name": "Westward 3",
+    "storyline": "When gold is discovered in the California wilderness, speculators flock west in hopes of striking it rich. Navigate uncharted terrain rich in natural resources and gather the supplies needed to build your dusty settlement into a thriving boomtown."
+  },
+  {
+    "id": 11954,
+    "genres": [
+      15
+    ],
+    "name": "Betrayal",
+    "storyline": "A web of intricate possibilities- but fair play isn\u0027t one of them.\n\nA new barrel of fine Welsh ale had just been broached. The royal palace\u0027s smoky dining hall resounded to cheery voices. To one side of the top table a harpist and a minstrel were struggling to be heard above the commotion caused by two dogs snarling over a bone in a corner.\n\nEating slowly, I leant forward to catch the breathless whisper of a rival knight.\n\n\"They came in at a run, baying like wolves. Four wild-eyed barbarians ready to cut, gouge, pulverize and kill anything that moved.\"\n\nThat news indeed were music to my ears. My forces attack on his wealthiest town had met with success. Financially weakened, militarily broken, and politically bankrupt, he could no longer hold influence at Court.\n\nSo long as no evidence of my wrong doing remained. So long as the Gods blessed the crops of my harvest. So long as the rumors of the capture of my brother were true. The throne was mine.\n\nI\u0027ve cheated, lied, spied and slaughtered. The fruits of Betrayal are mine."
+  },
+  {
+    "id": 41473,
+    "genres": [
+      15
+    ],
+    "name": "Land Battle",
+    "storyline": "The game can be played on any of thousands of different countryside maps -- the first thousand of which are selectable at the beginning of the game. All of these maps show roads, towns, hills, lakes, forests, orchards, and fields, and these geographic features impose restrictions and necessitate clever planning on the part of the player. \n \nAt the beginning of the game each player has control of the following military resources: \n \n 12 infantry \n 3 armored personnel carriers \n 2 tanks \n 1 artillery piece \n 2 bazookas \n 2 mortars \n 1 flag \n \nYou can capture opposing forces which subsequently become yours. \n \nIn order to wage an effective war, you must allocate your resources into patrols, direct the patrols across the map, encounter enemy patrols, fight battles, besiege towns, and eventually capture or destroy the enemy flag."
+  },
+  {
+    "id": 52381,
+    "genres": [
+      15
+    ],
+    "name": "Alfa: Antiterror",
+    "storyline": "The story of the game follows a Russian special forces Alpha Group. The player guides the actions of the detachment of an elite squad Alpha Group to fight terrorism. Many jobs in the game are based on historical events."
+  },
+  {
+    "id": 75289,
+    "genres": [
+      15
+    ],
+    "name": "Keno Prime",
+    "storyline": "Do you love Keno? You will most certainly enjoy playing, as we give you Royal Treatment in our brand new Keno game! With more than 10 different premium rooms to choose from and counting..., it’s high quality designs and powerpack gameplay, unique features, you will have lot entertainment while playing Keno Prime. \n \nTry your luck with our Wheel Spin to get Huge Free Coins! \n \nKeno is very exciting and addictive game. Simply place your bet then choose between 2 and 10 numbers and then start rolling. Hit more numbers to win more! \n \nWhy go anywhere when we have got the top features that will give you more and more fun and rewards! There is always something new coming: \nPowerups - New addition to gameplay which makes Keno Prime unique from the league. There are 6 different powerups to boost your winnings. \nRoom Rewards - Every time you complete a successful room round you get Bonus reward on top of your total winnings. \nCollections - Collect virtual drinks and get bigger rewards! \nAchievements - Need more reward? See your objectives and complete them to earn huge rewards. \nWheel Spin - Get daily free wheel spin to collect huge free coins. \nDaily login Bonus - Come back daily and get rewarded with more and more free coins. \nGifts from friends - Need help? Your friends can send free gifts daily. \nVIP Class - Play more and seat in our elite class to earn more reward. \nMega Wins - Share your joy with your friends on mega wins. \n \nAre you Classic Keno Player? No need to worry. We have Keno Prime Classic room specially designed for players like you. \n \nHurry and Install Keno Prime now, you will discover an incredible Keno game."
+  },
+  {
+    "id": 113939,
+    "genres": [
+      15
+    ],
+    "name": "Ethics: Journalist\u0027s Way",
+    "storyline": "Give direction to the agenda and our struggle with your comments about the Shaodor Republic. We\u0027re experiencing internal turmoil and crisis. Swipe the cards left or right to comment about events that come to you from your reporters and assistants. Be careful. The words you speak have never been so important. \n \nOh! The things that happen in our country during this time of chaos. Bribes, immorality, and scandals exist as a result of the bullying that ran society into this chaos. People who are victims and worn need your help, and a government that wants to fix those things need your help too. Some people won\u0027t like your comments and decisions. Some people will try to take you down. However, the people who try to take you down because of your status will heed witness to your rise. \n \nPlease be careful, though. Think for a long time about your decision. Your comments can help you to rise up, but at the same time, they can cause you to fail. Who will your friends be? Who will your enemies be? Its hard to say... In this game, you will be exposed to threats, reactions, and bribes. You can\u0027t stop what happened so far, but you can still shape what happens next."
+  },
+  {
+    "id": 23276,
+    "genres": [
+      15
+    ],
+    "name": "Final Fortress - Idle Survival by Alley Labs",
+    "storyline": "Final Fortress - Idle Survival by Alley Labs\nThe Ultimate End-Of-The-World Survival Clicker\n\nTrailer\nhttps://youtu.be/0q81b5gD4s0\n\nFINAL FORTRESS - IDLE SURVIVAL - The Ultimate end-of-the-world incremental clicker.\nSomehow you survived. Now It’s time to rebuild. The world belongs to the idle Z’s, and all you can do now is tap into your survival instincts. Grow your fortress community, gather survivors, and rebuild from the aftermath of the viral outbreak. \n\nGROW YOUR Z FORTRESS\nThe world currency is now GAS. Tap zombies, click your survivors and use your resources to build a variety of rooms, each dedicated to a unique survival task. Grow food, generate power, and build your tower from the blueprints you tap into along the way.\n\nRECLAIM HUMANITY\nLook for survivors amongst the lost souls, to grow your ranks and community. Scout for stray clans to keep your people alive and thriving. Don’t be afraid to move, the more survivors you find, the more you prosper in your next fortress.\n\nFEATURES\nSince the Z\u0027s took over, Gas, Diamonds, and Survivors are the only thing left that is worth anything now. Collect as much as you can to help you rebuild and upgrade your resources. Rise from a lonely survivor to the sovereign of all you survey.\n\nTUTORIALS AND MISSIONS\n• Level up your fortress. Grow your Fortress with new rooms each with its own unique function for survival. Level up your rooms and survivors. Find blueprints along the way to unlock extra special rooms.\n• Almighty finger tap bonus. Make your Tap Tap Tap work harder for you. You can actually upgrade your finger.\n• Rebuild over and over. Jump in your truck and head off into the wilderness. Gather survivors and rebuild stronger than ever. There are more survivors out there waiting to be found. Your can move on, collect more survivors and rebuild as many times as you want. The more survivors you have, the more gas you can make.\n• Vehicle Upgrades. Pimp your ride. Well, as much as you can from salvaged parts at the end of the world. Level Up to go further, find more survivors, and rebuild faster and stronger each time.\n• Radioactive Y.O.L.O. Boost. Blast away the debris and smog and boost your workers. Watch a video and get 4 hours of a double GAS BONUS.\n• Coffee Time! It\u0027s the end of the world, your tapping like crazy to rebuild, sometimes you just need a boost. Watch a video to double your Income, Power, and Production, for twenty seconds. Make the most of your caffeine hit. It could be a while until the next one.\n• Lucky wheel. Even in the aftermath you still get a door to door salesmen knocking at the fortress gates. Earn or buy a spin on the lucky wheel to win a gift. Take a risk, after all, and it’s not like things could get any worse.\n• Kill the flying zombie. Yes, that\u0027s right, flying. What?! Have you never seen a zombie with a jetpack before? Catch them in flight, you never know, they just may drop something.\n• Go Global. Connect with friends online and gain a bonus increase productivity. Invite them to rooms to rebuild faster and stronger.\n\nROOMS\n15 - Sniper Tower\n14 - Laboratory\n13 - Armoury\n12 - Lounge bar\n11 - Fitness room\n10 - Carpentry room\n9 - Communication centre\n8 - Water Treatment\n7 - Workshop\n6 - Clinic\n5 - Kitchen\n4 - Pantry\n3 - Power Generator\n2 - Garden\n1 - Bedroom\n0 - Ground Floor\n\nSURVIVORS\nSniper\nMad Scientist\nCraftsman\nBarmaid\nTrainer\nCarpenter\nOperator\nManual worker\nDoctor and nurse\nChef\nEmployee\nMechanic Engineer\nGardener\nHotel Cleaner\n\nABOUT ALLEY LABS\nEast meets West in this Silicon Valley run Game Studio based out of Hanoi, Vietnam. We take all the expertise of modern gaming from around the world and let it fuse under one roof. We draw inspiration from classic arcades to modern tech, helping us create villains you love to fight, armies you want to command, and worlds you want to escape too. \n\nOur passion for all things gaming brings out the odd, quirky, and straight up bizarre in all our team, and we wouldn’t want it any other way. Our expertise has seen us working with major global brands over the last decade, taking the team to new heights and achievements, but as far as we are concerned, we’re just getting started.\n\nAlley Labs is an independent game production studio, and has been the driving force behind many titles including Word Genius, Tribal Rivals, Meteor Blitz, Final Fortress - Idle Survival, Pocket Cafe, Pet Hotel, Sketch It, and more. We are proud to announce the launch of our incremental clicker - Final Fortress."
+  },
+  {
+    "id": 63254,
+    "genres": [
+      15
+    ],
+    "name": "Liege",
+    "storyline": "One late autumn eve in the Kingdom of Liege, a King, his queen, and their royal heirs fall into a deep slumber from which they never wake. Following their mysterious deaths, a power struggle in the royal court ensues, and as the conflict quickly escalates, the Kingdom plunges into a bloody civil war. As war erupts across the land, we track the converging paths of characters aligned across various factions, from the noble houses vying for the throne, to the orphaned Royal Army, to an underground movement of outlaws with plans to incite revolution amidst the chaos. \n \nLiege is a story that is written for an adult audience. It’s a drama about conflicted, intertwined, and human characters, forced to wage war for their lives and their homeland."
+  },
+  {
+    "id": 125068,
+    "genres": [
+      15
+    ],
+    "name": "Between Two Castles: Digital Edition",
+    "storyline": "The Mad King Ludwig demands castles! Lots of them. Between Two Castles of Mad King Ludwig - Digital Edition brings the delightful experience of the original board game, from Stonemaier Games, to your computer! \n \nDesigned by Ben Rosset \u0026 Matthew O’Malley, Between Two Castles puts you in the role of a world-renowned master builder working for the Mad King. Projects of such significance require the expertise of more than one person, so for each assignment you are paired with another master builder to execute your grandiose plans. \n \nIn this game, you cooperate to compete - or is it the other way around? \nYou have to work together with your peers, but in the end, there\u0027s only one winner! Plan your moves and balance your castles wisely. \nBring your friends, train with AI or challenge players around the world!"
+  },
+  {
+    "id": 96402,
+    "genres": [
+      15
+    ],
+    "name": "The Horus Heresy: Legions",
+    "storyline": "Grab your bolter, board the Thunderhawk… and play cards! The Horus Heresy: Legions will take you on an epic journey through one of the richest settings of Warhammer 40,000’s history. Play cards to field troops, execute tactics and embody the heroes and villains of The Horus Heresy. Join a Lodge and plot your way to take over the galaxy with new friends. Make history fighting in time-limited events with game-changing consequences. \n \nWith an ever growing collection of hundreds of cards and dozens of Warlords to lead your decks, the path to victory will always shine with new strategies to build powerful decks of unstoppable Space Marines. \n \nPlay in Ranked and Friendly modes with your best deck or master Sealed Deck events using cards you might not own yet. Need more practice? Duel any member of your Lodge easily, go solo against the AI, or issue a challenge to any player you know. \n \nAre you ready for this time of reckoning?"
+  },
+  {
+    "id": 2979,
+    "genres": [
+      15
+    ],
+    "name": "Emergency 2013",
+    "storyline": "The eruption of a super-volcano in the middle of Europe threatens to bury everything below rivers of lava. The emergency forces must fight burning forests, toxic gases and handle enraged citizens to secure the emergency lava sink drills."
+  },
+  {
+    "id": 39216,
+    "genres": [
+      15
+    ],
+    "name": "King of Thieves",
+    "storyline": "In king of thieves you\u0027re a thieve that has escaped from a cell and tries to be the best thieve by stealing gems and raiding other players dungeons."
+  },
+  {
+    "id": 124991,
+    "genres": [
+      15
+    ],
+    "name": "Set Sail: Caribbean",
+    "storyline": "Hard times have come for the good-willed Caribbean governor, Sir Francis, as the creditors are knocking on his door. Marrying off profitably his own daughter Catherine seems like the only way to pay his debts. \n \nNot too keen on the prospect of an arranged marriage, the resolute girl decides to take the matters in her own hands and save her family without forsaking her independence. To this end, she will use her father’s docks to start a profitable boatbuilding business in Port Royale – the most important city in the whole Caribbean!"
+  },
+  {
+    "id": 131972,
+    "genres": [
+      15
+    ],
+    "name": "Amoeba Battle: Microscopic RTS Action",
+    "storyline": "First though, your amoebas must forage for food in the beautiful yet alien environments that make up their world. Once well fed, these amoebas can replicate into two identical amoebas of the same type, doubling your army with a press of a button! \n \nBut multiplying amoebas won\u0027t always be enough. You will need to introduce mutations to evolve your weaker amoebas into stronger species. Experiment with different amoeba combinations to field a diverse force that can face any threat!"
+  },
+  {
+    "id": 79804,
+    "genres": [
+      15
+    ],
+    "name": "Magic and Mayhem",
+    "storyline": "The game\u0027s introductory movie presents Cornelius as he visits his uncle\u0027s magical laboratory, only to find it in ruins. He deduces that something bad must have befallen the absent Lucan, as his flying machine is primed and ready for a trip. Cornelius decides to undertake the journey his uncle was planning. A raven, soon after introduced as Hermes, accompanies Cornelius from thereon throughout the game; Cornelius decides this must be Lucan\u0027s familiar. \n \nCornelius crashes in Avalon, ruining the flying machine. He begins his quest to find his uncle, soon encountering hostile wizards who are none-too-helpful in aiding him. On his journey through Avalon, he meets allies including Twigkindle the brownie king and Percival the knight, the latter of which joins Cornelius in return for his aid in finding the Grail. The two soon acquire the Grail, and eventually reach the castle Joyous Garde, the centre of villainy in Avalon. After an epic battle with the resident baron-wizard Bertilak, Cornelius finds and frees his uncle Lucan, only to confront the game\u0027s main antagonist, the Overlord. The Overlord demands Cornelius hand over the Grail, but when Cornelius refuses, the Overlord leaves without a fight. Lucan, who had been kidnapped by the Overlord\u0027s minions, reveals that his power is weak in Avalon. After the battle, Cornelius wants nothing more than to return to the mundane world with Lucan, but it is revealed they must find a specific portal to do so, so their quest must continue through a magical gateway into Greece. \n \nArriving in Greece, Cornelius continues to travel looking for a way back home, but encountering yet more hostile wizards and evidence of the Overlord\u0027s misdeeds. He stumbles upon Ariadne, angering her by his intrusion into her home, but besting her in combat and forcing her to flee. He eventually arrives in Delphi, defeats the tyrannical wizard that keeps the city in anarchy, and consults the Oracle on the Grail. It is revealed that the Grail grants immortality, and explains why the Overlord demanded it of Cornelius in Avalon. The Oracle also reveals that the Golden Fleece of Colchis must be retrieved for the Grail to work. Cornelius travels to Colchis and defeats the dragon that guards the Fleece, taking it for himself. After killing the ruler of Colchis, King Aeetes, he unwittingly releases the witch Medea who escapes back to the mainland. Cornelius arrives in Sparta to find the city in ruins by the hand of the Overlord. He finds Ariadne and Lucan sheltering from Medea, who turns out to be a servant of the Overlord. Cornelius defeats Medea a second time, and forces her to flee to the Labyrinth in Crete. He soon catches up and defeats her, at the same time finding a magical gateway to Albion beneath the maze. \n \nIn Albion, Cornelius, Ariadne and Lucan encounter Sir Lancelot, loyal knight of the deceased King Arthur. He reveals the Overlord usurped and murdered Arthur, hunting his loyal surviving knights over Albion. Lucan reveals that finding Merlin, Arthur\u0027s royal wizard, may be the only way to stop the Overlord. Cornelius arrives in Broceliande, the last known whereabouts of Merlin, to find his tower empty. They continue their quest onto mainland Albion and Salisbury Plain, where Lucan is slain by the Overlord and the remaining protagonists flee. Cornelius continues his quest, gathering Arthur\u0027s loyal knights and attacking Camelot, freeing Ariadne and Lancelot and retaking the castle. Cornelius and his allies eventually meet the Overlord at Dinas Emrys, discover that he is Merlin, defeat him, and return to the mundane world."
+  },
+  {
+    "id": 8549,
+    "genres": [
+      15
+    ],
+    "name": "Final Fantasy: All the Bravest",
+    "storyline": "\"When the shine of the sun is hidden by the shadow of the moon, the worlds unbound are brought together, and the gate between dimensions thrown open. From the sun, under a pall of black, surges forth a sinister host, together with a darkness, eternal and unyielding, that threatens to consume all. To repel this vast evil, Warriors from all over worlds must unite. Tho fight to come is theirs, and it is a war whose end cannot be seen. These fated heroes have risen, each with a Crystal brilliant to behold. They stand now not alone, but united, and in numbers greater than ever imagined.\" \n—Prologue"
+  },
+  {
+    "id": 117894,
+    "genres": [
+      15
+    ],
+    "name": "Sky TD: Tower Defense Strategy Game",
+    "storyline": "Hi. We are a team of three. It\u0027s our first big project."
+  },
+  {
+    "id": 125176,
+    "genres": [
+      15
+    ],
+    "name": "Hearthstone: Descent of Dragons",
+    "storyline": "\"Is this the end? Our heroes can\u0027t fly. They fall like shooting stars. Will anyone survive? (DRAGONS! DRAGONS!) Dragons take flight above the ice and snow, high in the sky where the cold wind blows, wings beat down as they beat back foes, flaming-hot fire over frozen bones! Good unites against evil they oppose, they ride and die as the legends grow! We must all choose sides, villains or heroes. There are no sidelines in this combat zone! Feats midair, yeah it\u0027s a chiller. Life or death, yeah it\u0027s a killer. They go round and round as the beatdown pounds, aerial thrills, yeah it\u0027s a thriller! Skies fill with trauma in all of this drama, portending an impending end! Crash down! It\u0027s dragons in dragons\u0027 descent!\""
+  },
+  {
+    "id": 121248,
+    "genres": [
+      15
+    ],
+    "name": "Hash Rush",
+    "storyline": "The Crypto Crystal Storm was a galaxy-wide catastrophe that affected every being that lived in the Hermeian Galaxy. Civilizations were destroyed, powers and abilities were diminished, intelligent beings were mutated beyond recognition, and a new invasive and aggressive species begun wreaking havoc on the planets. \n \nWhat caused the Crypto Crystal Storm and where it originated from remains shrouded in mystery, but from what the remaining civilizations pieced together, the storm originated from the unknown parts of space — the Void. \n \nThe Void is home to many dark and wicked beings that once ruled the Hermeian Galaxy. By using fear and terror to subjugate the civilizations, for a time their rule was absolute. But oppression only works for so long and in the end the Celestial Gods — children of the Goddess Arcana — combined forces to banish the old ones into the void. \n \nAs a reward for helping to free the Hermeian Galaxy, Arcana gave each of her children a sector of the galaxy to rule. A galactic peace that lasted for eons ensured; until the Crypto Crystal Storm arrived. \n \nSilently erupting from the Void, solid crystals, massive in size, quickly traveled through the Hermeian Galaxy and took the inhabitants entirely by surprise as they came crashing down on their planets. \n \nThe storm caused galaxy-wide destruction, and for those that survived the ordeal, the problems had only begun. Once embedded in the planet’s crust, the crystals quickly began the process of corrupting life on their host planets. \n \nThe enlightened race called the Trinell underwent a hideous de-evolution, causing their race to almost go extinct. \n \nThe proud race of Rustarian humans were hit with a giant solar flare that reduced their rich planet to a scorched wasteland. \n \nThe highborn of Eldaria — an ancient race of elves — rapidly lost their youth and started to turn to dust. \n \nThough they all suffered through trials and tribulations, these races were lucky as they were some of the few that managed to survive. Other species were not as lucky and either died out entirely or were mutated far beyond recognition."
+  },
+  {
+    "id": 11671,
+    "genres": [
+      15
+    ],
+    "name": "Compass Point: West",
+    "storyline": "\"Claim territory in the Wild West and defeat the evil domination plans of Orville Driller and his henchmen.\n\nBuild and run your own Wild West town and use your tough town Sheriff and his trusty sidekicks to protect it - don’t let Driller and his henchmen get their filthy hands on the black gold beneath your land!\n\nExplore the open frontier as you free other towns from the corrupt outlaws of Mr. O. Driller’s evil oil conglomerate!\""
+  },
+  {
+    "id": 19162,
+    "genres": [
+      15
+    ],
+    "name": "Hearthstone: Whispers of Old Gods",
+    "storyline": "For countless millennia, the Old Gods have slept. Now, the time of their awakening draws near; their evil influence has crawled even into the tavern! Can you feel your cards trembling in their decks as the corruption spreads? Some of your old friends have already grown icky masses of tentacles and a downright frightening number of eyeballs! \n \nOf course, while some would recoil at these cards, a resourceful player like you might just be able to harness the power of the Old Gods. Yeees, surely nothing could go wrong... \n \nCan you hear them, beckoning to be played? Will you heed their whispers at your ear?"
+  },
+  {
+    "id": 15738,
+    "genres": [
+      15
+    ],
+    "name": "Bionicle: Maze of Shadows",
+    "storyline": "Based on the events of the book Maze of Shadows. As you travel through the underworld of Mata Nui as the Toa Metru, you will battle Rahi, unlock new powers, and help Nokama by getting energized protodermis to the Karzahni plant and getting a healing root for Nokama, who has been fatally injured. Unlike most other handheld BIONICLE games, Maze of Shadows is semi-canon, with certain aspects being canon, while other aspects being non-canon."
+  },
+  {
+    "id": 25601,
+    "genres": [
+      15
+    ],
+    "name": "Hearthstone: Mean Streets of Gadgetzan",
+    "storyline": "Gadgetzan, the wondrous jewel of Tanaris, reports explosive economic growth and a boom in trade across the board, according to census data released from mayor Noggenfogger’s office. News of the city’s rocket-like ascent comes as no surprise; the recent flux of traders, merchants, businessmen both respectable and otherwise, as well as the daily arrival of more fortune-seekers speaks for itself. Of course, this uptick in activity hasn’t been without its downsides. Many residents complain of increased tension among the movers and shakers of Gadgetzan, which could spill into the streets at any moment… and if it does, you’ll read it here first! \n \nIf you pull up a chair outside Fizzgrimble’s Tavern and watch afternoon traffic flowing up and down Grimestreet, you may notice a few things about how our city has changed. Wagons carrying goods from faraway places, guarded by shifty-looking fellows in bowler hats; vendors loudly hawking their mystical wares from stalls that choke the streets, ready to sell you any potion or spell you want, for a price; and, all but invisible to the untrained observer, shadowy figures blending into the crowds, keeping an eye on everything. Who are these people? What are they doing in our city? These facts our reporters discovered when they went underground and undercover will shock you!"
+  },
+  {
+    "id": 36765,
+    "genres": [
+      15
+    ],
+    "name": "Airport Architect",
+    "storyline": "Have you ever dream to build and own an airport? This game fulfills your dream as an architect of your own airport! This casual simulation game manages to establish, to design and to govern your own airport. The agenda of the game is to build an airport to accommodate millions of passengers around the world with domestic and international flights with multi-terminal passages. \n \nThe starter kit of this game includes the real design of the famous airports around the world. That includes Los Angeles International Airport (LAX), Vienna International Airport (VIE), and Heathrow Airport (LHR). But if you want to start from the bottom, then begin from scratch with a lot of interiors and exteriors items included. Have fun being the CEO of your own airport as you manage everything."
+  },
+  {
+    "id": 9437,
+    "genres": [
+      15
+    ],
+    "name": "UFO: Extraterrestrials",
+    "storyline": "Planet Esperanza - colonized by spaceship Magaleansh in 2020. \n \nMany years have passed since the first colonists arrived Esperanza. Through hard work and determination, they gradually setup base on their adopted planet. Over time, leaders emerged, a government was formed, commerce flourished and the pilgrims from Earth eventually made the planet of the three suns their home. \n \nBut recently, a deep space monitor registered a strong and mysterious reading. Esperanza\u0027s scientists scrambled to investigate the disturbance and made an alarming discovery - a wormhole had opened close to their planet. And even more disturbing, something had come through... was headed directly toward them. \n \nConcerns of an alien invasion abounded. In response, the United Government of Esperanza decided to send two recon ships, Lewis and Clark, to ascertain the truth. After two weeks time, the recon ships arrived the location of the mysterious reading... and, as feared, discovered an alien vessel. \n \nBut apparently the ship had somehow failed while en route Esperanza. It had crash landed on to a small planet in the system. The crews of Lewis and Clark landed on the surface, explored the crash site and recovered an alien computer and a chamber full of hibernated aliens. \n \nUpon returning home, an analysis of the computer and of the aliens took place at The Esperanza Security Center. What the military scientists discovered was terrible news. Earth had been invaded and subjugated by alien hordes. They had plundered the planet\u0027s terrestrial resources and enslaved the humans. \n \nImmediately an emergency council was called to decide what to do. The council quickly determined that the fate that had befallen Earth could befall them. They vowed to be ready if the aliens decided to invade. To defend against the aliens, Esperanza gathered the planet\u0027s best scientists, engineers, and soldiers and formed them into a single unit - the Counter Alien Force (CAF). \n \nAnd it is on the shoulders of that force that the very survival of the human race now rests."
+  },
+  {
+    "id": 25125,
+    "genres": [
+      15
+    ],
+    "name": "Stalingrad",
+    "storyline": "This game is based on real life historical events.\nYear 1942. Stalingrad, Soviet Union. We are on one of the major battle on the Eastern Front of World War II in which Nazi Germany and its allies fight the Soviet Union for the control of the Stalingrad City  (now Volgograd) in Southern Russia, on the eastern boundary of Europe.\n\nMarked by fierce close quarters combat and direct assaults on civilians by air raids, it is often regarded as one of the single largest (nearly 2.2 million personnel) and bloodiest (1.7–2 million wounded, killed or captured) battles in the history of warfare. The heavy losses inflicted on the German Wehrmacht make it arguably the most strategically decisive battle of the whole war.\nIt was a turning point in the European theatre of World War II; German forces never regained the initiative in the East and withdrew a vast military force from the West to replace their losses.\n\nThe German offensive to capture Stalingrad began in August 1942, using the German 6th Army and elements of the 4th Panzer Army. The attack was supported by intensive Luftwaffe bombing that reduced much of the city to rubble. The fighting degenerated into house-to-house fighting, and both sides poured reinforcements into the city. By mid-November 1942, the Germans had pushed the Soviet defenders back at great cost into narrow zones along the west bank of the Volga River.\n\nOn 19 November 1942, the Red Army launched Operation Uranus, a two-pronged attack targeting the weaker Romanian and Hungarian armies protecting the German 6th Army\u0027s flanks.\nThe Axis forces on the flanks were overrun and the 6th Army was cut off and surrounded in the Stalingrad area. Adolf Hitler ordered that the army stay in Stalingrad and make no attempt to break out; instead, attempts were made to supply the army by air and to break the encirclement from the outside. Heavy fighting continued for another two months. By early February 1943, the Axis forces in Stalingrad had exhausted their ammunition and food. The remaining units of the 6th Army surrendered. The battle lasted five months, one week, and three days."
+  },
+  {
+    "id": 109486,
+    "genres": [
+      15
+    ],
+    "name": "Defend The Tower: Castle Defence Element",
+    "storyline": "Monsters are attacking! Use your tower defense strategy to defeat them, the roads needs to be safe once more."
+  },
+  {
+    "id": 130027,
+    "genres": [
+      15
+    ],
+    "name": "Calibria: Crystal Guardians",
+    "storyline": "Enter the world of Calibria where the fight to control the sacred Calibria Crystal has just begun. The guardians of the crystal, an ancient clan of summoners, were powerless to fend off the enemies that had laid siege to their home. Under Gentry\u0027s protection, you, the last descendent of the clan, boarded the Ark and set sail with the Calibria Crystal. \n \n \nYou are charged with protecting the Calibria Crystal. Track down the demons that laid waste to your home, defeat their leader, and bring peace back to Calibria once more!"
+  },
+  {
+    "id": 22664,
+    "genres": [
+      15
+    ],
+    "name": "Crusader Kings II: Sons of Abraham",
+    "storyline": "Get your bishops appointed cardinals and tap the might of the Papacy, borrow money from the Knights Templar and send troublesome relatives off to live out their days in a monastery. Sons of Abraham also introduces the Jewish religion and allows you to recreate the Kingdom of Israel and rebuild the Temple in Jerusalem."
+  },
+  {
+    "id": 28842,
+    "genres": [
+      15
+    ],
+    "name": "Battlestar Galactica Deadlock",
+    "storyline": "Four years of war and a steep price in human lives have not been enough to unlock a deadly stalemate. The Colonials have countered all of the Cylon’s offensives so far, but no decisive victory was achieved. \n \nThe deadlock is suddenly broken by a surprise attack from the Cylons and the brutal annihilation of the Colonial Fleet High Command on Picon. The fate of mankind is now resting on the shoulders of Rear-Admiral Lucinda Cain. \n \nThe secret, cunning plan she has conceived could turn the tide of the war forever…"
+  },
+  {
+    "id": 38397,
+    "genres": [
+      15
+    ],
+    "name": "War 3010: The Revolution",
+    "storyline": "In the years following the victory of humanity over the three other factions in the fateful conflict of 2410, most of the known universe has been occupied by an intergalactic menace known as the Kyllen. Slavery for most of the civilized species only became an unavoidable reality once the freedom-loving citizens lost their political and social autonomy sometime in the year 2610. Even the humans have lost their freedom and must struggle in slavery amongst the rest of the universe."
+  },
+  {
+    "id": 128481,
+    "genres": [
+      15
+    ],
+    "name": "Blood of Steel",
+    "storyline": "How will YOU claim victory in battles fought with cold hard steel? Troop organization and cunning strategies for engaging the enemy are of utmost importance. That\u0027s what is key in Blood of Steel: to gain the strategic advantage and crush the enemy beneath your fist, you must first familiarize capability of your troops with various weaponry and legion equipment, as well as utilize the terrain to its fullest."
+  },
+  {
+    "id": 2616,
+    "genres": [
+      15
+    ],
+    "name": "Conquest of the New World (Deluxe Edition)",
+    "storyline": "In this game, victory conditions are customizable, so a game can go a number of different ways. However, there are common themes which occur with fairly level frequency. The game is meant to simulate the colonization of the new world-what is now North America. The player can choose from five different nations, including the natives, and battle the other nations for supremacy of the continent. Much like history-the player will settle the continent and gradually grow into a town and expand into other towns. These towns are able to create troops, which can be used to attack other nations. The player will also inevitably declare independence from the mother nation, due to increasing taxes administered by the mother nation-much like the American experience."
+  },
+  {
+    "id": 26426,
+    "genres": [
+      15
+    ],
+    "name": "Crusader Kings II: Monks and Mystics",
+    "storyline": "For centuries, the abbeys of Europe have had a sacred mission – to keep the flame of holy knowledge burning through an era of strife and to keep the secular powers on a righteous path. To the east, a mysterious new sect seeks out those who stray from the Prophet’s path, using not-so-gentle means to remind the impious of the power of God. And, in the shadows, alchemists and religious usurpers challenge the current order. Rumors of dark sacrifices are whispered in taverns throughout the known world."
+  },
+  {
+    "id": 29204,
+    "genres": [
+      15
+    ],
+    "name": "UFO: Extraterrestrials Gold Edition",
+    "storyline": "Planet Esperanza - colonized by spaceship Magaleansh in 2020. \n \nMany years have passed since the first colonists arrived Esperanza. Through hard work and determination, they gradually setup base on their adopted planet. Over time, leaders emerged, a government was formed, commerce flourished and the pilgrims from Earth eventually made the planet of the three suns their home. \n \nBut recently, a deep space monitor registered a strong and mysterious reading. Esperanza\u0027s scientists scrambled to investigate the disturbance and made an alarming discovery - a wormhole had opened close to their planet. And even more disturbing, something had come through... was headed directly toward them. \n \nConcerns of an alien invasion abounded. In response, the United Government of Esperanza decided to send two recon ships, Lewis and Clark, to ascertain the truth. After two weeks time, the recon ships arrived the location of the mysterious reading... and, as feared, discovered an alien vessel. \n \nBut apparently the ship had somehow failed while en route Esperanza. It had crash landed on to a small planet in the system. The crews of Lewis and Clark landed on the surface, explored the crash site and recovered an alien computer and a chamber full of hibernated aliens. \n \nUpon returning home, an analysis of the computer and of the aliens took place at The Esperanza Security Center. What the military scientists discovered was terrible news. Earth had been invaded and subjugated by alien hordes. They had plundered the planet\u0027s terrestrial resources and enslaved the humans. \n \nImmediately an emergency council was called to decide what to do. The council quickly determined that the fate that had befallen Earth could befall them. They vowed to be ready if the aliens decided to invade. To defend against the aliens, Esperanza gathered the planet\u0027s best scientists, engineers, and soldiers and formed them into a single unit - the Counter Alien Force (CAF). \n \nAnd it is on the shoulders of that force that the very survival of the human race now rests."
+  },
+  {
+    "id": 116236,
+    "genres": [
+      15
+    ],
+    "name": "Hearthstone: Rise of Shadows",
+    "storyline": "Under the leadership of Arch-Villain Rafaam, notorious ne’er do-wells from across Hearthstone’s history have heeded the call and banded together under the decidedly unsubtle but exceptionally fitting moniker - the League of E.V.I.L.!"
+  },
+  {
+    "id": 14417,
+    "genres": [
+      15
+    ],
+    "name": "Fantasy General",
+    "storyline": "The forces of evil, in the form of the dreaded Shadowlord and his henchmen, have conquered most of the world. On the brink of defeat, the player (in the form of one of four heroes) is summoned as champion who will change course, free the world and defeat evil - or lose all."
+  },
+  {
+    "id": 71647,
+    "genres": [
+      15
+    ],
+    "name": "Paradise Cracked",
+    "storyline": "For many years the world had suffered from overpopulation and ecological destruction, until the leading scientists created CyberBrain - a supercomputer that solved all the global problems and turned the overpopulated and polluted Earth into Paradise. You are a young hacker. Once, while in cyberspace you managed to break into a secured area and came across a series of strange data packets. You hurriedly copied these to disk, not even having the time to read their contents. Only a few minutes later you hear a police siren, followed by banging on the door and demands to open up..."
+  },
+  {
+    "id": 131681,
+    "genres": [
+      15
+    ],
+    "name": "WWII Partisanen",
+    "storyline": "What springs to mind when you hear these words? How much do you know about role of the people’s guard units in the war that engulfed half of the world in the middle of the last century?"
+  },
+  {
+    "id": 19474,
+    "genres": [
+      15
+    ],
+    "name": "Gwent: The Witcher Card Game",
+    "storyline": "GWENT is a competitive card game developed by CD PROJEKT RED — creators of The Witcher 3: Wild Hunt. In GWENT, gamers clash with friends in fast-paced duels that combine skill-based play with bluffing, and careful deck construction. The game is played over a best-of-three series of rounds, as players unleash their hand by slinging spells and diverse units with special abilities, and use clever tricks to deceive their opponents."
+  },
+  {
+    "id": 130062,
+    "genres": [
+      15
+    ],
+    "name": "Blood Rage: Digital Edition",
+    "storyline": "Ragnarök is coming! The sky is falling and the end is upon you… \nIn Blood Rage, the digital adaptation of the hit strategy board game, you lead a proud Viking clan in their final fight for glory and the right of passage to Valhalla before the world finally comes to its fiery conclusion. \nTake command of your warriors, pillage villages, make good use of gifts from the gods and conquer your place with Odin in Valhalla. \nLife is fleeting, but glory is eternal. Now is the time for rage!"
+  },
+  {
+    "id": 115776,
+    "genres": [
+      15
+    ],
+    "name": "Gwent: Crimson Curse",
+    "storyline": "Dettlaff van der Eretein, the mighty higher vampire gamers first met in The Witcher 3: Wild Hunt — Blood and Wine, is summoning his kin. As the Moon over the Witcher world turns red, new breeds of monsters awake, new villains emerge, and new heroes rise to answer the call."
+  }
+]

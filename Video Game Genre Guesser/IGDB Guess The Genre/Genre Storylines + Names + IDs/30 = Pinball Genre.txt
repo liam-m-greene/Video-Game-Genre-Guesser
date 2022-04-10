@@ -1,0 +1,26 @@
+[
+  {
+    "id": 122572,
+    "genres": [
+      30
+    ],
+    "name": "Justice Monsters Five",
+    "storyline": "The evil Grim Gargoyle and his Bahamut Grand Fleet have launched an invasion of the peaceful Nova Galaxy, threatening the freedom of its monster denizens. Back once more to fight for what\u0027s right, the Justice Monsters zoom in to save the day! \n \nAre you ready? High five for justice!"
+  },
+  {
+    "id": 66030,
+    "genres": [
+      30
+    ],
+    "name": "Pokémon Pinball Mini",
+    "storyline": "Starting with Diglett, the player must play his or her way through a total of 90 levels of pinball (70 in Quest mode, and 10 each in Time Attack and Score Attack), the object usually being to put a Poké Ball (serving as the pinball) in each hole. Along the way, the player can catch more Pokémon to use."
+  },
+  {
+    "id": 18467,
+    "genres": [
+      30
+    ],
+    "name": "3D Pinball for Windows – Space Cadet",
+    "storyline": "The Space Cadet table features the player as a member of a space fleet that completes missions to increase rank. Players can attain 9 different ranks (listed from lowest to highest): Cadet, Ensign, Lieutenant, Captain, Lieutenant Commander, Commander, Commodore, Admiral, and Fleet Admiral. Players accept a mission by hitting \"mission targets\" which select which mission they will take, and by going up the \"launch ramp\". Each mission has a set number of things for players to do, such as hitting the \"attack bumpers\" (which are a set of four bumpers at the top of the table) eight times (this is the \"target practice\" mission). Some missions involve a number of steps which must be completed in sequence. Missions end either by being completed, or by being aborted due to running out of \"fuel\", as indicated by the lights in the passage that passes under the launch ramp. The \"fuel\" lights go out one by one at a time interval, and can be re-lit by having the ball go over them, or all at once by going up the launch ramp again. Upon completing a mission, some of the blue lights in a circle in the middle of the table turn on. When all of the lights in the blue circle turn on, the player\u0027s rank increases, and a light in the orange circle turns on."
+  }
+]

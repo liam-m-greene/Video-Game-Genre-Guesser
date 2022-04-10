@@ -1,0 +1,730 @@
+[
+  {
+    "id": 102795,
+    "genres": [
+      9
+    ],
+    "name": "ARia\u0027s Legacy",
+    "storyline": "You are part of a team of archaeologists excitedly looking for artifacts at your newest archaeological site. Suddenly, your shovel strikes a chest that you quickly unearth with the help of various tools around you. But when you try to open it, you are seemingly thrown into a locked room that is at once familiar and eerily foreign to you."
+  },
+  {
+    "id": 117031,
+    "genres": [
+      9
+    ],
+    "name": "Zombie GO",
+    "storyline": "Zombie GO is a puzzle turn-based game developed for Android and iOS phones with more than 50 beautiful levels. You play as a man how survived from the virus and must run away from zombies. In some levels you must survive people."
+  },
+  {
+    "id": 39207,
+    "genres": [
+      9
+    ],
+    "name": "Feed Me Oil 2",
+    "storyline": "Channel oil into the gaping jaws of surreal living worlds in Feed Me Oil 2, the sequel to the groundbreaking and genre-defining Feed Me Oil. \n \nGuide gallons of the stuff around a series of mind-bending mechanical designs using new and improved physics. Watch as the oil moves realistically around each level and through the air, water and along ice in four fun-filled chapters."
+  },
+  {
+    "id": 3447,
+    "genres": [
+      9
+    ],
+    "name": "Bomberman II",
+    "storyline": "The player controls White Bomberman, who is framed for the terrible crimes committed by Black Bomberman. After being accused of robbing a bank, White Bomberman is thrown in jail. The player must navigate White Bomberman through a series of puzzles to escape his prison cell and bring Black Bomberman to justice."
+  },
+  {
+    "id": 102452,
+    "genres": [
+      9
+    ],
+    "name": "We\u0027re Going on a Bear Hunt",
+    "storyline": "You play as one of two children who goes out to hunt a bear. You travel through grass, a river, mud, a forest and a snowstorm before coming face to face with a bear in its cave. This meeting causes panic and you run back home, across all the obstacles, followed by the bear. Finally, you lock the bear out of the house and hide under the duvet saying \"We\u0027re not going on a bear hunt again.\" The story is similar to the book it is based on, but only one child goes out to hunt a bear. Rather than five children, as described in the book."
+  },
+  {
+    "id": 26888,
+    "genres": [
+      9
+    ],
+    "name": "Rapid 70",
+    "storyline": "Rapid 70 will blow your mind in just 60 seconds."
+  },
+  {
+    "id": 27369,
+    "genres": [
+      9
+    ],
+    "name": "Wordstine - Anagram Word Game",
+    "storyline": "It\u0027s very easy to play this game. \nJust connect the letters by swiping over them to find the hidden word from the jumbled Letters. \nIf you find the correct word it will be placed on the board above the magnifying glass.  \n \nIf at any point you feel stuck and need a different perspective to investigate and search within jumbled letters, Just Use the Shuffle helper, It will shuffle all the letters and might help you to identify the word you need to find. \n \nAs you play, the difficulty level increases along with your skills!  \n \nWordstine is the perfect game to enjoy your commute or your coffee break. \n \nEnough said :) \n \nGet all excited to Expand your Vocabulary and Improve your Concentration Skills. \n \nEven the smartest Word Game Aficionado will have a real challenge to complete this game. Solve all the Levels and become one of the few \"WORDSTINEs\".  \n \nHighly recommended for fans of Word Searches, Scrabble, Anagram Word \u0026 Word Scramble games."
+  },
+  {
+    "id": 7537,
+    "genres": [
+      9
+    ],
+    "name": "Luxor: Quest for the Afterlife",
+    "storyline": "When the sacred artifacts of Queen Nefertiti are robbed, her spirit calls on you to find them. Wield the falcon-wing shooter of Horus, track down the thieves, and defeat them in the all-new Battle Mode. Choose your own path on a journey out of Egypt to Persia, Syria, India and other locations along the Silk Road."
+  },
+  {
+    "id": 26207,
+    "genres": [
+      9
+    ],
+    "name": "Cut The Buttons",
+    "storyline": "Play Cut the Button Logic Puzzle for FREE! In Cut the Button Logic Puzzle you have to move the position of a color button to line it with 2 buttons with similar color. Align all the buttons to clear the fabric and win the level. If you’re brainy and you love brain exercise, you’ll love our line puzzle. There are over 600 levels in this colorful button game so you’ll have plenty of challenges to train your brain while having fun.\n\nWhat do you do when you’re bored? Do you love to challenge yourself with brainy color puzzle or line puzzle as brain exercise? We challenge you to play our colorful button game where you have to stay focused and strategize to win. Our challenge is to move the color button and align it vertically, horizontally, and diagonally with other buttons with the same color. After they are aligned, they will be cut off with scissors from the denim. The level is done once you clear the denim in this color puzzle.\n\n*** New animals theme! ***\n\n\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\nTOP FEATURES OF CUT THE BUTTON LOGIC PUZZLE:\n\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\n\n➢ Play this exciting colorlines button game for FREE.\n➢ Enjoy this color game with its beautiful game design and animation.\n➢ Cute themes such as: Classic, Halloween, and Animals with beautiful denim background.\n➢ Simple game rules but can be challenging to solve.\n➢ Over 50 challenging color line puzzles to play and train your brain.\n➢ Over 600 levels to provide you with stimulating brain exercise.\n➢ Play as Beginner or as Master when you can stay focused and solve harder puzzles.\n➢ No time limit. Take your time to clear the board and finish our color lines puzzle.\n➢ Made a wrong move? Just use our “Undo” button.\n➢ Use “Retry” button when you’re stuck in this line puzzle.\n➢ Save and Restore the board so you can return to your game anytime.\n➢ Earn up to 100.000 EXP for your Google Play account.\n➢ .. and more! Wait for our next update for more fun and brainy challenges.\n\nOn Halloween theme, the buttons will be replaced by pumpkins and other Halloween related icons.\n\nTips and tricks of how to play this color game:\n\nRemember that a button cannot be moved to skip another button. Once the 3 colorful buttons create a color line, they will be cut off from the denim quilt automatically. This will present a problem when there’s one or two buttons with that color left on the fabric. This is why you need to think before you make any move.\n\nOne thing about playing this color game: don’t move the color buttons too quickly. We don’t have timer so you can take your time to stay focused and think of the best strategy to solve this colorlines puzzle. Use “Undo” if you think you’ve made the wrong move. If you’re really stuck, just use “Retry” button to clear the fabric and try again.\n\nDo you need help ?\n\nIf you’re really stuck on a color puzzle, you can contact us and we’ll give you our special and magical laser shaft to finish the level.\n\nLove our color game? Have any suggestion?\n\nWe love to hear from you about how to improve our game. Write to us if you have any issue and we’ll solve it as soon as possible. Please leave us a rating and review to support us."
+  },
+  {
+    "id": 76087,
+    "genres": [
+      9
+    ],
+    "name": "Pirates Sea Journey",
+    "storyline": "You are a sea captain and pirate, as was your father and grandfather. You are on the trail of buried treasure but, of course, other pirates want what you have. Defeat these scurvy dogs in sea battles and gather gold and experience."
+  },
+  {
+    "id": 116974,
+    "genres": [
+      9
+    ],
+    "name": "Alphabetty Saga",
+    "storyline": "Journey to exotic lands in this top new word game and puzzle your way through over 100 cheesetastic levels of letter-linking fun! \n \nCollect special characters on your travels to help you along the way, but watch out for those mousetraps and creeping vines!"
+  },
+  {
+    "id": 115720,
+    "genres": [
+      9
+    ],
+    "name": "Initen",
+    "storyline": "The game takes place in a deserted land, in which life has become rare ... The blazing sun has dried up everything, from the river to the grass. Even the big region plants struggle to find enough ressources to flourish. \n \n \nAbuchi, a nomad that travels through this desert has found a region plant seedling, and wants to find a place in which it could flourish. She must find a way to revive the desert and make it a place in which life springs. \n \n \nBut, in INITEN, life and sounds are closely related. Indeed, sound can be compared to a sort of life energy. This specificity is going to be very useful for our character Abuchi. Our hero has a very special and unique ability : she can see sounds. \n \n \nEach sound Abuchi can hear is visible as a colorful fluid shape evolving in the environment, near the source of the sounds. For example: imagine, a bird singing. Not only can you hear the sound, you can also see it. Those sounds can be used as a sort of special energy to revive lifeless vegetation!"
+  },
+  {
+    "id": 104235,
+    "genres": [
+      9
+    ],
+    "name": "100 Mind Game",
+    "storyline": "There is a circular grid of numbers ranging between 0 and 100. There is also a number in the middle the goal is to tap a number in the grid which is the same as or smaller than the middle number. \n \nYou can compete against other peoples high scores. \n \nThis game will hopefully improve your concentration. \n \nEnjoy!"
+  },
+  {
+    "id": 41512,
+    "genres": [
+      9
+    ],
+    "name": "Cut the Rope: Time Travel",
+    "storyline": "Join Om Nom as he travels back in time to feed his ancestors with candy. Cut the Rope: Time Travel is a completely new adventure filled with time-traveling, candy-crunching, physics-based action! \n \nEager to learn more about Om Nom\u0027s adventures? Watch \"Om Nom Stories\" cartoons and other amazing videos on our YouTube channel! \nwww.zep.tl/youtube \n \nWith two cute monsters to feed in each level, Cut the Rope: Time Travel is twice the fun but familiar to play. If you like Cut the Rope, you’ll love Cut the Rope: Time Travel! \n \nThere’s no time to waste! Visit exciting locations including the Middle Ages, the Renaissance, a Pirate Ship, Ancient Egypt, Ancient Greece, the Stone Age, Disco Era, Wild West, Asian Dynasty, Industrial Revolution and the Future. Om Nom’s ancestors are waiting – and they’re getting really hungry for candy! \n \nCut the Rope: Time Travel is the iKids Awards 2014 winner!"
+  },
+  {
+    "id": 25027,
+    "genres": [
+      9
+    ],
+    "name": "Pokémon Tetris",
+    "storyline": "The game consists of several variations of the main game of Tetris with varying levels of difficulty. This game also allows most bricks to be Flipped by shaking the Pokémon mini. In all one player and VS. games, a silhouette of a Pokémon will be shown on the right hand side of the screen; if the player can make a match of 4 or more lines, the Pokémon will be captured and added to the in-game Pokédex. The player has a limited time to capture the Pokémon before it is replaced by another one chosen at random."
+  },
+  {
+    "id": 114419,
+    "genres": [
+      9
+    ],
+    "name": "Piczle Colors",
+    "storyline": "Inventive genius professor Matrix has created a paint, Piczle Paint 3000, that can leech the color out of anything it covers. Needless to say his inventions, including this one, are not safe in the hands of Score-chan. Can you help her and Gig undo the great chaos created by her inevitable mishandling of Piczle Paint 3000? Also there is Dbug the cat who is naturally more concerned with cat matters."
+  },
+  {
+    "id": 78535,
+    "genres": [
+      9
+    ],
+    "name": "Rolly Rolly",
+    "storyline": "Created by me for fun for gamers. Currently early access. Looking for constructive feedback."
+  },
+  {
+    "id": 61095,
+    "genres": [
+      9
+    ],
+    "name": "Rayman Garden",
+    "storyline": "\"Find the magic Lums hidden in the Rayman garden as quickly as possible, advance using the circular button, use your swords to fight the enemies, press on 4 to attack with your sword and 7 to carry out a super attack with your fire sword, you can advance using the circular button, each fight or obstacle will cost you a sword be aware as they are quickly used up, to save your swords return to walk mode by pressing on 1, again beware if you come across an enemy without a sword, you will lose 2 lives from a red monster, 1 life from a normal enemy, it is therefore up to you to manage your swords and avoid the enemies, 1 Lum will win you 1 life up to a limit of 10 lives, watch out for the black hole that warrants a return penalty, but above all else you are being chased by your mortal enemy dark rayman, do not let your self be caught or you\u0027ll be dead, your score depends on how quickly you find the four Lums and on the level of difficulty, which will change the number of obstacles and position of the Lums\" - The game\u0027s actual description"
+  },
+  {
+    "id": 75673,
+    "genres": [
+      9
+    ],
+    "name": "Deadolls",
+    "storyline": "Poke the eyes out of the evil dolls before time runs out."
+  },
+  {
+    "id": 26629,
+    "genres": [
+      9
+    ],
+    "name": "Sugar Fever",
+    "storyline": "Sugar Fever, a fun game that will test your reflexes and speed. Join a journey full of sweet and sugar, match candies, make incredible combos, score points and complete missions to become the best Sugar Fever player in the world in our world rankings. Dozens of achievements are waiting.\r\r\n\r\r\nChallenge your friends and prove you are the best!\r\r\n\r\r\nPlaying is very easy, select the sweets passing though the top and then touch the cookie to which they belong. For each cookie you complete, you will get one point and reach another level. Complete all the cookies to get more points and time, but hurry up, time is going faster and faster after every level. Remember that you can make combos of 3 or more candies to get bonuses.\r\r\n\r\r\nPlay alone or against your friends to see who gets the highest score. You don\u0027t need internet connection to play, you can play wherever you want and when you want.\r\r\n\r\r\nFeatures of Sugar Fever:\r\r\n\r\r\n- Time trial mode. Complete cookies to get more time.\r\r\n- Very easy to play, but very complicated to master.\r\r\n- Dozens of missions and achievements. Do you think you can overcome them all?\r\r\n- World ranking, so you can compare your score with your friends and competitors.\r\r\n- Endless game, How far can you get?\r\r\n- Combos, special moves to get more time.\r\r\n- Hundreds of candies and sweets are waiting for you.\r\r\n- Share a screenshot of the score with your friends.\r\r\n- Totally free, no need for extra purchases to play at all.\r"
+  },
+  {
+    "id": 26892,
+    "genres": [
+      9
+    ],
+    "name": "Swift Blocks",
+    "storyline": "Welcome to world of puzzles. Swift Blocks game contains 72 amazing levels which gives your brain, a full load. All you have to do is move \"swift blocks\" in such a way that all the swift blocks reach their destination at the same time. It has surprising elements like swirls, statics and many more, which may help or hinder your movements. Game UI is simple and attractive enough which keeps you engaging.\r\nSwift blocks comes with difficulty levels ranging from Beginner to Expert. Player can strategize and plan ahead for a more favorable outcome and increase chances of reaching a higher score .\r\n\r\nIncrease in skills through repetition and achieving higher scores, reaching higher levels and solving more difficult puzzles. Which means it will not be solvable all the way through on the first try, but improving skill, should result in increased success.\r\n\r\nSwift Blocks game starts off easy and becomes more challenging with each increased level so that the gamer gets better at solving these puzzles with time and gradual increase in difficulty level thus ensuring the honing of the gamer’s problem solving skills.\r\n\r\nIf any level feels difficult use hints. Hints will provide first half best moves you have to take to reach the destination in a best way. Use this moves to find your way to the destination. You even have the option to skip a level if you decide to play it later.\r\n\r\nSwift Block is a typical puzzle blocks game where you have to move block to destination and has novel twist to make it exciting and challenging. Solving Swift Block puzzles primarily depends on how you interpret these puzzles."
+  },
+  {
+    "id": 83196,
+    "genres": [
+      9
+    ],
+    "name": "Genesys",
+    "storyline": "Genesys is an educational video game that allows the player to discover the key stages of the evolution of various human societies around the world. The player has to solve puzzles, talk to people who had an important impact to history, explore artifacts and have a look at the historical database. Most of the game has screens similar to an encyclopedia and parts of it are an interactive experience. Through actions items are gathered stored in an inventory that can be used to solve puzzles. Jeanne Moreau guides the player through the game. \n \nGenesys is an educational game where you explore the technological advancement of mankind from the stone age to today."
+  },
+  {
+    "id": 57742,
+    "genres": [
+      9
+    ],
+    "name": "Gravity Blocks: The Last Rotation",
+    "storyline": "In Gravity Blocks you are the Master of Gravity! Just swipe on your device and the direction of gravity changes. But attention! Not only the main block moves, but every other block too. So if you want to win, you have to use the many different block types and their special abilities. \n \nChoose Between 140 Levels in 4 different game modes. And if accomplished all levels you can still challenge yourself by collecting all stars and beat the developers score."
+  },
+  {
+    "id": 83225,
+    "genres": [
+      9
+    ],
+    "name": "Paperama",
+    "storyline": "Paperama is a wonderfully satisfying game to play, especially for those who enjoy spatial-style challenges. The game is mentally stimulating — requiring you to think about your folds before you touch the paper. It also challenges your motor control as you must precisely move the paper to match the fold lines.’"
+  },
+  {
+    "id": 121152,
+    "genres": [
+      9
+    ],
+    "name": "High Voltage puzzle",
+    "storyline": "About me \nMy name is Vadim and I have a little hobby - gamemaking, I made a small puzzle game where you can build high voltage line supports and substation equipment. My game is not only enteratintment but it brings some eductaional function (there are techucal information about HV supports and substation equipment). My game is done but there are a lot of thing that I can amke better. \n \nAlso you can help: \n \nDisseminate information about the company and the game on social networks. \nSend some drawings of eqipment in DWG. \nAll people who will help me will be place to the the credits menu!"
+  },
+  {
+    "id": 58295,
+    "genres": [
+      9
+    ],
+    "name": "Mekorama",
+    "storyline": "Puzzling Mechanical Dioramas \n \nMekorama is a mobile puzzle game where you help a tiny robot stumble home, featuring: \n \n50 tiny mechanical dioramas to explore \nThousands of fan-made levels to collect (FAQ) \nBuilding blocks for making your own levels"
+  },
+  {
+    "id": 114789,
+    "genres": [
+      9
+    ],
+    "name": "oddlly",
+    "storyline": "The point of the game is to connect as much blocks as possible using swipe and destroy other blocks to get the highest score. Each block that connected to the pile increases pile\u0027s points exponantially.And if you manage to connect all the blocks of one kind you started with, score of that pile will be doubled.You can not destroy standalone blocks.Each level has a minimum score point you must reach in order to unlock the next level in challenge mode.As you progress in Challenge Mode,difficulty increases like limitations to the moves you can make gets restricted, e.g. only allowed to swipe up. Try it out,Have Fun!"
+  },
+  {
+    "id": 110796,
+    "genres": [
+      9
+    ],
+    "name": "Micro Vendor Adventures",
+    "storyline": "Join Vending-Robo in his crazy-fun adventure in the micro vending machines. Have fun with an original retro puzzle platform adventure! \n--- \nDownload Micro Vendor Adventures and enjoy nostalgia retro platform gameplay turned into a new cool game. Explore the world of the micro vendor machines in an original 8-bit platform platformer. \nStory: \nYou, as a Vending-Robo, have to deliver soda drink to your customers. You think that\u0027s easy? There are a lot of obstacles and traps you can think of, and many more you cannot think of. But don\u0027t worry, just overcome it by controlling environments like blocks and elevators. There are also hidden coins in each level. Do your best to collect all of them! \n \nWanna join this fun journey? We are now recruiting you to be our next Vending-Robo. \n \nGame Features: \n- 8-bit retro graphics \n- Challenging puzzles and boss fight \n- Collecting 3 hidden coins in each level \n- Relaxing gameplay with no time limit \n- No in-app purchases \nDownload a lovely adventure game and have some amazing and unique entertainment."
+  },
+  {
+    "id": 79135,
+    "genres": [
+      9
+    ],
+    "name": "PriMemory",
+    "storyline": "PriMemory is a memory game that presents a sequence of animations and sounds that needed to be repeated. The game increased the challenges on every play, and it is pretty good to keep you aware of your lack of attention, retention, focus, and memory, play it every day and you will master the mysteries of the brain and your memory will boost."
+  },
+  {
+    "id": 58310,
+    "genres": [
+      9
+    ],
+    "name": "Peggle Blast",
+    "storyline": "Take your best shot with a blend of luck, skill, and joyous thrills in Peggle Blast! Clear the orange pegs as you rack up bonus points, and hit style shots that\u0027ll make you smile for weeks. Learn from Peggle Masters and harness their powers to score big in peg-popping challenges. From the makers of Plants vs. Zombies and Bejeweled, join the millions who adore the magic of Peggle."
+  },
+  {
+    "id": 131446,
+    "genres": [
+      9
+    ],
+    "name": "DragonScales 6: Love and Redemption",
+    "storyline": "The Dark Empress is awaiting Zarya, anxious to destroy her and all the rebels! After taming Ribeus in DragonScales 5, Zarya will release the dragon\u0027s power to confront the Dark Empress, the merciless ruler of the Gravity Kingdom. This time she might even find love... but she\u0027ll have to dissipate the darkness of a lonely heart. Each DragonScales game introduces puzzles and challenges not included in other entries of the series, and DragonScales 6 is no exception. The game comprises totally new challenges: collect keys to unlock doors, switch the board\u0027s gravity to solve puzzles, harness the new power-up system and destroy the Empress\u0027 minions! For the first time in DragonScales, Zarya will have to battle against a line-up of multiple enemies. DragonScales 6 concludes Zarya\u0027s story arc! Will Zarya and the rebels succeed in overthrowing the reign of terror of the Dark Empress?"
+  },
+  {
+    "id": 119901,
+    "genres": [
+      9
+    ],
+    "name": "Solitaire #1",
+    "storyline": "Solitaire, also known as Klondike Solitaire or Patience, is the most popular single player card game in the world. If you like classic Solitaire, you\u0027re going to love this crisp and clear solitaire game! \n \n \nGame Features: \n \n• FREE \n \n• Beautiful graphics \n \n• Klondike Solitaire Draw 1 card \n \n• Klondike Solitaire Draw 3 cards \n \n• Option for all winning deals \n \n• Auto complete \n \n• Unlimited free undos \n \n• Unlimited free hints \n \n• Intelligent hints and auto hints \n \n• Daily Challenge \n \n• Timed mode and Untimed mode \n \n• Vegas scoring and Vegas cumulative scoring \n \n• Customizable card faces, card backs and backgrounds \n \n• High scores and personal statistics \n \n• Sound that can be turned on/off \n \n• Tablet and phone support \n \n• Multiple windows and tasks support \n \n• No network required \n \n• And so much more! \n \n \nPlay the #1 FREE SOLITAIRE card game on App Store now and see for yourself why so many others love this game!"
+  },
+  {
+    "id": 76717,
+    "genres": [
+      9
+    ],
+    "name": "Cosmic Horizon - World First 3D Game Puzzle Ever",
+    "storyline": "You are in a voyage around the universe."
+  },
+  {
+    "id": 47075,
+    "genres": [
+      9
+    ],
+    "name": "Clue Classic",
+    "storyline": "Solve the classic mystery of the Clue game in its interactive iteration for Windows. Explore the digital version of the Tudor Mansion to determine who killed Mr. Boddy by exploring specific areas, determining the positions and activities of suspects, etc."
+  },
+  {
+    "id": 28381,
+    "genres": [
+      9
+    ],
+    "name": "Maze Rescue",
+    "storyline": "Maze Rescue is the fun new puzzle game where you guide Anthony the Ant and His Friends through mazes of underground tunnels after a successful picnic raid."
+  },
+  {
+    "id": 21776,
+    "genres": [
+      9
+    ],
+    "name": "Schrödinger\u0027s Rat",
+    "storyline": "Schrodinger’s Rat is a whimsical tribute to the real-world thought experiment “Schrodinger’s Cat” first introduced by Austrian physicist Erwin Schrodinger in 1935. In it, Schrodinger illustrated the issues of quantum mechanics (according to the Copenhagen interpretation) when applied to everyday objects. Using this as the premise, Schrodinger’s Rat introduces concepts of the Periodic Table and all its Elements as a forum for exploring atomic science."
+  },
+  {
+    "id": 15815,
+    "genres": [
+      9
+    ],
+    "name": "The Talos Principle: Road to Gehenna",
+    "storyline": "The Talos Principle: Road to Gehenna follows the narrative of Uriel, Elohim\u0027s messenger, as he explores a strange, hidden part of the simulation on a mission of mercy and redemption in an attempt to free the souls of the damned at all costs."
+  },
+  {
+    "id": 9086,
+    "genres": [
+      9
+    ],
+    "name": "DROD: The City Beneath",
+    "storyline": "The story picks up roughly a year after Journey to Rooted Hold ended, with Beethro arriving at the mysterious Rooted Hold and exploring an underground city of the Empire in search of his lost nephew, Halph. Soon, Beethro discovers a sinister plot concerning all the people above, so finding Halph and convincing him to return home becomes a second priority. It is up to Beethro to foil the Empire\u0027s plans and discover its most guarded secrets."
+  },
+  {
+    "id": 102860,
+    "genres": [
+      9
+    ],
+    "name": "Arcade Islands: Volume One",
+    "storyline": "A Cornucopia of Games! \nExplore New Islands and Collect Treasure! \nIsland Hop with Friends! \nOwn the Islands!"
+  },
+  {
+    "id": 116917,
+    "genres": [
+      9
+    ],
+    "name": "Match Three Pirates! Heir to Davy Jones",
+    "storyline": "Challenging and fun Match 3 Adventure game, where you enter a swashbuckling world of pirate adventure and find out if you can escape the curse of Davy Jones’ Locker. \n \nDavy Jones was a pirate, who didn’t want to die. He wished to furrow the sea forever. And he raised the dark forces and create own magic world - Davy Jones’ Locker where there was no time and no one was getting old, and Davy was opening portals to our world to lure people into Davy Jones’ Locker to be a pirate and play the Davy Jones games… forever! \n \nOn some day Bobby was walking at the fair. And everything was fine till he saw that pirate’s pavilion. Bobby fell into the trap of legendary Davy Jones, and you jumped after him. \n \nNow you should chase Davy Jones in this magic world, and save Bobby... by any costs!"
+  },
+  {
+    "id": 56919,
+    "genres": [
+      9
+    ],
+    "name": "Potion Lore",
+    "storyline": "The legendary tome of alchemy wisdom has been stolen! Throw Professor Stange\u0027s magic potions to help guide him through a dark, treacherous castle and recover the stolen potion lore. \n \nUtilize several powerful potions to overcome countless castle traps and guards in over fifty mind-boggling puzzles. Sneak by unaware enemies with the concealing smoke potion, block their paths with a towering rock potion or set them ablaze with the destructive flame potion. Formulate creative solutions using Stange’s arsenal of potions to advance through the castle and discover the story of Potion Lore."
+  },
+  {
+    "id": 26767,
+    "genres": [
+      9
+    ],
+    "name": "Kluno: A Kid\u0027s Dream",
+    "storyline": "Every night, whilst others are fast asleep, Kluno dreams of exploring castles in the sky, and battling epic toy villains. With Squarrel, space explorer extraordinaire, recruit other heroes into your team and unravel the mysteries of Kluno\u0027s dream.\r\r\n\r\r\nDiscover your heroes, explore and battle through massive worlds to unravel the source of Kluno\u0027s recurring dream. In triumph or defeat, awaken to a new day, waiting only till slumber to start all over again. Discover and collect all the heroes and explore through over 200 beautiful, finely crafted levels."
+  },
+  {
+    "id": 28106,
+    "genres": [
+      9
+    ],
+    "name": "Hungry Black Hole",
+    "storyline": "There is a high probability that a large comet will collide with us within the next three years.              \nFortunately, scientists say they can change the orbit of a comet using a black hole to prevent it.              \nIn addition, it was reported that the United Nations Organization could create a mini black hole.              \nBut there is a problem.              \nThis black hole is still too small and powerless.              \nWe must quickly grow this mini blackhole to change the orbit of the comet. But this mini blackhole eats only the specific candy !              \nOur mission is to remove the obstacles from the specific candy scattered all over the place, so that the black hole can eat it."
+  },
+  {
+    "id": 28382,
+    "genres": [
+      9
+    ],
+    "name": "Natives",
+    "storyline": "Grey and Violet (his counterpart) are extraordinary humans. They can see everything virtual around us (and them) as if it\u0027s something physical (at least physical to our eyes). In 1993, project_VIRTUAL initiated by MASSNET (with Ranjit as its CEO, and he still is...) enabled Grey and Violet to see virtual data in the real world (in thin air) that are generally encrypted and invisible to our eyes (it\u0027s electomagnetic waves we are talking about). That means, they can see our chats, passwords, images etc, all travelling around us, natively. Grey and Violet run a website in which clients from all over the world come to share their problems with them. That includes stealing web history from someone\u0027s computer, deleting someone\u0027s project, various kinds of cybercrimes and a lot more.  \n \nThe best thing about Natives (which means about Violet and Grey) is that they are anonymous to everyone. No one knows them or has seen (and recognized) them, ever! Even Ranjit (CEO of MASSNET) thinks that project_VIRTUAL was a faliure!"
+  },
+  {
+    "id": 28814,
+    "genres": [
+      9
+    ],
+    "name": "Wordsplash!",
+    "storyline": "Wordsplash! is a game for all ages! It\u0027s a simple timed word game currently with two modes (more to come). \n \nClassic mode gives the player 16 random letters to play with. The timer starts at 15 seconds, and counts down to zero. Every word played adds to the player\u0027s score, and adds precious seconds to the clock! \n \nDiscover mode also starts with 16 random letters, but the player is tasked to guess the words the game has preselected. The start time here is a little more generous. Every word played adds to the score and timer. Every valid word that fits within the clues given is also rewarded!"
+  },
+  {
+    "id": 37301,
+    "genres": [
+      9
+    ],
+    "name": "Puzzle of Words",
+    "storyline": "New way of learning words by having fun \n-Lots of puzzle images \n-Many language options \n-Different game styles \n-Learn how the words are pronounciated \n-Learn how the words are written \n-Puzzle package store \n-Race with your friends on the scoreboard"
+  },
+  {
+    "id": 39759,
+    "genres": [
+      9
+    ],
+    "name": "Motivo",
+    "storyline": "How many motivos(\"patterns\" in Greek) do you think you can solve? Put your ingenuity to the test with Motivo!  \n  \nMotivo is mainly a color-based puzzle game but it comes with an option for colorblind mode. The perfect game to spend your free time or... those countless lecture hours.  \n  \nThe mechanics are extremely easy to understand but you better think twice before tapping on a tile and rotate its color, you don\u0027t want to create a mess after all. When you tap on a tile, its color and those directly connected to it are rotated to the next color in the list. Simple, isn\u0027t it? All levels generated are guaranteed 100% solvable.  \n  \nWhat does Motivo offer you:  \n- Countless hours of fun  \n- Colorblind mode  \n- 3 grid sizes  \n- Up to 8 colors in a level  \n- 30+ achievements to unlock  \n- Addictive gameplay  \n- Extremely easy mechanics  \n- Nice relaxing ambient music  \n  \nWell... what are you waiting for?"
+  },
+  {
+    "id": 115318,
+    "genres": [
+      9
+    ],
+    "name": "Sacrifice Of The Beloved",
+    "storyline": "The game follows the story of a man trying to find the source of his nightmares but instead uncovers the mystery of the Patrick Family. \nThe story shows the pain of a father who blamed himself for what happened to his family, the guilt of a mother who lost everything trying to save it \nand anger of a child who saw her beloved die in front of her eyes"
+  },
+  {
+    "id": 96268,
+    "genres": [
+      9
+    ],
+    "name": "GURUGURU ANIMALS",
+    "storyline": "Help the animals by solving physics-based puzzles with drawings! \n \nFeatures all sorts of different animals. \nFeed the hungry animals with their favourite snacks. \nDraw your way through brain teasing puzzles and solve them with physics. \nPick your favourite colour to draw with. \nUnlock more stars by finishing the levels faster. Unlock more levels by getting more stars! \nEndless unique ways to solve the puzzles! \n \nCan you beat all the levels? \n \n \n \nA game made by four Finnish vocational college interns in Japan. The game was completed in two months, and was made for the Google indie games festival 2018. \n \nThe game is available in Google Play."
+  },
+  {
+    "id": 95666,
+    "genres": [
+      9
+    ],
+    "name": "Lost Worlds Prophecy",
+    "storyline": "The galactic command recently discovered a few previously unknown planets in our galaxy, which they called the lost Worlds. On the surface of these planets, the alpha researchers found many stone heads that seem to emit an unknown frequency. Further analysis shows the heads to be connected through these frequencies, but the purpose of the signals has not yet been uncovered. When the scientists moved one of the stones, they found several ancient texts left by a long extinct civilization. The old writings seem to warn about a great cataclysm \u0027when the heads awaken\u0027. First it was thought to be nothing but superstition, however this prophecy may not entirely be made up! The exact details are still classified. The high council thus decided to destroy these heads, as they serve no purpose to us and might pose a threat to our galaxy. Since the stones are protected by a strange kind of force field, lasers as well as explosives have been proven unsuccessful to destroy them. You will be sent top secret drones which are able to penetrate the protective layer around these heads to neutralize them. The drones will be put under your command and are available at your request. Please be careful, supply is limited to 3 for each marked area. This should be enough to eliminate all nearby threats... If you aim properly. We count on you to finish this job ASAP, good luck!"
+  },
+  {
+    "id": 112641,
+    "genres": [
+      9
+    ],
+    "name": "Triametric",
+    "storyline": "Triametric is developed by Lifesoft Studios, a mexican indie game studios, Triametric is our las release but in in this year we has release 3 game, 2 for android and 1 for pc, check our website and know more about us."
+  },
+  {
+    "id": 113254,
+    "genres": [
+      9
+    ],
+    "name": "Rocket Mouse",
+    "storyline": "Otto, 2 years old, is fascinated by space rockets, liftoffs, outer space and stars. One day, his mum Sofie, drew this funny character. Rocket Mouse was born. With her partner Guillaume, they teamed up and started the exciting adventure of creating their own homemade game. \nFor months they designed and developed Rocket Mouse. Otto was delighted to see his new favourite game and character coming to life. This is how it starts, Rocket Mouse by Sofielafée little things x little ones."
+  },
+  {
+    "id": 20450,
+    "genres": [
+      9
+    ],
+    "name": "Dead Space: Ignition",
+    "storyline": "An engineer named Franco Delile and his partner Sarah are called to fix an elevator on the Sprawl (a space station of a shard of Titan, one of Saturn\u0027s moons that was \"planet-cracked\"), only to discover evidence of sabotage. They are then called to fix a computer mainframe, again finding that the damage was intentional. While traveling between jobs, they hear distant screams and investigate, only to encounter people being attacked by grotesque monstrosities dubbed \"Necromorphs.\" Franco and Sarah escape using the tram. From there on, they are sent across the Sprawl in an increasingly desperate attempt to repair station systems and assist other survivors, all the while under attack by Necromorphs. Depending on the player\u0027s choices, Sarah may be killed by asphyxiation, Necromorphs, or by Franco after receiving a coded message; he may be a Unitologist. The story ends with Franco reaching the Sprawl hospital, and reviving the comatose Isaac Clarke, leading up to the opening scene of Dead Space 2."
+  },
+  {
+    "id": 117499,
+    "genres": [
+      9
+    ],
+    "name": "The Birdcage 2",
+    "storyline": "The story revolves around young sorceress who has just graduated from school of magic. She heard tales of the powerful wizard Alzar, so she embarked on a journey to find him, hoping he will teach her advanced magic. She faced many obstacles, dangers and revelations that ultimately forced her to make difficult choices. Enter the magical land of Avem and learn what happens to our brave young sorceress. Intuitive touch controls, mechanical puzzles and creative reasoning will enable you to free the innocent magical creatures imprisoned by dark magic."
+  },
+  {
+    "id": 102700,
+    "genres": [
+      9
+    ],
+    "name": "Faraway 3",
+    "storyline": "It’s been several years now, since your journey began, searching for your lost father. After unraveling a huge number of mind-boggling puzzles, the last gateway you entered took you to an altogether new wintery continent filled with frosty, new temples to investigate. You seem to be getting closer to finding your father, all the while you are still finding notes he left behind. \nObserve the arctic environment, collect items, manipulate devices and solve perplexing puzzles to escape frosty temple labyrinths."
+  },
+  {
+    "id": 105800,
+    "genres": [
+      9
+    ],
+    "name": "The Birdcage",
+    "storyline": "The story revolves around a heartbroken king who had lost his young son in a climbing accident. He locks away that which his son loved most - the ocean-colored birds that populated their kingdom. In doing so, he stole the very wind from the skies. Release the birds and unleash the wind once more. Prepare yourself for intuitive touch controls, mechanical puzzles and thinking outside the box. In order to finish this puzzle game, you need to use all the room escape skills you have!"
+  },
+  {
+    "id": 4107,
+    "genres": [
+      9
+    ],
+    "name": "No One Can Stop Mr. Domino!",
+    "storyline": "The game includes 6 stages: a casino, a grocery store, a family home, a local park, an amusement park, and a city. Each stage is set up like a racetrack as the character will go back to the starting point after each lap. The player can make as many laps as needed to clear a given stage. When the level is cleared, the player will proceed to the next stage. \n \nOnce a stage starts, the character will start to run, and he/she will not stop running. To control the character\u0027s speed and where he runs, the player dictates movement with the D-Pad. The characters that are not under the player\u0027s control will attempt to hinder the avatar\u0027s progress in ways such as throwing dice, turning on electrical wire, making fruit appear out of nowhere; making the evasion of such obstacles a primary concern of the player. \n \nA game element called a \"trick tile\", places the dominoes effectively by input of the Circle, X, Triangle, or Square button. This will place a domino on the current path. The player can continue to keep placing dominoes by holding down one of the aforementioned buttons. \n \nWhen a full lap is completed around the stage and returned to where the first domino was laid, the character will bump into the domino. The dominoes will begin an effect of inertia, and the character will stand still while the dominoes are falling. \n \nWhile active, the character\u0027s stamina will decrease. This is signified by the character\u0027s body gradually darkening. If the character\u0027s stamina is depleted, the character will transform into an ordinary domino, and the game will end. This is prevented by encountering on special Recovery Tiles that can recover the character\u0027s stamina, but can only be used once for each tile. \n \nThe player clears a stage by activation of the required number of trick tiles for each stage. The player heightens their score by activating the trick tiles in a shorter time and in as long of a chain as possible. If the stage is cleared with a High Score, the player will be able to unlock new characters."
+  },
+  {
+    "id": 127788,
+    "genres": [
+      9
+    ],
+    "name": "Drag n Merge Numbers",
+    "storyline": "Drag n Merge is a new match 3 number game. Drag the bottom number to a number on the grid to be added or subtracted to match 3 or more same adjacent numbers horizontally and vertically, then they will be merged into the next higher number at their most far right-bottom tile. \n \n \nYou can place the number on the grid by 2 ways: \n- Drag and drop it. \n- Touch directly a number on the grid. \n \n \nFirst, You have 5 cards. Every match gives you 1 new card. The value of each card is selected randomly from the list [+1, +2, -1, -2]. \n \n \nYou will get bonus points when you match 3 or more different groups of numbers at the same time. \n \n \nSimple rules: \n- Every match gives 1 star \u0026 1 new card. \n- It costs 100 stars to remove a number from the grid using the Remove button. \n- The game is over when you run out of cards and stars. \n- It is your responsibility to save your progress to resume it later by hitting the Save button. \n \n \nEvery new level: minimum and maximum generated numbers are increased by 1. \n \n \n \nPlay, enjoy and have fun !"
+  },
+  {
+    "id": 104251,
+    "genres": [
+      9
+    ],
+    "name": "Equaland",
+    "storyline": "In the world where everything was unevenly distributed, you arrive and find a way to make things equal."
+  },
+  {
+    "id": 121509,
+    "genres": [
+      9
+    ],
+    "name": "Swap n Merge",
+    "storyline": "Swap n Merge is a brand new puzzle game. \nIt is totally free merge numbers game without in-app purchases. \nSwap n Merge is a relaxing and brain training match 3 number game. \n \n \nHow to play: \n- Swap 2 Numbers in any direction. \n- match 3 or more same numbers horizontally and vertically. \n \n \nRules: \n- No automatic swap-back even there is no match. \n- Every match gives 1 star. \n- Every swap without match costs 5 points. The cost is incremented by 5 points every level. \n- It costs 100 stars to remove a number from the grid using the Remove button. \n- It is your responsibility to save your progress to resume it later by hitting the Save button. \n \n \nEvery new level: minimum and maximum generated numbers are increased by 1. So try to match all minimum numbers before the next level because they will not be generated again. \n \n \nPlay, enjoy and have fun."
+  },
+  {
+    "id": 22004,
+    "genres": [
+      9
+    ],
+    "name": "To The Throne",
+    "storyline": "The first time King Kingsley attempts to sit on the recently vacated True Throne he is booted off. He is not worthy! The Royal Emblem splits into 6 pieces and flies into the Tower Of Trials.\n\nGuided by the Royal Advisor \"Bitsworth\", he must conquer the challenges that await him in the Tower, reassemble the Royal Emblem and earn his right to sit on the True Throne!"
+  },
+  {
+    "id": 22028,
+    "genres": [
+      9
+    ],
+    "name": "X-Pipes Evolution",
+    "storyline": "X-Pipes Evolution\u0027s main features are:\n•32 different levels divided into 8 worlds plus extra challenging levels\n•3 difficulty levels\n•Eye-poppin\u0027 cartoonish graphics\n•Mind relaxing music\n•High quality sound effects\n•Simple and intuitive gameplay\n•Online high scores\n•A cute robot character"
+  },
+  {
+    "id": 97491,
+    "genres": [
+      9
+    ],
+    "name": "Tiny Dragons",
+    "storyline": "Welcome to Tiny Dragons! Restore an ancient dragon city through a storyline full of adventures and twists. \n \nBecome a Dragon Keeper: summon dragon eggs through a magical portal, beat match-3 levels, rebuild different areas of the city, unveil it’s story and mysteries it holds! \nMeet the Wise Man and a bunch of cute dragons that will help you restore the city to its former glory."
+  },
+  {
+    "id": 37147,
+    "genres": [
+      9
+    ],
+    "name": "LocoRoco 2 Remastered",
+    "storyline": "The peaceful world of the LocoRoco is under attack! Moja Corps are back, and they’re armed with a deadly song that sucks the life out of any living thing."
+  },
+  {
+    "id": 113253,
+    "genres": [
+      9
+    ],
+    "name": "Algotica Iterations",
+    "storyline": "The main aim is to lead a program named Lony from the start point to the end point of a level. This must all be done using only formal rules and logic of the in-game world - Algotica. Although the game seems simple, each new level has new obstacles and sometimes even new mechanics. With each new stage, you will use more advanced programming mechanics and understand more about programming and algorithms."
+  },
+  {
+    "id": 54602,
+    "genres": [
+      9
+    ],
+    "name": "Block Combine",
+    "storyline": "It is a game in which each block is rotated to arrange and combine blocks so that they do not overlap each other."
+  },
+  {
+    "id": 131867,
+    "genres": [
+      9
+    ],
+    "name": "Prisoner Of War",
+    "storyline": "Set in the thick of world war two, Lieutenant George Andrews has been captured and held prisoner by the Germans, due to high volumes in the prisoner camps the Lieutenant has been sent to the Jewish camps to face the horrors alone. In this top down prison escape, you will be faced with challenges such as sneaking passed guards, picking up letters which in turn give ideas to find tools in order to escape the prison."
+  },
+  {
+    "id": 18223,
+    "genres": [
+      9
+    ],
+    "name": "Rolie Polie Olie POP!",
+    "storyline": "The show focuses on the Polie Family, who live in a teapot-shaped house in a geometric world (Planet Polie) populated by robot-based characters. The stories revolve around a young robot named Olie learning life lessons and going on wacky adventures (either real or imaginative) while growing up. These often include his little sister Zowie, his inventor father, his hard-working mom, his fun-loving grandfather Pappy, and his dog Spot. Although most of the main cast is composed of circular bots, other characters are featured in other shapes, such as Olie\u0027s friend Billy Bevel and his family, who are square-shaped bots from Planet Cubey."
+  },
+  {
+    "id": 113576,
+    "genres": [
+      9
+    ],
+    "name": "Super Blox",
+    "storyline": "7 years ago I had a cool idea for a puzzle game. I made a basic version on the computer, created a few levels and then forgot about it. This year however, I decided to turn it into a proper app that people can download and play. After many hours of work (and sleepless nights) I am finally happy to announce that the game is ready! \n \nBlox is a simple puzzle game where you need to slide blocks around to make them all green. As you play the game, you will uncover new block types that make the levels more challenging. There are 80 puzzles to solve and some of them are quite tricky. \n \nYou can download the game through Google Play and play it on any Android device. I really hope that you enjoy playing this. If you like the game then please spread the word and share it with your friends. Finally, I would like to thank all my friends and family who helped and supported me in this journey. \n \nhttps://play.google.com/store/apps/details?id\u003dcom.xyz.iaptest"
+  },
+  {
+    "id": 27521,
+    "genres": [
+      9
+    ],
+    "name": "Fish Fillets",
+    "storyline": "Once upon a time there were two fish. They worked for a fishstitution so secret that even they didn\u0027t know its name. It investigated UFOs (Unidentified Floating Objects), searched through wrecks of land-based vessels known as \"floating saucers\" and carried out DIVER (Deeply Interesting and Very Expensive Research). One day, one particularly nasty UFO invaded the underwater realm, wreaking havoc as it zigzagged along the ocean floor. It struck the little house of the two fish and destroyed it beyond recognition. As our heroes set out on their quest to restore the peace, they learned that the Agency has put them in charge of eight different missions. Only when they complete them all do they have a chance to get back home. Their only consolation is the Agency\u0027s motto: The solution is out there…"
+  },
+  {
+    "id": 26683,
+    "genres": [
+      9
+    ],
+    "name": "Statik",
+    "storyline": "Statik is a VR puzzle-mystery, where you join Dr Ingen and his delightful assistant Edith on a journey to unravel the complexities of the human mind. Awaking to each new day with a unique, hand-mounted puzzle device to solve, you must use your brain, eyes and ears to solve each mystery. But, this being VR, it’s hard to know which of these can be trusted…"
+  },
+  {
+    "id": 13483,
+    "genres": [
+      9
+    ],
+    "name": "Star Wars: Pit Droids",
+    "storyline": "In the high-stakes sport of Podracing, urgent\nand determined pit droid mechanics can mean\nthe difference between victory and defeat…\nwhen they stay out of trouble.\n\nThe Toydarian junk dealer Watto, eager to keep\nhis shop well stocked, is always on the lookout\nfor the next big deal.\n\nLooming over the desert planet Tatooine is\nthe largest shipment of pit droids Watto has\never purchased, threatening to overrun\nall of Mos Espa unless someone gets\nthem under control…"
+  },
+  {
+    "id": 57739,
+    "genres": [
+      9
+    ],
+    "name": "Pythagorea",
+    "storyline": "Pythagoras of Samos was a Greek philosopher and mathematician. One of the most famous geometric facts bears his name: the Pythagorean Theorem. It states that in a right-angled triangle the area of the square on the hypotenuse (the side opposite the right angle) is equal to the sum of the areas of the squares of the other two sides. \n \nWhile playing Pythagorea you often meet right angles and rely on the Pythagorean Theorem to compare lengths of segments and distances between points. That is why the game is named after Pythagoras."
+  },
+  {
+    "id": 83578,
+    "genres": [
+      9
+    ],
+    "name": "Interlocked",
+    "storyline": "Wrap your mind around the next intensive puzzle game - Interlocked! \nA 3D puzzle game with a chilling atmosphere. \n \nYou know those puzzles consisting of a few wooden blocks that are impossible take apart? Then you know Interlocked. Each level, you’re given a unique 3D puzzle consisting of blocks that hold each other together. Take it apart and you\u0027ll feel ten times as smart :-)"
+  },
+  {
+    "id": 46498,
+    "genres": [
+      9
+    ],
+    "name": "Cut the Rope: Magic",
+    "storyline": "A magical mishap has accidentally teleported Om Nom to a mystical world filled with challenging puzzles for players of all ages. Can you use Om Nom’s new skills to solve an evil wizard’s tricks and traps? The latest installment of this globally popular entertainment franchise puts a fresh spin on Cut the Rope’s iconic physics-puzzle gameplay, introducing more than 100 all-new magic-themed levels across a richly imagined, colorful world."
+  },
+  {
+    "id": 127335,
+    "genres": [
+      9
+    ],
+    "name": "Prison Princess",
+    "storyline": "The Continent of Maygard– \nThe peace and prosperity brought about by the two kingdoms of \u0027Aria Zaza\u0027 and \u0027Zanji Zed\u0027 lasted countless years. \nThat golden era is now facing it\u0027s downfall. \nThe Demon King, released from his seal, has turned our continent to a sea of flames. \nAs cities were invaded one after another, a man appeared carrying the blood of ancient heroes... Oh Brave Hero. \nDuring his journey, the hero met with grave misfortune and perished. \nThe Demon King\u0027s minions snuck into the capital cities of the two kingdoms to kidnap their precious princesses. All hope seemed to have been lost... \nHowever, it seems our hero is not wholly dead after all. \nEven as a spirit, the hero is determined to remain in this world, and has set off to save the princesses from danger."
+  },
+  {
+    "id": 66027,
+    "genres": [
+      9
+    ],
+    "name": "Pokémon Puzzle Collection Vol.2",
+    "storyline": "It is similar to the first game, but some games have been modified. In addition, there are 80 new puzzles in this game."
+  },
+  {
+    "id": 70135,
+    "genres": [
+      9
+    ],
+    "name": "Jump Start: Dino Adventure",
+    "storyline": "Frankie is sent back to the time of the dinosaurs using the Time Machine. He meets a mother pterodactyl, whose eggs have disappeared. Frankie goes on an adventure to help her recover the five lost pterodactyl eggs."
+  },
+  {
+    "id": 2739,
+    "genres": [
+      9
+    ],
+    "name": "Tetris Attack",
+    "storyline": "The story mode takes place in the world of Yoshi\u0027s Island, where Bowser and his minions have cursed all of Yoshi\u0027s friends. Playing as Yoshi, the player must defeat each of his friends in order to remove the curse. Once all friends have been freed, the game proceeds to a series of Bowser\u0027s minions, and then to Bowser himself. During these final matches, the player can select Yoshi or any of his friends to play out the stage."
+  },
+  {
+    "id": 18657,
+    "genres": [
+      9
+    ],
+    "name": "Yoshi\u0027s Cookie",
+    "storyline": "Yoshi\u0027s Cookie is a tile-matching video game in which the player is given a playing field populated with cookies of five various types, arranged in a rectangular grid. The main objective of each level is to clear the playing field of all the cookies. The player mixes and matches the cookies such that entire rows or columns consist only of cookies of the same type. The player controls a cursor on the grid that is used to rotate individual lines in a manner similar to a Rubik\u0027s Cube. When a single row or column contains all matching cookies, the row is cleared from the grid. The grid grows in size from cookies entering from the top and right sides of the playing field and a game over occurs when the grid overflows. A sixth cookie type, shaped like Yoshi\u0027s head, occasionally appears that acts as a wild card, used to help clear lines of any other cookie."
+  },
+  {
+    "id": 108585,
+    "genres": [
+      9
+    ],
+    "name": "Hello Cats!",
+    "storyline": "Solving physics-based puzzles and collect cats! \n \n \nWelcome to this brand new cat shelter and start a journey of collecting and merging cats right now! Generous donation will be granted from cat lovers all around the world, so please invest it carefully and build a magnificent palace of various lovely cats!"
+  },
+  {
+    "id": 25927,
+    "genres": [
+      9
+    ],
+    "name": "Goofy Monsters - Sokoban Land",
+    "storyline": "These goofy monsters are lost around the world and we need your help to find them. But this is not an easy task, you will need to think a lot to solve all the puzzles before putting them to sleep.."
+  },
+  {
+    "id": 27432,
+    "genres": [
+      9
+    ],
+    "name": "Catomic",
+    "storyline": "Every kitten in C:SCAO is born with a bold dream: to conquer the deep space. They drink some milk, go to school, then university, then build some fancy gadgets, and are quite ready for spaceship construction. Owls on the other hand couldn\u0027t care less about space. Their aspiration is power."
+  },
+  {
+    "id": 36741,
+    "genres": [
+      9
+    ],
+    "name": "Hello Kitty Lovely Fruit Park",
+    "storyline": "A chosen character from the Sanrio Universe must win Puzzles."
+  },
+  {
+    "id": 83577,
+    "genres": [
+      9
+    ],
+    "name": "Twisty Planets Space Puzzle",
+    "storyline": "Each level features a 3D “planet” made up of little blocks that’s floating in space. There are three stars to collect, plus a portal that allows you to proceed to the next level. You move Qub by tapping anywhere on the part of the screen that’s the direction you want him to go. To be most precise, you can tap the arrows in the four corners of your screen. If there’s a ledge that’s short enough to jump up to, he will automatically jump to it. Walk Qub onto thin air and he’ll fall and lose a star, but return just as cheerful as ever. Nothing, and I mean nothing, wipes the smile off this little guy’s face. \n \nBesides controlling Qub, you rotate the entire planet by swiping the screen in any direction. This is how you get Qub to different sides of the planet. Fans of Monument Valley may feel at home with this control scheme. But be careful! Unlike Monument Valley, you can fall off the planet, and there are consequences for it. And it can be a bit frustrating sometimes when you accidentally walk off the edge. The “impossible architecture” concept of Monument Valley also does not apply here. Just because it seems like two blocks connect from one angle, doesn’t mean they do. You need to make sure from every angle that you’re lined up with a block before you rely on it to catch you."
+  },
+  {
+    "id": 11506,
+    "genres": [
+      9
+    ],
+    "name": "Analogic",
+    "storyline": "\"A space race through the numeric maze of a computer charted galaxy! A fascinating electronic addition game for all ages\" \n \nA strange small logic game where each player must reach other player\u0027s planet first. The player from the planet ODD tries to reach the planet EVEN before the player from the planet EVEN reaches the planet ODD. \n \nThe movement principle is as follows: the EVEN player may move only to a square whose number combines with ODD\u0027s last move to total to an even number. ODD may move to a square whose number totals to an ODD figure when combined with EVEN\u0027s last move..."
+  },
+  {
+    "id": 89082,
+    "genres": [
+      9
+    ],
+    "name": "Jewel Fever 2",
+    "storyline": "Jewel Fever 2 is an addictive match-3-puzzle-game! \nIt features: \n- Three game modes: Normal, Quick and Infinite \n- 15 Objectives to be completed (in normal-mode or quick-mode) \n- Combos: You can achieve more points by making combos! \n- HD graphics \n \nInstructions: \nNormal mode : You advance to the next level when you match the required number of jewels as it\u0027s shown in the upper part of the screen. \n \nQuick mode : Try to match as many jewels as you can in 60 seconds! \n \nInfinite mode : You have unlimited time so you won\u0027t be surprised by any \"game over\" messages"
+  },
+  {
+    "id": 66028,
+    "genres": [
+      9
+    ],
+    "name": "Pokémon Puzzle Collection",
+    "storyline": "The player is allowed to choose from a selection of different types of puzzles. Initially, the only options are Shadow Puzzle, Motion Puzzle, and Rescue Mission, but after completing 30 puzzles, a fourth variety, Power On, is unlocked. There are 20 puzzles for each type, divided into five levels, with four puzzles to a level. The higher a puzzle\u0027s level, the more difficult the puzzle is. Once a puzzle is solved, the Pokémon involved in the puzzle is added to the game\u0027s Pokédex, the Minidex."
+  },
+  {
+    "id": 131745,
+    "genres": [
+      9
+    ],
+    "name": "Nines",
+    "storyline": "This casual game is very simple but addictive. \n \nAll you have to do is just Quickly touch 1 to 9 or 9 to 1 in sequence. \t \nBut pay attention to the direction of the numbers when touching 6 or 9."
+  },
+  {
+    "id": 126457,
+    "genres": [
+      9
+    ],
+    "name": "Kyodai Mahjongg",
+    "storyline": "I\u0027ve always been a Mahjongg Solitaire fan. \nI wanted to write my own version, because I couldn\u0027t find a game with all the features I dreamed of... \nKyôdai Mahjongg was born on March 1st, 1997. I hope you will like it too! \n \nKyodai Mahjongg is a great version of the famous Mahjongg Solitaire (or Shanghai) oriental game. The purpose of the game is to remove all the tiles from a board. The tiles must be removed by pairs. They have to be free on their left or right side, otherwise you can\u0027t remove them. The rules are simple and the game is extremely addictive! \n \nFeatures: 2D and 3D mode, several mini-games, hall of fame, high speed, user-friendly interface, tile highlights, many layouts, several great and relaxing oriental music (especially composed for the game), various backgrounds, sound effects, layout editor, shuffle, restart, undo, hints, multi-lingual (at least 27 translations included), and many more... Wow! ;-)"
+  },
+  {
+    "id": 127977,
+    "genres": [
+      9
+    ],
+    "name": "From Flames",
+    "storyline": "Set in a post-apocalyptic world, you play as a scavenger, who stumbles upon a church which contains a dark history. Unaware of the horrors within, you decide it to be a good spot to look for supplies. \n \n\u0027Following days of wandering through fields and forests, blinded by an intense fog, you eventually come across a church at the roadside. Running low on food, you decide to take a look inside. \n \nWhat you find will be your undoing.\u0027 \n \nExplore the environment, read notes, find items, solve puzzles, and unravel the horrors of a time long passed. The game features a total of 5 potential endings, but how to achieve them all is up to you to discover."
+  }
+]

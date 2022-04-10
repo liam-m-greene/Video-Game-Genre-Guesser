@@ -1,0 +1,130 @@
+[
+  {
+    "id": 96390,
+    "genres": [
+      16
+    ],
+    "name": "The Abbattoir Intergrade",
+    "storyline": "The year is 2238, and you are assuming the role of Shepherd Cartalia of the colony X1407, a human colony on the habitable planet B382 founded in 2148. Earth is 20 light years away and has largely been abandoned after the climate became erratic, quickly alternating between extreme high and low temperatures. \n \nAt the start of your expedition your colony was outfitted with the latest terraforming package provided by the Human Federation. This package includes an AI module that modifies livestock DNA to generate edible lifeforms that area ideal to the planet conditions allowing you to focus efforts on terraforming and construction. Your settlement progress has been spectacular, and although you\u0027re nearing retirement, you\u0027ve managed to expand the colony from its meager initial size of 100 adult citizens in a valley, to over 1,000 residents of all ages spread over several outposts during your tenure. \n \nUnfortunately, the \u0027Sustenance and Nutrient Generator\u0027 you were given seems to be malfunctioning, as the animals being created have recently exhibited violent behaviour and are now chasing down your people as they flee to the founding settlement. You need to set up defenses to slow the tide of violent animals, while you begin a search for a lasting solution."
+  },
+  {
+    "id": 110863,
+    "genres": [
+      16
+    ],
+    "name": "Total War: Warhammer II - Curse of the Vampire Coast",
+    "storyline": "Night falls on Lustria. As you stand on the dock and peer seawards through the gathering mists, strain your ears. The jungle sounds behind you fade, and in their place comes a wet thudding, as of rotten rigging against a mouldy mast. The sound multiplies, and with it, the groan of a thousand breathless voices, joined in something part-shanty, part-dirge. Dread prows pierce the gloom ahead, and the ghastly truth is laid bare: upon the ghoul-winds come the swollen hulks and decaying vessels of the Vampire Coast! Run now – run hard and fast. For it is all you can do. \n \nIt was the undying lord Luthor Harkon that laid claim to a stretch of Lustria’s east coast. Ever since, it has been a domain where the dead stir, leading expeditions into the jungle interior or setting sail across the Great Ocean to commit wanton acts of piracy. But the insane Arch-Commodore Harkon is not the only unliving admiral who takes to the seas with pistol-armed crews of zombies, vampiric depth guard, syreens and mournguls… there are other pirate lords who command dreadfleets of their own, packed to the gunwales with crews press-ganged into eternal service. \n \nThese tyrants ply the seas seeking plunder of blood and gold. However, now that the vortex of Ulthuan weakens, the captains search for more than mere treasure… for the Star-Metal Harpoon lies in the deeps, a weapon powerful enough to bring the greatest Merwyrm of them all to heel"
+  },
+  {
+    "id": 41071,
+    "genres": [
+      16
+    ],
+    "name": "World of Commanders",
+    "storyline": "WORLD OF COMMANDERS is a strategy game based on the World War 2.   \n   \nIt offers more than 500 historical units used by more than 60 countries during World War 2.   \n   \nYou can collect more than 500 iconic World War 2 units from different countries such as M4 Sherman, Tiger, Panther, Mustang, and Spitfire.   \n   \nWorld of Commanders boasts realistic type effectiveness system based on more than mere level and grade as well as historical battle simulations from German invasion of Poland to Japan\u0027s defeat.   \n   \nIn \u0027Campaign Mode\u0027, you can have war simulation of historical battles such Normandy Invasion and Battle of Stalingrad.   \n   \nIn \u0027Operation Mode\u0027, you can build your base and defeat other users to occupy their territory.   \n   \nIn \u0027Challenge Mode\u0027, enemies with different concept appear every day.   \n   \nBecome stronger with your allies!   \nGet free gold twice a day along with various PVP ranking rewards!    \n   \nWorld of Commanders will never make you feel bored.   \n   \nDOWNLOAD   \n- Google: https://goo.gl/xTmSTG   \n- Apple: https://goo.gl/sNZTb8"
+  },
+  {
+    "id": 23265,
+    "genres": [
+      16
+    ],
+    "name": "Crystal Defenders: Vanguard Storm",
+    "storyline": "In ancient times, mysterious artifacts referred to as Remnants were discovered all over the world. Offering incredible power, they soon came into the hands of the covetous few, and thus was the world\u0027s delicate equilibrium shattered. The people were divided into those who ruled and those who were ruled over. War was inevitable. Our story begins a thousand years later..."
+  },
+  {
+    "id": 49402,
+    "genres": [
+      16
+    ],
+    "name": "Duel Masters: Shadow of the Code",
+    "storyline": "Recent tournament titles have put you at the top of the competitive circuit. Fans want your autograph, your smiling face adorns many a zine cover, and shop owners argue over who gets to be your sponsor. But all is not well when your pal Shobu goes missing and kids start reporting real-life sightings of famous Duel Masters creatures in town. Winning tournament isn\u0027t enough if you want to solve the mystery of missing Shobu."
+  },
+  {
+    "id": 8612,
+    "genres": [
+      16
+    ],
+    "name": "Elemental Kingdom",
+    "storyline": "The Ultimate card collecting battle game, Elemental Kingdoms! Join the Northern Alliance in their quest to defeat the aggressive Scarlet Nation! Make allies along the way and build the strongest deck you can in the newest strategy card game on the block! Carefully select your best cards and runes to end the war, or battle against friends and strangers for the prestige of having the most powerful hand ever played! Enchant monsters and runes to unlock their full potential and once again restore peace to the four Elemental Kingdoms!"
+  },
+  {
+    "id": 725,
+    "genres": [
+      16
+    ],
+    "name": "Galactic Civilizations II: Dread Lords",
+    "storyline": "In the 23rd century the known galaxy is at war. The Terran Alliance and their coalition are fighting a desperate interstellar war with the evil Drengin Empire and their ruthless allies. Behind the scenes, the precursor civilization called the Dread Lords pulls the strings on both sides. As leader of a galactic civilization, it is up to you to ensure the triumph of your civilization."
+  },
+  {
+    "id": 26904,
+    "genres": [
+      16
+    ],
+    "name": "Heavenstrike Rivals",
+    "storyline": "Long ago, a land hung amongst the clouds, suspended by monolithic chains: Lunnain. The land was watched over by the Guardian, a holy being who resided at the chains\u0027 summit. Every hundred years, the divine Seven Sisters awoke to choose a new Guardian. Under their care, Lunnain enjoyed 600 years of prosperity, growing into a bustling industrial metropolis. That was, until the Fallen came. Ruthless monsters of nightmare, they mounted daily attacks down the chains. Overwhelmed, the army of Lunnain retreated to focus its efforts on key locations. Thus, the city was irreconcilably split in two: the safe Havens, and the unguarded Forsaken. Punished by their deity and left behind by their government, these people struggle to survive each day; their lives—and their city—a shadow of past glory. But adversity has a habit of birthing heroism, and one who will shape this cursed land\u0027s destiny is about to arise..."
+  },
+  {
+    "id": 8139,
+    "genres": [
+      16
+    ],
+    "name": "Heroes Chronicles: Revolt of the Beastmasters",
+    "storyline": "In Revolt of the Beastmasters, the Ancestors send Tarnum to free the Mudlanders from Erathian control. Even after hundreds of years of slavery, the Mudlanders are determined to overthrow their masters. Tarnum appoints the Gnoll, Brellick, as a captain and the Witch, Adamina, as his advisor. He also trains Droglo, a human boy who was raised by Mudlanders. The Mudlanders defeat opposition from Lord Onsten and Baron Paglon before Mad King Gryphonheart of Erathia takes the rebellion seriously.\r\n\r\nMad King Gryphonheart sends his son Niven to put down the rebellion in Earl Rambert\u0027s territory, though he secretly thinks his son will fail. Tarnum captures Prince Niven and shows him what slavery has done to the Mudlanders. Niven eventually sides with Tarnum, and he is released from his prison. The Mudlanders force Rambert to retreat to another castle and leave many of his prisoners behind. When Rambert threatens to kill the remaining prisoners, including Adamina, if Tarnum does not return Niven, Tarnum sends Brellick, Droglo, and Niven to make the exchange after harming Niven so that he looks like a true prisoner. However, Rambert ambushes their army and kills Brellick. Droglo then kills Rambert, and the Mudlanders soon win the battle. To prepare for the final battles against Mad King Gryphonheart, Tarnum sends Droglo to request the aid of the Barbarians of Krewlod (the Wastelands).\r\n\r\nAdamina and the other wisewomen name the new Mudlander nation \"Tatalia,\" a word which means \"community\" in the forgotten Mudlander language now only known to witches. In Erathia, the nobles displeased with Mad King Gryphonheart name Niven as their new king. King Niven mounts an army to join the army of Tatalia in the fight against the old king\u0027s remaining supporters. Droglo finally discovers Tarnum\u0027s identity as the Immortal Hero, but accepts that he has changed. Tarnum and Mad King Gryphonheart meet in battle and deal each other seemingly mortal blows. However, Tarnum is immortal, and he slips away before his body can be buried. Droglo becomes the new leader of Tatalia."
+  },
+  {
+    "id": 8140,
+    "genres": [
+      16
+    ],
+    "name": "Heroes Chronicles: The Sword of Frost",
+    "storyline": "In The Sword of Frost, a direct sequel to Clash of the Dragons, Gelu, wielder of Armageddon\u0027s Blade, sets out to destroy the Sword of Frost. Tarnum, having heard of an ancient prophecy that the meeting of the two swords will bring about the end of the world, struggles to stop Gelu. With the recent chaos after the death of Queen Mutare of Nighon, Tarnum is able to take control over the Dungeon creatures of Nighon who are the only ones who wish to fight Gelu, becoming an Overlord. However, ruling these brutal creatures brings out the darkness in Tarnum.\n\nThe Sword of Frost is located in the northern lands of the Vori elves. Gelu is half-Vori, so the elves fight against Tarnum. In addition, Tarnum\u0027s own troops are prone to internal conflicts. After being shot with a poisoned arrow by a medusa, Tarnum appoints his saviours,the beholders, Neez, Zarm, and Kilkik as his bodyguards and advisors. They take revenge against the medusas, but Zarm dies in the process.\n\nKija, the third wife of King Kilgor, also chases Gelu for the Sword of Frost. She plans to steal it from him and give it to her husband so that her son will be named heir to Krewlod. Tarnum cannot convince Kija or Gelu to give up their search, so he decides to gain an edge by adding the Azure Dragons to his army.\n\nGelu understood that the Sword of Frost could only be destroyed by Armageddon\u0027s Blade. However, he didn\u0027t know that this could only be done under very delicate circumstances. Tarnum knew that if Gelu were to try to destroy it using only brute force, the cataclysm would occur.\n\nIn order to learn more about the Sword of Frost, Tarnum captures Gelu\u0027s friend and captain, the dwarf Ufretin. While he does so, he replaces his remaining beholder bodyguard Kilkik with the minotaur Trongar and the medusa Zallisa. Tarnum convinces Ufretin to understand him before allowing the dwarf to return to Gelu. Ufretin buys Tarnum enough time to capture Kija and annihilate her army. However, Gelu soon continues his march toward the city of Volee (where the sword is held).\n\nWhen Tarnum finally beats Gelu to Volee, he discovers that the Sword of Frost has already been taken by Kija, who had escaped from her dungeon prison a few weeks earlier. In the chronicle\u0027s ending scene, Tarnum prays to the Ancestors, \"Please don\u0027t let my compassion destroy the world!\" As Heroes IV begins, it is revealed that shortly after the events of The Sword of Frost, Gelu fights Kilgor who now wields the Sword of Frost. Kilgor was about to wage war on all of Antagarich, but he was stopped by Gelu and the Forest Guard. When the two blades meet in battle, they cause an explosion that destroys the world of Enroth. Many of the planet\u0027s residents, however, escape through thousands of mysterious portals leading to a new world, Axeoth. This event becomes known as the Reckoning, which leads into Heroes of Might and Magic IV."
+  },
+  {
+    "id": 43174,
+    "genres": [
+      16
+    ],
+    "name": "Pokémon Zany Cards",
+    "storyline": "Pokémon Zany Cards​ is a small collection of four card games featuring Pokémon-oriented cards."
+  },
+  {
+    "id": 116127,
+    "genres": [
+      16
+    ],
+    "name": "Norfolk Warriors",
+    "storyline": "Orth is in crisis. The original gods Pele and Medeina are nowhere to be found. \n \nStrange creatures are rising from the depths of the deepest oceans and coming up from the ground like lava seeping through the cracks from another world. Villages and Cities ravaged by all forms of beasts, both living and undead. All the while, vampires and were-creatures are vying for supremacy with no thought of the collateral damage they’re causing. \n \nThe elder-god Titan has been gone for nearly a millennia, but people of the north have heard his whispers. For those that are faithful and can free him from his icy prison, he offers power, glory and revenge on all those that have caused them harm. For those willing to give their soul, he will offer Immortality."
+  },
+  {
+    "id": 28812,
+    "genres": [
+      16
+    ],
+    "name": "Fleet Wars",
+    "storyline": "Throughout the ages, the greatest and most powerful Empires have fought for control over our galaxy. Our Planets have been sieged - stripped of all their natural resources.  \n  \nMany have resisted and overcome the invading Empires. Instead of banishing the evil forces from their systems, they study the crippled vehicles. Seeking to acquire their technologies for their own power and wealth.  \n  \nHowever, times are changing, Empires are growing weary of this stalemate and turn to technology to fulfil their destiny. There have been rumors of a new weapon, one of unimaginable power. It will ensure the victory of any Empire that possesses it. This new doomsday device goes by the name Orion.  \n  \nThere is now a race amongst the Empires of the cosmos. A race of life or death. We must not let these Empires of destruction be the first to unlock the power of the Orion project.  \n  \nWe must push forward, and for this we need your help. It is now time for you to join the fight!"
+  },
+  {
+    "id": 90922,
+    "genres": [
+      16
+    ],
+    "name": "Sea Duel",
+    "storyline": "Sea Duel is a turn-based strategy game. The player chooses to play as a ship or a submarine. The objective of the ship is to hit the sub with depth charges. The objective of the sub is to torpedo the ship. The game can be played by one player versus the computer, or by two players versus each other. The player(s) plots the moves and firing pattern, and then the scenario plays itself out. The player with the most hits by the end of each round is the winner."
+  },
+  {
+    "id": 95921,
+    "genres": [
+      16
+    ],
+    "name": "MILLIONAIRE TYCOON",
+    "storyline": "Start with a limited budget and be on your way to build a million dollar empire. A Monopoly style game where you can buy and sell property, trade on the stock market, purchase vehicles, attend game shows, construct skyscrapers, and challenge your friends! \nYou can buy and use items at the shop to help your progression or trap your oponents and play mini-games to earn money."
+  },
+  {
+    "id": 57861,
+    "genres": [
+      16
+    ],
+    "name": "Oz: Broken Kingdom",
+    "storyline": "When Dorothy Gale and the Wizard of Oz vanished, the Kingdom of Oz was struck by dark magic and it was up to Queen Ozma who used a magical pool to summon someone who can save it. Ophelia Shen had stowed away with her cat upon a cargo ship\u0027s lifeboat which got caught in a storm. It would be assumed that the ship made it safely but the storm dislodged her lifeboat as she found herself in Oz. Her cat was unconscious but magical crystals transformed her pet into a talking crystal cat. Upon arriving, she encounters Winged Monkies who attacked her but Ozma from afar guides her through a Magic Picture in defeating them. After this, a mysterious wicked witch appears and steals the cat while claiming Ozma is a false Queen. Ophelia heads to the Emerald City and meets with Ozma in person who tells her that she needs to get the aid of Oz\u0027s legendary heroes in order to defeat the newly rescurrected Wicked Witch of the East."
+  }
+]

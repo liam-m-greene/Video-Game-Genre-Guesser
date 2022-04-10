@@ -1,0 +1,778 @@
+[
+  {
+    "id": 23908,
+    "genres": [
+      33
+    ],
+    "name": "Softnauts The Game",
+    "storyline": "The Sun might explode any moment and human civilization will cease to exist. Governments are sending rockets from Earth in different directions to explore the Universe to find and collect all the memory chips. The chips are the remains of space sniffers sent on a journey long time ago. They contain information that will help Humans to find their way to New Earth. Kadett, use your agility, speed and endurance to save our species. Your rocket takes off in 50 seconds. Hurry up and let the force be with you!"
+  },
+  {
+    "id": 111325,
+    "genres": [
+      33
+    ],
+    "name": "Bounce AHead",
+    "storyline": "Join Nick to rescue new friends as you bounce your way into the galaxy, grabbing tons of treasure, power-ups, and prizes along the way! Simple tap controls make dodging and destroying enemies a balanced amount of challenge, so there’s no better time to Bounce AHead !"
+  },
+  {
+    "id": 57551,
+    "genres": [
+      33
+    ],
+    "name": "Travelling Millionaire",
+    "storyline": "Meet the world’s most popular MMO board game Travelling Millionaire! Join the enhanced world of classical real estate game! Travel the world with your friends and expand your fortune by investing cities! Be the richest person in the Travelling Millionaire world. \n \nThere are many special items and maps waiting for you in Travelling Millionaire! Create the character describing you best with the help of character cards! By enhancing this character raise your chance to win! Become stronger with special design dice! Beautify your appearance with accessories and win prices from events by constructing landmarks!"
+  },
+  {
+    "id": 120138,
+    "genres": [
+      33
+    ],
+    "name": "Astro Bears",
+    "storyline": "Introducing a new update for the game that hundreds of thousands of players fell in love with! Experience even more chaotic gameplay with infinite or finite Ribbons, Planets ranging from small to huge, and 8 Bears with different stats to experiment with! \n \nMake allies (or enemies) in the new Competitive mode in which players battle 1-on-1 over five challenging rounds! Invite a friend to help you collect Jetfish in a 2-player Jetfish Hunting mode and beat the global highscore together! Destroy friendships in the classic Party mode, where “beary big” legends are born!"
+  },
+  {
+    "id": 111392,
+    "genres": [
+      33
+    ],
+    "name": "Gravity Hop: Space Adventure",
+    "storyline": "You are the Commander of a spaceship out on a mission in deep space. When the spaceship gets hit, and loses most of its systems, you are left to fend for yourself. With the help of the crew only survivors - Emma and Jim, you embark on a mission to get back home using gravity forces."
+  },
+  {
+    "id": 26023,
+    "genres": [
+      33
+    ],
+    "name": "Orbit Jumping",
+    "storyline": "Orbit Jumping is an attractive 2D game that challenges your reflexes"
+  },
+  {
+    "id": 86653,
+    "genres": [
+      33
+    ],
+    "name": "Bearbushkas",
+    "storyline": "Angry bears trying to find out who is the best space dogfighter!"
+  },
+  {
+    "id": 75116,
+    "genres": [
+      33
+    ],
+    "name": "Dung Beetle",
+    "storyline": "You control a beetle that puts all its efforts into bringing home its ball of dung. Let yourself dive into this small world. Discover that from this point of view, every day is a challenge."
+  },
+  {
+    "id": 101459,
+    "genres": [
+      33
+    ],
+    "name": "Titanic Panic",
+    "storyline": "You are the Captain of the Titanic traversing the high seas up north when suddenly all your passengers are thrown overboard. You must now compete while dodging icebergs standing in your way to save the drowning passengers left swimming in the frozen waters."
+  },
+  {
+    "id": 124927,
+    "genres": [
+      33
+    ],
+    "name": "Mooon",
+    "storyline": "Test your reaction and train your brain in this addictive swipe \u0027em up all game! \n \nMooon is game where you goal is to swipe in the right direction - white side of a mooon. \n \nYou will encounter 60 hand crafted levels, super powers, relaxing and challenging gameplay, astonishing graphics and out of this world ambient soundtrack. \n \nHighlighted Features: \n🌑 Immerse yourself in space atmosphere \n🌓 Test your reaction. Can you swipe \u0027em all on the first run? \n🌔 Don\u0027t let any mooon reach the end! \n \nIf you like Marble shooter like games don\u0027t waste any second longer - download Mooon! It is fresh new addition to the genre."
+  },
+  {
+    "id": 78239,
+    "genres": [
+      33
+    ],
+    "name": "Pac-Man: Adventures in Time",
+    "storyline": "In the introductory scene, under orders from the villainous Mollusc, Ghosts Inky and Clyde steal a magical power pellet known as the Artifact that has kept Pac-Land free from evil. The Mollusc smashes the Artifact and in a mighty explosion of power, its four fragmented pieces are scattered across time and space. The player\u0027s challenge as Pac-Man is to retrieve the Artifact\u0027s four pieces from the now ghost-infested time periods and return them to the present. Professor Pac-Man prepares an unpredictable, hastily constructed Time Machine to help Pac-Man on his quest. \n \nPac-Man initially travels through four different time-periods, including prehistoric times, Ancient Egypt, the Middle Ages, and the Wild West. Although the Time Machine sometimes malfunctions, sending Pac-Man to an unexpected place and time, he is eventually able to obtain in each era one of the four pieces of the Artifact. Afterwards, the Time Machine malfunctions again before Pac-Man can return to the present, instead bringing him to a fifth time-period: the future. Professor Pac-Man claims that an alternate power source is needed to bring him home from the future. In this fifth time-period, Pac-Man finally comes to the Reactor Core and is able to harness its energy to be finally transported, with the Artifact reassembled, to the second after the Mollusc broke the Artifact in the game\u0027s introduction scene. Aiming the now-repaired Artifact at the Mollusc, Pac-Man fires a beam of light at his foe, vaporizing the Mollusc and grinning triumphantly."
+  },
+  {
+    "id": 69352,
+    "genres": [
+      33
+    ],
+    "name": "Black Otaku - SOS HD",
+    "storyline": "Big guns have begun an attack on YOUR communities, and trust, bredren, YOU DI ONLY BLACK MAN DAT CYAN STOP DEM. \n \nYes, bredren, YOU di only brotha that cyan protect YOUR communities from the big, muscled up Rigs ready to kick you in your face, silent shotgun wielding Shotties trying to put some holes in you, Nigerian Dambe Fighters repping their green, white and green, the TTA cru, Rhino Knifers, Akimbo Uzi machine rinsers and even more enemies ready to put you down!!!"
+  },
+  {
+    "id": 113483,
+    "genres": [
+      33
+    ],
+    "name": "12 Hours Before Christmas",
+    "storyline": "Welcome to the 12h Till Xmas! This is a very simple pixel art game where you control penguins to make Christmas presents as much as you can. Achieve your best result and share it.It is our First Game so feedback is welcomed \u003d)."
+  },
+  {
+    "id": 116355,
+    "genres": [
+      33
+    ],
+    "name": "Little Mage",
+    "storyline": "Long time ago, there was a little mage that wanted to test his limits. \nFull of confidence, he was afraid of nothing! \n \nMany monsters challenged our little mage, and lost. \nNow our little mage stands before the bloodthirsty dragon! \n \nWhat do you think happened to our little mage?"
+  },
+  {
+    "id": 107110,
+    "genres": [
+      33
+    ],
+    "name": "Balloons Jump",
+    "storyline": "Pop the balloons To keep going and avoid the birds."
+  },
+  {
+    "id": 44100,
+    "genres": [
+      33
+    ],
+    "name": "Tap Zap - Endless game",
+    "storyline": "Tap Zap is a simple tap game and also the most addictive game.   \n  \nTap on the screen to change ball direction. Try not to fall off from the edges. Collect as many gems as you can.   \n  \n- Easy user interfaces with interactive Animations and Sounds.  \n  \n- Endless turns \u0026 endless fun."
+  },
+  {
+    "id": 47156,
+    "genres": [
+      33
+    ],
+    "name": "Colby",
+    "storyline": "Welcome to Colby\u0027s world! \n \nHelp me fight various obstacles that are preventing me from achieving the best possible score. \n \nRain, snow, bombs, heavy boxes and concrete blocks are among all problems that I\u0027m expecting therefore I need your help."
+  },
+  {
+    "id": 72338,
+    "genres": [
+      33
+    ],
+    "name": "Spinnin\u0027 Flare",
+    "storyline": "◇ Spinnin\u0027 Flare is finally here! ◇ \n \nGet into the game! \n \n★ Infinite number of levels! ★ \n★ Procedurally generated glows! ★ \n★ Amazing visual effects! ★ \n★ Multiple combo variations! ★ \n★ Many awesome achievements! ★ \n★ World leaderboards! ★ \n★ and many more! ★"
+  },
+  {
+    "id": 112079,
+    "genres": [
+      33
+    ],
+    "name": "Toast Time: Smash Up!",
+    "storyline": "Assume the role of TERRY (Toast-Ejecting Recoil \u0026 Reload System) - a humble and solitary toaster with an uncontrollable love for English breakfasts, hats and scheduling – and \u0027lay the table\u0027 for your unexpected guests. \n \nLaunch toast, crumpets and magnitudes of other breakfast paraphernalia at the beasties. Bounce around and crush them with your hot metallic mass. Tip over bins, and use the environments to your advantage. Drink a little coffee and go a little crazy. Do everything it takes to defend toast time – you are Monday morning\u0027s final hope. Have your toast and eat it."
+  },
+  {
+    "id": 110480,
+    "genres": [
+      33
+    ],
+    "name": "Shroom Snatchers",
+    "storyline": "UNPREDICTABLE GAME OUTCOME \n- winning in the beginning? Don\u0027t let your guard down ! \n- losing in the beginning? Don\u0027t give up ! \n- nothing is certain in Shroom Snatcher until the last score point ! \n- be careful not to get caught off guard, giving your mushrooms away to your opponents! \n \nDIVERSE CHARACTER DESIGN \u0026 PLAYSTYLE \n- stop others from scoring, or be the top scorer yourself ! \n- or even sabotage your own teammates for the fun of it and many more ! \n \nCOLLECT MERCENARIES \n- Unlock a variety of characters with unique abilities. \n- find a character that suits your playstyle with our FREE Character Trial feature. \n- customize them with hilarious skins in future updates! \n \nPLAY SOLO OR CREATE PRIVATE GAME ROOM \n- challenge other players yourself or collaborate with your buddies in a private game lobby or room. \n \nBECOME THE BEST SNATCHER \n- Advance or dominate the leaderboard to prove you are the best ! \n \nKEY FEATURES: \n- A fast-paced 3v3 online multiplayer game ! \n- Compete against players from all around the world ! \n- Unlock a variety of unique characters, each with distinctive skills ! \n- Play solo or invite your friends ! \n- Dominate the global leaderboard to prove yourself ! \n- Easy to learn game and character mechanics. \n- Diverse character playstyles. \n \nFUTURE CONTENTS \n- More Game Modes \n- Rank Mode \n- Customize your characters with skins \n- More Leaderboards \n- or suggest to us what you want to see in the game !  \n \nFB Fanpage : https://www.facebook.com/ShroomSnatcher \n \nJoin our Shroom community and become a Shroomie \nFB Group : https://www.facebook.com/groups/211950702866009 \n- discuss game strategies \n- contribute to our game development by giving feedbacks \n- just have a shroomy time with other Shroomies"
+  },
+  {
+    "id": 79803,
+    "genres": [
+      33
+    ],
+    "name": "Bounce Man",
+    "storyline": "Bounce man loves eating cherries! Join his adventure island hopping on these floating cakes"
+  },
+  {
+    "id": 105124,
+    "genres": [
+      33
+    ],
+    "name": "Turn Run",
+    "storyline": "Simple ! One Tap ! Addictive ! \n \nTurn Run is a simple addictive indie game. Collecting all the asteroids will be your mission impossible ! \n \nYou will control your rocket with casual one tap button. \n \nThis challanging twisted geometry game, is your source of funky casual unlimited (endless) fun ! \n \nThis game will make you fly into rage because of trippy impossible challanging levels ! \n \nGame contains two modes. Normal Mode \u0026 Endless Mode ! \n \nSelect your rocket and mode !"
+  },
+  {
+    "id": 102117,
+    "genres": [
+      33
+    ],
+    "name": "Lerry The Cube",
+    "storyline": "Lerry the cube is a new android game. \nAvoid the obsticles to win all the levels, and collect coins to buy new characters or upgrade the powerups. \n \nFeatures: \n▶ 40 Levels \n▶ 6 Different characters \n▶ 3 Types of Powerups \n▶ 3 Levels of upgradeable powerups \n▶ 2 Choice types of movement"
+  },
+  {
+    "id": 27023,
+    "genres": [
+      33
+    ],
+    "name": "Get That Thief Runner",
+    "storyline": "Meet the runner game were you can acutally finish! It\u0027s not infinity boring, it\u0027s fun! Run and avoid objects on your way and the city population too! Tap to jump and use scenario objects to get speed and catch that thief running at high speed to the finish line. Kids and adults will love it and best of all, it\u0027s free to play. It\u0027s a simple and a fun game and its also on cartoon style! Super cool! \n \nYou\u0027ll love Get that Thief Runner because: \n \n★ Colorful 2d characters and beautiful environments \n★ Fun achievements to complete and release new levels \n★ A runner game that is not infinity, you will never get bored \n★ Fast levels, don\u0027t blink \n★ Five levels to unlock \n★ Easy to play, just tap the screen \n★ HD Graphics - High Definition \n★ Tablet and Smartphone compatible \n★ A kids game enjoyable for all ages \n \nGo Get That Thief now, before he gets to the finish line."
+  },
+  {
+    "id": 116243,
+    "genres": [
+      33
+    ],
+    "name": "Steampunk Idle Spinner",
+    "storyline": "All what you have in your workshop at first is an ingenious machine, which produces coins as you spin the cogwheel. Earn money to upgrade it, to buy more cogs and gear, such as engines, pumps, hammers or wagons. Think as an engineering genius and you\u0027ll become an ultimate tycoon. \n \nThe way you combine the details into an awesome steampunk contraption, affects your income. The exploration never ends: once the laboratory is fully equipped, the Portal to the other steampunk/dieselpunk/gaslamp fantasy worlds appears. Clockwork cities, Flying islands, zeppelins, windmills, factories, bridges and much more technological content awaits for you! Just like in the books by Jules Verne and Herbert Wells or in the movies about flying castle or walking mechanical cities. \n \nSteampunk Idle Spinner is a fusion of builder and incremental idle game genres. It means that when the game is closed, these awesome steampunk machines will still be generating income for you. The mines dig for resources, factories produce goods, balloons and zeppelins fly and explore the territory, and once you are back into the game you\u0027ll see the results and you will be able to issue new orders and continue building and researching."
+  },
+  {
+    "id": 112421,
+    "genres": [
+      33
+    ],
+    "name": "Color Drop (By iMancha)",
+    "storyline": "Color Drop is an arcade style game where you the \u0027droplet\u0027 have to tap to jump, perfectly time your drop with skill to pass through the matching color or obstacle, and collect stars to unlock new game modes: \n \n● Crazy Obstacle Mode \n● Insane Obstacle Mode \n \nRemember, patience and timing are your two best friends."
+  },
+  {
+    "id": 25872,
+    "genres": [
+      33
+    ],
+    "name": "Tappy Town",
+    "storyline": "Surf through your way over obstacles in your way in this action platformer! Crossing each obstacle by jumping preciously. Push your skills to the limit as you jump,your way through dangerous traffic cones, mail boxes, dustbins, cars, trains and many deadly obstacles. Simple one touch game play with lots of levels that will keep you entertained for hours!\nGame Features-\n• Simple one touch control \n• Simple, pure, innovative gameplay \n• Challenge yourself with the near impossible \n• Lots of achievements and rewards \n• Unlock new characters and boards customize your gameplay \n• Lots of levels with unique soundtracks"
+  },
+  {
+    "id": 118985,
+    "genres": [
+      33
+    ],
+    "name": "ThunderGod",
+    "storyline": "Play as the Norse god of thunder and wield your hammer, Mjölnir, in a beautiful Nordic landscape in VR. Save the human village from giants that have come from Jotunheim to destroy the village. \n \nChallenge your fellow friends, family and asgardians to see who can lay claim on the highest score in Asgard, with 4 levels of increasing difficulty!"
+  },
+  {
+    "id": 68147,
+    "genres": [
+      33
+    ],
+    "name": "Drip",
+    "storyline": "Someone has tapped into your party juice with a system of pipes and ruined your fun! You must rust all the pipes to get the juices flowing again! Ride in bubbles or \u0027drip\u0027 to avoid trouble. Stay away from acid, plasma, icecubes, electric bubbles, lasers and dudes chasing you away. Don\u0027t let the bonus timer run out. \nGrab party balloons for a little help."
+  },
+  {
+    "id": 104518,
+    "genres": [
+      33
+    ],
+    "name": "HappyBoxDodging",
+    "storyline": "No story, just a game"
+  },
+  {
+    "id": 54405,
+    "genres": [
+      33
+    ],
+    "name": "Strike Ball 3",
+    "storyline": "Strike Ball 3 takes Breakout games to explosive heights with spectacular graphics and outrageous animation! Featuring levels in which a tank tries to fend off attacking aliens, a robot fires eye-popping laser bursts at swarming androids and the player can bring a windmill crashing to the ground with a well-timed air strike, Strike Ball 3 will knock off your socks. Superb level design, wildly fun bonuses and powerful new weapons complete the package!"
+  },
+  {
+    "id": 11756,
+    "genres": [
+      33
+    ],
+    "name": "Arkanoid: Revenge of Doh",
+    "storyline": "The mysterious enemy known as DOH has returned to seek vengeance on the Vaus space vessel. The player must once again take control of the Vaus (paddle) and overcome many challenges in order to destroy DOH once and for all. Revenge of Doh sees the player battle through 34 rounds, taken from a grand total of 64."
+  },
+  {
+    "id": 115642,
+    "genres": [
+      33
+    ],
+    "name": "NUNS with GUNS",
+    "storyline": "Nuns with Guns is a gothic, dungeon-crawler-bullet-hell that celebrates blowing away evil monsters with extreme prejudice (in order to rescue wee orphan children from demons). Eventually, our hero will blast her way through 8 stages of cartoony gore and violence in order to rescue her retinue of kids--recently kidnapped from St. Germane\u0027s school for the innocent. \n \nThis game is in its creative infancy. While there is a playable prototype, a lot more work will yet to go into the coding and level creation. We are looking for early support in order to increase the quality of the game, get users to try it out, and eventually deliver a free online experience. Please see more info at our patreon page: https://www.patreon.com/taylormadegames"
+  },
+  {
+    "id": 27670,
+    "genres": [
+      33
+    ],
+    "name": "Circle\u0027s End",
+    "storyline": "There is no story. Just 15 Levels ;)"
+  },
+  {
+    "id": 50503,
+    "genres": [
+      33
+    ],
+    "name": "Undercore - The Tale of Hardcore",
+    "storyline": "This is my first project for android. \nI was very interested of making games, and find LibGDX framework, and there I started.I found some help, and we start make it together. After 6-7 month We finished first mode for this game."
+  },
+  {
+    "id": 103270,
+    "genres": [
+      33
+    ],
+    "name": "Circle vs Spikes",
+    "storyline": "My name is Ibragim Vykov, I live in a small town Cherkessk in Russia. I’m a self-taught developer, and I’ve started to learn programming about two years ago. Recently I\u0027ve released my first game \u0027Circle vs Spikes\u0027 on Google Play. Please check it out, it would mean the world to me. I\u0027d also love to get feedback from you. Feel free to contact me: ibragames.com@gmail.com"
+  },
+  {
+    "id": 26799,
+    "genres": [
+      33
+    ],
+    "name": "Independent Days",
+    "storyline": "It is simply a space ship found itself being bombarded with missiles created by the game creator, me! \r\n\r\nNow, survive!"
+  },
+  {
+    "id": 83201,
+    "genres": [
+      33
+    ],
+    "name": "Comic Circus",
+    "storyline": "You are at the funfair and the goal is to grab ballons with two clowns jumping on a seesaw."
+  },
+  {
+    "id": 124319,
+    "genres": [
+      33
+    ],
+    "name": "VeggieTales Creativity City",
+    "storyline": "There\u0027s so much to do in Creativity City! Take a tour with Bob the Tomato and Larry the Cucumber. Visit the shops to design and print your own creations -- even games and activities! \n \n\u003e Bob\u0027s Bookworks : Check out Bob\u0027s colossal collection of activities! Design your own storybooks and electronic books to send to family. Even create photoframes, bookmarks, notepads, coloring pages, calendars and more! \n \n\u003e Junior\u0027s Toybox : Exciting games and activities! Design your own mazes, connect-the-dots, card games, puzzles, stickers and a Pin the Tooth on Larry party game! Then print them out for hours of fun! \n \n\u003e VeggiePlex Theater : Be a star! Create an amazing \"photo mosaic\" of your own face, then use your imagination to create electronic posters and, of course, VeggieTales® movie posters. Look out, Hollywood! \n \n\u003e Post Office : Express your creativity with lots of fun activities! Make your own greeting cards, stationery, e-cards and more! \n \n\u003e Larry\u0027s Sign Shack : Larry\u0027s in a pickle! How can one cucumber create all of these signs? Put your creativity into overdrive with fun activities that include creating and coloring posters, banners and doorknob hangers!"
+  },
+  {
+    "id": 97134,
+    "genres": [
+      33
+    ],
+    "name": "Nagato - Ninja Flying and Fighting Jungle Wars",
+    "storyline": "Fujibayashi Nagato was a leader of the Iga ninjas during the 16th century, with his followers often fighting the daimyo of Oomi domain in their Jungle wars against Oda Nobunaga Ninja clans.This support for his opponents would later prompt “The Annunaki” to invade Earth and stamp out the ninja clans for good, but many of them went into hiding to preserve the culture."
+  },
+  {
+    "id": 27608,
+    "genres": [
+      33
+    ],
+    "name": "Jumping Ball",
+    "storyline": "You are a colored ball, and you need to jump on platforms to complete levels, but platforms are different colors, so before you jump on platform you need to be sure to make ball same color as platform. There are many levels."
+  },
+  {
+    "id": 28184,
+    "genres": [
+      33
+    ],
+    "name": "Jumping Red ball in death room",
+    "storyline": "Our blue ball is angry! they have kidnapped his girlfriend on her own face! \" hahaha \" laughs the evil King green ball.    \nThe green ball evil wants to steal his girlfriend... \"we will not allow it!!\".     \n    \nBlu ball will have to transform into super blue hero bal to save his fiancee from the evil hands of the network bal and skewers. In some cases this will be extremely impossible mission until red ball, 2, network bal 3 or network bal 4 in the same room and ball bounce black doing jumpinball will to the limit your skill ball with circle ball and ball runners.    \n    \nOur blue ball hero is constantly in a State of \"ball rebound brick\", and from there starts our ball adventure blue or blue ball adventures. You will need to control various concepts to well handle the blue jumpingball.    \n-ball speed: to get right away in a single jump or bounce you\u0027ll have to have previously fast ball and get jumpingball longs.    \n    \n-ball bounce: jumpin ball blue non stop jump, you will need to measure their jumps well to jump the Red ball enemies. Remember blu ball not roller ball only jumping ball and take the keys, is to right ball.    \n    \nThere are different types of enemies and skewers the most common is the \"red ball\", the red ball does not jump, red ball sliding on the ground, you have your red ball speed quick, ball red top with walls, and above all, is an angry red ball.    \n    \n Climbing the building exceeding the 50 rooms to get save our girl from the evil green ball king.    \n    \nEach level will be hard, very hard! at times nearly impossible.    \n    \nAlong the way are waiting for you hundreds of wicked enemies and thousands of spikes that try to prevent that you get your target.    \n    \nEnemies like the red ball red, evil ball. that you walk the path with infinite speed, 4 red ball in a room and will be difficult to overcome.    \n    \nBlack bouncy balls are an enemy to take into account, if the complex will result mix it with some spikes on the floor.    \n    \nBalls roses flying will make your game impossible whenever they appear.    \n    \nOvercome the 50 levels of this game can it becomes impossible, is a game that will test your patience.    \n    \nSolve each room of death and get your final goal successfully.    \n    \nDefeat the final boss in one one fight epic, defeat the evil King ball green and save the pink ball in his prison."
+  },
+  {
+    "id": 92303,
+    "genres": [
+      33
+    ],
+    "name": "Pichu Bros. Mini",
+    "storyline": "A collection of several minigames, included with the Pokémon mini. The minigames include: Hitmonchan\u0027s Boxing, where you shake the system to \u0027punch\u0027; Pikachu\u0027s Rocket Start, a game where you have to launch off a starting line before another Pokémon; Bellossom\u0027s Dance, a Dance Dance Revolution-like game; Chansey\u0027s Dribble, kick the ball to the finish line as quickly as possible; Slowking\u0027s Judge, predict if the tennis ball will land in or out of the court; Sneasel\u0027s Fakeout, a rock-paper-scissors-like game for two players; Battlefield, where two to six players battle for the highest score; and Celebi\u0027s Clock, which is essentially a clock with date, alarm and stopwatch function."
+  },
+  {
+    "id": 26793,
+    "genres": [
+      33
+    ],
+    "name": "Space Slayer",
+    "storyline": "Earth is at risk of being conquered. Alien invaders have decided to take it upon themselves to attack us. Your the only ship that has survived the attacks. Your energy generator is damage. However, your the only hope for the human race. \r"
+  },
+  {
+    "id": 116004,
+    "genres": [
+      33
+    ],
+    "name": "FLYING GUY",
+    "storyline": "Hello? \nSingle developer SMALL PLANET. \nThis time, we launched \"Flying Guy,\" an arcade game for Android. \nPlease download and evaluate once. \n \n[Game Introduction] \nIt\u0027s an addictive game of touching and moving two controllers at the bottom with both hands to avoid blocks."
+  },
+  {
+    "id": 28844,
+    "genres": [
+      33
+    ],
+    "name": "Sky Rollball",
+    "storyline": "The game is about a rolling ball that somehow had been thrown into the sky, and in order to return to the ground, the ball keeps rolling straight to an endless route!"
+  },
+  {
+    "id": 23731,
+    "genres": [
+      33
+    ],
+    "name": "Flappy Meatbag",
+    "storyline": "This little game was created painstakingly as a learning side project along a full-time job and family . It took a while to get finished, but after almost a year and a half of just lurking in the shadows of a few testing devices it\u0027s time came. It\u0027s not the biggest nor the most perfect game, but it was fun to make and is fun to play.\nEnjoy!"
+  },
+  {
+    "id": 25557,
+    "genres": [
+      33
+    ],
+    "name": "Boner",
+    "storyline": "Move rocks and guide your dog to collect diamonds, coins and bones within the allotted time whilst avoiding Mandy the evil witch and her mindless helpers.  Over 20 challenging levels that require careful consideration in order to complete each level."
+  },
+  {
+    "id": 28549,
+    "genres": [
+      33
+    ],
+    "name": "Slip Gear: Jet Pack Wastlands",
+    "storyline": "Moss is a professional jump pack operator, independent thinker, and deep city salvage opportunist. The depopulated cities of the outer systems are ripe for the plundering and a guy like him could make a fortune selling salvaged prewar synthetic limbs and cybernetic organs on the black market. All he has to do is shoot his way through bandit infested wastelands and badlands while avoiding Imperial security patrols and hostile smugglers."
+  },
+  {
+    "id": 28179,
+    "genres": [
+      33
+    ],
+    "name": "Tricky Shapes",
+    "storyline": "Tricky shapes is simple brain game with three exciting levels.  \n  \nLet your children learn three common shapes: Triangle, Square, Circle  \n  \nGame features:  \n  \n-It is an addictive brain game that will improve your concentration, best way to spend your free time.  \n  \n-Random shape will be generated when game starts.You have to remember shape and tap on same type of shapes. When you fail you lose.  \n  \n-Random colour shape will be generated and you have to remember the colour, tap on shapes having that colour.  \n  \n-Random shape will be generated at start of each level and you need to tap on each shape in grid before time runs out.  \n  \nEnjoy!"
+  },
+  {
+    "id": 29135,
+    "genres": [
+      33
+    ],
+    "name": "Bulb Out",
+    "storyline": "‘Lights On.. 3..2..1.. Lights Off..3..2..1.. Lights on..3.. WATCH OUT!! Whew!.. That was a close one! You almost hit that obstacle! Pay attention to the screen when the lights are on because when they shut off….you are on your own…! Tap the floating stars, balls, and coins to get extra boosts! Earn Achievements along the way! Play in dual screen mode if you dare! Test your reflexes in this casual fast paced arcade game! “"
+  },
+  {
+    "id": 119970,
+    "genres": [
+      33
+    ],
+    "name": "run for eat",
+    "storyline": "Eat more burger than you can! \nrun for eat is the new the laba \u0027s game , where you have to run and collect burgers. \nDrive the guy and throw the burgers to find out which of the three wall can be destroyed. \n \nCollects all the run animations and increadible funny accessories."
+  },
+  {
+    "id": 29007,
+    "genres": [
+      33
+    ],
+    "name": "Ninja 314",
+    "storyline": "Don\u0027t get fooled by the simple appearance of the main character, this game provides a real challenge. With simple but differentiated mechanics, the game tests the skill of the one who wants to follow the hard path of a ninja.  \nNinja 314 is a vertical platform game that requires ability and strategy to overcome obstacles and enemies. Grab the the walls, jump with precision and kill the enemies using special items, in order to reach the top of each stage."
+  },
+  {
+    "id": 38919,
+    "genres": [
+      33
+    ],
+    "name": "Roundy",
+    "storyline": "In Roundy you have to keep the ball bouncing inside the circle until the timer expires. There are up to 15 levels to defeat (but you won\u0027t) and more are coming! \nThere are 9 balls to collect in the game, some of them have their own perks. You will be able to buy these balls with coins that you can earn throughout the game."
+  },
+  {
+    "id": 22235,
+    "genres": [
+      33
+    ],
+    "name": "WarioWare, Inc.: Mega Microgames!",
+    "storyline": "One day while lounging on the couch in his house in Diamond City, Wario sees a report from Ken the Reporter on TV about a video game (Pyoro) that has made tons of money. Wario thinks of all of the cash he could get if he made a video game. Quickly, he sits on his bike to obtain a laptop. Wario\u0027s house gets replaced with the headquarters of WarioWare, Inc., Wario\u0027s newly founded \"company.\" After trying to make a video game by himself, Wario grows lazy and calls up his closest friends to help; they agree. Since Wario does not want to spend too much money on the game, they develop a lot of simple microgames rather than a single full-fledged game."
+  },
+  {
+    "id": 26162,
+    "genres": [
+      33
+    ],
+    "name": "Falling Robots",
+    "storyline": "What is happening to robots when they are not needed anymore? You play as a robot who is falling to its death. To survive you must dodge platforms and kill mutant turtles. On your way down you would find and collect data, which will help you to hack into the next area."
+  },
+  {
+    "id": 74742,
+    "genres": [
+      33
+    ],
+    "name": "BURSTLY",
+    "storyline": "Burstly is cursed with an angry face and its not able to get back its cool happy face, until he collects the luminours. But he need to find the \npure white luminour to remove its curse. \nBut these luminours are guarded by powerful enemy traps that can destroy anyone who touches it. \nBurstly need to overcome all the enemy traps in order from bursting to ashes. \n \nThink wisely how to overcome all traps by either scooting them or by striking them with the other obstacles provided, to remove the enemies from your way or by controlling the movement of the character in right time and collect the luminours in the trap. \n \nIn short.. Escape the enemy traps and collect maximum points."
+  },
+  {
+    "id": 59438,
+    "genres": [
+      33
+    ],
+    "name": "Vertical Dash",
+    "storyline": "Ever wanted a game where you just have addictive fun? Well, here it is, it doesn\u0027t matter what you are doing, this game perfectly fits the time passer\u0027s description, waiting for a friend? Playing this game will make sure that time will be used for your daily android fun! \n \n \nSimple - Tap to jump, tap to dash to shown side, simple as that, yet effective!"
+  },
+  {
+    "id": 36650,
+    "genres": [
+      33
+    ],
+    "name": "Volcano Climber",
+    "storyline": "An explorer inside an infinite volcano full of coins, items and tricky platforms. And all he\u0027s got is his less-than-optimal jetpack! Better than nothing!    \n    \nVolcano Climber is an infinite arcade game for iOS and Android."
+  },
+  {
+    "id": 119843,
+    "genres": [
+      33
+    ],
+    "name": "Latest Jump Cube Game",
+    "storyline": "Play this challenging latest jump game and test your skills. Compete with your friends to reach the highest level of the latest jump, while experiencing the joy of playing this enthralling game."
+  },
+  {
+    "id": 110565,
+    "genres": [
+      33
+    ],
+    "name": "Mine Runner",
+    "storyline": "You hit water! Save your live, find some cover down in the mine, there\u0027s no way out! Run down as fast as possible, but don\u0027t forget to gather gold and diamonds on your way down, you will need the money later on! Buy awesome skins, upgrades and abilities to help you on your journey in the mine!"
+  },
+  {
+    "id": 116354,
+    "genres": [
+      33
+    ],
+    "name": "Gun Priest",
+    "storyline": "Long ago, monsters went extinct by group of priest. \nHowever, surviving monsters, hiding in shadows, grew its force \nAnd began to feed upon mankind’s soul one by one. \n \nNoticing this unsettling movement, Priest is now gathering \nHis friends to embark on his journey to end all monsters!"
+  },
+  {
+    "id": 18288,
+    "genres": [
+      33
+    ],
+    "name": "Frogger",
+    "storyline": "The game starts with three, five, or seven frogs (lives), depending on the settings used by the operator. The player guides a frog which starts at the bottom of the screen, to his home in one of 5 slots at the top of the screen. The lower half of the screen contains a road with motor vehicles, which in various versions include cars, trucks, buses, dune buggies, bulldozers, vans, taxis, bicyclists, and/or motorcycles, speeding along it horizontally. The upper half of the screen consists of a river with logs, alligators, and turtles, all moving horizontally across the screen. The very top of the screen contains five \"frog homes\" which are the destinations for each frog. Every level is timed; the player must act quickly to finish each level before the time expires."
+  },
+  {
+    "id": 104978,
+    "genres": [
+      33
+    ],
+    "name": "Sky Falling Giant",
+    "storyline": "Sky Falling Giant is an adventure Android game. Full of beautiful sight of clouds, Magical beanstalk and sky. In this fun game, sky Falling Giant is falling down of the Magical Tree\u0027s Bean Stalk. He faces dark clouds which are poisonous and make him die in no time. He collects Gold Coins and life on his escape Fall."
+  },
+  {
+    "id": 116357,
+    "genres": [
+      33
+    ],
+    "name": "Rookie Tank",
+    "storyline": "Are you still a Rookie? \nInstall Rookie Tank and become the master of tanks. \n \nEnemies have demolished your base and your team. \nAll you have is just a one tank… \nDefeat your enemies with your one last tank. \nDestroy all the enemies and bosses to lead your team to victory. \n \nKey features : \n-\tInstinctive control \n-\tTotal of 150 stages \n-\t3 distinctive regions \n-\tCustomize your tank with unique upgrades \n-\tEncounter bosses every 10 stages \n-\tCollect stars to promote yourself to the Supreme Commander \n-\tOffline play \n \nThank you for playing Rookie Tank – Hero \n \n[Facebook] https://www.facebook.com/rookie.tank/ \n[E-mail] blocks.stack@gmail.com \n--------------------------------------------------------------------------- \nContact : \n \n15th Floor 25 Gukjegeumyung-ro 2-gil, Yeongdeungpo-gu, Seould, South Korea Day 1 Entertainment \n+82 02-785-0780"
+  },
+  {
+    "id": 128396,
+    "genres": [
+      33
+    ],
+    "name": "Spaß Taxi",
+    "storyline": "No story. ^^ \nYou bring passengers from one station to the other, avoiding obstacles on the way."
+  },
+  {
+    "id": 97092,
+    "genres": [
+      33
+    ],
+    "name": "Terminal Defense",
+    "storyline": "You play as an antivirus program, who\u0027s owner has installed one too many viruses. Your goal is to survive and eliminate as many of the viruses as possible."
+  },
+  {
+    "id": 24067,
+    "genres": [
+      33
+    ],
+    "name": "Astro Escape: Free",
+    "storyline": "Captain George Morgan has been sent on a mission to the planet Zelta 4. Here his task will be to locate the valuable resource known as Quantinium...\n\n...Suddenly an unknown force rendered the controls inoperable and pulled the captain and his ship hurtling towards the planets surface...\n\nThe captain crash landed at the base of a deep canyon. All that remains is his suit and his trusty grappling hook. How ever will he escape?"
+  },
+  {
+    "id": 78143,
+    "genres": [
+      33
+    ],
+    "name": "Jump Force",
+    "storyline": "Tap the player carefully through each obstacle! you get more points and you can share it with your friends. Be careful not to pass through the wrong obstacle, or you\u0027ll have to start again. \n \nThis is my second Game for Android, I would like you support me and download, test it and give me your experiences, It would help me to improve ... if you like it, share it... thank you in advance"
+  },
+  {
+    "id": 37181,
+    "genres": [
+      33
+    ],
+    "name": "Kangoorun: Fly to the Moon",
+    "storyline": "Will a kangaroo be able to build a space rocket and fly to the moon?   \n   \nKANGOORUN!   \nWelcome to Kangoorun – the best free runner with a kangaroo! Kangoorun is an adventurous side-scroller with beautiful graphics!   \n   \nOUTRUN!   \nControl kangaroo and outrun the little aborigine Abo! He is always ahead of you and takes the most interesting!   \n   \nOUTSTANDING MECHANICS!   \nIt’s really cool to control such responsive characters! Just try all those mind-blowing jumps, catch a PELICAN and fly over jungles or ride a RHINO and turn into a smashing machine! And all of these with just ONE FINGER!   \n   \nSPEED!   \nEach second you run faster and faster! What is the highest speed in Kangoorun? We don’t know either!   \n   \nMAKE GEOGRAPHICAL DISCOVERIES!   \nDream of becoming a pioneer? Explore the island and discover new locations! Forests, fields, deserts, caves, volcanoes and much more are waiting for you on the island!   \n   \nBUILD A SPACE ROCKET AND GO TO THE MOON!   \nParts of a space rocket are scattered around the island. Find them and send a lunar mission to find out if our planet is as beautiful from the space as they say!   \n   \nSUPERPOWER AMULET!   \nKangaroo has a cool SUPERPOWER AMULET! Earn SUPERPOWER GEMS, upgrade them and equip your amulet with them!   \n   \nKANGOBALL!   \nDuring your adventures on the island, you will catch flying balls for sure! Throw them into a basket and earn coins and gems!   \n   \nPLAY WITH FRIENDS!   \nChallenge your friends and earn their gems!"
+  },
+  {
+    "id": 24640,
+    "genres": [
+      33
+    ],
+    "name": "Ghost Ride",
+    "storyline": "Blue gets in a mysterious castle of the Queen of Shadows. Trying to get out, he meets resistance from the Keepers of the castle and the servants of the Queen.  Gathering all his strength, Blue, flying faster and faster... Will he escape from mystical prison?"
+  },
+  {
+    "id": 22093,
+    "genres": [
+      33
+    ],
+    "name": "Bananas!!!",
+    "storyline": "Help Freddy get as many bananas as he can!"
+  },
+  {
+    "id": 7472,
+    "genres": [
+      33
+    ],
+    "name": "Operation Neptune",
+    "storyline": "The back story of the game is as follows: A team of astronauts and scientists have begun a secret research project on a distant planet. The research team\u0027s results were sent back to Earth on the \"Galaxy space capsule\", which malfunctioned, crashed into the ocean, and broke into many pieces. The capsule included several data canisters, each of which contains small snippets of the scientists\u0027 story, which is revealed to the player as the game progresses and data canisters are found. The capsule also contained some toxic chemicals, which have begun to leak out and threaten the health of the world\u0027s sea life. A recovery mission, codenamed Operation Neptune, is sent to recover the pieces of the capsule.\nThe game is divided into five zones: Dragon Reef, Fossil Trench, Limestone Ridge, Sea Forest, and Hammerhead. Each zone contains three \"levels\", called sectors (although the hammerhead zone also has a \"final\" sector, where there are no maths problems, but one hit from a sea creature will send the player back to the start). At the end of each sector, the submarine approaches an undersea supply station. There are two completely unique sets of levels, Voyager and Expert, each with a different story that is recovered along the way.\nThe player pilots the submarine, named the Neptune. Throughout the game, elementary school-level mathematics problems are posed, in the form of scientific situations that might concern a submarine pilot in real life. (For example, the sub\u0027s ballast may need adjusting, and this becomes an arithmetic problem.) In each sector the player will face three randomly placed math problems, as well as one problem to open that sector\u0027s data canister, and another to open the combination lock on the supply station.The box cover illustration rendered by Marc Ericksen envisions the Neptune submarine recovery vehicle hovering above the basin of Fossil Trench recovering glowing toxic data capsules."
+  },
+  {
+    "id": 18287,
+    "genres": [
+      33
+    ],
+    "name": "Fast Food",
+    "storyline": "In the game, the player controls a pair of disembodied lips, similar to a Chattery Teeth toy. The game\u0027s manual gives the name of the lips as Mighty Mouth.[2] Various fast food menu items fly across the screen and the teeth earns points by catching them. The player must avoid eating the purple pickles. After eating 6 purple pickles, the screen is replaced by large text reading \"BURP\", followed by \"CLOSED\". As the player acquires more points, the speed of the game increases. The transitions between speeds are indicated by the text \"YOU\u0027RE GETTING FATTER!\""
+  },
+  {
+    "id": 9889,
+    "genres": [
+      33
+    ],
+    "name": "Namco Museum 50th Anniversary",
+    "storyline": "From the GameCube case back cover:\n\"It\u0027s party time! Namco Celebrates 50 years of bringing you the greatest games on the planet by releasing the biggest compilation of all-star arcade classics. Namco Museum 50th Anniversary features 14 of the most treasured Namco original games in arcade history.\n\nRelive your arcade years and rock out to a coll 80\u0027s soundtrack that takes you back to the glory days of arcade gaming and this time...leave your quarters at home.\""
+  },
+  {
+    "id": 72176,
+    "genres": [
+      33
+    ],
+    "name": "Pocket Tanks",
+    "storyline": "The point of Pocket Tanks, is to use various weapons to attack the other player\u0027s tank. Each hit scores a certain amount of points, which varies based on the weapon and proximity. At the end of 10 volleys, the player with the highest points wins."
+  },
+  {
+    "id": 130022,
+    "genres": [
+      33
+    ],
+    "name": "BoogieBall Game",
+    "storyline": "Retro game play, funky beats \ngraffiti, volleyball, endless fun. \n \nDodge, bump and block… Test your skills and see how long you last! Download Boogieball now. For adults and kids alike. \n \n \nTilt your device to control the movement of your player. Tap to jump \n \nCreated by hot new indie game developers from the street art community. Czech made."
+  },
+  {
+    "id": 11237,
+    "genres": [
+      33
+    ],
+    "name": "UFI und sein gefährlicher Einsatz",
+    "storyline": "An alien crashed on Earth and to get back to his planet he must find the four pieces of his spacecraft. Go into the several rooms and press the button. Hopefully, a piece of the ship will show on a corner of the screen. Pick it up and repeat the procedure until you can back home. Beware of the guardians, though, as they would follow you to trap you."
+  },
+  {
+    "id": 3583,
+    "genres": [
+      33
+    ],
+    "name": "Rampage 2: Universal Tour",
+    "storyline": "George, Lizzie, and Ralph have been captured and confined for the world to see. George is held captive in New York City, Lizzie is imprisoned in Tokyo, and Ralph is stored in London (references to King Kong, Godzilla, and Werewolf of London (or An American Werewolf in London, respectively). However, Scumlabs, who has just rebuilt their facilities in Salt Lake City, causes another accident that results in three new monsters: Boris, a rhinoceros, Curtis, a mouse, and Ruby, a lobster."
+  },
+  {
+    "id": 26127,
+    "genres": [
+      33
+    ],
+    "name": "Baby Eater",
+    "storyline": "Baby Eater takes place in the mind of the Princess of Emor, Procuni. When a vulgar beast from Hell\u0027s deepest corners came to Emor, she was bitten and turned to a vampire. Forced to watch her family die, she refused to bow to the Queen\u0027s whims. Punishing her, the Queen sealed Procuni in a sarcophagus and forced to dream the same nightmare every night - the nightmare of babes falling from the heavens, to die and feed the lust of QUEEN SAPHRON!\n\nCan you save the babies, and help Procuni resist the evil Queen for one more night?"
+  },
+  {
+    "id": 94039,
+    "genres": [
+      33
+    ],
+    "name": "BOSSES FOREVER 2.BRO",
+    "storyline": "Climb the infinite tower with your bestest bro as you fight endless bosses who evolve based on every action you make. \n \nBOSSES FOREVER 2.BRO is the co-op update to the original BOSSES FOREVER. Now you and your buddy can face off against menacing bosses that learn how to fight you as you play. With every action determining the boss\u0027 power, attacks, and techniques, no two runs in BOSSES FOREVER 2.BRO will be the same."
+  },
+  {
+    "id": 4595,
+    "genres": [
+      33
+    ],
+    "name": "Arkanoid",
+    "storyline": "The player controls the \"Vaus\", a space vessel that acts as the game\u0027s \"paddle\" which prevents a ball from falling from the playing field, attempting to bounce it against a number of bricks. The ball striking a brick causes the brick to disappear. When all the bricks are gone, the player goes to the next level, where another pattern of bricks appears. There are a number of variations (bricks that have to be hit multiple times, flying enemy ships, etc.) and power-up capsules to enhance the Vaus (expand the Vaus, multiply the number of balls, equip a laser cannon, break directly to the next level, etc.), but the gameplay remains the same. \n \nAt round 33, the final stage, the player will take on the game\u0027s boss, \"DOH\", a head resembling moai. Once a player reaches round 33, he must defeat DOH with his remaining extra lives because there are no continues on the final round."
+  },
+  {
+    "id": 75377,
+    "genres": [
+      33
+    ],
+    "name": "Finger Road",
+    "storyline": "Finger Road is simple game with minimalist approach. This game is oriented around your finger! You try to keep your finger on the road and avoid obstacles. There are 90 levels and if you finish all of them, you unlock Endless mode, where you can compete on leaderboards. You can also customize the game using the in-game currency. There are several powerups to help you out!"
+  },
+  {
+    "id": 25124,
+    "genres": [
+      33
+    ],
+    "name": "Candy Gliders",
+    "storyline": "Aliens are stealing candies from Candy Forest ! All the animals have chickened out and are afraid to fight back. The chicken\u0027s try to take advantage of the situation and regain their glory !\nOnly way to get those candies back is to defeat the alien tech... But wait how would a Chicken fly ? Just when they were about to give up they come across gliders that would help regain their territory from the aliens and get their candies back !\n\nThus the 121 Glider Contingent was formed to take back Candy Forest back from the Aliens !!\n\nCandy Gliders is a wonderful game that will test your reflex and challenge your skills to the extreme ! An ideal game to pick play during your commute or when bored at a meeting or a party !!"
+  },
+  {
+    "id": 25786,
+    "genres": [
+      33
+    ],
+    "name": "Homing Missiles!",
+    "storyline": "Homing Missile is a top down plane game where user flies in the sky with various featured planes"
+  },
+  {
+    "id": 26604,
+    "genres": [
+      33
+    ],
+    "name": "Quantum Lake",
+    "storyline": "Quantum Lake is a mesmerizing voyage into the depths of a mysterious labyrinth set somewhere in outer space. \r\n\r\nDrive your cosmic fish shoals across 25 different scenarios of growing complexity, avoiding your enemies and reaching for the energy crystals. \r\n\r\nCollect as many coins as possible and choose between 5 different cosmic fish species: Quantum, Gamma Ray, Proton, Electron and Plutonium, each with different abilities.\r\n\r\nAvoid electric fields and take advantage of the wormholes to teleport into different areas of the labyrinth, but mind your many enemies: like matter and anti-matter, bright and dark fishes will annihilate themselves upon contact. \r"
+  },
+  {
+    "id": 26751,
+    "genres": [
+      33
+    ],
+    "name": "Bulky Head - Use your head to smash nasty objects!",
+    "storyline": "In this action packed addicting arcade, you act as a crazed professor to test his collection of cloned heads of humans and creatures for their physical abilities in a secret experimental lab, HullSkull inc. Now who said that heads are only used for their intelligence?\r\n\r\nThe challenges you will face are various nasty enemies and obstacles on a dynamic platform like piercing spikes, bombarding turrets, falling asteroids, etc. Not to mention the dynamic platform transitioning in and out with time, giving the danger of your head falling overboard."
+  },
+  {
+    "id": 28037,
+    "genres": [
+      33
+    ],
+    "name": "Tank Carnage",
+    "storyline": "Kill or be killed."
+  },
+  {
+    "id": 117506,
+    "genres": [
+      33
+    ],
+    "name": "Elite Star Fighter",
+    "storyline": "Defeat as many waves of enemies as you can to obtain your highest score"
+  },
+  {
+    "id": 19069,
+    "genres": [
+      33
+    ],
+    "name": "Imperishable Night",
+    "storyline": "It\u0027s the eve of the Harvest Moon Festival in Gensokyo when youkai sense that something is wrong with the moon. It appears that the moon has been replaced by a fake moon. The main characters stop time and head off to find the culprit to try and ensure a full moon for the festival. Their journey leads them into the Bamboo Forest of the Lost and finally to Eientei, inhabited by beings from the Moon itself."
+  },
+  {
+    "id": 26953,
+    "genres": [
+      33
+    ],
+    "name": "Pool Party Panic",
+    "storyline": "Pool Party Panic follows a lifeguard with only one dream: becoming the best lifeguard the world has ever seen!"
+  },
+  {
+    "id": 116358,
+    "genres": [
+      33
+    ],
+    "name": "Color Hero",
+    "storyline": "The NEW BREAKING TYPE of bullet hell (Danmaku) shooting game! \n \nIf Can’t Avoid, Then Block Up! \nBounce off the bullets and defeat the enemies! \n \nOnce upon a time, Defenoidian lived happily ever after on Defenoid planet. \nAll out of sudden, some evils came out from nowhere and attacked the \nPlanet! \nDefenoidian s sorrowfully cried about their stolen colors and the planet!  \n \nDefenoidians need your help to retrieve their planet back with the shield! \nAnd more, them to fight back their own colors! \n \nThis is not such a cliché kind of game; don’t miss the game of \nToss the Bullets from the enemies Back to Them!  \n \n[Game Features] \n- Brand new genre of game that has never showed up! \n- Kick off the enemies by bouncing off the bullets against a volley of \n bullets! \n- More than 30 adorable characters of Defenoid people! \n- Simple control with one finger! \n- Various levels available for the beginner to the master! \n \n[How to Play] \n- Defense or avoid the red and sparkling bullets. \n- Avoiding the laser beam is a must! They can not be defensed.  \n- Don’t bump into the enemies! \n- Never leave the circular stage. \n- Defeat the enemies with the skills and the bounced-off bullets. \n- Achieve the items and become more stronger. \n \nLet’s go on an adventure with the Defenoidian and fight back the Defenoid \nplanet! Reach the limits with the lovely Defenoidians! \n \n**The updated news will be uploaded on the Facebook \u0026 Twitter page."
+  },
+  {
+    "id": 96215,
+    "genres": [
+      33
+    ],
+    "name": "Battlefield : Run",
+    "storyline": "You are a soldier,a good one.Your job is to invade enemy troops and destroy as many of them as you can!But watch out,there are plenty of enemies and only 1 of you"
+  },
+  {
+    "id": 54846,
+    "genres": [
+      33
+    ],
+    "name": "Don\u0027t be crushed",
+    "storyline": "Hi! I begin to try myself in Indie game half year ago) And i like it) This is one of my game which I more like) \n \nI hope you will like it too) \n \nSupport me please in this deal))"
+  },
+  {
+    "id": 66031,
+    "genres": [
+      33
+    ],
+    "name": "Pokémon Party Mini",
+    "storyline": "Pokémon Party Mini is a collection of several minigames, including: Hitmonchan’s Boxing, where you shake the system to ‘punch’; Pikachu’s Rocket Start, a game where you have to launch off a starting line before another Pokémon; Bellossom’s Dance, a DDR-like game; Chansey’s Dribble, kick the ball to the finish line as quickly as possible; Slowking’s Judge, predict if the tennis ball will land in or out of the court; Sneasel’s Fakeout, a rock-paper-scissors-like game for two players; Battlefield, where two to six players battle for the highest score; and Celebi’s Clock, which is essentially a clock with date, alarm and stopwatch function."
+  },
+  {
+    "id": 27285,
+    "genres": [
+      33
+    ],
+    "name": "Bombergirl",
+    "storyline": "As Bombergirl, not Bomberman, this is an enjoyable new title with new game elements that is not only fun to play, it is also fun to watch."
+  },
+  {
+    "id": 2735,
+    "genres": [
+      33
+    ],
+    "name": "Balloon Fight",
+    "storyline": "The game is fairly simple in storyline. The player controls an unnamed hero \"the Balloon Fighter\", who has two balloons attached to his helmet. The balloon fighter is able to rise into the air or go lower through flapping his arms. If one of the balloons is popped, rising becomes more difficult. A life is lost if both balloons are popped. The player must defeat all enemies (other balloon fighters) to get past each stage."
+  }
+]

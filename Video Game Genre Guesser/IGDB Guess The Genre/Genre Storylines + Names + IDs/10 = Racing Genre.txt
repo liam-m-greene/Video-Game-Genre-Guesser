@@ -1,0 +1,234 @@
+[
+  {
+    "id": 5870,
+    "genres": [
+      10
+    ],
+    "name": "Juiced",
+    "storyline": "There are four different racing types: circuit (standard racing with laps), point-to-point (single lap), sprint (drag race), and showoff (timed race). The player\u0027s reputation fluctuates with their wins and losses, and receives awards for raising their reputation."
+  },
+  {
+    "id": 104232,
+    "genres": [
+      10
+    ],
+    "name": "Dangerous Driving",
+    "storyline": "Dangerous Driving has over 270 miles of road, 31 courses all set in 7 North American National Park inspired locations including Canyons, Deserts, snowy Mountains, Lakes and more. \n \nThere are 26 vehicles to unlock with over 400 combinations of car/colour/livery, spread across six car classes – Sedan, SUV, Coupe, Supercar, Hypercar and Formula DD."
+  },
+  {
+    "id": 22095,
+    "genres": [
+      10
+    ],
+    "name": "Return Zero VR",
+    "storyline": "Return Zero VR is a­ beautiful,­ psychedelic,­ ultrafast VR tunnel racer. If racing past mad-fast, frantic mazes set out in virtual, TRON like worlds is your thing, then Return Zero VR is definitely the game for you.\n\nCollect blue gates to gain speed while avoiding the red and yellow ones. Overcome the speed of light and experience time running backwards!\n\nImmerse yourself on the world of Return Zero VR. Do you have what it takes to turn back time?"
+  },
+  {
+    "id": 2150,
+    "genres": [
+      10
+    ],
+    "name": "Split/Second",
+    "storyline": "Split/Second is an intense action racing game set within a reality television show. Competitors will vie to be the first to the finish line in a made-for-TV city set rigged to blow with the ultimate goal of becoming the season champion. Players in Split/Second don’t just collide with other vehicles to knock them from the track, but can also trigger devastating events that drastically alter the dynamics of the race. Players must use pinpoint timing to obliterate huge structures and towering TV set pieces to tactically alter the track or create entirely new routes."
+  },
+  {
+    "id": 26186,
+    "genres": [
+      10
+    ],
+    "name": "Need for Speed: Most Wanted NFS Heroes Pack",
+    "storyline": "Drive these cars in new high speed Races and Speed Runs, the perfect test for these Need for Speed throwbacks. Then take on Razor’s famous BMW M3 GTR, in an all new Most Wanted List event and personalize your ride with exciting new liveries."
+  },
+  {
+    "id": 18390,
+    "genres": [
+      10
+    ],
+    "name": "Buggy",
+    "storyline": "The game features a story mode, where you race your way through several \"hubs\", each consisting of 2-5 maps. After completing all maps, you unlock the next hub. Completing a hub grants you a new buggy racer."
+  },
+  {
+    "id": 27993,
+    "genres": [
+      10
+    ],
+    "name": "Prado Car Stunts Arena",
+    "storyline": "- Real time stunts arena with multiple cars and prado car in garage.  \n- Xtreme prado car driving with perfect car physic.  \n- Multiple stunt challenge and obstacles with real prado 4x4 driving 2017 3d.  \n- Realistic feelings of car driving and prado parking.  \n- Extreme city prado stunts \u0026 driving academy"
+  },
+  {
+    "id": 21435,
+    "genres": [
+      10
+    ],
+    "name": "Virtual Skipper 5 - 32nd America\u0027s Cup",
+    "storyline": "Virtual Skipper 5 is the 5th installment of Nadeo\u0027s Virtual Skipper series for Windows. It is a series of sailing simulator games targeted at semi experienced sailors rather than normal gamers."
+  },
+  {
+    "id": 90688,
+    "genres": [
+      10
+    ],
+    "name": "V-Rally 4",
+    "storyline": "Dominate dangerous roads, hostile conditions and environments, constantly striving for more speed and with adrenaline boosting your reflexes. At the wheel of the most legendary off-road vehicles in each category, take on the most difficult routes in fabulous surroundings."
+  },
+  {
+    "id": 24992,
+    "genres": [
+      10
+    ],
+    "name": "REAL DRAGS",
+    "storyline": "The whole world is filled with Drag racing games, that don\u0027t have a CLUTCH or a shifting Gears!\nSO how are you ever going to test your self if you aren\u0027t going to try like a true drag racer!\n\nOnly REAL DRAGS has the following:\n1) Clutch \u0026 Gears... no game has holding down a clutch and shifting gears \n2) 2 Player Racing via Bluetooth/Wifi-D... no game can make 2 players race in real time \n3) Share Races via Messengers.... send your race/challenge to a friend via any social media messenger (you decide which race \u0026 to whom you need to send it too) \n4)Racing Profiles... actual profiles that have a weakness that you have to rethink how to defeat \n5)Driver Performance Rating... not just 1 race, but 3 races to decide on your real ability that include a Qmile, 1km \u0026 your Reaction times! So no 1 time flukes!"
+  },
+  {
+    "id": 18787,
+    "genres": [
+      10
+    ],
+    "name": "Ridge Racer",
+    "storyline": "The core aspect of the entire Ridge Racer series is drift racing, that is traditional lap racing against opponents with the added twist of intentionally oversteering and sliding the car through sharp corners and turns, known as \"drifting\", which earns the player several bonuses during a race.\nGame modes are World Tour, Single race, Time Trial, and Wireless Battle, which supports up to 8 player multiplayer over the PSP\u0027s ad hoc, Wi-Fi network capability (see PSP Wireless Networking for further information).\nThe game also features a Full Motion Video opening, that shows series mascot Reiko Nagase."
+  },
+  {
+    "id": 131896,
+    "genres": [
+      10
+    ],
+    "name": "Diddy Kong Racing Adventure",
+    "storyline": "After his defeat in Diddy Kong Racing, Wizpig allies himself with the Kremlings to get his revenge. While Diddy Kong is away on a visit to Timber Island, the Kremlings have been kidnapping members of the Kong clan, while Wizpig is in the process of converting Kongo Island into a gigantic raceway. Upon returning and seeing the Kremlings bulldoze the forest, Diddy Kong gathers the racers of the original Diddy Kong Racing to challenge Wizpig and stop his destruction of Kongo Island."
+  },
+  {
+    "id": 36744,
+    "genres": [
+      10
+    ],
+    "name": "Kaido Battle 2 Chain Reaction",
+    "storyline": "Career-Mode racing."
+  },
+  {
+    "id": 3207,
+    "genres": [
+      10
+    ],
+    "name": "Bandits: Phoenix Rising",
+    "storyline": "Bandits: Phoenix Rising is a futuristic, racing action game, set in a post apocalyptic wasteland. The player follows the pair Rewdalf and Fennec as they try to survive and make big bucks at the same time."
+  },
+  {
+    "id": 18697,
+    "genres": [
+      10
+    ],
+    "name": "Ridge Racer Revolution",
+    "storyline": "The gameplay system remains unchanged from Ridge Racer (with the exception of the addition of a rear-view mirror when using the in-car view, inherited from the 1994 arcade sequel Ridge Racer 2) with its set of checkpoints, time-limit, and the same cars. The player can drive using either automatic transmission or manual transmission. Namco\u0027s NeGcon controller can be used to play the game. The game consists of three courses: \"Novice,\" \"Intermediate\" and \"Expert\", with each one having different sections of the track opened. The game incorporates modes from the original game; normal race against eleven other cars, and Time Trial against one car. Ridge Racer Revolution adds a new race mode; Free Run. This mode is not actually a race, as there are no other cars. Rather, the player can test drive the car and practise driving around the track. There is no lap limit. A new feature of the game is the ability to select the time of day the in which the race takes place. This option is not available at the start of the game, and must be unlocked. Ridge Racer Revolution has a two-player link-up mode which also allows the players access to the two courses from the original Ridge Racer game known as \u0027Special 1\u0027 and \u0027Special 2\u0027.\nLike the first Ridge Racer, the player normally starts with four cars. The remaining eight are selectable upon winning the mini game before the title screen (the mini game is Galaga \u002788 instead of the original game\u0027s Galaxian). Also like the first game, after the player wins the first three circuits, reversed versions of the tracks are unlocked, and the time trial mode becomes a boss race against two other cars including the duel car. There are three duel cars; the original \"13th Racing\" devil car from the first Ridge Racer of the Novice course, and the new \"13th Racing Kid\" (of the Intermediate course) and \"White Angel\" (of the Expert course) cars. Players will obtain those cars upon winning the respective course\u0027s time trial boss race.\nThere are also two hidden modes; \"Drift Contest\", where the player earns points according to how well spins are performed on certain corners, and \"Pretty Racer\" (also known as buggy mode), which was the inspiration for the arcade game Pocket Racer. Mirrored tracks that function the same way as the original game are also accessible. As with the first game, the player can insert a music CD during the game to listen to instead of the game\u0027s soundtrack. However, unlike the first game, only the last track played is loaded into the PlayStation\u0027s memory; to switch courses the player would need to reinsert the game disc before loading the data."
+  },
+  {
+    "id": 1083,
+    "genres": [
+      10
+    ],
+    "name": "Wipeout",
+    "storyline": "Set in the year 2052, players compete in the F3600 anti-gravity racing league, piloting one of a selection of craft in races on several different tracks around the world."
+  },
+  {
+    "id": 18613,
+    "genres": [
+      10
+    ],
+    "name": "GP-1",
+    "storyline": "GP-1 is a motorcycle racing game developed by Genki and published by Atlus for the SNES, which was released in 1993."
+  },
+  {
+    "id": 28004,
+    "genres": [
+      10
+    ],
+    "name": "Impossible Tracks Car Driving",
+    "storyline": "Drive super speed stunt car on almost impossible tracks. Lots of jumps and obstacles on mid-air tracks are waiting for stunt ride with impossible car stunts drive. New car driving 2017 simulator with dreadful road tracks in car race driving stunt game. Impossible car driving tracks will provide you the airborne treacherous tracks for thrill drive. IMPOSSIBLE TRACKS CAR DRIVING with action packed sky-high stunt drive"
+  },
+  {
+    "id": 26195,
+    "genres": [
+      10
+    ],
+    "name": "WipEout: Omega Collection",
+    "storyline": "Known for its blistering speed, iconic music and pure multiplayer mayhem, WipEout has starred on every PlayStation format since 1995 – and is now set to rip through the air on PlayStation4 and PlayStation4 Pro."
+  },
+  {
+    "id": 6391,
+    "genres": [
+      10
+    ],
+    "name": "Driver 2: Back on the Streets",
+    "storyline": "Driver 2\u0027s story takes place across four different cities: Chicago, Havana, Las Vegas and Rio de Janeiro. Tanner and his partner, Tobias Jones, are working together to capture a moneyman who has double crossed a crime lord. The moneyman is known as \u0027Pink Lenny\u0027 throughout the story, and he is portrayed as a weasel in the opening cutscene. Pink Lenny has double crossed Solomon Caine, and is now working for his enemy, a Brazilian known as Alvaro Vasquez. Tanner must find and capture Pink Lenny, as Solomon Caine wants to kill him for double crossing him. Lenny has also been responsible for causing a large gang war in Chicago through his actions. \n \nThe elusive Avaro Vasquez, head of the tattooed Brazilian mob operating out of Rio, is turning his business interests to mainland USA. Violence threatens to ignite America when a U.S. crimelord`s money-man cuts a deal with Vasquez - his greatest rival."
+  },
+  {
+    "id": 27461,
+    "genres": [
+      10
+    ],
+    "name": "Top Gear",
+    "storyline": "\"Top Gear (Top Racer in Japan), is a racing video game for the Super Nintendo Entertainment System, published by Kemco and developed by Gremlin Graphics in 1992. The objective of the game is to become the fastest driver in the world by racing other drivers across several nations. The franchise is unrelated to the TV series of the same name. The game is an arcade-style racing game that can be played by two players at the same time.\" \n \n\"When players first start the game, they are given several options to choose from, including entering their name, a choice of four different controller layouts, a choice between automatic or manual transmission, and their choice of four unique cars. During the race, the player will have to steer and shift gears (if they chose a manual transmission). The player is also given control over three \"nitros\", which allow the player to increase their speed for a short period of time.\" - wikia"
+  },
+  {
+    "id": 9097,
+    "genres": [
+      10
+    ],
+    "name": "The Zoo Race",
+    "storyline": "After Laughing and teasing her friend Rueben, because he believed in the Noah\u0027s Ark bible story, then Hannah the librarian has a dream about it. In her dream, her friends are re-shaped into animals and she herself is changed into a race horse and participates in the \"Race Games of Celebration\" after the world flood. But, unknown to everyone, Noah\u0027s sons have created a lot of hazardous obstacles on the race tracks for the creatures. \n \nThese barriers on the race track slow down the participants and include hurdles, glass mazes, piranha fish, fire geysers , exploding barrels , rockets, cannons, bomber planes and more! \"Let\u0027s give them a REAL race, Ha!\", said Shem. \"Yes and let\u0027s have some fun! \" ( LOL ) said Japeth and Ham, so beware of Noah\u0027s 3 sons, because this race is so very different."
+  },
+  {
+    "id": 39265,
+    "genres": [
+      10
+    ],
+    "name": "Reckless Racing 3",
+    "storyline": "Play the career mode loaded with 50 events in 6 different seasons and the Arcade mode featuring 50 challenges, or compete on the online leaderboards in Single Event. Reckless Racing 3 has the most detailed physics and complex graphics so far, giving you the smoothest racing experience ever. \n \nFEATURES: \nProbably the best power slides in the world! \n36 routes in 6 different environments. \n28 awesome cars and trucks to choose from. \nCareer, Arcade and Single Event game modes. \nGymkhana, Drift, Hot Lap and Race event types. \nMore detailed and complex graphics and physics than ever. \nCustomizable touch controls. \nFull gamepad support. \nGameCenter and Google Play leaderboards and achievements. \niCloud support. \nEnglish, Deutsch, Français, Español, Italiano, Português"
+  },
+  {
+    "id": 72317,
+    "genres": [
+      10
+    ],
+    "name": "Gale Racer",
+    "storyline": "Gale Racer shares similar gameplay to Rad Mobile, with the player driving eastwards across America against rival cars against a strict time limit. There are, however, a number of graphical and technical changes to better suit the Saturn\u0027s hardware, and rather than one continuous journey, \"areas\" are split up by loading screens. There are also 23 rival cars, as opposed to the arcade\u0027s 14. \n \nGale Racer has the player drive a completely different vehicle to Rad Mobile, and renders all the rivals as polygons, rather than resized sprites. Similarly to Rad Mobile, a Sonic the Hedgehog \"mascot\" hangs from the car\u0027s ceiling (resembling his look in Sonic the Hedgehog 3), however others from the Sonic series are available, including the first home sightings of Mighty the Armadillo and Ray the Flying Squirrel. \n \nHowever, despite being a port of a then-three-year-old game (for arcade hardware that had been retired), Gale Racer is noticeably scaled back over its arcade counterpart, running at half the frame rate with lower draw distances, and less detailed \"textures\" for the road and scenery. The breaking up of areas means stage transitions no longer exist, and the road is always the same colour. The physics of the mascot are also simplified, always swinging and rotating at the same rate regardless of what is happening in-game. \n \nThere are also no exploding police officers when the player finishes first."
+  },
+  {
+    "id": 18699,
+    "genres": [
+      10
+    ],
+    "name": "Ridge Racer Type 4",
+    "storyline": "R4: Ridge Racer Type 4 is an arcade-style racing game with a strong emphasis on powersliding around corners. Vehicles use one of two styles of powersliding depending on the make of car they select: Drift and Grip. Drift cars require players to tap the brake once while turning to break into a smooth powerslide while Grip cars requires players to alternate between brakes and gas while turning to powerslide.\nVehicles are earned by playing through the game\u0027s Grand Prix mode. Players select one of four teams; R.C Micro Mouse Mappy, Pac Racing Club, Racing Team Solvalou and Dig Racing Team, who each have varying difficulties, and one of four manufacturers; Age Solo, Lizard, Assoluto and Terrazi, which determines the style of car and powerslide type the player will use. In each race, the player must attempt to reach a qualifying position, with later stages requiring players to place in higher positions to qualify. Depending on the qualifying position in each race, players will be awarded a new vehicle, or an upgrade to their current one, based on their team and manufacturer, with better cars earned for reaching consistently higher positions (i.e. the best cars are earned by placing 1st in each match while the least impressive cars are earned by just clearing the minimum qualifying positions). There are a total of 320 vehicles earned by racing with every combination of team, manufacturer and qualifying position. If the players unlock all 320 cars, they will unlock an additional one modelled after Pac-Man, for a total of 321 vehicles.\nThe game also features Time Attack mode, in which players can attempt to get the fastest time on each course, and VS. Battle, a split-screen mode for two players (the first to appear in the home console series) and an undocumented PlayStation Link Cable mode, allowing four players to play simultaneously. Players can also create them our car decors and participate in Extra Trials against powerful prototype cars. The game is also compatible with the JogCon peripheral and the PocketStation device, which allows players to trade cars with friends.\nA further new feature was the Decal Edit, which allowed players to design their own logo for use on cars."
+  },
+  {
+    "id": 13398,
+    "genres": [
+      10
+    ],
+    "name": "Bigfoot",
+    "storyline": "Bigfoot was loosely based after the monster truck of the same name featured in the cartoon segment The Power Team-which was a part of the Video Power 1990 television show. The game allowed the player to control the title truck while competing against The Growler and The Charger."
+  },
+  {
+    "id": 55217,
+    "genres": [
+      10
+    ],
+    "name": "Crazy CarToon",
+    "storyline": "You start with a very simple vehicle and you will have to win races and collect rings to be able to get new pieces with which to improve your car. \n \nEach race that finishes with podium will unlock you the next races of that championship. \n \nWhen you win a championship you are unlocked the next of that category or a new category. \nThere are four different categories with between 3 and 5 championships each. \n \nTo win the race you will have to be the fastest, the most skilled or the most destructive. You choose."
+  },
+  {
+    "id": 18696,
+    "genres": [
+      10
+    ],
+    "name": "Ridge Racer",
+    "storyline": "In the PlayStation version, the player can play a mini-game of Galaxian as the game loads. If the player wins before the game loads, eight additional cars become available to drive in the game. The twelve cars are varied in their specifications, with some featuring a high top speed, others excelling at acceleration or turning, and others being more balanced. Certain cars are named after other Namco games such as Solvalou, Mappy, Bosconian, Nebulasray, and Xevious. Once the game has loaded, all the CD is needed for afterwards is to play six instrumental music tracks. The player can replace the disc at any time during gameplay, although the game does not update to reflect the switch; regardless of what disc is inserted, there will always be six tracks to choose from, corresponding the starting points of the six tracks on the game disc.\nAfter launching the game, the player can choose a course, transmission (automatic or six-speed manual), car and song. During the race, the player can observe the racetrack from the first-person perspective (or from the third-person perspective for the PlayStation version). Namco\u0027s NeGcon controller can be used to play the game. Being an arcade racer, collisions do no damage to the car, and merely slow the player down. There is also a time limit, which ends the game if it counts down to zero. Checkpoints are present throughout the track that give the player additional time when passed through.\nThe game features only a single race track, although it consists of four race configurations of varying difficulty; Novice, Intermediate, Advanced and Time Trial (in the latter two, the track is extended). The player races against eleven other cars except in Time Trial, where there is only one opponent. The higher the difficulty level, the faster the cars run, with Time Trial mode featuring the fastest cars. Each race consists of three laps (two on the beginner course). In the PlayStation version, after the player wins every race, \"extra\" races become available, which are raced on a reversed version of the course, and the player encounters an additional opponent in Time Trial mode; the 13th Racing \"Devil\" car, the fastest car in the game. Upon winning this race, the car is unlocked for the player to drive. In the arcade version, after finishing the game, the winning player\u0027s score is saved in action-replay highlights.\nThe PlayStation version also features hidden \"mirror\" version of the tracks. The track becomes a \"mirror image\" of itself; left turns become right turns and vice-versa, and the surroundings switch sides of the road."
+  },
+  {
+    "id": 1538,
+    "genres": [
+      10
+    ],
+    "name": "Wipeout 2097",
+    "storyline": "Whereas the original game introduced the F3600 anti-gravity racing league in the year 2052, Wipeout 2097 is set over four decades later and introduces the player to the much faster, more competitive, and more dangerous F5000 AG racing league. The game is set exactly 101 years after the actual release year of the game (100 in the Saturn port\u0027s case). \n \nThe Sega Saturn version supported analog control by using the optional 3D Control Pad, whereas the PlayStation version supported analog control by using the optional Negcon twist controller (as on debut release of the series)."
+  }
+]

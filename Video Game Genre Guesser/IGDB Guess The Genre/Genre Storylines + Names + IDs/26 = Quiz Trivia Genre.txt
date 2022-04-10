@@ -1,0 +1,90 @@
+[
+  {
+    "id": 118315,
+    "genres": [
+      26
+    ],
+    "name": "Le Schmilblick",
+    "storyline": "Un jeu de quiz inspiré de l\u0027ancienne émission télé du même nom."
+  },
+  {
+    "id": 89588,
+    "genres": [
+      26
+    ],
+    "name": "Presidents Quizzer",
+    "storyline": "How much do you know about the Presidents of the United States? Play this fun, quick-fire quiz game to learn who they were and how they changed the world. Answer correctly before time runs out, or it\u0027s game over! Gradually improve your knowledge of history, and prove to your friends that you\u0027re the ultimate US patriot! \n \n• How well do you know the US Presidents and their history? Become a professional! \n• Learn to identify the Presidents and Vice Presidents from their photograph. \n• Answer general knowledge questions about the Presidents, and the United States as a whole. \n• Teach yourself which political party the Presidents are loyal to. \n• Learn the birth places of notable US politicians. \n• Improve your knowledge of the geography of the US, including State capitals and the biggest cities. \n• Power-ups! Use \"Freeze\" to stop the timer, \"Skip\" to jump to the next question, and \"Remove\" to blast away a wrong answer! \n• A patriotic audio track accompanies detailed graphics and animations. \n• 7 free game modes, with 9 more available as an upgrade."
+  },
+  {
+    "id": 23983,
+    "genres": [
+      26
+    ],
+    "name": "What\u0027s In The Picture - Animals",
+    "storyline": "Think you can guess what animal is in the picture?\nWhat\u0027s In The Picture is a free, challenging and fun word-trivia game where you guess the name of the animal shown in the picture.\n\nThe more animals you guess, the more points you earn! can you be the top player on the leader board?\n\nHelpers\n---------\n- Free helpers refill every 12 hours\n- If you\u0027re stuck and don\u0027t know the answer, try using one of the helpers like Expose Letter or Zoom-Out"
+  },
+  {
+    "id": 104725,
+    "genres": [
+      26
+    ],
+    "name": "Find the difference - Very difficult Images",
+    "storyline": "Can you find all the differences? \nTry now - we bet you cannot find all of them!"
+  },
+  {
+    "id": 103388,
+    "genres": [
+      26
+    ],
+    "name": "Wordhunters",
+    "storyline": "The globetrotting party word game for PlayLink! \n \nDive into a whole new world of competitive word games with your guide, Amy the Aviator. Fly around the globe to different cities, win rounds and claim letters from each location while blocking your opponents."
+  },
+  {
+    "id": 51692,
+    "genres": [
+      26
+    ],
+    "name": "Quiz King of Fighters",
+    "storyline": "\"Quiz City is dangerous!\" Yuri Sakazaki screams before she is kidnapped. Who is Yuri\u0027s kidnapper? And what is \"Quiz City\"? Called by the city\u0027s challenge, six heroes brace themselves and prepare to test their mettle in the streets!"
+  },
+  {
+    "id": 23903,
+    "genres": [
+      26
+    ],
+    "name": "Guess the Movie :- Funnier One",
+    "storyline": "its a funny trivia game that you can play during your free time or when the nature calls.\nIf you are a hollywood movie lover then this game is for you. In this you have to guess the movies on the basis of their plots being explained very badly (in a funny way )."
+  },
+  {
+    "id": 74038,
+    "genres": [
+      26
+    ],
+    "name": "Dragon Ball Z: Super Gokuden - Kakusei-Hen",
+    "storyline": "Super Gokuden: Kakusei-Hen follows the story of Goku from his fight with Piccolo at the 23rd World Martial Arts Tournament in the Piccolo Jr. Saga to his final battle with Frieza after Goku had reached the Super Saiyan state in the Frieza Saga. Gohan is also playable in the game. In this game, like its predecessor, the characters are seen fighting by their side."
+  },
+  {
+    "id": 103402,
+    "genres": [
+      26
+    ],
+    "name": "Knowledge is Power: Decades",
+    "storyline": "Up to six of you can go head-to-head, with thousands of unique questions, a variety of themed environments and eight unique characters to choose from. From ‘80s Gamer Girl to Hip Hop Guy, there are plenty of retro-styled personalities to meet in your quest to scale the Pyramid of Knowledge. \n \nGet the edge on your opponents with brand new Power Plays which let you lock your foes’ screens, zip up their answers, and more. And with four new touch-screen challenges, you have the chance to mix things up in a time-based score attack mode."
+  },
+  {
+    "id": 18716,
+    "genres": [
+      26
+    ],
+    "name": "Buzz! The Big Quiz",
+    "storyline": "Buzz!: The Big Quiz is the second in the Buzz! series of PlayStation 2 games developed by Relentless Software.\nInitial promotional material had it named Buzz! The Uber Quiz, however Sony Computer Entertainment Europe announced the change upon the game\u0027s launch. The format is essentially that of the original: Buzz!: The Music Quiz. However, The Big Quiz covers an extensive range of general knowledge questions, including geography, history, sport, television, movies, as well as music.\nThe Big Quiz was released in the UK on 17 March 2006. In the same year it won a BAFTA for best casual and social game."
+  },
+  {
+    "id": 83580,
+    "genres": [
+      26
+    ],
+    "name": "Brain Wars",
+    "storyline": "BrainWars is a mental concentration battle game for players from around the world. Players of all ages can participate in this through simple brain teasers and compete with each other. Brain Teasers do not require special knowledge so everyone can improve their brain function through repetition and adaptation."
+  }
+]

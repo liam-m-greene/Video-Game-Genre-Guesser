@@ -1,0 +1,530 @@
+[
+  {
+    "id": 70734,
+    "genres": [
+      4
+    ],
+    "name": "Virtual-On: Cyber Troopers",
+    "storyline": "The game is set in a dystopian future in which Earth is controlled by corporate syndicates. People eager to break free of their rule colonize other planets. On one of these colonies is discovered a powerful technology used by an extinct race. One of the corporate syndicates, DN, reverse-engineers the technology and uses it to design battle robots called Virtuaroids. While testing this new technology, the central computer at the test complex becomes self-aware and activates the Sun Cannon, intending to use it to destroy civilization. DN assigns their top personnel to take control of several Virtuaroids and use them to shut down the rogue computer."
+  },
+  {
+    "id": 39539,
+    "genres": [
+      4
+    ],
+    "name": "Last Blade",
+    "storyline": "A translation of the story officially given by SNK is as follows: \n \n\"Two worlds once existed since ancient times... The world of the living, Ushyo, and the land of the dead, Tokoyo. A legendary boundary to forever separate them, The Hell\u0027s Gate, has existed since the birth of myths to keep an universal balance. There is said to be four gods that defend it: Seiryu of the East, Byakko of the West, Genbu of the North, and Suzaku of the South. They eternally perform their duty from the shadows of legend and were eventually forgotten by people as time passed. \n \nNow, it is the \u0027Bakumatsu\u0027. \n \nThe Tokugawa shogunate, after 200 years of reign, began to have samurai who long dulled their battle skills during the outskirts of the Heian period. People, who have long since grown used to peace, are met with fascinating foreigners and wonder about the confines of their isolation. To add to the confusion, a sudden disturbance occurs. \n \nA natural disaster unprecedented in Japan\u0027s history began. It was rumored to be the Majin Revival, a time when gods were to walk the land once more and deliver divine punishment. In a land where no chaos was said to exist, the people could do nothing but watch and despair. \n \nHowever, it was said that there are individuals who did not. People who haven\u0027t lost their fighting spirit and stood to face the chaos. Those who wanted to find the real cause behind the disturbance and stop it. Moreover, people who were unexpectedly born at the center of chaos. Those who had the ambitions to control the threat and those who are said to be the cause of the Majin Revival. Without speculation of their cause, they are brought together by a heavy fate as their battle begins.\" \n \nThe passage to the land of the dead, Hell\u0027s Gate, which was previously guarded by Four Sacred Beasts appears to be opened. However, chaos sweeps the land once the gods are encased in human flesh, otherwise known as the Majin Revival. The story of the series continues to focus on how certain individuals choose to confront such conflict, and depicts how each of them are drawn on the same string of fate."
+  },
+  {
+    "id": 13095,
+    "genres": [
+      4
+    ],
+    "name": "Rival Schools: United by Fate",
+    "storyline": "The story of Rival Schools introduces the player to a Japanese city called Aoharu City, where several local schools are the victims of unknown attacks and kidnappings of students and staff. The various characters in the game set out to find who is responsible for the attacks on their school, with the cut-scenes and fights portraying their interactions with the other schools and among themselves. Eventually, the story reveals that an elite school in the city, Justice High, is responsible for the attacks. The player\u0027s team eventually faces off against Raizo Imawano, the principal of the school, and first boss of the game. If certain requirements are met during the fight against Raizo, the story would continue as the player would then head into a true final boss fight against Hyo Imawano, Raizo\u0027s nephew and the true mastermind behind the events of the game.\n\nThe structure of the single player game of Rival Schools varied depending on how characters were selected. If two characters from the same school were selected (with a few exceptions), single-player would play in a progressing story with fights predetermined beforehand and each fight preceding and ending with short 2D cut-scenes to explain the story. If two characters from different schools were chosen, the single-player mode would instead play similar to other fighting games, with the player\u0027s chosen team fighting against random teams of opponents before facing the boss. In the arcade, character selection was initially limited to selecting two characters from the same school and free selection of any character was accessed through time; the PlayStation versions, which included all characters unlocked by default, had no such restrictions."
+  },
+  {
+    "id": 36732,
+    "genres": [
+      4
+    ],
+    "name": "Fighting Angels",
+    "storyline": "More Simple Series babes are featured in this fighting game. Select from ten Cat Fighters and battle one-on-one using sexy moves. Power up your sexy gauge to make use of your super sexy specials. Included in the game are tournament, survival, practice and death match modes along with a view mode that allows you view the girls from close up."
+  },
+  {
+    "id": 4435,
+    "genres": [
+      4
+    ],
+    "name": "Fatal Fury 2",
+    "storyline": "After Geese Howard\u0027s death in the original Fatal Fury, a mysterious nobleman becomes the sponsor of the new \"King of Fighters\" tournament. This time, the tournament is held worldwide with fighters around the globe competing. As the single player mode progresses, the mysterious challenger begins defeating the participants from the previous Fatal Fury game (Michael Max, Hwa Jai, Duck King, Tung Fu Rue and Richard Meyer), searching for the man responsible for defeating Geese."
+  },
+  {
+    "id": 43405,
+    "genres": [
+      4
+    ],
+    "name": "Fullmetal Alchemist: Dream Carnival",
+    "storyline": "The game\u0027s story involves a fighting tournament during a large festival that allows for any pair of fighters to participate. The participants are allowed to use weapons and alchemical skills. The game\u0027s main characters are Edward Elric, Alphonse Elric, and Roy Mustang. The fighting involves the two versus two style of game playing. Each team shares a \"star\" meter which decreases each time one member of the team dies. If all the stars disappear, the battle ends."
+  },
+  {
+    "id": 4052,
+    "genres": [
+      4
+    ],
+    "name": "One Piece: Grand Battle! Rush",
+    "storyline": "Much like the manga and anime it is based on, Monkey D. Luffy wants to take Gol D. Roger\u0027s place to become King of the Pirates. Together with his crew namely, Roronoa Zoro, Nami, Usopp, Sanji, Chopper, and Nico Robin are on a quest to search for the great treasure One Piece (ワンピース Wan Pīsu) and also to fulfill their own dreams. The story is based on the East Blue saga up to the Foxy\u0027s Return arc."
+  },
+  {
+    "id": 39562,
+    "genres": [
+      4
+    ],
+    "name": "World Heroes 2 Jet",
+    "storyline": "The tournament to decide the strongest warrior in history is about to unfold in for five days... However, a behind the tournament\u0027s scenes lies a dark shadow. The heroes involved in the tournament remain unaware of its involvement. Just who is the one responsible for these tournaments? And who is the true identity of the person lurking in the shadows? The Heroes Battle continues!! Will you be the last one standing!?"
+  },
+  {
+    "id": 37251,
+    "genres": [
+      4
+    ],
+    "name": "World Heroes 2",
+    "storyline": "Who is the strongest hero in history!? In order to solve this conundrum, a professor completed a time machine and used it to test the might of warriors from different ages. Unfortunately, he was unable to find an answer. A year later, six new heroes appear. Now, the largest battle of history is about to begin."
+  },
+  {
+    "id": 38236,
+    "genres": [
+      4
+    ],
+    "name": "Death Brade",
+    "storyline": "Fight! \n \nWin the tournament and take the throne. The kingdom will be yours. Win or die, there is no escaping the deathmatch! Fight on fearless warriors!"
+  },
+  {
+    "id": 27158,
+    "genres": [
+      4
+    ],
+    "name": "Touhou Shinkirou ~ Hopeless Masquerade",
+    "storyline": "In the wake of so many incidents beyond their control, the Human Village has fallen into a state of hopeless pessimism. Believing that religion can restore order, some of Gensokyo\u0027s most prominent adherents of Buddhism, Taoism and Shinto all want to take this chance to expand their particular faith\u0027s influence."
+  },
+  {
+    "id": 15432,
+    "genres": [
+      4
+    ],
+    "name": "The King of Fighters 2001",
+    "storyline": "The official story given by Eolith is as follows: \n \n\"An entire city was wiped off the globe with the use of the satellite weapon, Zero Cannon, during King of Fighters 2000. \n \nThis incident was reported to be the result of an artificial satellite crashing to earth, and adorned the front pages to various newspapers of countries all over the world. \n \nA legion of individuals called for the end to the KOF tournament which always invited some sort of accident, but ironically this fighting tournament with a bad history once again regained considerable popularity. \n \nThe interest in the tournament rivaled that of the \u002797 contest, nay, exceeded perhaps exceeded it. \n \nBut for this tournament carried out on the international stage, an astonishing fact came to light. \n \nA team from NESTS has entered the tournament! \n \nWhat are the true objectives of the event\u0027s sponsor? There\u0027s no guarantee that even with this tournament, tragedy will not repeat itself.... \n \nThe third title in the King of Fighters: The NESTS Chronicles. At last, this tournament will end it all!\" \n \nThe NESTS cartel decides to host the 2001 KOF tournament so that they can use it as a method to eliminate their enemies and enter their own team into the ranks. \n \nIn the tournament finals, the Hero Team boards a special blimp that is soon revealed to be a spaceship. There they meet Original Zero, whose clone decimated the cartels\u0027 secrecy with his scheme in the previous year. He congratulates them for reaching the finals and states that they\u0027re headed for NESTS\u0027s real headquarters. He decides to entertain his passengers with a match and is backed up by his pet black lion Glugan, Ron, and Krizalid. Despite the oppressive force of his group, he is defeated moments before the ship docks at NESTS\u0027s space satellite. He stays on board the exploding ship and urges the Hero team to proceed forward. \n \nOnce inside NESTS\u0027s satellite, they face the NESTS leader, Nests. He expresses wishes for his renegade agents to return to the organization and is soon afterward killed by Igniz, who claims ownership of the cartel. Igniz also reveals that K\u0027, Kula, Krizalid, K9999 and Whip are guinea pigs/creations made for his own personal entertainment. Kula, who was separated from the rest of her team and present at the time, also heard her origin as an artificial life form. Declaring himself a god, he assaults the team as his first act of \"divine retribution\" and defeats them. As soon as he\u0027s about to kill K\u0027, other fighters came to intervene and help in the fight including all team leaders, Kyo and Iori. When he\u0027s defeated, he proclaims that he is fallen god and names himself a \"demon\" instead. He plunges the satellite through earth\u0027s atmosphere in an attempt to demolish his competition. \n \nThankfully, the satellite crashes into the ocean and the fighters aboard were somehow saved from the explosion, presumably thanks to Ron. K\u0027 saves Kula from drowning; in gratitude, she and her guardian, Diana, ally themselves with K\u0027 and company. K9999 and Angel are presumably still alive though their exact whereabouts are unknown. Foxy is also stabbed by them though her apparent on screen death is later revealed to be false."
+  },
+  {
+    "id": 19991,
+    "genres": [
+      4
+    ],
+    "name": "Samurai Shodown 64: Warriors Rage",
+    "storyline": "\"In an unknown land an eerie disturbance disrupts the sky, leading a dark mass to the land. \nIt is the ultimate evil-it is the reincarnation of Yuga the Destroyer. \nThe objective of this being who once more alights to earth is the unification of this world and the Netherworld using the hermaphrodite male and female-that is, the construction of a utopia to become the foundation for the resurrection of the Dark God. \nAs he resumes his search for the hermaphrodites, those turned into puppets by Yuga\u0027s magic unleash their carnage to gather the sacrifices necessary for the ritual of utopian construction. \nThese puppets then employ various means to increase the dead and provide sacrifices. Some, for example, become leaders of the Shogunate to carry out ruthless policies, some became common murderers, and still others deliberately incite revolt against the government. \nThrough the influence of the devilish reincarnation, outbreaks of famine and plagues further increase the dead, providing the evil with yet more strength and delight. \nThe mountain of dead gathered by these means is subsequently heaped up on the altar of the Netherworld and fashioned into two pillars in which the hermaphroditic male and female are to be subsequently imprisoned. \nAt this time one man returns to the Netherworld. The name of this warrior who stands directly before these literal pillars of the dead in the darkness is Asura. Master of magic, he is the dark swordsman appearing in this realm to wreak his revenge on Yuga. \nRegardless, his enemy steadily proceeds with the construction of his utopia. \nThe curtain now rises on this drama of revenge that will engulf both our world and the land of the dead.\""
+  },
+  {
+    "id": 54553,
+    "genres": [
+      4
+    ],
+    "name": "OWN - On the Way to Nemroth",
+    "storyline": "Two races, the Telegohns and the Krons, fight each other after the fall of the great wall. After millenias of ignoring each other\u0027s existence, they wage war against one another recklessly. Either play the Telegohns and make the most of their ability to master space, or the Krons, who master time!"
+  },
+  {
+    "id": 1918,
+    "genres": [
+      4
+    ],
+    "name": "Injustice: Gods Among Us",
+    "storyline": "Injustice: Gods Among Us is set in an alternate reality. The Joker has hoaxed Superman into killing Lois Lane and the couple\u0027s unborn son, all the while destroying Metropolis. Overcome with grief and anger, Superman takes revenge against the Joker; killing him in cold blood in front of Batman. While he has confronted his tormentor, Superman still cannot overcome the guilt of what the Joker made him do. Quickly, he takes control of various nations across the planet and establishes a new world order as the High Councillor to achieve world \"peace\". The heroes of the earth are confronted with a choice; join Superman\u0027s Regime or ally with Batman\u0027s Insurgency. A war ensues between the forces, one which will threaten the very survival of mankind. \n \nDevelopment"
+  },
+  {
+    "id": 39520,
+    "genres": [
+      4
+    ],
+    "name": "Real Bout Fatal Fury",
+    "storyline": "A translation of the story officially given by SNK is as follows: \n \nWith the fight for them over, the ruler Geese Howard has the Jin scrolls in his hands. \n \n\"Hehehe...this means that I have all three scrolls in my possession...\" He promptly turns to the man with a bandana. \n \n\"Billy, dispose of them.\" \n \n\"Wha? For what reason, sir?\" \n \n\"None of these scrolls will have any of the secrets I need. It\u0027s enough to be considered the strongest for obtaining these legendary scrolls. That\u0027s all. As long as I know that I am the first person to have collected these in its 2,000 years of history, I will never have a use for these.\" \n \n\"But still, even if you do not dispose them...\" \n \n\"These scrolls have a different meaning with those Jin brothers. I don\u0027t want to understand what they\u0027re capable of in their hands.\" \n \n\"...Even the newly revived Geese has something that he fears then...\" \n \n\"Do not misunderstand me. Even the Geese Howard resurrected from darkness doesn\u0027t want to repeat the same mistakes...Like with those foolish Bogards...\" \n \nBilly Kane was petrified and could not bring himself to speak against the flames of dark hatred that burned within Geese. Geese shuts his eyes deeply and moves to glance outside the window. \n \n\"Billy, how is the city\u0027s current reaction?\" \n \n\"Sir, they are frightened by your apparent defeat,\" Billy managed to answer. \n \n\"Is King of Fighters\u0027 arrangements all in order?\" \n \n\"Yes, sir. Kim Kapwhan, Duck King, and all of the other recipients seemed to have responded positively.\" \n \n\"Hehe...that last tournament didn\u0027t profit me at all. It\u0027s time to remind them that Geese Howard is this town\u0027s only ruler.\" \n \nIts long silence broken, Geese Tower\u0027s lights kick alive. When the wolf\u0027s fangs thirst for blood, a shiver can be felt throughout the town. \n \nAfter stealing the Jin Scrolls of Immortality, Geese Howard takes control of South Town once again. He hosts a new King of Fighters tournament and invites his arch-nemesis Terry Bogard, to settle their fight once and for all!"
+  },
+  {
+    "id": 46779,
+    "genres": [
+      4
+    ],
+    "name": "World Heroes Perfect",
+    "storyline": "A year has passed since the dark tournament association\u0027s movements... The world was peaceful and invitations for the third World Heroes\u0027 tournament were mailed by Doctor Brown himself. Heroes who wanted to prove themselves, rivals who wanted their matches settled, and other fighters began to gather once more for the decisive tournament. The news of Zeus\u0027 participation was also part of the agenda for those who wanted revenge. The tournament\u0027s organization was already desperate but that was not its only horror!"
+  },
+  {
+    "id": 118188,
+    "genres": [
+      4
+    ],
+    "name": "Schwarzerblitz",
+    "storyline": "It\u0027s 2065 and the world is not what we used to know. Fennoscandia has sunk deep into the ocean, half of Ireland is ridden by heamophages, nuclear power has been replaced by reality-distorsion-resonance (RDR) power plants and an alien planetoid has made first contact for more than fifty years,by now. \n \nIn 2064, a major accident shook the whole Europe: Euterpe, the Italian capitol city, was razed by an explosion of incredible power, followed by a storm of black lightnings. The accounts of the witnesses diverged and no light was shed on the real cause of the disaster. \nAfter a one-year manhunt, the Delta Team has finally found a consistent trail, which leads directly to a secret governative project known as Schwarzerblitz, \"the black lightning\"..."
+  },
+  {
+    "id": 115670,
+    "genres": [
+      4
+    ],
+    "name": "Dissidia Final Fantasy NT - Free Edition",
+    "storyline": "With the struggle between order and chaos quelled by saviours from beyond, the realm was destined to fade from existence. Instead, an arcane power has breathed new life into it—bestowing these decaying remains with purpose once more. The fight has begun anew, and the world is your arena."
+  },
+  {
+    "id": 20401,
+    "genres": [
+      4
+    ],
+    "name": "Mobile Suit Gundam Extreme Vs-Force",
+    "storyline": "The game\u0027s story is contained within the game\u0027s Extreme Force mode, which is a prequel to the events of Gundam EXA. The story revolves around the \"Project Force\" plan, which was put into motion to help humanity evolve and avoid utter annihilation after observing the events of the Universal Century. To do this, two virtual combat simulators, Aire and Tereno, create a human personality from the database AI to dive into the virtual recreations of Universal Century, link up with various pilots from across the timelines and evolve in hopes of discovering a way to save humanity from the brink of destruction. \n \nAs the player progresses, irregularities begin appearing, endangering the project. It is soon revealed that these irregularities were in fact created by the control program of the Project itself, revealing its intent through hijacking Aire and Tereno. In order to, on its own terms based on accumulated data, speed up the evolution of humanity, it created conflict through these irregularities, believing evolution to be born through despair. It then gives the player a choice to choose either Aire or Tereno to give it the power and data needed to move forward with its plan while destroying the other. Eventually, the player ends up gathering the fragments of either girl and restores them to normal. Discovering that Project Force is to \"evolve\" humanity through war, Aire, Tereno and the player resolve to stop the project and protect mankind, even knowing that the plan to help evolve humans to avoid extinction could very well endanger everyone. \n \nAs the player and the navigators progress to the control program, it builds up various defenses based on data of Universal Century\u0027s most powerful weapons. Eventually, they reach Earth 0\u0027s core, which is shown to be Extreme Universe. After a harrowing fight involving waves of duplicates of Universal Century\u0027s villains and a final showdown with the NZ-999 Neo Zeong, they succeed in defeating the control program. However, before the program perishes from the processor, it initiates a last ditch effort to force humanity as initiates a self-destruct sequence in Earth 0\u0027s orbital station to attempt its own \"colony drop\". With little to no time left, Aire and Tereno attempt to join together and become the new Control Program and stop the station from dropping, sacrificing their own identities in the progress to save the player. \n \nBefore Aire fades away, she bestows the player with a name and hopes that one day they\u0027ll save mankind, giving them the name --extra--. Soon after this, the protagonist\u0027s thoughts are finally heard as he soon comes to with fragmented memories. Surrounded by the warmth of the memories of his friends, he tries to call out his own name: ex-."
+  },
+  {
+    "id": 1724,
+    "genres": [
+      4
+    ],
+    "name": "Mega Man: The Power Battle",
+    "storyline": "The story of the game is simplistic; the evil Doctor Wily has rebuilt some of his Robot Masters, with which he is trying to take over the world, forcing the heroes to stop him."
+  },
+  {
+    "id": 4129,
+    "genres": [
+      4
+    ],
+    "name": "Evil Zone",
+    "storyline": "The storyline of the game tells of a being known as Ihadurca, a powerful being who can exist in multiple dimensions at one time. Through heavy cost, the inhabitants of the world of I-Praseru (Happy Island) were able to temporarily confine Ihadurca in a dimension known as Evil Zone. Now, a tournament is being held to select the strongest warrior throughout the dimensions to destroy Ihadurca before she can escape from Evil Zone and threaten the world once more."
+  },
+  {
+    "id": 119,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat",
+    "storyline": "The story retells the events of the first three games, in a new timeline where Raiden receives a message from himself in the prime future after the Battle of Armageddon has happened and Shao Kahn became the supreme leader of all the realms. Because of this plot, characters and scenarios present are the classic ones, bringing the old to new and starting a new conflict."
+  },
+  {
+    "id": 13096,
+    "genres": [
+      4
+    ],
+    "name": "Project Justice",
+    "storyline": "One year has passed since the events of Rival Schools: United By Fate and that things have gone back to normal in Aoharu City. Batsu Ichimonji, Hinata Wakaba, Kyosuke Kagami, and the rest of the fighters had resumed their normal school lives and that all of them had enjoyed the calm peace that came after their last adventure, but the peace itself doesn\u0027t last for long and that the fighters would soon find themselves getting involved in a new struggle.\n\nKurow Kirishima: a cold-hearted and ruthless ninja assassin from a mysterious group known only as the \"Reverse Society\" has his sight set on the Imawano family and plans to eliminate them and their allies so that he can prepare for the advancement of his own ambition to rule Japan. To this end, he attacks Raizo Imawano: the principal of Justice High and father to Batsu, so that he can easily put him out of commission and not have any interference come from him. Secondly, he sends both his older sister Yurika Kirishima and his loyal subordinate Momo Karuizawa into the ranks of the fighters so that the two of them can cause tension and distrust to occur between the friends. His third plot involves brainwashing Gedo gang leader Daigo Kazama so that he can order him into forcing his gang to attack various schools in order to cause even more tension to occur. Lastly, Kurow himself plans to destroy Batsu\u0027s reputation by disguising himself as Batsu\u0027s doppelganger (named Vatsu) so that he can attack the fighters and make them believe that Batsu is behind it.\n\nBatsu and his friends must fight back against the evil plot of Kurow and attempt to not let their friendship get destroyed by the conspiracy of a deadly ninja assassin."
+  },
+  {
+    "id": 67761,
+    "genres": [
+      4
+    ],
+    "name": "Toshinden",
+    "storyline": "Tōshinden (闘真伝) game was unveiled in Weekly Famitsu in 2008. It was developed by DreamFactory for the Wii and has no connection to the previous games\u0027 storyline. It is titled War Budokai, roughly translated as War Tournament. While previous Toshinden installments feature mainly weapons-based combat, War Budokai features hand-to-hand combat alongside the weapons-based battles. A total of 8 characters were unveiled in official illustrations. The game was released in Japan on December 10, 2009."
+  },
+  {
+    "id": 128011,
+    "genres": [
+      4
+    ],
+    "name": "SnowFight Go",
+    "storyline": "Multiplayer snowball fight game."
+  },
+  {
+    "id": 91792,
+    "genres": [
+      4
+    ],
+    "name": "Battle High: San Bruno",
+    "storyline": "There came a time, when suddenly, people all around the world began exhibiting elemental powers. Naturally, children and teenagers have the toughest time attempting to control their powers. Thus, special schools were installed to help instruct them on control as well as the basic educational fundamentals. San Bruno High School in California is one of those. \n \nJust as any other students, San Bruno students are full of hopes and dreams, wishes and thoughts, fears and anxieties... and of course, trouble. Foremost is The Rivals, a gang operating within the school that seems to slip by faculty notice. Shinji Ozawa leads this band of thugs, and his elder brother Jiro feels the need to put him in his place. However, Shinji and Jiro\u0027s feud is not the only altercation on the grounds..."
+  },
+  {
+    "id": 49298,
+    "genres": [
+      4
+    ],
+    "name": "Godzilla: Domination!",
+    "storyline": "Meteor X appears over Tokyo 2 and starts projecting magnetic waves which causes neurological damage to several monsters, causing them to go berserk. The monsters begin to attack Earth and its neighboring planets (led by Mecha-King Ghidorah), however, one monster remains unaffected by the waves and it\u0027s up to it to stop the others and destroy Meteor X."
+  },
+  {
+    "id": 36728,
+    "genres": [
+      4
+    ],
+    "name": "Asuka 120% Burning Fest",
+    "storyline": "The game is set at the Ryōran Private School for Women which educates the daughters of the upper echelons of society. The school\u0027s clubs hold a martial arts tournament called the Club Rivalry Budget Contest Mega Fight annually. Each character employs a different fighting style and the techniques are unique to each club."
+  },
+  {
+    "id": 64171,
+    "genres": [
+      4
+    ],
+    "name": "Fist of the North Star: 10 Big Brawls for the King of Universe",
+    "storyline": "In 199X, the world was engulfed in nuclear flames. The seas evaporated. The ground was split. It seemed as if every creature on Earth was extinct. However, humanity refused to die... A lawless world where might makes right was born. \n \nHowever, a man suddenly came out from the wilderness. Only death awaits those who bring forth the wrath of his eyes... The violent battles of the Legendary Savior of Century\u0027s End begins now!"
+  },
+  {
+    "id": 3208,
+    "genres": [
+      4
+    ],
+    "name": "War Of The Monsters",
+    "storyline": "The plot is set in the 1950s where a fleet of alien flying saucer warships invade the Earth, causing massive damage. The scientists of the world\u0027s nations manage to create a series of secret weapons, which, when activated, let loose shock waves that short-circuit the saucers and cause them to crash. Unfortunately, each flying saucer is fueled by a green radioactive liquid, which leaks out from destroyed crafts as they crash. Through this, the fuel infects creatures, humans, and robots, creating a war between the monsters. The player acts as one of these monsters and battles against the rest in fictional cities across the globe and the remaining UFOs."
+  },
+  {
+    "id": 63398,
+    "genres": [
+      4
+    ],
+    "name": "Fairy Tail: Zeref\u0027s Awakening",
+    "storyline": "The game covers three storyline arcs from the manga: the Oración Seis arc, the Edolas arc and the Tenrou Island arc. The game also features an original, game-exclusive story."
+  },
+  {
+    "id": 42629,
+    "genres": [
+      4
+    ],
+    "name": "Battle Blaze",
+    "storyline": "A land known as Virg was under the command of a powerful king. Every king was selected at the \"Tournament of Champions\". A demon from Hell, was hell-bent on world domination, so he sent five phantoms to possess every combatant in the tournament. The demon turned the contenders into enemies where they would have them battle one on one (kind of like Battle Royale). The phantoms possessed every contender except for one. As one phantom ambushed Durill, the strongest of the competitors, an unknown disease struck him. Durill ended up defeating the phantom, but collapsed due to mind poisoning. After he died, his son Kerrel vowed to avenge his father, and defeat the evil demon."
+  },
+  {
+    "id": 39538,
+    "genres": [
+      4
+    ],
+    "name": "Last Blade 2",
+    "storyline": "The official story given by SNK is as follows: \n \nLong before humanity existed, in a far off time of myth, death was an unknown, equally distant concept, but when death first came to the world, the \"Messenger from Afar\" was born. \n \nWith time, the Sealing Rite was held in order to seal Death behind Hell\u0027s Gate. At that time, two worlds, one near and one far, were born. Thus the history of life and death began. \n \nHalf a year has passed since Suzaku\u0027s madness, and the underworld is still linked by a great portal. Kagami\u0027s great sin is still heard as if ringing from the heavens. Our world has been called upon. Legends of long ago told of the sealing of the boundary between the two worlds. The Sealing Rite would be necessary to hold back the spirits of that far away world. \n \nHowever, the Sealing Rite brings together the power of the Four Gods and Sealing Maiden, for the first time properly completing the ritual. \n \nTo find the Sealing Maiden, Genbu began searching in the center of the world, from which all things begin. At the same time in the underworld, in the depths of darkness, many spirits conspired, plotting to hinder the Sealing Rite. They had but one wish, to be reborn into our world."
+  },
+  {
+    "id": 45156,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat Advance",
+    "storyline": "Defeated by the warriors of Earth, Shao Kahn decides to resurrect the Queen of Edenia, Sindel. At this point he attacks the Earth with all his soldiers and advisers. The Earth is in danger, and Raiden, understanding this, finds all possible warriors to deal with this threat."
+  },
+  {
+    "id": 128866,
+    "genres": [
+      4
+    ],
+    "name": "Street Fighter V: Collector\u0027s Edition",
+    "storyline": "Experience the intensity of head-to-head battle with Street Fighter® V! Choose from 16 iconic characters, each with their own personal story and unique training challenges, then battle against friends online or offline with a robust variety of match options. \n \nEarn Fight Money in Ranked Matches, play for fun in Casual Matches or invite friends into a Battle Lounge and see who comes out on top! PlayStation 4 and PC players can also play against each other thanks to cross-play compatibility!"
+  },
+  {
+    "id": 78909,
+    "genres": [
+      4
+    ],
+    "name": "G-Nome",
+    "storyline": "The game takes place in the year 2225, A.D., on the remote world of Ruhelen in the Omicron Reticuli star system. This planet has been a contested territory between the Darken, Union, Mercs and the Scorp, which are the Union\u0027s greatest threat. The discovery of the mineral-rich Phygos star system nearby has upset the tenuous strategic balance of the four races, leading to speculation of an inevitable war. The player assumes the role of Sergeant Joshua Gant, a retired Union Intelligence Acency, (UIA), operative, who for ten years prior, has been experiencing horrifying nightmares from a mission that resulted in the loss of his best friend and comrade, Ron Pearl. Following one of Gant\u0027s nightmares, the sergeant is contacted by UIA director General Allance Wilkins, who reinstates Gant immediately for a mission of the utmost importance. According to Wilkins, the Scorp have been conducting top-secret biological warfare experiments upon human prisoners of war, in order to create a mutated super-soldier dubbed the \"G-Nome\". Gant is commanded to euthanize the G-Nome and destroy the Scorp facility that has been housing the experiments. For assistance, Gant is assigned a team that includes his old friend and munitions expert, Sergeant Stephen Kylie, Union\u0027s most accomplished geneticist, Doctor Victoria Thane and an undisclosed final member of the team operating within the Scorp territory. \n \nGant begins his mission by traversing the Darken Republic on foot and strategically taking out any opposition that would hinder his objective of rendezvousing with Kylie. United once again, the duo embark across the Merc territory to meet Thane, who has been on a separate assignment. Upon Wilkins\u0027 disposition, Thane identifies some specialized Merc technology stored away at a facilitated structure called the Citadel upon a mesa called Caracon as the means of neutralizing the G-Nome. After acquiring the technology, the team heads for the Scorp territory. \n \nGant and his team bypass the heavily-defended Scorp border, where he is introduced to the final member of his team: Major Jack Sheridan, a Scorp specialist and the man responsible for the loss of Pearl ten years prior. After several precarious skirmishes with the intent of acquiring Scorp vehicles for bypassing mine fields and learning of the G-Nome facility\u0027s location, Sheridan leads the team directly to the laboratory. The mission is compromised, however, when Sheridan attempts to kill Gant, captures the G-Nome and allows for Kylie to be captured by Scorp reinforcements. Soon after, however, the Scorp ally with Gant, with recognizing Sheridan and the G-Nome as a greater threat. The Scorp and UIA realize that Sheridan has a genetic recombination laboratory located within the volcanic Shalten Frontier, where not only is he backed by a sizable army, but he intends to clone the G-Nome.[6] \n \nAfter gaining reinforcements from Wilkins and a large confrontation at the secret facility, Sheridan kills Kylie immediately after Gant destroys the laboratory. While the Union finish off Sheridan\u0027s forces, Gant gives chase after Sheridan, with the G-Nome in tow. Gant disables Sheridan\u0027s powerful vehicles and kills him. Gant confronts and subdues the G-Nome and while examining a marker upon its paw, he discovers that Pearl was the G-Nome. In an act of mercy, Gant allows Pearl to survive and tells him to run away before the Union forces arrive. The G-Nome is seen heading toward the sunset in the ending credits of the game. \n \nAs Sheridan\u0027s forces are defeated, Wilkins rummages through the remains of the recombination lab and comes across a petri dish labelled \"G-NOME: PEARL\". Wilkins grabs the dish and departs. In the aftermath the Scorp declares war on the Union, in retaliation for the mission. Reports leak through of a covert Union operation intended to destroy the Scorp G-Nome facility, but are denied by both the Union and the Scorp, while Wilkins unexpectedly resigns, causing public speculation that the alleged operation ended in failure."
+  },
+  {
+    "id": 1235,
+    "genres": [
+      4
+    ],
+    "name": "Tekken 5: Dark Resurrection",
+    "storyline": "Following the conclusion of the King of Iron Fist Tournament 4... \n \nKazuya Mishima and Jin Kazama fight an epic father-son duel at Honmaru, of the Mishima Zaibatsu. When the dust settles, Jin is victorious. Disgusted, Heihachi Mishima turns his back on Kazuya. \n \n\"Was that the best you could do? Pathetic! You deserve to die.\" \n \nA duel ensues between Heihachi and Jin... Jin sprouts black wings and goes berserk with rage, proving to be more than a match for Heihachi. Jin, however, regains his senses just before dealing the lethal blow. \n \n\"Be thankful for Jun Kazama...my mother.\" \n \nSaying this, he flies off, leaving Honmaru behind. Heihachi is drained and defeated and lies sprawled on the ground. Once again, the battleground is silent. \n \nHowever, the silence is short-lived. Soon the sound of an aircraft can be heard approaching. The buzz grows to a roar, and something can be heard launching from the craft. A hoard of Jacks suddenly burst through the ceiling, invading the compound. \n \nAt first Heihachi thinks that Kazuya has orchestrated the invasion. Kazuya, however, is roused by the rumbling and shaking, and obviously doesn\u0027t know what is going on either. \n \n\"Who are you?!\" \n \nJust as Heihachi shouts, the Jacks attack both of them. Heihachi and Kazuya are forced to fight together and begin destroying the Jacks. However, for every Jack they wreck, two more seem to take its place. Just as Heihachi begins to show signs of fatigue, Kazuya betrays him, hurling him into the midst of their enemies. \n \n\"Nnnoooooooo!!! Kazuyaaaaaa!!!\" \n \nIgnoring Heihachi\u0027s screams, Kazuya escapes Hon-maru while the enemies are distracted. Immediately afterward, Honmaru erupts in a massive explosion and is annihilated. A man cloaked in black silently watches the explosion. \n \nPlacing his hand on his ear, he checks his transmission signal and reports: \"Heihachi Mishima is dead...\" \n \nImmediately after his transmission, a single Jack attacks him from behind, but is obliterated with a single stroke of the man\u0027s blade. \n \nWith that, the man vanishes. \n \nDesolated and in flames, all traces of Hon-maru have been destroyed. No one remains to witness the creature that bursts out of the ground amidst the rubble. \n \nThe following day the world learns of the death of Heihachi Mishima, leader of the Mishima Zaibatsu. This should have marked the end of the Mishima Zaibatsu, but a mysterious figure assumes leadership of the organization, restoring order to it as if nothing has occurred. \n \nOne month passes... \n \nMishima Zaibatsu announces it will host The King of Iron Fist Tournament 5. \n \nThe mysterious King of Iron Fist Tournament is about to begin once more..."
+  },
+  {
+    "id": 28107,
+    "genres": [
+      4
+    ],
+    "name": "Marvel: Contest of Champions",
+    "storyline": "Captain America vs. Iron Man! Hulk vs. Wolverine! Spider-Man vs. Deadpool! The greatest battles in Marvel history are in your hands! The greedy Elder of the Universe known as The Collector has summoned you to a brawl of epic proportions against a line-up of vile villains including Thanos, Kang the Conqueror, and many more! Experience the ultimate free-to-play fighting game on your mobile device…Marvel Contest of Champions!"
+  },
+  {
+    "id": 1243,
+    "genres": [
+      4
+    ],
+    "name": "Tekken 2",
+    "storyline": "A worldwide martial arts tournament was nearing its finale. A large purse of prize money which was to be awarded to the fighter who could defeat Heihachi Mishima in the final round provided incentive for warriors from all over the globe. \n \nFinanced and sponsored by the giant financial groups, the Mishima Zaibatsu, the first Tekken tournament began with eight fighters, all of whom had emerged victorious in death matches held all over the world, all motivated by different motives, all possessing the skill and power to crumble mountains. \n \nMany battles were fought. But only one lone warrior emerged with the right to challenge Heihachi Mishima for the title of King of the Iron Fist. \n \nThis warrior was Kazuya Mishima, Heihachi\u0027s cold blooded son. Bearing the scar given to him by Heihachi, he enters into vicious combat with his father on the same field where Heihachi last struck down his own son and dropped him into a trench at age five. \n \nAfter a grueling battle which raged on for hours, Kazuya emerged victorious by utilizing the skills which had been passed down from generation to generation of the Mishima clan. \n \nAs Heihachi\u0027s broken body lay on the ground, Kazuya dropped to his knees and slowly lifted his father into his arms. Walked slowly to the edge of the same cliff where his father had left him to die, stared out over the landscape of all that was now his, and let go of his father\u0027s body. As Heihachi\u0027s body plummeted, Kazuya\u0027s smile gleamed in the sunlight... \n \nOne year has passed. The Mishima Zaibatsu under Kazuya\u0027s leadership has become even more powerful with its tendrils reaching to all corners of the world. Soon after his father\u0027s apparent death, Kazuya disappears into the shadows. However, rumors of his immense power, and a dark side, slowly begin to spread throughout the world. \n \nExactly two years after the first Tekken tournament, a message is relayed from the Mishima Zaibatsu fortress to news agencies all over the world announcing a second tournament with a prize a thousand times that of the first. \n \nSo the tournament begins..."
+  },
+  {
+    "id": 1245,
+    "genres": [
+      4
+    ],
+    "name": "Tekken 4",
+    "storyline": "Two years ago, Heihachi failed to capture Ogre. \n \nNot willing to give up, Heihachi ordered his researchers to collect blood samples, skin tissue, and hoof fragments left behind by Ogre (or known as True Ogre in its true manifestation) in order to conduct genetic experiments. Heihachi’s goal was to create a new life form by splicing Ogre’s genome with his own. However, the research was unsuccessful. \n \nAfter extensive experimentation, Heihachi’s bioengineers came to the conclusion that an additional gene - the Devil Gene - was necessary in order to successfully splice Ogre’s genetic code into another living organism. Heihachi learned that his own genome lacked the Devil Gene, but he knew someone who did... Jin Kazama. \n \nJin, who vanquished Ogre in The King of Iron Fist Tournament 3, was shot and mortally wounded by Heihachi. As his life slipped away, Jin transformed into a Devil. Upon his transformation, he struck down Heihachi and took flight. Jin’s whereabouts were unknown after the Tournament. \n \nHeihachi searched for Jin to no avail. However, Heihachi discovered a photograph during his investigation that stirred his curiosity. The 20-year-old photograph was an image of a burnt corpse covered with laceration wounds. Heihachi paid particular attention to the corpse’s back, which had what looked like deformed, protruding wing-like limbs. \n \nConvinced that the picture was of Kazuya, his own son whom he threw into a volcano 20 years ago, Heihachi diverted all his resources into a search for the body. This search eventually led Heihachi to G Corporation, a leading-edge biotech firm making unprecedented advances in the field of biogenetics research. \n \nHeihachi discovered that G Corporation found the corpse and extracted and analyzed its genetic data. In fact, Heihachi learned that the company was in the midst of creating a new life form by using the data. Heihachi also determined that Kazuya’s remains and research data were secured at G Corporation’s Nebraska and Nepal research laboratories, respectively. \n \nFriday, 25 December. The Tekken Force raided G Corporation’s maximum security research laboratory in Nepal. The bottom floors of the building were obliterated, and the remaining data storage facility containing file servers was airlifted by a group of heavy-duty helicopters. \n \nAt the same time, a separate unit led by Heihachi infiltrated the underground research facility in Nebraska, where Kazuya’s remains were preserved. As Heihachi observed from his helicopter, he soon realized that unlike the Nepal facility, the operations in Nebraska were not going according to plan. The tactical status monitor screens showed the first wave of the Tekken Force troops being blown out from the storage room where Kazuya’s remains were supposedly kept. \n \nA silhouette of a large figure slowly emerged from the room... When Heihachi could see clearly enough, he instantly recognized the large figure as Kazuya. \n \nKazuya was resurrected in G Corporation’s research facility. After his resurrection, Kazuya offered his body as research material to determine the true nature of the Devil that resided within him. Kazuya’s goal was to unify his two selves into one. Kazuya theorized that if he unified his body with the Devil, he would be able to truly harness its powers. He could then finally take revenge against Heihachi and the Mishima Zaibatsu. \n \nEnraged that Heihachi thwarted his plans, Kazuya obliterated the heavily armed Tekken Force and vanished into the flames of the lab’s wreckage. Heihachi was infuriated by Kazuya’s escape and took out his anger on his hapless subordinates who reported the escape. \n \nAbel, Heihachi’s lead scientific advisor, urged the enraged Heihachi to quickly find a way to capture Kazuya. Once his anger subsided, Heihachi focused his mind and decided on a plan. An evil smile crept upon his lips. \n \nTwo years had passed since The King of Iron Fist Tournament 3. The Mishima Zaibatsu announced The King of Iron Fist Tournament 4 and placed the massive financial empire as the top prize. The champion who manages to defeat Heihachi at the end of the Tournament would inherit the Mishima Zaibatsu. \n \nWell aware that the tournament is just a trap designed to lure him out, Kazuya nevertheless enters - it is his chance to defeat Heihachi. \n \nIn the round 7, Jin and Kazuya was scheduled to fight. However, on the way to fight Kazuya who waits in the stage Jin was ambushed and captured by Tekken Force before he was taken and chained in the Honmaru. Kazuya was announced as a default winner and he was sent to the final stage where he met Heihachi and asked him where Jin was. Heihachi promised he would answer after the fight; he was planning to take Kazuya to Honmaru after winning the fight and finish him off along with Jin by chaining him. He intentionally did this because he was more interested in torturing Kazuya. In the final stage 2 were clashed into battle resulting in Kazuya as a winner. After losing in the fight, Heihachi was being forced to take Kazuya to Honmaru and he was knocked out by Kazuya\u0027s devil power. Kazuya tried to suck out Jin\u0027s devil power but he failed. Eventually Jin woke up after being taunted by Kazuya and broke out of chain with rage. Kazuya fought against confronting Jin, but he was not able to defeat him and was left unconsciousness. Then Heihachi woke up and tried to kill exhausted Jin but he was defeated again and he was about to be killed if not for Jin\u0027s reminiscence of his mother, Jun Kazama, which caused him to spare Heihachi in honor of his mother. Stretching his Devil wings, Jin took a flight, leaving the unconscious Kazuya and Heihachi in Hon-Maru.."
+  },
+  {
+    "id": 1244,
+    "genres": [
+      4
+    ],
+    "name": "Tekken 3",
+    "storyline": "Fifteen years after the King of the Iron Fist Tournament 2, Heihachi Mishima has established the Tekken Force, a paramilitary organization dedicated to the protection of the Mishima Zaibatsu. A squadron of the Tekken Force searches an ancient temple located in Mexico. Soon after arriving there, Heihachi learns that they have been obliterated by Ogre. However, Heihachi, having witnessed the event, seeks to capture Ogre in hopes of harnessing its power for his own gain. Soon after, various martial artists end up dead, attacked or missing from all over the world, with Ogre behind it. \n \nJun Kazama has been living a quiet life in Yakushima with her young son, Jin, fathered after the events of the previous tournament by Heihachi\u0027s son, Kazuya. However, their peaceful life is disrupted when Jun begins to feel the encroaching presence of Ogre. Jun is now a target and instructs Jin to seek Heihachi should anything happen. Sometime after Jin\u0027s fifteenth birthday, Ogre indeed attacks. Against Jun\u0027s wishes, Jin valiantly tries to fight Ogre off, but Ogre knocks him unconscious. When Jin awakens, he finds that his house has been burned to the ground, and that his mother is missing and most likely dead. Driven by revenge, Jin is confronted by the Devil, which brands Jin\u0027s left arm and possesses him. Jin goes to Heihachi, explaining his situation and identity and begging him for training to become strong enough to face Ogre. Heihachi accepts and takes Jin in, as well as sending him to school. \n \nFour years later, Jin masters the Mishima karate style. On Jin\u0027s nineteenth birthday, Heihachi announces the King of the Iron Fist Tournament 3, secretly intending to lure out Ogre, while Jin prepares for his upcoming battle. \n \nIn the tournament, at a large temple, Paul Phoenix defeats Ogre and walks away from the tournament, thinking he is victorious. However, Ogre transforms into its true form of a monstrous beast, and Jin finally confronts it. Jin battles and defeats Ogre, and the being completely dissolves. However, Jin is suddenly gunned down by a squadron of Tekken Forces led by Heihachi, who, no longer needing him, personally fires a final shot into his grandson\u0027s head. \n \nHowever, Jin, revived by the Devil within him, reawakens and dispatches the soldiers, smashing Heihachi through the wall of the temple. Heihachi survives the long fall, looking up to see Jin sprout feathery wings and fly off into the night."
+  },
+  {
+    "id": 18626,
+    "genres": [
+      4
+    ],
+    "name": "Street Fighter II Turbo",
+    "storyline": "They\u0027re back and they\u0027re badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you\u0027ve mastered it all, crank it up a notch and go TURBO!"
+  },
+  {
+    "id": 4639,
+    "genres": [
+      4
+    ],
+    "name": "Barbarian: The Ultimate Warrior",
+    "storyline": "In the single-player story mode, the player controls a nameless barbarian who is on a quest to defeat the evil wizard Drax. Princess Mariana has been kidnapped by Drax, who is protected by 8 barbarian warriors. The protagonist engages each of the other barbarians in single combat to the death. Overcoming them, he faces the wizard. After the barbarian has killed Drax, Mariana drops herself at her saviour\u0027s feet and the screen fades to black.The United States version of the game names the protagonist Gorth."
+  },
+  {
+    "id": 5385,
+    "genres": [
+      4
+    ],
+    "name": "Fatal Fury Special",
+    "storyline": "Geese Howard: a man feared by the world as the dark ruler of South Town. He shocked the land with his violent techniques and was confident that no one could ever top him. To rid himself of the man, Geese took the life the street champ, Jeff Bogard. However, several years later, three men arose to stop Geese\u0027s ambition. They were the sons of the dead Jeff, Terry and Andy Bogard, and Muai Thai champ, Joe Higashi. \n \nAfter Geese was defeated by them, he was believed to be dead. However, as time passed, a disturbing rumor began to float around the world. \n \nGeese is alive. \n \nHis elder half-brother, Wolfgang Krauser, took the reigns of the underworld after his younger brother\u0027s passing. However, the resurrected Geese deprives Krauser his seat of glory and the Bogard brothers burn with the flames of revenge. Terry and Andy hear where Geese is located. \n \n\"We\u0027re coming for you, Geese!\" \n \nA new legend is about to begin."
+  },
+  {
+    "id": 1242,
+    "genres": [
+      4
+    ],
+    "name": "Tekken",
+    "storyline": "A worldwide martial arts tournament is nearing its finale, with a large purse of prize money awarded to the fighter who can defeat Heihachi Mishima in the final round of the competition. The contest is sponsored by the giant financial group, the Mishima Zaibatsu. There are eight fighters that remain after winning death matches all over the world, with the winner of the tournament receiving The King of the Iron Fist title. Only one will have the chance to defeat Heihachi and take home the prize money and fame. The player is initially able to select one of those eight fighters, each one having their own personal reasons for entering the tournament aside from the prize money."
+  },
+  {
+    "id": 22049,
+    "genres": [
+      4
+    ],
+    "name": "Capcom Vs. SNK 2 : Mark of the Millennium",
+    "storyline": "Capcom vs. SNK 2: Millionaire Fighting 2001) is a sequel to the fighting game Capcom vs. SNK, released in 2001. It is the sixth game in the Versus series."
+  },
+  {
+    "id": 46785,
+    "genres": [
+      4
+    ],
+    "name": "Sengoku 2",
+    "storyline": "The story given by SNK is as follows: \n \n\"A time of Sengoku, it\u0027s the weak becoming the victims of the strong. It began when a monarch got evil powers. He awakened peacefully sleeping souls and used his power to control them. \n \nBut there was hope for those who has everything taken away by the monarch. \n \nA princess looked into the future and predicted an evil monarch would be born and she knew a strong soldier would appear in the future. The princess called to the soldier with her whole spirit..!!\""
+  },
+  {
+    "id": 103269,
+    "genres": [
+      4
+    ],
+    "name": "Dead or Alive 6",
+    "storyline": "Kasumi abandons her ninja clan and secretly resided in a mountain village, but the world is about to be threatened by a new sinister plan."
+  },
+  {
+    "id": 37032,
+    "genres": [
+      4
+    ],
+    "name": "Blade Strangers",
+    "storyline": "A malevolent force known only as Lina is devouring data from a vast, interdimensional network of servers overseen by sentient computers called ”motes.” In desperation, the motes summon heroes from a variety of parallel game worlds to face off against each other in one-on-one combat. The tournament victor has the potential to be awakened as the Blade Stranger—the savior who can vanquish Lina and protect the motes from further harm!"
+  },
+  {
+    "id": 23614,
+    "genres": [
+      4
+    ],
+    "name": "Tanki Online",
+    "storyline": "NA"
+  },
+  {
+    "id": 2907,
+    "genres": [
+      4
+    ],
+    "name": "Killer Instinct",
+    "storyline": "Ultratech is a very powerful megacorporation which organises a tournament called Killer Instinct. Along with regular participants, experimental creatures created by Ultratech also fight in the tournament so their strength can be tested. Ultratech also discovers a technology to make bridges between dimensions, and releases a two-headed, one-eyed, satyr monster called Eyedol from this dimensional prison."
+  },
+  {
+    "id": 1612,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat: Deadly Alliance",
+    "storyline": "Two powerful sorcerers, Shang Tsung and Quan Chi, have joined forces to achieve the supreme goal: immortality. Will earth survive their deadly alliance?"
+  },
+  {
+    "id": 112916,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat 11",
+    "storyline": "Some time after Shinnok\u0027s defeat at the hands of Cassie Cage, Raiden is seen torturing the fallen Elder God in the damaged Jinsei Chamber. The God of Thunder, now with a darker persona due to the Jinsei\u0027s corruption, announces to Shinnok that he will no longer have mercy and will destroy Earthrealm\u0027s enemies before they can attack the realm. Though Shinnok reminds him that he cannot kill an Elder God, but Raiden retorts that \"There are fates worse than death\" and decapitates him. Raiden resolves to deliver him to Liu Kang in the Netherrealm as a warning and before teleporting away. The Keeper of Time, Kronika, appears in the chamber, enraged at Raiden for upsetting the balance of time after the events of Mortal Kombat X. She confronts and tells Shinnok that the Arc of Time bends to her will and that \"it\u0027s only a matter of time.\" Tired of Earthrealm’s defiance, Kronika will bring order to the universe through any means necessary."
+  },
+  {
+    "id": 2982,
+    "genres": [
+      4
+    ],
+    "name": "Dynasty Warriors",
+    "storyline": "Based on the historical novel, \"Romance of the Three Kingdoms, \" Dynasty Warriors puts you right in the center of the upheaval of 3rd century China, when legendary warlords fought to expand and unite realms under their own banners. Enter a time of struggle, when warriors were as cunning as they were courageous. Master the dynamic game play. Wisely balance elaborate offensive strikes, with precisely timed defensive maneuvers and flurries of whirling counter attacks. Then, train to unleash the killer combination in martial mastery to become the Musou - the Warrior Unequaled!"
+  },
+  {
+    "id": 1246,
+    "genres": [
+      4
+    ],
+    "name": "Tekken 5",
+    "storyline": "After the conclusion of The King of Iron Fist Tournament 4, an intense battle between father and son, Kazuya and Jin, took place at Hon-Maru in the Mishima Zaibatsu headquarters. Jin emerged as the victor, and Heihachi turned his back on Kazuya and said. \n \n\"What a pathetic wretch... You worthless coward!\" \n \nThe battle between Heihachi and Jin began. Jin defeated Heihachi. Filled with anger, his black wings spread, Just as Heihachi thought he was doomed, Jin regained control of himself. \n \n\"Thank my mother, Jun Kazama.\" Jin said as he took flight. \n \nThe sounds of battle gave way to silence as Heihachi lay spread out on the ground. The silence was soon interrupted by approaching aircraft. The roar of the aircraft increased and the sound of something being ejected was heard. A group of Jack-4s crashed through the ceiling. At first, Heihachi suspected that Kazuya was responsible for the intrusion but realized that Kazuya was just as bewildered by the sudden attack. \n \n\"Why are you here?\" tells Heihachi as the wave of Jack 4s approaches. Heihachi and Kazuya team up and battle waves of Jack 4s but reinforcements appear as fast as the Jacks are destroyed. \n \nHeihachi starts to lose his breath. Kazuya then betrays Heihachi, throwing him into the middle of the army of Jacks, and uses the opportunity to escape from Honmaru. Shortly after, Honmaru is devastated by a huge explosion and Heihachi goes flying, landing in a graveyard \n \nOn an airplane close by, the battle is watched by a man dressed in black. He raises his hand to his ear and speaks into his radio. \n \n\"Heihachi Mishima is dead...\" \n \nAt that moment, a Jack attacks from behind but it cut in half instantly as the man disappears. \n \nHon-Maru is completely destroyed, a raging inferno in its place. A pile of debris was blown apart as something emerged from the earth, unseen. \n \nThe next day, news of Heihachi Mishima\u0027s death spread rapidly across the globe. Most people believed that Heihachi\u0027s death would bring about the end of the Mishima Zaibatsu, but behind the scenes someone else had taken control, and business went on as usual. \n \nA month later, it was announced that the Mishima Zaibatsu will hold The King of Iron Fist Tournament 5."
+  },
+  {
+    "id": 1247,
+    "genres": [
+      4
+    ],
+    "name": "Tekken 6",
+    "storyline": "Following Jin Kazama\u0027s victory against his great-grandfather, Jinpachi Mishima in the previous tournament, he has risen as the new head of Mishima Zaibatsu. Mirroring his father\u0027s previous leadership, Jin uses the company\u0027s resources to become a global superpower, severs the national\u0027s ties and openly declares war against all nations over the following year. This action plunges the world into an extremely chaotic spiral, with a huge-scale civil war erupting around the globe and even amidst the space colonies orbiting the planet. Meanwhile, his father, Kazuya Mishima has risen as the leader of Mishima Zaibatsu\u0027s rival company, G Corporation, following his assassinations of the company\u0027s high officials for his attempted murder beforehand. Kazuya views Jin\u0027s actions to be a nuisance in his own plans and becomes the only one who can directly oppose Jin\u0027s control. He places a bounty on Jin\u0027s head for anyone who can capture him. Jin then announces the sixth King of Iron Fist Tournament, sparking many people into entering the tournament to defeat him."
+  },
+  {
+    "id": 26635,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat: Tournament Edition",
+    "storyline": "Mortal Kombat: Tournament Edition has the same story as Mortal Kombat: Deadly Alliance, it adds three more characters to the plot."
+  },
+  {
+    "id": 1616,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat: Armageddon",
+    "storyline": "Throughout the Mortal Kombat universe, the warriors were growing too strong and numerous for the realms to handle. The warriors\u0027 powers threaten to utterly destroy the fabric of the MK universe. Utterly, every warrior that was either good, evil, or neutral fought each other in a single battle royal that would threaten to rip apart reality. Without warning, a pyramid rises from the ground, and the tip bursts into flames, attracting the warriors\u0027 curiosity to see what it was. Everybody fought each other to get to the top, while Blaze revealed himself to the combatants. The fire spawn was created by the Elder Gods to destroy as many fighters as possible in order to save the realms from Armageddon. This would be the warriors\u0027 last battle, their last chance to prove that they are worthy of surviving, while many others will perish. This will be the final battle for Mortal Kombat, the battle that will determine the fate of the realms..."
+  },
+  {
+    "id": 1617,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat vs. DC Universe",
+    "storyline": "After Shao Kahn\u0027s invasion of Earthrealm is halted by Raiden\u0027s forces of light, Raiden blasts and sends Kahn through a portal. At exactly the same time on Earth, Superman stops Darkseid\u0027s Apokoliptian invasion by blasting Darkseid with his heat vision as he enters a boom tube. These acts do not destroy either of them, but merge them into Dark Kahn, and causes the DC and Mortal Kombat universes to merge. As this happens, the characters\u0027 abilities fluctuate, causing violent \"rage\" outbreaks that are actually the feelings of Dark Kahn being infused in the characters from afar. With each world thinking that the other is responsible for the merger, they fight each other until only one fighter from each side remains."
+  },
+  {
+    "id": 1622,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat 4",
+    "storyline": "Thousands of years before the setting of the first game, Shinnok, one of the Elder Gods who control the six realms in the Mortal Kombat universe, attempted to become the conqueror of them all. Thunder god Raiden fought and defeated Shinnok in a war that spanned hundreds of years, sending him to the Netherrealm, where he would be trapped forever. Now, Shinnok has managed to escape from the Netherealm with help from the sorcerer Quan Chi, and seeks vengeance against the Elder Gods who banished him. In his plan, he first conquers the realm of Edenia, with the aid of a traitor, Tanya, while he prepares to attack the Elder Gods. In order to stop Shinnok\u0027s menace, Raiden requests help from the Earthrealm warriors who saved the realms from Emperor Shao Kahn in previous titles."
+  },
+  {
+    "id": 7292,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat X",
+    "storyline": "The plot is set about 20 years after the events of the previous game where the ending revealed that Shinnok used the void after Shao Kahn\u0027s death to attack Earthrealm with his army of Netherrealm forces. Several characters work together to steal Shinnok\u0027s amulet and imprison him inside, but eventually Mileena hatches a plan to release Shinnok by bringing the amulet to Quan Chi who escaped when Shinnok was imprisoned. The gap in years is mainly used to introduce the new characters to the cast, such as Cassie, the daughter of Johnny Cage and Sonya Blade (who married and divorced), Kotal Kahn as the new emperor of the Outworld, and Takeda, the son of Kenshi."
+  },
+  {
+    "id": 1619,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat II",
+    "storyline": "Following his defeat, Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and restores Tsung\u0027s youth. He extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The tournament is dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will unbalance the furies and allow Outworld to subsume Earthrealm."
+  },
+  {
+    "id": 1618,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat",
+    "storyline": "Seven martial artists from Earth must battle in sorcerer Shang Tsung\u0027s super secret tournament. For the past 9 of these tournaments, Shang Tsung\u0027s four-armed mutant bodyguard Goro has won all of them. Should he win the tenth, Earth will be left at the mercy of Shang Tsung\u0027s Outworld. Playable characters include Raiden, the Thunder God invited to fight in the tournament, in human (and thus killable) form; Liu Kang, a Shaolin monk determined to stop Shang Tsung; Johnny Cage, a Hollywood movie star who wants the publicity; Sonya Blade, a US Special Forces agent; Kano, a tyrant being pursued by Sonya Blade; Sub-Zero, a mercenary ninja with orders to assassinate Shang Tsung and Scorpion, a murdered ninja who has been brought back from the dead to try and kill Sub-Zero, the man who murdered him."
+  },
+  {
+    "id": 1620,
+    "genres": [
+      4
+    ],
+    "name": "Mortal Kombat 3",
+    "storyline": "Fed up with continuous losses in tournament battle, Shao Kahn who had lost to Liu Kang in the Outworld tournament, enacts a 10,000 year-old plan. He would have his Shadow Priests, led by Shang Tsung, revive his former Queen Sindel, who unexpectedly died at a young age. However, she wouldn\u0027t be revived in the Outworld. She would be resurrected in the Earth Realm. This would allow Shao Kahn to cross the boundary lines and reclaim his queen. When Sindel is reincarnated in Earth Realm, Shao Kahn reaches across the dimensions to reclaim her. As a consequence of his action, the Earth Realm becomes a part of the Outworld, killing billions instantly. Only a few are spared, as Rayden protects their souls. He tells them that Shao Kahn must be stopped, but he cannot interfere; due to his status, he has no power in Outworld, and Earth Realm is partially merged with Outworld. Shao Kahn has unleashed extermination squads to roam throughout the Earth Realm and kill any survivors."
+  },
+  {
+    "id": 1621,
+    "genres": [
+      4
+    ],
+    "name": "Ultimate Mortal Kombat 3",
+    "storyline": "Shao Khan seeks revenge. Legions of Khan are assigned to eliminate all Earthrealm souls. Queen Sindel is said to have been reborn within Earthrealm, where she awaits her evil king to reunite with her and ultimately take control of both realms."
+  }
+]

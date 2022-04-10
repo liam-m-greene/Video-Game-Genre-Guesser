@@ -1,0 +1,146 @@
+[
+  {
+    "id": 23249,
+    "genres": [
+      2
+    ],
+    "name": "Chemicus",
+    "storyline": "A man by the name of Richard accidentally discovers the portal into an unknown city called Chemicus. Richard chooses to enter the city, but when he enters he is captured by strange men wearing white hoods. After being captured he is locked up in a prison, where he is being held. Richard is accused of trespassing in Chemicus, and of attempting to steal \"transmission molecules\" in order to damage the city\u0027s energy source. The story is played through the eyes of one of Richard\u0027s friends, who enters Chemicus in a bid to help Richard escape captivity."
+  },
+  {
+    "id": 25323,
+    "genres": [
+      2
+    ],
+    "name": "THREAD",
+    "storyline": "In the game, you discover a storyline by using the programs discovered! Easily enough, these stories rely on you\u0027re search."
+  },
+  {
+    "id": 26757,
+    "genres": [
+      2
+    ],
+    "name": "Penga \u0026 Obcster\u0027s Christmish Adventure",
+    "storyline": "Get ready for an odd and unusual comedy graphical point and click adventure game in this upcoming title \"Penga \u0026 Obcster\u0027s Christmish Adventure\" \n \nJoin Penga the penguin and his retarded snowman named \"Obcster\" on their journey to find Santa Claus. Who Obcster believes to be his father. But during their search the discover that Santa has crashed his sleigh and has been kidnapped by the \"Ice Man\". Who has been recruiting \"The Misfits\" from all over to join him on his evil plot to take revenge and turn EVERYONE into disfigured Misfits! \n \nExplore an interesting spin on our favorite classical Christmas stop-motion tales in this Winter/Christmas-ish adventure!"
+  },
+  {
+    "id": 10058,
+    "genres": [
+      2
+    ],
+    "name": "Black Viper: Sophia\u0027s Fate",
+    "storyline": "Sophia is sent to investigate a suspicious death in a manor belonging to the powerful Octurni family. Cop by day, thief by night, Sofia, aka Black Viper is convinced that this is more than just a robbery gone wrong."
+  },
+  {
+    "id": 103203,
+    "genres": [
+      2
+    ],
+    "name": "The X-Files",
+    "storyline": "The game takes place somewhere within the timeline of the third season of The X-Files series. The story follows a young Seattle-based FBI agent named Craig Willmore (played by Jordan Lee Williams) who is assigned by Assistant Director Walter Skinner to investigate the disappearance of agents Fox Mulder and Dana Scully, who were last seen in the Everett, Washington area. Agent Willmore must use his state-of-the-art spy tools: night vision goggles, a digital camera, PDA (an Apple Newton), lock picks, evidence kit, a standard issue handgun, a pair of handcuffs, and a badge to follow their trail. Along the way, he is partnered with a Seattle Police Department detective named Mary Astadourian (played by Paige Witte) and a minor subplot involves a relationship developing between the two. \n \nSeveral of the actors from the TV series reprise their roles in the game, including David Duchovny (Mulder), Gillian Anderson (Scully), Mitch Pileggi (Skinner), Steven Williams (X), Bruce Harwood, Tom Braidwood and Dean Haglund (The Lone Gunmen) and—very briefly and depending upon the outcome of the game—William B. Davis (The Smoking Man). The game is set and was filmed in Seattle. The TV series actors filmed their relatively brief appearances in the game just before entering production on the feature film. The game\u0027s plotline involves aliens taking over the bodies of humans and contains many references to the show\u0027s extraterrestrial mythology. During the course of the game the \"present day\" date of April 1996 is displayed alongside certain locations, placing this \"episode\" after the season three episode \"Avatar\" and before \"Wetwired\" , which take place March 7 and April 27 respectively. This time is also after the first incident with the alien black oil in the episode \"Piper Maru\" of the third season. \n \nThe screenplay for X-Files The Game was written by Richard Dowdy, Greg Roach and Frank Spotnitz, from a story by Chris Carter and Frank Spotnitz."
+  },
+  {
+    "id": 26712,
+    "genres": [
+      2
+    ],
+    "name": "Surface: Alone in the Mist",
+    "storyline": "Your sixteenth birthday should have become one of the best days of your life. You wake up with a feeling of joy. Your parents were supposed to make a surprise, but they disappeared. Your friend tells you that there are no adults in town. Find out what happened in Surface: Alone in the Mist."
+  },
+  {
+    "id": 114940,
+    "genres": [
+      2
+    ],
+    "name": "The Walking Dead: Episode 1 - A New Day",
+    "storyline": "The world has suddenly turned into chaos with no explanation or reason. The dead walk the earth to send the living down to hell. One man, Lee Everett, struggles to survive and do what is right in this world gone mad. Can he make the best of his new life?"
+  },
+  {
+    "id": 119439,
+    "genres": [
+      2
+    ],
+    "name": "DosQ",
+    "storyline": "You\u0027re working on your company and-- OH NO, THE COMPANY HAS BEEN HACKED. \nUse your tools and lock all the sectors before it\u0027s too late."
+  },
+  {
+    "id": 54018,
+    "genres": [
+      2
+    ],
+    "name": "Family Vacation - California",
+    "storyline": "It’s up to you to help Barb and her family to get to their destination safe and happy. You’ll have to help them pack, get to the airport on time, board the plane, have a safe flight and get to their hotel at the other end. Once at their destination, you’ll hit the beach, take in a ballgame and go to Playland Theme Park, before helping Barb compete on her favorite game show for cash and prizes."
+  },
+  {
+    "id": 114408,
+    "genres": [
+      2
+    ],
+    "name": "Inherent Evil - The Haunted Hotel",
+    "storyline": "It¹s been 20 years since your parents were murdered at the Reed Hotel; only you and your brother escaped. Your brother returns to the hotel your parents owned, hoping to re-open it. Now he is suddenly missing. Are you next? You rush to the hotel to investigate, but mysterious sounds and gruesome events from that frightful night 20 years ago plague your efforts... and so do your dead parents! \n \nIt\u0027s up to you to make your way through the hotel, finding clues to unlock the dark secrets of Inherent Evil."
+  },
+  {
+    "id": 94927,
+    "genres": [
+      2
+    ],
+    "name": "The Three Stooges: Digitally Remastered Edition",
+    "storyline": "You play the three dudes Moe, Curly and Larry who want to save an old woman\u0027s orphanage from the evil banker who wants to take it away. They need to get $5000 in the next 30 days or the orphanage is gone. To achieve that aim, they can do diverse activities - like prizefighting, participating in a radio quiz, serving pies or eating oysters."
+  },
+  {
+    "id": 77781,
+    "genres": [
+      2
+    ],
+    "name": "Dead Man Inc",
+    "storyline": "First you get the money. Then you get the power. Then you get the respect. Join Dead Man Inc today, and the world is yours!"
+  },
+  {
+    "id": 19312,
+    "genres": [
+      2
+    ],
+    "name": "Psych: The Game",
+    "storyline": "Based on the Hit USA TV show, Shawn Spencer is a private detective who has an almost supernatural gift for crime-solving – so much so that the local police department hires him as their Psychic Advisor! Shawn quickly finds that his gifts, although formidable, don\u0027t exactly keep him out of trouble. Help Shawn and his best friend Gus find clues, solve puzzles, and unravel mysteries in this humorous Hidden Object adventure game!"
+  },
+  {
+    "id": 121823,
+    "genres": [
+      2
+    ],
+    "name": "ACTING LESSONS",
+    "storyline": "The game centers around you, a heartbroken man with a background in cryptocurrency trading, telling the story of how you met a girl named Megan during a life changing day. Megan is a young aspiring actress down on her luck and in desperate need for help. Will you be there for her when she needs it the most and help her turn the tide? Will you be able to win her heart? \n \nActing Lessons is a drama filled adult Visual Novel (VN) with many different endings. \nThe choices you make in this game, even early on, will permeate throughout the game and affect the people around you and your adventure. \nThe game is centered around the relationship between Jonas (or your name of choosing for the main character) and Megan, but there are multiple women in the cast that you can pursuit. \n \nWill you be there for Megan and stay faithful to her or will you fall in love with her childhood friend Melissa? \nPerhaps you find someone else more intriguing, for instance, the nurturing nurse Leah or the blue haired actress Rena? \nWill you value the friendship with your best friend Liam and be there when he truly needs you? \nThese choices, and a lot more, are all yours to make. \n \nExpect a 5 - 8 hour long humor filled and emotion packed Adult Visual Novel that many players only could find the strength to play once."
+  },
+  {
+    "id": 27027,
+    "genres": [
+      2
+    ],
+    "name": "Dark Parables: The Exiled Prince",
+    "storyline": "Many centuries ago, a princess kissed a frog and transformed him into a handsome prince. Unlike the fable, they never ended happily ever after. It is rumored that the Frog Prince is still alive and now roams the deserted path in the Black Forest, capturing unsuspecting visitors. When the chancellor’s daughter goes missing, you are sent to investigate her disappearance."
+  },
+  {
+    "id": 76620,
+    "genres": [
+      2
+    ],
+    "name": "Adj",
+    "storyline": "* Requires at least 2 players to play, and both should have smartphones--or any device with a browser--that have internet \n* You can set-up a mobile hotspot with your own phone if your playmates do not have internet \nWhile in the lobby, create a Player by entering a name, then click \u0027New Game\u0027, and enter a password. Then, share that password to your playmates. They themselves also need to create a Player, and then they would click the newly created game that will pop-up on the \u0027Lobby\u0027 page, and enter the password to join the game. \n* Choose your Team in the Team Selection screen, and click \u0027Ready\u0027. If everyone has clicked \u0027Ready\u0027 already, the game will then start immediately afterwards. \n* On the \"Cards Selection\" screen, a deck of 24 random cards will be available to play, 4 of which will be drawn at the start. Turn order will be automatically assigned to each of you. You\u0027ll know if it\u0027s your turn already if you see the \"Your turn\" message at the very top, just right above the cards. If you do not see it, then it is currently someone else\u0027s turn. \nIf it\u0027s your turn, talk with your teammates, and decide wisely which of the four back-facing cards you are going to choose and have them guess. Upon clicking (selecting) a card, it will flip and reveal itself only on your screen, and won\u0027t show up to the other players. The timer countdown would then immediately start to tick. \n  - The \"Bomb\" icon means that the time-limit is 15 seconds, half of the normal 30 seconds. \n  - The \"Question\" icon means that the card can be ANY category. This card therefore is a lot harder to guess, but is why it has +2 extra stars count than its normal supposed value \n  - The \"Stars\" represent the \u0027unpopularity\u0027 of the card (as evaluated by Google Trends: 0-33 \u003d 3 stars; 34-66 \u003d 2 stars; 67-100 \u003d 1 star). Each star gives +1 point to your score. Therefore, if you managed to guess a 3-star card, then your team will get +3 points. \n* As the timer ticks, you should describe the card through adjectives, AND, and OR only. You need to be fast! reactive! and... imaginative! :) No nouns and verbs allowed! Example... \"Animal: small AND black OR white AND furry\". Guess what? a cat! :D \n* Your teammates can try to guess as much as they want within the time limit. If they didn\u0027t succeed, then the other teams each have just one chance to guess the card. Should everyone guessed incorrectly, then no points shall be given. \n* After all cards have been used up, the highest scoring team will be the winner! That\u0027s just about it! :) Enjoy!"
+  },
+  {
+    "id": 54146,
+    "genres": [
+      2
+    ],
+    "name": "Journey of Hope",
+    "storyline": "Jade Pearce has grown up in the shadow of her father, a world famous archeologist. When he turns up missing, though, it\u0027s up to her to find him before it\u0027s too late. Since Jade\u0027s beauty and intelligence will only get her so far, she needs your help finding and deciphering the trail of clues her father left in his desperate wake. Explore exotic locations, find hidden objects and solve clever puzzles in Journey of Hope, a breathtaking adventure to the unknown!"
+  },
+  {
+    "id": 125141,
+    "genres": [
+      2
+    ],
+    "name": "The Path of the Pumpkin",
+    "storyline": "Skar the Pumpkin and his assistant Mr.FeeFee, are two well-know detectives of Treshopolis. \nOne day, their dreary routine is shattered by an out-of-the-ordinary mission, that will take them on a hunt for a girl who as be kidnapped and forced to marry against her will. \nThe two \"detectives\" have to do their utmost, in order to bring the case to a conclusion, but... this is only the beginning of something much bigger and much more involved!"
+  }
+]

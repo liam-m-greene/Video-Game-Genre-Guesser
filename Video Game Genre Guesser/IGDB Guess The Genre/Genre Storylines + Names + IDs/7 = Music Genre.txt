@@ -1,0 +1,98 @@
+[
+  {
+    "id": 27148,
+    "genres": [
+      7
+    ],
+    "name": "Demon\u0027s Score",
+    "storyline": "Serenity is just an average college girl, but when she suddenly loses contact with her father Dr. Aleister, she sets out to find him at the Salem State Hospital \u0026 Asylum where he works. Serenity arrives to find she barely recognizes the hospital any more. Stepping warily into the shattered ruins, she meets a talking teddy bear. Introducing himself as David, the talking teddy bear claims to have once been human, but when Serenity asks him about her father’s whereabouts, countless demons suddenly appear. Just before her father disappeared, he had sent a mysterious app to her smartphone. Known as the Demons\u0027 Score, the app is a powerful program that enables her to take control of demons that possess her body."
+  },
+  {
+    "id": 110052,
+    "genres": [
+      7
+    ],
+    "name": "Let\u0027s Sing 2019",
+    "storyline": "Whether you’re training your voice solo or celebrating the next karaoke party with friends and family – it will be a success with Let’s Sing 2019’s exciting new game modes and great features. \nGrab the microphone and choose your song, no matter if you prefer to rock the stage solo or with friends. If you don’t have a USB microphone at hand, just transform your phone into a microphone with the Let’s Sing Microphone- App and your performance begins straight away… the stage is all yours!"
+  },
+  {
+    "id": 54218,
+    "genres": [
+      7
+    ],
+    "name": "Persona 5: Dancing in Starlight",
+    "storyline": "Memorable Soundtrack - Return to the world of Persona 5 and relive cherished memories with the games’ most memorable songs by Shoji Meguro, composed by Ryota Kozuka, as well as all-new remixes by KAIEN, mito (Clammbon), ☆Taku Takahashi (m-flo / block.fm), Jazztronik and tofubeats! Unlock a total of 25 fan-favorite tracks! \n \nDancing! - Choose from several difficulty levels and dance alongside the members of The Phantom Thieves in a customizable rhythm game experience. Characters can tear up the dance floor with a partner by performing well during a song and entering “Fever” mode; try out some of your favorite character combinations! \n \nEnglish and Japanese Voiceovers - Choose to listen to your favorite characters’ voices in either English or Japanese with dual audio options! \n \nSocial - In “Social,” players can connect with their favorite characters and deepen their social bonds through conversations and mini-events. Fulfill character-specific conditions to unlock special events and unlock new items. \nCollect Costumes - Collect and equip a variety of costumes and accessories to create an even flashier dance experience."
+  },
+  {
+    "id": 96091,
+    "genres": [
+      7
+    ],
+    "name": "Namie Amuro: Digital Dance Mix Vol. 1",
+    "storyline": "A Sega Saturn Tech Demo / Rhythm game developed by Sega\u0027s AM2 Research Division. The game uses Japanese Queen Of Pop Namie Amuro as the subject to demonstrate features of the Sega Saturn\u0027s game engine such as live rendering, lighting effects and texture mapping."
+  },
+  {
+    "id": 37067,
+    "genres": [
+      7
+    ],
+    "name": "Just Dance 2018",
+    "storyline": "Whether you’re a party starter, a dancer in the making, or a seasoned pro, get ready to turn up the volume and unleash your inner dancer with Just Dance 2018! \n \nDance to 40 of the hottest tracks, including “24K Magic,” by Bruno Mars, “Side to Side,” by Ariana Grande Ft. Nicki Minaj, \"Despacito\" by Luis Fonsi \u0026 Daddy Yankee, \"Swish Swish\" by Katy Perry Ft. Nicki Minaj, “Naughty Girl” by Beyoncé, and many more!"
+  },
+  {
+    "id": 18725,
+    "genres": [
+      7
+    ],
+    "name": "MTV Music Generator 2",
+    "storyline": "Prepare for sound. Prepare for music. Prepare to generate. Whether you\u0027re a superstar DJ or just starting out, MTV Music Generator™2 is all you need to create killer tunes in minutes. From the makers of MTV Music Generator™, it\u0027s music creation of PlayStation®2. It\u0027s easy. It\u0027s awesome."
+  },
+  {
+    "id": 74966,
+    "genres": [
+      7
+    ],
+    "name": "Radio Hammer Station",
+    "storyline": "A popular radio station spreading its love of groove with some of the best DJs in the world. Providing tunes to groove to throughout the day. Its true purpose is to serve as the radio station of justice, beating evil down with a ginormous hammer! To ensure peace and harmony, Radiohammer continues to go live with style! \nRead more at https://gematsu.com/2017/10/arc-system-works-fk-digital-announce-rhythm-fighting-game-radio-hammer-station-ps4-ps-vita#vCqduCxQv40pQcTG.99"
+  },
+  {
+    "id": 9676,
+    "genres": [
+      7
+    ],
+    "name": "Vib-Ribbon",
+    "storyline": "The player controls Vibri, a vector drawn rabbit who skips along the music track\u0027s timeline. If obstacles are hit, Vibri will degenerate into a frog, then a worm before the player fails a level. Each time the player hits an obstacle, the level begins to shake incrementally until the character degenerates, making the course harder to navigate. Avoiding obstacles with precision will cause Vibri to evolve into an angel like state, which increases the player\u0027s score."
+  },
+  {
+    "id": 9610,
+    "genres": [
+      7
+    ],
+    "name": "Taiko no Tatsujin DS: TOUCH de Dokodon!",
+    "storyline": "This game has no story portions in it, therefore does not have a storyline."
+  },
+  {
+    "id": 18979,
+    "genres": [
+      7
+    ],
+    "name": "Imaginstruments",
+    "storyline": "Become an Imaginstruments™ virtuoso and start making music with your PS Vita. Mix drums, melodies and bass sounds, add effects and change the key and tempo of your tracks, all in real-time and on-the-go.\n\nWith six virtual instrument tracks to choose from, you can bring each sound into the mix and start creating some unique grooves. Once you’ve got your track locked down, switch to the bass channel and combine four bass sounds to give your tune some funk, then twist your basslines up with a selection of effects and filters."
+  },
+  {
+    "id": 18720,
+    "genres": [
+      7
+    ],
+    "name": "DJ - Decks And FX",
+    "storyline": "DJ - Decks \u0026 FX is a Miscellaneous game, developed by Relentless Software and published by SCEE, which was released in Europe in 2004."
+  },
+  {
+    "id": 11338,
+    "genres": [
+      7
+    ],
+    "name": "Gitaroo Man",
+    "storyline": "The player character is U-1, a young boy who is frequently ridiculed by classmates and passed over by Little Pico, the girl of his dreams. The story proper begins when Puma, a dog with the ability to speak, teaches U-1 to play the guitar, simultaneously teaching the controls of the game to the player, and subsequently revealing to him that he is the last legendary hero of Planet Gitaroo, and the possessor of the Last Gitaroo. When they are then attacked, Puma transforms into Puma AC-30 and gives U-1 the Gitaroo, transforming him into Gitaroo Man."
+  }
+]
